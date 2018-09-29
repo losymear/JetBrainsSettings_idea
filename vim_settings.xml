@@ -3,15 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1538209633522">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/resources/application.properties" timestamp="1538198153680">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/java/com/zhiri/qu_voice_java/Controller/TestController.java" timestamp="1538206257591">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/java/com/zhiri/qu_voice_java/Controller/TestController.java" timestamp="1538209418305">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="28" column="67" />
+        <mark key="[" line="28" column="28" />
         <mark key="]" line="28" column="67" />
         <mark key="." line="28" column="67" />
         <mark key="^" line="28" column="67" />
@@ -23,12 +26,12 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/java/com/zhiri/qu_voice_java/Service/VoiceService.java" timestamp="1538207440802">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/java/com/zhiri/qu_voice_java/Service/VoiceService.java" timestamp="1538208346827">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="67" column="62" />
+        <mark key="]" line="84" column="21" />
+        <mark key="." line="84" column="21" />
+        <mark key="^" line="84" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/java/com/zhiri/qu_voice_java/Controller/package-info.java" timestamp="1538197762713">
         <mark key="[" line="0" column="43" />
@@ -80,11 +83,16 @@
       <file name="$USER_HOME$/etc/losFiles/projects/Java/log4jdemo/src/main/resources/log4j2.xml" timestamp="1538198122901">
         <mark key="[" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/java/com/zhiri/qu_voice_java/QuVoiceJavaApplication.java" timestamp="1538207512252">
-        <mark key="[" line="9" column="44" />
-        <mark key="^" line="9" column="24" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/java/com/zhiri/qu_voice_java/QuVoiceJavaApplication.java" timestamp="1538209925313">
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="44" />
+        <mark key="." line="10" column="44" />
+        <mark key="^" line="10" column="44" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/xfsdk/sample/MscDemo/src/com/iflytek/view/MainView.java" timestamp="1538207876106" />
+      <file name="/fragment.java" timestamp="1538209633507">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/README.md" timestamp="1538196993554">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="4" />
@@ -116,37 +124,37 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTcGVlY2hVdGlsaXR5LmNyZWF0ZVV0aWxpdHkoImZkZmFkc2FzZHMiKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiZ2V0IHt9Iiwgc3RyaW5nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgaW5pdENvbnRhaW5lcigpIHsKICAgICAgICBTcGVlY2hVdGlsaXR5LmNyZWF0ZVV0aWxpdHkoImZkZmFkc2FzZHMiKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ubG9hZExpYnJhcnkoIi9haS9saWIvIik7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgaW5pdENvbnRhaW5lcigpIHsKICAgICAgICBTcGVlY2hVdGlsaXR5LmNyZWF0ZVV0aWxpdHkoImZkZmFkc2FzZHMiKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ubG9hZExpYnJhcnkoIi9haS9saWIvIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3BlZWNoVXRpbGl0eS5jcmVhdGVVdGlsaXR5KCJmZGZhZHNhc2RzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9wcm9ncmVzc+S4uuWQiOaIkOi/m+W6pjB+MTAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNwZWVjaFV0aWxpdHkuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU3BlZWNoVXRpbGl0eS5jcmVhdGVVdGlsaXR5KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxvZ2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgb25FdmVudChpbnQgdmFyMSwgaW50IHZhcjIsIGludCB2YXIzLCBpbnQgdmFyNCwgT2JqZWN0IHZhcjUsIE9iamVjdCB2YXI2KSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pZmx5dGVrLm1zYy5NU0M7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4uc2xmNGouU2xmNGo7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pZmx5dGVrLmNsb3VkLnNwZWVjaC5TcGVlY2hVdGlsaXR5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJwYXRoIHt9IiwgdXJpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAvL+S8muivneWQiOaIkOWujOaIkOWbnuiwg+aOpeWPowogICAgICAgICAgICAvL3VyaeS4uuWQiOaIkOS/neWtmOWcsOWdgO+8jGVycm9y5Li66ZSZ6K+v5L+h5oGv77yM5Li6bnVsbOaXtuihqOekuuWQiOaIkOS8muivneaIkOWKnwogICAgICAgICAgICBwdWJsaWMgdm9pZCBvblN5bnRoZXNpemVDb21wbGV0ZWQoU3RyaW5nIHVyaSwgU3BlZWNoRXJyb3IgZXJyb3IpIHsKLy8gICAgICAgICAgICAgICAgaWYoZXJyb3IgKQogICAgICAgICAgICAgICAgbG9nLmVycm9yKCJlcnJvciB7fSIsIGVycm9yKTsK</text>
       </register>
       <register name="/" type="4">
         <text>create</text>

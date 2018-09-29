@@ -10,7 +10,7 @@
         <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/Java/miniProgram/src/main/java/com/mrboxfood/lightwork/Controller/LightworkBasicTestController.java" timestamp="1538198024890" />
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/java/com/zhiri/qu_voice_java/Controller/TestController.java" timestamp="1538199705756">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/java/com/zhiri/qu_voice_java/Controller/TestController.java" timestamp="1538201807214">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="15" column="3" />
         <mark key="]" line="13" column="19" />
@@ -23,6 +23,12 @@
         <mark key="]" line="13" column="27" />
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/java/com/zhiri/qu_voice_java/Service/VoiceService.java" timestamp="1538203304288">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="12" column="7" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/java/com/zhiri/qu_voice_java/Controller/package-info.java" timestamp="1538197762713">
         <mark key="[" line="0" column="43" />
@@ -40,12 +46,12 @@
       <file name="$USER_HOME$/etc/losFiles/projects/Java/miniProgram/pom.xml" timestamp="1538197883500">
         <mark key="'" line="37" column="36" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/pom.xml" timestamp="1538200386799">
-        <mark key="'" line="29" column="31" />
-        <mark key="[" line="29" column="60" />
-        <mark key="]" line="52" column="2" />
-        <mark key="^" line="52" column="2" />
-        <mark key="." line="52" column="2" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/pom.xml" timestamp="1538203267365">
+        <mark key="'" line="16" column="39" />
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="20" />
+        <mark key="." line="32" column="20" />
+        <mark key="^" line="32" column="20" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/CHANGELOG.md" timestamp="1538196945933">
         <mark key="'" line="5" column="0" />
@@ -93,46 +99,47 @@
       <jump line="21" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/resources/log4j2.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/resources/log4j2.xml" />
       <jump line="19" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/java/com/zhiri/qu_voice_java/Controller/TestController.java" />
+      <jump line="16" column="39" filename="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/pom.xml" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuY29uZmlnLmFubm90YXRpb24uQ29yc1JlZ2lzdHJ5Owo=</text>
+        <text encoding="base64">ICAgIOeugOS5puiRl+S9nOadg+W9kuS9nOiAheaJgOacie+8jOS7u+S9leW9ouW8j+eahOi9rOi9vemDveivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg+W5tuazqOaYjuWHuuWkhOOAggo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuY29uZmlnLmFubm90YXRpb24uQ29yc1JlZ2lzdHJ5Owo=</text>
+        <text encoding="base64">ICAgIOeugOS5puiRl+S9nOadg+W9kuS9nOiAheaJgOacie+8jOS7u+S9leW9ouW8j+eahOi9rOi9vemDveivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg+W5tuazqOaYjuWHuuWkhOOAggo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIOS9nOiAhe+8muaAneS4juWtpgogICAg6ZO+5o6l77yaaHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC9lYjkxMmVkY2VlY2QKICAgIOS+hua6kO+8mueugOS5pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAg5L2c6ICF77ya5oCd5LiO5a2mCiAgICAgICAgICAgIOmTvuaOpe+8mmh0dHBzOi8vd3d3LmppYW5zaHUuY29tL3AvZWI5MTJlZGNlZWNkCiAgICAgICAgICAgIOS+hua6kO+8mueugOS5pgogICAgICAgICAgICDnroDkuabokZfkvZzmnYPlvZLkvZzogIXmiYDmnInvvIzku7vkvZXlvaLlvI/nmoTovazovb3pg73or7fogZTns7vkvZzogIXojrflvpfmjojmnYPlubbms6jmmI7lh7rlpITjgIIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgYWRkQ29yc01hcHBpbmdzKENvcnNSZWdpc3RyeSByZWdpc3RyeSkgewogICAgICAgIHJlZ2lzdHJ5LmFkZE1hcHBpbmcoIi8qKiIpCiAgICAgICAgICAgICAgICAuYWxsb3dlZE9yaWdpbnMoIjEyNS4xMjAuMjguMjEzIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGFyZ2V0PjEuODwvdGFyZ2V0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbGxvd2VkTWV0aG9kcygiR0VUIiwgIk9QVElPTlMiLCAiUE9TVCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c291cmNlPjEuODwvc291cmNlPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbGxvd0NyZWRlbnRpYWxzKHRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb25mCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImh0dHBzOi8vc2VydmljZXdlY2hhdC5jb20iLCAiaHR0cDovL3NlcnZpY2V3ZWNoYXQuY29tIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImh0dHA6Ly9sb2NhbGhvc3Q6MTAwODYiLAo=</text>
+        <text encoding="base64">ICAgIOeugOS5puiRl+S9nOadg+W9kuS9nOiAheaJgOacie+8jOS7u+S9leW9ouW8j+eahOi9rOi9vemDveivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg+W5tuazqOaYjuWHuuWkhOOAggo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gbmdpbngg6YWN572u5pys5ZywMTAwODbnq6/lj6PkuLrliY3nq6/mtYvor5XpobXpnaIK</text>
+        <text encoding="base64">ICAgIOS9nOiAhe+8muaAneS4juWtpgogICAg6ZO+5o6l77yaaHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC9lYjkxMmVkY2VlY2QKICAgIOS+hua6kO+8mueugOS5pgo=</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>resource</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>resource</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>resource</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -141,6 +148,7 @@
         <entry>boot</entry>
         <entry>starter</entry>
         <entry>log</entry>
+        <entry>resource</entry>
       </history-search>
       <history-cmd />
       <history-expr />

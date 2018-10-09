@@ -12,10 +12,11 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/java_novice/src/test/java/JavaStandardModuleLearning/JavaFutureTest.java" timestamp="1539067305392">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/playground/java_novice/src/test/java/JavaStandardModuleLearning/JavaFutureTest.java" timestamp="1539079036454">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="8" column="6" />
+        <mark key="." line="8" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/java/com/zhiri/qu_voice_java/Controller/TestController.java" timestamp="1538275382576">
         <mark key="'" line="25" column="0" />
@@ -101,8 +102,8 @@
         <mark key="." line="11" column="44" />
         <mark key="^" line="11" column="44" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/java_novice/pom.xml" timestamp="1539067517847">
-        <mark key="[" line="14" column="24" />
+      <file name="$USER_HOME$/etc/losFiles/projects/playground/java_novice/pom.xml" timestamp="1539078888145">
+        <mark key="[" line="19" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
@@ -115,12 +116,12 @@
         <mark key="^" line="6" column="4" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/java_novice/src/main/java/JavaStandardModuleLearning/JavaFuture.java" timestamp="1539070543050">
+      <file name="$USER_HOME$/etc/losFiles/projects/playground/java_novice/src/main/java/JavaStandardModuleLearning/JavaFuture.java" timestamp="1539079209703">
         <mark key="'" line="7" column="3" />
-        <mark key="[" line="0" column="35" />
-        <mark key="]" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-        <mark key="^" line="13" column="3" />
+        <mark key="[" line="21" column="60" />
+        <mark key="]" line="21" column="61" />
+        <mark key="." line="21" column="61" />
+        <mark key="^" line="21" column="61" />
       </file>
     </filemarks>
     <jumps>
@@ -166,7 +167,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QFNjaAo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuanVwaXRlci5hcGkuQXNzZXJ0aW9ucy4qOwo=</text>
       </register>
       <register name="-" type="4">
         <text>war</text>
@@ -178,31 +179,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4wPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFNjaAo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuanVwaXRlci5hcGkuQXNzZXJ0aW9ucy4qOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydGllcz4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L3Byb3BlcnRpZXM+Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzIEJlZXBlckNvbnRyb2wgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheURlcXVlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qCg==</text>
+        <text encoding="base64">IGltcG9ydCBzdGF0aWMgamF2YS51dGlsLmNvbmN1cnJlbnQuVGltZVVuaXQuKjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ubG9hZExpYnJhcnkoIi9haS9saWIvIik7Cg==</text>
+        <text encoding="base64">QFNjaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9wcm9ncmVzc+S4uuWQiOaIkOi/m+W6pjB+MTAwCg==</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydGllcz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3Byb3BlcnRpZXM+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
@@ -234,6 +235,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>

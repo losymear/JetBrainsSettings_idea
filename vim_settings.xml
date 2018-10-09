@@ -12,11 +12,11 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/java_novice/src/test/java/JavaStandardModuleLearning/JavaFutureTest.java" timestamp="1539080433916">
-        <mark key="[" line="12" column="41" />
-        <mark key="]" line="11" column="27" />
-        <mark key="^" line="11" column="27" />
-        <mark key="." line="11" column="27" />
+      <file name="$USER_HOME$/etc/losFiles/projects/playground/java_novice/src/test/java/JavaStandardModuleLearning/JavaFutureTest.java" timestamp="1539090985605">
+        <mark key="[" line="14" column="47" />
+        <mark key="]" line="14" column="70" />
+        <mark key="^" line="14" column="70" />
+        <mark key="." line="14" column="70" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/java/com/zhiri/qu_voice_java/Controller/TestController.java" timestamp="1538275382576">
         <mark key="'" line="25" column="0" />
@@ -116,11 +116,11 @@
         <mark key="^" line="6" column="4" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/java_novice/src/main/java/JavaStandardModuleLearning/JavaFuture.java" timestamp="1539084678962">
-        <mark key="'" line="7" column="3" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/playground/java_novice/src/main/java/JavaStandardModuleLearning/JavaFuture.java" timestamp="1539091077626">
+        <mark key="'" line="32" column="41" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="42" />
+        <mark key="." line="37" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -163,59 +163,65 @@
       <jump line="99" column="24" filename="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/pom.xml" />
       <jump line="5" column="3" filename="$USER_HOME$/etc/losFiles/projects/playground/java_novice/src/main/java/JavaStandardModuleLearning/JavaFuture.java" />
+      <jump line="41" column="29" filename="$USER_HOME$/etc/losFiles/projects/playground/java_novice/src/main/java/JavaStandardModuleLearning/JavaFuture.java" />
+      <jump line="1" column="17" filename="$USER_HOME$/etc/losFiles/projects/playground/java_novice/src/main/java/JavaStandardModuleLearning/JavaFuture.java" />
+      <jump line="48" column="39" filename="$USER_HOME$/etc/losFiles/projects/playground/java_novice/src/main/java/JavaStandardModuleLearning/JavaFuture.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/etc/losFiles/projects/playground/java_novice/src/main/java/JavaStandardModuleLearning/JavaFuture.java" />
+      <jump line="37" column="17" filename="$USER_HOME$/etc/losFiles/projects/playground/java_novice/src/main/java/JavaStandardModuleLearning/JavaFuture.java" />
+      <jump line="59" column="40" filename="$USER_HOME$/etc/losFiles/projects/playground/java_novice/src/main/java/JavaStandardModuleLearning/JavaFuture.java" />
+      <jump line="58" column="26" filename="$USER_HOME$/etc/losFiles/projects/playground/java_novice/src/main/java/JavaStandardModuleLearning/JavaFuture.java" />
+      <jump line="32" column="41" filename="$USER_HOME$/etc/losFiles/projects/playground/java_novice/src/main/java/JavaStandardModuleLearning/JavaFuture.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIFNjaGVkdWxlZEV4ZWN1dG9yU2VydmljZSBzY2hlZHVsZXIgPQogICAgICAgICAgICAgICAgRXhlY3V0b3JzLm5ld1NjaGVkdWxlZFRocmVhZFBvb2woMSk7CgogICAgICAgIHB1YmxpYyB2b2lkIGJlZXBGb3JBbkhvdXIoKSB7CiAgICAgICAgICAgIGZpbmFsIFJ1bm5hYmxlIGJlZXBlciA9IG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsgU3lzdGVtLm91dC5wcmludGxuKCJiZWVwIik7IH0KICAgICAgICAgICAgfTsKICAgICAgICAgICAgZmluYWwgU2NoZWR1bGVkRnV0dXJlPD8+IGJlZXBlckhhbmRsZSA9CiAgICAgICAgICAgICAgICAgICAgc2NoZWR1bGVyLnNjaGVkdWxlQXRGaXhlZFJhdGUoYmVlcGVyLCAxLCAxLCBTRUNPTkRTKTsKICAgICAgICAgICAgc2NoZWR1bGVyLnNjaGVkdWxlKG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsgYmVlcGVySGFuZGxlLmNhbmNlbCh0cnVlKTsgfQogICAgICAgICAgICB9LCA2MCo2MCwgU0VDT05EUyk7CiAgICAgICAgIH0KCn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG15Um93KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>war</text>
+        <text>.beepForAnHour();</text>
       </register>
       <register name="/" type="4">
-        <text>jui</text>
+        <text>await</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4wPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIFNjaGVkdWxlZEV4ZWN1dG9yU2VydmljZSBzY2hlZHVsZXIgPQogICAgICAgICAgICAgICAgRXhlY3V0b3JzLm5ld1NjaGVkdWxlZFRocmVhZFBvb2woMSk7CgogICAgICAgIHB1YmxpYyB2b2lkIGJlZXBGb3JBbkhvdXIoKSB7CiAgICAgICAgICAgIGZpbmFsIFJ1bm5hYmxlIGJlZXBlciA9IG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsgU3lzdGVtLm91dC5wcmludGxuKCJiZWVwIik7IH0KICAgICAgICAgICAgfTsKICAgICAgICAgICAgZmluYWwgU2NoZWR1bGVkRnV0dXJlPD8+IGJlZXBlckhhbmRsZSA9CiAgICAgICAgICAgICAgICAgICAgc2NoZWR1bGVyLnNjaGVkdWxlQXRGaXhlZFJhdGUoYmVlcGVyLCAxLCAxLCBTRUNPTkRTKTsKICAgICAgICAgICAgc2NoZWR1bGVyLnNjaGVkdWxlKG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsgYmVlcGVySGFuZGxlLmNhbmNlbCh0cnVlKTsgfQogICAgICAgICAgICB9LCA2MCo2MCwgU0VDT05EUyk7CiAgICAgICAgIH0KCn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG15Um93KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuanVwaXRlci5hcGkuQXNzZXJ0aW9ucy4qOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obXlSb3cpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIEJlZXBlckNvbnRyb2wgewo=</text>
+        <text encoding="base64">ICAgICAgICBtYXRyaXhbMF09IG5ldyBmbG9hdFtdezF9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheURlcXVlOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IGltcG9ydCBzdGF0aWMgamF2YS51dGlsLmNvbmN1cnJlbnQuVGltZVVuaXQuKjsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFNjaAo=</text>
+        <text encoding="base64">ICAgIGNsYXNzIFNvbHZlciB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydGllcz4K</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU29sdmVyKGZsb2F0W11bXSBtYXRyaXgpIHRocm93cyBFeGNlcHRpb257Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L3Byb3BlcnRpZXM+Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzIFNvbHZlciB7Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>jui</last-search>
+      <last-search>await</last-search>
       <last-offset />
-      <last-pattern>jui</last-pattern>
+      <last-pattern>await</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>boot</entry>
-        <entry>starter</entry>
         <entry>log</entry>
         <entry>resource</entry>
         <entry>create</entry>
@@ -229,6 +235,13 @@
         <entry>war</entry>
         <entry>ju</entry>
         <entry>jui</entry>
+        <entry>array</entry>
+        <entry>Array</entry>
+        <entry>matri</entry>
+        <entry>Sol</entry>
+        <entry>done</entry>
+        <entry>while</entry>
+        <entry>await</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -237,6 +250,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

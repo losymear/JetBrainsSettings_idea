@@ -36,8 +36,8 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/pom.xml" timestamp="1538224849543">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/pom.xml" timestamp="1539335821338">
+        <mark key="'" line="32" column="55" />
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="17" />
         <mark key="." line="8" column="17" />
@@ -227,6 +227,8 @@
       <jump line="32" column="15" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/pom.xml" />
       <jump line="15" column="6" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/pom.xml" />
       <jump line="18" column="16" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/pom.xml" />
+      <jump line="11" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/pom.xml" />
+      <jump line="32" column="55" filename="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -236,7 +238,7 @@
         <text encoding="base64">PC9idWlsZD4=</text>
       </register>
       <register name="/" type="4">
-        <text>plug</text>
+        <text>jar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtqdW5pdC5qdXBpdGVyLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
@@ -270,15 +272,14 @@
       </register>
     </registers>
     <search>
-      <last-search>plug</last-search>
+      <last-search>jar</last-search>
       <last-offset />
-      <last-pattern>plug</last-pattern>
+      <last-pattern>jar</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Msc</entry>
         <entry>dir</entry>
         <entry>systempath</entry>
         <entry>systemPa</entry>
@@ -298,6 +299,7 @@
         <entry>misc</entry>
         <entry>plugin</entry>
         <entry>plug</entry>
+        <entry>jar</entry>
       </history-search>
       <history-cmd />
       <history-expr />

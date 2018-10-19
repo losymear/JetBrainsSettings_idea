@@ -54,6 +54,12 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/OrderedTests.java" timestamp="1539936600559">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+        <mark key="^" line="13" column="37" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/main/java/Tmp.java" timestamp="1539932516249">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="8" column="0" />
@@ -98,6 +104,12 @@
         <mark key="]" line="127" column="29" />
         <mark key="." line="127" column="29" />
         <mark key="^" line="127" column="29" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/ExpectedExceptionTests.java" timestamp="1539937062818">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="4" column="36" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/Java/miniProgram/pom.xml" timestamp="1539235413828">
         <mark key="'" line="126" column="34" />
@@ -317,46 +329,47 @@
       <jump line="100" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/AddressTest.java" />
       <jump line="101" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/AssertTests.java" />
       <jump line="106" column="1" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/main/java/JunitDemo/Assertions.java" />
+      <jump line="28" column="4" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/ExpectedExceptionTests.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>jar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtqdW5pdC5qdXBpdGVyLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKLy8gICAgICAgIEpVbml0Q29yZS5ydW5DbGFzc2VzKEp1bml0RGVtby5Bc3NlcnRUZXN0cy5jbGFzcyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG9yZy5qdW5pdC5ydW5uZXIuSlVuaXRDb3JlLnJ1bkNsYXNzZXMoQXNzZXJ0VGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFja2FnZSBKdW5pdERlbW87Cg==</text>
+        <text encoding="base64">ICAgICAgICBDbGFzc05vdEZvdW5kRXhjZXB0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ubG9zeW1lYXIuCg==</text>
+        <text encoding="base64">ICAgIEBSdWxlCiAgICBwdWJsaWMgRXhwZWN0ZWRFeGNlcHRpb24gdGhyb3duID0gRXhwZWN0ZWRFeGNlcHRpb24ubm9uZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBydW5DbGFzc2VzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBKVW5pdENvcmUucnVuQ2xhc3NlcygpCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">amoK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZSAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKLy8gICAgICAgIEpVbml0Q29yZS5ydW5DbGFzc2VzKEp1bml0RGVtby5Bc3NlcnRUZXN0cy5jbGFzcyk7CiAgICB9Cg==</text>
       </register>
     </registers>
     <search>
@@ -399,6 +412,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

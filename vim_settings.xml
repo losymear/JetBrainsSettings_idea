@@ -103,12 +103,11 @@
         <mark key="." line="73" column="1" />
         <mark key="^" line="73" column="1" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/Tmp.java" timestamp="1539948861649">
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/Tmp.java" timestamp="1539949747319">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="30" column="30" />
-        <mark key="]" line="30" column="30" />
-        <mark key="." line="30" column="30" />
-        <mark key="^" line="30" column="30" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/AggregatingTests.java" timestamp="1539940782842">
         <mark key="[" line="16" column="25" />
@@ -375,51 +374,44 @@
       <jump line="15" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/main/java/JunitDemo/MyList.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZlswXSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text>jar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiLmFkZChuZXcgSW50ZWdlcltdezIsMX0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZlswXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiLmFkZChuZXcgSW50ZWdlcltdezEsMn0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZlswXSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYS5nZXQoMCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBmMiA9IG5ldyBpbnRbXXswLDF9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYi5nZXQoMCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBiLmFkZChuZXcgSW50ZWdlcltdezEsMn0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGIuYWRkKExpc3RzLm5ld0FycmF5TGlzdCg2LCA4KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYS5nZXQoMCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGIuYWRkKExpc3RzLm5ld0FycmF5TGlzdCg1LCA1KSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGIuYWRkKExpc3RzLm5ld0FycmF5TGlzdCgxLCAxKSk7Ci8vICAgICAgICBiLmFkZChMaXN0cy5uZXdBcnJheUxpc3QoMiwgMSkpOwovLyAgICAgICAgYi5hZGQoTGlzdHMubmV3QXJyYXlMaXN0KDMsIDIpKTsKLy8gICAgICAgIGIuYWRkKExpc3RzLm5ld0FycmF5TGlzdCgzLCAyKSk7Ci8vICAgICAgICBiLmFkZChMaXN0cy5uZXdBcnJheUxpc3QoNCwgMykpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYi5nZXQoMCkpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>rrayList(1, 1));
-//        b.add(Lists.newArrayList(2, 1));
-//        b.add(Lists.newArrayList(3, 2));
-//        b.add(Lists.newArrayList(3, 2));
-//        b.add(Lists.newArrayList(4, 3));
-//        b.add(Lists.newArrayList(5, 5));
-//        b.add(Lists.newArrayList(6, 8));
-        System.out.println(</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGIuYWRkKExpc3RzLm5ld0FycmF5TGlzdCg2LCA4KSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGIuYWRkKExpc3RzLm5ld0FycmF5TGlzdCg1LCA1KSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGIuYWRkKExpc3RzLm5ld0FycmF5TGlzdCgxLCAxKSk7Ci8vICAgICAgICBiLmFkZChMaXN0cy5uZXdBcnJheUxpc3QoMiwgMSkpOwovLyAgICAgICAgYi5hZGQoTGlzdHMubmV3QXJyYXlMaXN0KDMsIDIpKTsKLy8gICAgICAgIGIuYWRkKExpc3RzLm5ld0FycmF5TGlzdCgzLCAyKSk7Ci8vICAgICAgICBiLmFkZChMaXN0cy5uZXdBcnJheUxpc3QoNCwgMykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKChJbnRlZ2VyW10pYS5nZXQoMCkpWzBdKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYi5nZXQoMCkpOwo=</text>
       </register>
     </registers>
     <search>

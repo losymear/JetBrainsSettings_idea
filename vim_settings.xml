@@ -233,12 +233,18 @@
       <file name="/Dummy.txt" timestamp="1539838904231">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/WatchmanTest.java" timestamp="1539954134011">
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/WatchmanTest.java" timestamp="1539966199093">
         <mark key="'" line="65" column="0" />
-        <mark key="[" line="63" column="0" />
+        <mark key="[" line="4" column="16" />
         <mark key="]" line="63" column="39" />
         <mark key="." line="63" column="0" />
         <mark key="^" line="57" column="36" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/TestFixturesExample.java" timestamp="1539969363022">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="71" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/playground/java_novice/src/test/java/JavaStandardModuleLearning/JavaFutureTest.java" timestamp="1539090985605">
         <mark key="[" line="14" column="47" />
@@ -389,7 +395,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4od2F0Y2hlZExvZyk7Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFRlc3RGaXh0dXJlc0V4YW1wbGUgewoKfQo=</text>
       </register>
       <register name="-" type="4">
         <text>Integer</text>
@@ -401,31 +407,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4od2F0Y2hlZExvZyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFRlc3RGaXh0dXJlc0V4YW1wbGUgewoKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHdhdGNoZWRMb2cpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHdhdGNoZWRMb2cpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4od2F0Y2hlZExvZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHdhdGNoZWRMb2cpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFdhdGNobWFuVGVzdCB7Cgp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4od2F0Y2hlZExvZyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZlswXSk7Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFdhdGNobWFuVGVzdCB7Cgp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBmMiA9IG5ldyBpbnRbXXswLDF9Owo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZlswXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiLmFkZChuZXcgSW50ZWdlcltdezEsMn0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBmMiA9IG5ldyBpbnRbXXswLDF9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYS5nZXQoMCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBiLmFkZChuZXcgSW50ZWdlcltdezEsMn0pOwo=</text>
       </register>
     </registers>
     <search>

@@ -12,9 +12,9 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/java/com/losyear/retrofit_swagger/dao/response/Httpbin_GET_Obj.java" timestamp="1540008837577">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="18" column="13" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/java/com/losyear/retrofit_swagger/dao/response/Httpbin_GET_Obj.java" timestamp="1540014817776">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="39" />
         <mark key="^" line="18" column="13" />
         <mark key="." line="18" column="13" />
       </file>
@@ -63,11 +63,12 @@
         <mark key="." line="13" column="43" />
         <mark key="^" line="13" column="43" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/resources/log4j2.yaml" timestamp="1540012477325">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="42" column="16" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/resources/log4j2.yaml" timestamp="1540013989082">
+        <mark key="'" line="37" column="13" />
+        <mark key="[" line="42" column="18" />
+        <mark key="]" line="42" column="17" />
+        <mark key="^" line="42" column="17" />
+        <mark key="." line="42" column="17" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/java/com/losyear/retrofit_swagger/Controller/HttpbinController.java" timestamp="1540008060195">
         <mark key="[" line="51" column="5" />
@@ -162,11 +163,12 @@
         <mark key="^" line="70" column="20" />
         <mark key="." line="70" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/java/Example.java" timestamp="1540012335967">
-        <mark key="[" line="33" column="18" />
-        <mark key="]" line="33" column="15" />
-        <mark key="^" line="33" column="15" />
-        <mark key="." line="33" column="15" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/java/Example.java" timestamp="1540014821751">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="39" />
+        <mark key="^" line="33" column="53" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/resources/log4j2.json" timestamp="1540011982072">
         <mark key="[" line="0" column="0" />
@@ -412,58 +414,60 @@
       <jump line="28" column="54" filename="$USER_HOME$/etc/losFiles/projects/Java/miniProgram/pom.xml" />
       <jump line="42" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/java/com/losyear/retrofit_swagger/dao/response/Result.java" />
       <jump line="40" column="16" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/resources/log4j2.xml" />
+      <jump line="29" column="22" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/resources/log4j2.yaml" />
+      <jump line="37" column="13" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/resources/log4j2.yaml" />
+      <jump line="40" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/java/Example.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBQYXR0ZXJuOiAiJW0lbiIK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBTdHJpbmc+IGhlYWRlcnM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
-        <text>retrofit</text>
+        <text>debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQYXR0ZXJuOiAiJWQgJXAgJUN7MS59IFsldF0gJW0lbiIK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBTdHJpbmc+IGhlYWRlcnM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQYXR0ZXJuOiAiJW0lbiIK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoImRlYnVnIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBQYXR0ZXJuOiAiJW0lbiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldmVsOiBlcnJvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlc2hvbGRGaWx0ZXI6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxldmVsOiBlcnJvcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRmlsdGVyczoK</text>
+        <text encoding="base64">ICAgICAgICBUaHJlc2hvbGRGaWx0ZXI6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQYXR0ZXJuOiAiJWQgJWQgJXAgJUN7MS59IFsldF0gJW0lbiIK</text>
+        <text encoding="base64">ICAgICAgRmlsdGVyczoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgUGF0dGVybkxheW91dDoK</text>
+        <text encoding="base64">ICAgICAgICBQYXR0ZXJuOiAiJWQgJWQgJXAgJUN7MS59IFsldF0gJW0lbiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZmlsZU5hbWU6ICR7ZmlsZW5hbWV9Cg==</text>
+        <text encoding="base64">ICAgICAgUGF0dGVybkxheW91dDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbmFtZTogRmlsZQo=</text>
+        <text encoding="base64">ICAgICAgZmlsZU5hbWU6ICR7ZmlsZW5hbWV9Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>retrofit</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>retrofit</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>systempath</entry>
         <entry>systemPa</entry>
         <entry>web</entry>
         <entry>version</entry>
@@ -483,6 +487,7 @@
         <entry>plug</entry>
         <entry>jar</entry>
         <entry>retrofit</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd />
       <history-expr />

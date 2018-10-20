@@ -76,11 +76,10 @@
         <mark key="." line="58" column="49" />
         <mark key="^" line="58" column="49" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/java/com/losyear/retrofit_swagger/rest/HttpbinAPIService.java" timestamp="1540020199448">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="10" column="35" />
-        <mark key="." line="10" column="35" />
-        <mark key="^" line="10" column="35" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/java/com/losyear/retrofit_swagger/rest/HttpbinAPIService.java" timestamp="1540022877303">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/main/java/Tmp.java" timestamp="1539932516249">
         <mark key="[" line="6" column="0" />
@@ -188,6 +187,12 @@
         <mark key="]" line="39" column="25" />
         <mark key="." line="39" column="25" />
         <mark key="^" line="39" column="25" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/Java/miniProgram/src/main/java/com/mrboxfood/lightwork/Service/LightWorkWechatService.java" timestamp="1540023166861">
+        <mark key="[" line="131" column="23" />
+        <mark key="]" line="131" column="22" />
+        <mark key="^" line="131" column="22" />
+        <mark key="." line="131" column="22" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/java/com/losyear/retrofit_swagger/Controller/UnusedController.java" timestamp="1540011046349">
         <mark key="[" line="19" column="0" />
@@ -421,7 +426,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIFNlZSB7QGxpbmt0b3VybCBodHRwOi8vbG9jYWxob3N0OjgwODAvdGVzdFF1ZXJ5P2tleT12YWx1ZX0K</text>
+        <text encoding="base64">ICAgIFJlc3BvbnNlQm9keQo=</text>
       </register>
       <register name="-" type="4">
         <text>info</text>
@@ -433,31 +438,31 @@
         <text encoding="base64">ICAgICAqIFNlZSB7QGxpbmt0b3VybCBodHRwOi8vbG9jYWxob3N0OjgwODAvdGVzdFF1ZXJ5P2tleT12YWx1ZX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIFZpc2l0IGh0dHA6Ly9sb2NhbGhvc3Q6ODA4MC90ZXN0UXVlcnk/a2V5PXZhbHVlCg==</text>
+        <text encoding="base64">ICAgIFJlc3BvbnNlQm9keQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAqIFZpc2l0IGh0dHA6Ly9sb2NhbGhvc3Q6ODA4MC90ZXN0UXVlcnk/a2V5PXZhbHVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXN1bHQgdGVzdEdldFdpdGhVcmwoQCkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9AU2xmNGoK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXN1bHQgdGVzdEdldFdpdGhVcmwoQCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoImRlYnVnIik7Cg==</text>
+        <text encoding="base64">Ly9AU2xmNGoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQYXR0ZXJuOiAiJW0lbiIK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoImRlYnVnIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBQYXR0ZXJuOiAiJW0lbiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldmVsOiBlcnJvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlc2hvbGRGaWx0ZXI6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxldmVsOiBlcnJvcgo=</text>
       </register>
     </registers>
     <search>

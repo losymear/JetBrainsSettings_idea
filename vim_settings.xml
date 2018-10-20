@@ -69,16 +69,23 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/java/com/losyear/retrofit_swagger/domaIn/People.java" timestamp="1540056548184">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="17" />
+        <mark key="^" line="24" column="17" />
+        <mark key="." line="24" column="17" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/OrderedTests.java" timestamp="1539940859986">
         <mark key="[" line="13" column="36" />
         <mark key="]" line="13" column="43" />
         <mark key="." line="13" column="43" />
         <mark key="^" line="13" column="43" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/java/com/losyear/retrofit_swagger/DTO/PeopleRepository.java" timestamp="1540055016362">
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="7" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/java/com/losyear/retrofit_swagger/DTO/PeopleRepository.java" timestamp="1540056232190">
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="40" />
+        <mark key="." line="17" column="40" />
+        <mark key="^" line="17" column="40" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/resources/log4j2.yaml" timestamp="1540013989082">
         <mark key="'" line="37" column="13" />
@@ -178,12 +185,12 @@
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/main/java/JunitDemo/List.java" timestamp="1539947375671">
         <mark key="[" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/resources/data.sql" timestamp="1540054764522">
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/resources/data.sql" timestamp="1540056291632">
         <mark key="'" line="2" column="17" />
         <mark key="[" line="0" column="45" />
-        <mark key="]" line="1" column="46" />
-        <mark key="^" line="1" column="46" />
-        <mark key="." line="1" column="46" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="46" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/src/main/java/AI/Voice/MscVoiceCompose.java" timestamp="1539243624222">
         <mark key="[" line="8" column="0" />
@@ -234,10 +241,11 @@
         <mark key="^" line="131" column="22" />
         <mark key="." line="131" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/java/com/losyear/retrofit_swagger/Controller/UnusedController.java" timestamp="1540011046349">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/java/com/losyear/retrofit_swagger/Controller/UnusedController.java" timestamp="1540056245809">
+        <mark key="[" line="27" column="51" />
+        <mark key="]" line="27" column="64" />
+        <mark key="." line="27" column="64" />
+        <mark key="^" line="27" column="64" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/src/main/java/AI/package-info.java" timestamp="1539236314575">
         <mark key="[" line="0" column="0" />
@@ -487,8 +495,8 @@
       <jump line="2" column="17" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/resources/data.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>class</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QFRhYmxlCg==</text>
       </register>
       <register name="-" type="4">
         <text>class</text>
@@ -500,31 +508,31 @@
         <text encoding="base64">ICAgIGlkICAgSU5URUdFUiAgICAgIE5PVCBOVUxMIEFVVE9fSU5DUkVNRU5ULAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudXJsPWpkYmM6bXlzcWw6Ly9sb2NhbGhvc3Q6MTIzNDUvYmk/dXNlU1NMPWZhbHNlJmNoYXJhY3RlckVuY29kaW5nPVVURi04JmF1dG9SZWNvbm5lY3Q9dHJ1ZQpzcHJpbmcuZGF0YXNvdXJjZS51c2VybmFtZT1yb290MgpzcHJpbmcuZGF0YXNvdXJjZS5wYXNzd29yZD10ZXN0Mgo=</text>
+        <text encoding="base64">QFRhYmxlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uamF2YWZ4Lmdlb20udHJhbnNmb3JtLklkZGVudGl0eTsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIDwhLS1kYXRhYmFzZS0tPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItZGF0YS1qcGE8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItamRiYzwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm15c3FsPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5teXNxbC1jb25uZWN0b3ItamF2YTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHNjb3BlPnJ1bnRpbWU8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIExpc3Q8UGVvcGxlPiBmaW5kQWxsQnlBZ2UK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">eT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWRhdGEtanBhPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWpkYmM8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5teXNxbDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+bXlzcWwtY29ubmVjdG9yLWphdmE8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDxzY29wZT5ydW50aW1lPC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k=</text>
+      <register name="4" type="2">
+        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudXJsPWpkYmM6bXlzcWw6Ly9sb2NhbGhvc3Q6MTIzNDUvYmk/dXNlU1NMPWZhbHNlJmNoYXJhY3RlckVuY29kaW5nPVVURi04JmF1dG9SZWNvbm5lY3Q9dHJ1ZQpzcHJpbmcuZGF0YXNvdXJjZS51c2VybmFtZT1yb290MgpzcHJpbmcuZGF0YXNvdXJjZS5wYXNzd29yZD10ZXN0Mgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QG9yZy5zcHJpbmdmcmFtZXdvcmsuCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uamF2YWZ4Lmdlb20udHJhbnNmb3JtLklkZGVudGl0eTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIENvdW50cnkgewoKfQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIDwhLS1kYXRhYmFzZS0tPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItZGF0YS1qcGE8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItamRiYzwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm15c3FsPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5teXNxbC1jb25uZWN0b3ItamF2YTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHNjb3BlPnJ1bnRpbWU8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">QEFwaUlnbm9yZQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">eT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWRhdGEtanBhPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWpkYmM8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5teXNxbDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+bXlzcWwtY29ubmVjdG9yLWphdmE8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDxzY29wZT5ydW50aW1lPC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBcGlJZ25vcmUK</text>
+        <text encoding="base64">QG9yZy5zcHJpbmdmcmFtZXdvcmsuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUeXBlcwo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIENvdW50cnkgewoKfQo=</text>
       </register>
     </registers>
     <search>

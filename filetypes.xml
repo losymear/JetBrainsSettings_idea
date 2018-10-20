@@ -4,6 +4,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="Changelog" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="cde" type="PLAIN_TEXT" />
       <mapping pattern="beans" type="XML" />
     </extensionMap>
   </component>

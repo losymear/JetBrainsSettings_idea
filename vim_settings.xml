@@ -167,6 +167,12 @@
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1539141431429">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/pom.xml" timestamp="1540174469549">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="20" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/pom.xml" timestamp="1539931196144">
         <mark key="[" line="27" column="21" />
         <mark key="]" line="35" column="0" />
@@ -496,7 +502,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QGlvLnN3YWdnZXIuYW5ub3RhdGlvbnMuVGFnKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBvciwgZm9yIEFuZHJvaWQ6IC0tPgogICAgICAgICAgICA8dmVyc2lvbj4yNy4wLWFuZHJvaWQ8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>class</text>
@@ -508,31 +514,31 @@
         <text encoding="base64">ICAgIGlkICAgSU5URUdFUiAgICAgIE5PVCBOVUxMIEFVVE9fSU5DUkVNRU5ULAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGlvLnN3YWdnZXIuYW5ub3RhdGlvbnMuVGFnKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBvciwgZm9yIEFuZHJvaWQ6IC0tPgogICAgICAgICAgICA8dmVyc2lvbj4yNy4wLWFuZHJvaWQ8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGluZm8K</text>
+        <text encoding="base64">QGlvLnN3YWdnZXIuYW5ub3RhdGlvbnMuVGFnKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFBhdGgoIi8iKQo=</text>
+        <text encoding="base64">QGluZm8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBQYXRoKCJmIikK</text>
+        <text encoding="base64">QFBhdGgoIi8iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBhcGlyZXMK</text>
+        <text encoding="base64">ICAgIEBQYXRoKCJmIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwYXRoCg==</text>
+        <text encoding="base64">ICAgIEBhcGlyZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbAo=</text>
+        <text encoding="base64">ICAgIEBwYXRoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQXBpS2V5IGFwaUtleSgpIHsK</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBcGlJbXBsaWNpdFBhcmFtcygpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQXBpS2V5IGFwaUtleSgpIHsK</text>
       </register>
     </registers>
     <search>

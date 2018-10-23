@@ -123,10 +123,11 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1539141428189">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/test/java/Guava/BasicUtilitiesTest.java" timestamp="1540279204736">
-        <mark key="[" line="43" column="44" />
-        <mark key="]" line="43" column="90" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/test/java/Guava/BasicUtilitiesTest.java" timestamp="1540281525424">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="4" />
+        <mark key="." line="49" column="4" />
+        <mark key="^" line="49" column="4" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/java/com/losyear/retrofit_swagger/Controller/CustomController.java" timestamp="1540048951728">
         <mark key="[" line="21" column="0" />
@@ -262,7 +263,11 @@
         <mark key="^" line="131" column="22" />
         <mark key="." line="131" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/main/java/Guava/BasicUtilities.java" timestamp="1540278914732" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/main/java/Guava/BasicUtilities.java" timestamp="1540280939084">
+        <mark key="]" line="15" column="30" />
+        <mark key="^" line="15" column="30" />
+        <mark key="." line="15" column="30" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/java/com/losyear/retrofit_swagger/Controller/UnusedController.java" timestamp="1540062234671">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -335,6 +340,9 @@
         <mark key="]" line="15" column="18" />
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="18" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/27.0-jre/guava-27.0-jre.jar!/com/google/common/collect/Ordering.class" timestamp="1540281777795">
+        <mark key="'" line="193" column="27" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/java/com/zhiri/qu_voice_java/rest/SppechInit.java" timestamp="1538207029862">
         <mark key="[" line="17" column="0" />
@@ -536,13 +544,14 @@
       <jump line="1451" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/main/java/Guava/ArrayBlockingQueue.java" />
       <jump line="406" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/main/java/Guava/ArrayBlockingQueue.java" />
       <jump line="24" column="17" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/pom.xml" />
+      <jump line="193" column="27" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/27.0-jre/guava-27.0-jre.jar!/com/google/common/collect/Ordering.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobmV3IENvbXBhcmVkRGF5KDIwMTgsMTEsMSkuY29tcGFyZVllYXIobmV3IENvbXBhcmVkRGF5KDIwMTgsOSwzKSksMSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>countr</text>
@@ -551,31 +560,31 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobmV3IENvbXBhcmVkRGF5KDIwMTgsMTEsMSkuY29tcGFyZVllYXIobmV3IENvbXBhcmVkRGF5KDIwMTgsOSwzKSksMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IENvbXBhcmVkRGF5KDIwMTgsMTEsMSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBPcmRlcmluZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wYXJlKHRoaXMuaG91ciwgdGhhdC5ob3VyKQo=</text>
+        <text encoding="base64">ICAgICAgICBPcmRlcmluZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciBob3VyOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IENvbXBhcmVkRGF5KDIwMTgsMTEsMSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wYXJlKHRoaXMubWludXRlLCB0aGF0Lm1pbnV0ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wYXJlKHRoaXMuaG91ciwgdGhhdC5ob3VyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciBtaW51dGU7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciBob3VyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QHJlcQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wYXJlKHRoaXMubWludXRlLCB0aGF0Lm1pbnV0ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciBtaW51dGU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFRvU3RyaW5nCg==</text>
+        <text encoding="base64">QHJlcQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3RzLmVxdWFscygzLDQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>

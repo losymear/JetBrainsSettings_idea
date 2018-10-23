@@ -38,6 +38,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/27.0-jre/guava-27.0-jre.jar!/com/google/common/collect/ImmutableCollection.class" timestamp="1540290795056" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/java/com/zhiri/qu_voice_java/Controller/package-info.java" timestamp="1538197762713">
         <mark key="[" line="0" column="43" />
         <mark key="]" line="1" column="13" />
@@ -123,11 +124,10 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1539141428189">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/test/java/Guava/BasicUtilitiesTest.java" timestamp="1540289230450">
-        <mark key="[" line="60" column="68" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/test/java/Guava/BasicUtilitiesTest.java" timestamp="1540290805331">
+        <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
-        <mark key="^" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/java/com/losyear/retrofit_swagger/Controller/CustomController.java" timestamp="1540048951728">
         <mark key="[" line="21" column="0" />
@@ -554,7 +554,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhLnV0aWwuZnUK</text>
+        <text encoding="base64">ICAgICAgICBJbW11dGFibGVTZXQK</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
@@ -566,31 +566,31 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobmV3IENvbXBhcmVkRGF5KDIwMTgsMTEsMSkuY29tcGFyZVllYXIobmV3IENvbXBhcmVkRGF5KDIwMTgsOSwzKSksMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhLnV0aWwuZnUK</text>
+        <text encoding="base64">ICAgICAgICBJbW11dGFibGVTZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGphCg==</text>
+        <text encoding="base64">ICAgICAgICBGdW5jdGlvbnMuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBncmFwaAo=</text>
+        <text encoding="base64">ICAgICAgICBqYXZhLnV0aWwuZnUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNdXRhYmxlVmFsdWVHcmFwaAo=</text>
+        <text encoding="base64">ICAgIGphCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBncmFwaAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE9yZGVyaW5nLm5hdHVyYWwoKS4K</text>
+        <text encoding="base64">ICAgICAgICBNdXRhYmxlVmFsdWVHcmFwaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE9yZGVyaW5nLm5hdHVyYWwoKS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIEZvbyB7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
     </registers>
     <search>

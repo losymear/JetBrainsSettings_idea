@@ -92,12 +92,12 @@
         <mark key="^" line="63" column="12" />
         <mark key="." line="63" column="12" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/pom.xml" timestamp="1540263025496">
-        <mark key="'" line="24" column="17" />
-        <mark key="[" line="30" column="21" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/pom.xml" timestamp="1540450118561">
+        <mark key="'" line="30" column="17" />
+        <mark key="[" line="23" column="31" />
+        <mark key="]" line="29" column="24" />
+        <mark key="^" line="29" column="24" />
+        <mark key="." line="29" column="24" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/pom.xml" timestamp="1539931196144">
         <mark key="[" line="27" column="21" />
@@ -117,11 +117,11 @@
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/main/java/JunitDemo/List.java" timestamp="1539947375671">
         <mark key="[" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/test/java/Guava/StringUtilitiesTest.java" timestamp="1540447861248">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="40" column="83" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/test/java/Guava/StringUtilitiesTest.java" timestamp="1540450606270">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/src/main/java/AI/Voice/MscVoiceCompose.java" timestamp="1539243624222">
         <mark key="[" line="8" column="0" />
@@ -196,6 +196,9 @@
         <mark key="]" line="15" column="18" />
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="18" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/27.0-jre/guava-27.0-jre.jar!/com/google/common/collect/Ordering.class" timestamp="1540281777795">
+        <mark key="'" line="193" column="27" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/main/java/Guava/CompareAndOrder/OrderedFoo.java" timestamp="1540285814045">
         <mark key="[" line="14" column="5" />
@@ -307,6 +310,9 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="6" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/27.0-jre/guava-27.0-jre.jar!/com/google/common/base/CharMatcher.class" timestamp="1540448786891">
+        <mark key="'" line="1175" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/pom.xml" timestamp="1540437024920">
         <mark key="[" line="45" column="21" />
         <mark key="]" line="50" column="20" />
@@ -351,7 +357,7 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1539141428189">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/test/java/Guava/BasicUtilitiesTest.java" timestamp="1540304825690">
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/test/java/Guava/BasicUtilitiesTest.java" timestamp="1540450731992">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
@@ -505,8 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/CHANGELOG.md" />
-      <jump line="8" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/java/com/zhiri/qu_voice_java/MyWebConfig.java" />
       <jump line="14" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/java/com/zhiri/qu_voice_java/MyWebConfig.java" />
       <jump line="39" column="36" filename="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/pom.xml" />
       <jump line="44" column="36" filename="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/pom.xml" />
@@ -600,13 +604,20 @@
       <jump line="193" column="27" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/27.0-jre/guava-27.0-jre.jar!/com/google/common/collect/Ordering.class" />
       <jump line="23" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/test/java/Guava/CollectionUtilitiesTest.java" />
       <jump line="8" column="24" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/application.properties" />
+      <jump line="16" column="22" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/27.0-jre/guava-27.0-jre.jar!/com/google/common/base/CharMatcher.class" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/27.0-jre/guava-27.0-jre.jar!/com/google/common/base/CharMatcher.class" />
+      <jump line="1175" column="0" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/27.0-jre/guava-27.0-jre.jar!/com/google/common/base/CharMatcher.class" />
+      <jump line="31" column="37" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/test/java/Guava/StringUtilitiesTest.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/test/java/Guava/StringUtilitiesTest.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/test/java/Guava/StringUtilitiesTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/test/java/Guava/StringUtilitiesTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYW5nZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>name = &quot;care_question&quot;, schema = &quot;qumianshi&quot;, catalog = &quot;&quot;)</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>tom</text>
@@ -615,31 +626,31 @@
         <text encoding="base64">QFRhYmxlKG5hbWUgPSAiYW5zd2VyX3JlY29yZCIsIHNjaGVtYSA9ICJxdW1pYW5zaGkiLCBjYXRhbG9nID0gIiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYW5nZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTcGxpCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2FzZUZvcm1hdC5VUFBFUl9VTkRFUlNDT1JFLnRvKENhc2VGb3JtYXQuTE9XRVJfQ0FNRUwsICJDT05TVEFOVF9OQU1FIikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBJdGVyYXRvcjxTdHJpbmc+e30K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RDaGFyc2V0cygpewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIixhLCxiLCIuc3BsaXQoIiwiKSk7Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdUb2tlbml6ZXIK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2FzZUZvcm1hdC5MT1dFUl9DQU1FTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqb2luZXIuam9pbigiSGFycnkiLCBudWxsLCAiUm9uIiwgIkhlcm1pb25lIikuZXF1YWxzKCJIYXJyeTsgUm9uOyBIZXJtaW9uZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAuZXF1YWxzKE1hcHMubmV3SGFzaE1hcChJbW11dGFibGVNYXAub2YoIngiLDEsInkiLDIsInoiLDMpKSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBhc3NlcnQK</text>
+        <text encoding="base64">ICAgICAgICBDaGFyTWF0Y2hlcgo=</text>
       </register>
     </registers>
     <search>

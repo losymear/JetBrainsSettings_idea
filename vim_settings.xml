@@ -18,7 +18,7 @@
         <mark key="^" line="18" column="22" />
         <mark key="." line="18" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1540364126770">
+      <file name="/a.dummy" timestamp="1540548984042">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/java/com/zhiri/qu_voice_java/Controller/package-info.java" timestamp="1538197762713">
@@ -90,6 +90,12 @@
         <mark key="]" line="127" column="29" />
         <mark key="." line="127" column="29" />
         <mark key="^" line="127" column="29" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Component/SwaggerBean.java" timestamp="1540548981697">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="25" column="4" />
+        <mark key="^" line="25" column="4" />
+        <mark key="." line="25" column="4" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/Java/miniProgram/pom.xml" timestamp="1540051434713">
         <mark key="[" line="63" column="0" />
@@ -214,9 +220,6 @@
         <mark key="]" line="15" column="18" />
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="18" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/27.0-jre/guava-27.0-jre.jar!/com/google/common/collect/Ordering.class" timestamp="1540281777795">
-        <mark key="'" line="193" column="27" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/main/java/Guava/CompareAndOrder/OrderedFoo.java" timestamp="1540285814045">
         <mark key="[" line="14" column="5" />
@@ -343,9 +346,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="6" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/27.0-jre/guava-27.0-jre.jar!/com/google/common/base/CharMatcher.class" timestamp="1540448786891">
-        <mark key="'" line="1175" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/pom.xml" timestamp="1540547033425">
         <mark key="[" line="98" column="12" />
@@ -520,6 +520,12 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Controller/TestController.java" timestamp="1540549847509">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+      </file>
       <file name="/Dummy.txt" timestamp="1540539292000">
         <mark key="[" line="0" column="0" />
       </file>
@@ -675,8 +681,8 @@
       <jump line="77" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/dto/response/Result.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>use Enum for errCode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gICJTdHJpbmciOwo=</text>
       </register>
       <register name="-" type="4">
         <text>use Enum for errCode</text>
@@ -688,31 +694,31 @@
         <text encoding="base64">QFRhYmxlKG5hbWUgPSAiYW5zd2VyX3JlY29yZCIsIHNjaGVtYSA9ICJxdW1pYW5zaGkiLCBjYXRhbG9nID0gIiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFNldHRlcgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gICJTdHJpbmciOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC51c2VEZWZhdWx0UmVzcG9uc2VNZXNzYWdlcyhmYWxzZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5HZXR0ZXI7Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5TZXR0ZXI7Cg==</text>
+        <text encoding="base64">QFNldHRlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QEdldHRlcgo=</text>
+        <text encoding="base64">QAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5HZXR0ZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIEBwcm9ncmFtOiByZXRyb2ZpdF9zd2FnZ2VyCiAqIEBkZXNjcmlwdGlvbjoKICogQGF1dGhvcjogbG9zeW1lYXIKICogQGNyZWF0ZTogMjAxOC0xMC0yMCAxMDowNgogKi8KCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5TZXR0ZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ubG9zeWVhci5yZXRyb2ZpdF9zd2FnZ2VyLmR0by5yZXNwb25zZTsK</text>
+        <text encoding="base64">QEdldHRlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFJlc3VsdCB7Cgp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>

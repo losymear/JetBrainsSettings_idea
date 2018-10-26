@@ -98,11 +98,11 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/dto/view/MiniUser.java" timestamp="1540554900091">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/dto/view/MiniUser.java" timestamp="1540556060204">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/java/com/zhiri/qu_voice_java/Service/AliService.java" timestamp="1540010963106">
         <mark key="[" line="44" column="42" />
@@ -143,6 +143,11 @@
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/Java/miniProgram/upload.sh" timestamp="1539334385187">
         <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/domain/UserSecretEntity.java" timestamp="1540556273039">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/main/java/JunitDemo/List.java" timestamp="1539947375671">
         <mark key="[" line="8" column="16" />
@@ -325,12 +330,6 @@
         <mark key="]" line="22" column="18" />
         <mark key="^" line="22" column="18" />
         <mark key="." line="22" column="18" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_jiava/src/main/resources/log4j2.yaml" timestamp="1540540759613">
-        <mark key="'" line="36" column="8" />
-        <mark key="]" line="42" column="16" />
-        <mark key="^" line="42" column="16" />
-        <mark key="." line="42" column="16" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/java/com/losyear/retrofit_swagger/dao/response/Httpbin_GET_Obj.java" timestamp="1540014817776">
         <mark key="[" line="18" column="0" />
@@ -626,7 +625,7 @@
         <mark key="]" line="23" column="33" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1540551651697">
+      <file name="/fragment.java" timestamp="1540555972460">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -734,7 +733,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHBhc3N3b3JkOwo=</text>
+        <text encoding="base64">QGFwaW8K</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -746,31 +745,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgaW50IGlkOwogICAgcHJpdmF0ZSBTdHJpbmcgbmlja05hbWU7CiAgICBwcml2YXRlIFN0cmluZyBwaG9uZTsKICAgIHByaXZhdGUgU3RyaW5nIHBhc3N3b3JkOwogICAgcHJpdmF0ZSBTdHJpbmcgbWFpbDsKICAgIHByaXZhdGUgU3RyaW5nIGF2YXRhcjsKICAgIHByaXZhdGUgVGltZXN0YW1wIGNyZWF0ZVRpbWU7CiAgICBwcml2YXRlIFRpbWVzdGFtcCB1cGRhdGVUaW1lOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHBhc3N3b3JkOwo=</text>
+        <text encoding="base64">QGFwaW8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG1haWw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBTdHJpbmcgYXZhdGFyOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHBob25lOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBTdHJpbmcgbmlja05hbWU7Ci8vICAgIHByaXZhdGUgU3RyaW5nIHBob25lOwovLyAgICBwcml2YXRlIFN0cmluZyBwYXNzd29yZDsKLy8gICAgcHJpdmF0ZSBTdHJpbmcgbWFpbDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHBhc3N3b3JkOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QERhdGEK</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBTdHJpbmcgYXZhdGFyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QERhdGEK</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBTdHJpbmcgbmlja05hbWU7Ci8vICAgIHByaXZhdGUgU3RyaW5nIHBob25lOwovLyAgICBwcml2YXRlIFN0cmluZyBwYXNzd29yZDsKLy8gICAgcHJpdmF0ZSBTdHJpbmcgbWFpbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVGltZXN0YW1wIHVwZGF0ZVRpbWU7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVGltZXN0YW1wIGNyZWF0ZVRpbWU7Cg==</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
     </registers>
     <search>

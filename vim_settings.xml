@@ -39,11 +39,11 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Controller/TestController.java" timestamp="1541070695004">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="97" column="48" />
-        <mark key="." line="97" column="48" />
-        <mark key="^" line="97" column="48" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Controller/TestController.java" timestamp="1541071184004">
+        <mark key="[" line="98" column="62" />
+        <mark key="]" line="98" column="81" />
+        <mark key="." line="98" column="81" />
+        <mark key="^" line="98" column="81" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/wy.sql" timestamp="1540881350989">
         <mark key="[" line="0" column="0" />
@@ -62,7 +62,7 @@
         <mark key="^" line="19" column="5" />
         <mark key="." line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Config/WebSecurityConfig.java" timestamp="1541070825219">
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Config/WebSecurityConfig.java" timestamp="1541070836472">
         <mark key="'" line="18" column="21" />
         <mark key="[" line="28" column="82" />
         <mark key="]" line="28" column="100" />
@@ -420,6 +420,12 @@
         <mark key="]" line="0" column="38" />
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Config/MyPermissionEvaluator.java" timestamp="1541071608636">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Controller/AnswerController.java" timestamp="1540953523498">
         <mark key="[" line="45" column="49" />
@@ -875,7 +881,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/etc/losFiles/projects/Java/miniProgram/src/main/resources/application.properties" />
       <jump line="1744" column="10" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Thread.java" />
       <jump line="104" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/main/java/Address.java" />
       <jump line="4" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/AddressTest.java" />
@@ -975,13 +980,14 @@
       <jump line="198" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.1.RELEASE/spring-security-core-5.1.1.RELEASE-sources.jar!/org/springframework/security/authentication/ProviderManager.java" />
       <jump line="128" column="33" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.1.RELEASE/spring-security-core-5.1.1.RELEASE-sources.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.java" />
       <jump line="18" column="21" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Config/WebSecurityConfig.java" />
+      <jump line="19" column="4" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Config/MyPermissionEvaluator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>/**&quot;,&quot;/</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>REPL</text>
@@ -1060,6 +1066,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

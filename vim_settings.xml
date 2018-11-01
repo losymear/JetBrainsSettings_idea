@@ -83,8 +83,9 @@
         <mark key="^" line="22" column="34" />
         <mark key="." line="22" column="34" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.1.RELEASE/spring-security-core-5.1.1.RELEASE-sources.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.java" timestamp="1541038857702">
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.1.RELEASE/spring-security-core-5.1.1.RELEASE-sources.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.java" timestamp="1541039648082">
         <mark key="e" line="97" column="0" />
+        <mark key="'" line="128" column="33" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/resources/application.properties" timestamp="1539836306954">
         <mark key="[" line="5" column="3" />
@@ -291,6 +292,9 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.1.RELEASE/spring-security-core-5.1.1.RELEASE-sources.jar!/org/springframework/security/authentication/ProviderManager.java" timestamp="1541039185789">
+        <mark key="'" line="198" column="18" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/dto/view/BasicAnswerRecord.java" timestamp="1540894568585">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="46" />
@@ -324,6 +328,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="40" column="49" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.1.RELEASE/spring-security-core-5.1.1.RELEASE-sources.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.java" timestamp="1541039919425" />
       <file name="$USER_HOME$/etc/losFiles/projects/playground/java_novice/src/test/java/JavaStandardModuleLearning/JavaFutureTest.java" timestamp="1539090985605">
         <mark key="[" line="14" column="47" />
         <mark key="]" line="14" column="70" />
@@ -804,8 +809,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/pom.xml" />
-      <jump line="32" column="55" filename="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/pom.xml" />
       <jump line="20" column="15" filename="$USER_HOME$/etc/losFiles/projects/Java/miniProgram/src/main/resources/application.properties" />
       <jump line="52" column="0" filename="$USER_HOME$/etc/losFiles/projects/Java/miniProgram/src/main/resources/application.properties" />
       <jump line="1744" column="10" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Thread.java" />
@@ -904,6 +907,8 @@
       <jump line="7" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/resources/application-dev.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/resources/application.properties" />
       <jump line="23" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.1.1.RELEASE/spring-security-config-5.1.1.RELEASE.jar!/org/springframework/security/config/annotation/method/configuration/EnableGlobalMethodSecurity.class" />
+      <jump line="198" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.1.RELEASE/spring-security-core-5.1.1.RELEASE-sources.jar!/org/springframework/security/authentication/ProviderManager.java" />
+      <jump line="128" column="33" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.1.RELEASE/spring-security-core-5.1.1.RELEASE-sources.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

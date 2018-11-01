@@ -39,11 +39,11 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Controller/TestController.java" timestamp="1541061286246">
-        <mark key="[" line="70" column="23" />
-        <mark key="]" line="70" column="23" />
-        <mark key="." line="70" column="23" />
-        <mark key="^" line="70" column="23" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Controller/TestController.java" timestamp="1541064708301">
+        <mark key="[" line="58" column="12" />
+        <mark key="]" line="67" column="45" />
+        <mark key="." line="67" column="45" />
+        <mark key="^" line="67" column="45" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/wy.sql" timestamp="1540881350989">
         <mark key="[" line="0" column="0" />
@@ -62,12 +62,12 @@
         <mark key="^" line="19" column="5" />
         <mark key="." line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Config/WebSecurityConfig.java" timestamp="1541061208302">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="26" column="45" />
-        <mark key="]" line="26" column="45" />
-        <mark key="." line="26" column="45" />
-        <mark key="^" line="26" column="45" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Config/WebSecurityConfig.java" timestamp="1541065037038">
+        <mark key="'" line="18" column="21" />
+        <mark key="[" line="18" column="49" />
+        <mark key="]" line="18" column="68" />
+        <mark key="." line="18" column="68" />
+        <mark key="^" line="18" column="68" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/OrderedTests.java" timestamp="1539940859986">
         <mark key="[" line="13" column="36" />
@@ -875,7 +875,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="15" filename="$USER_HOME$/etc/losFiles/projects/Java/miniProgram/src/main/resources/application.properties" />
       <jump line="52" column="0" filename="$USER_HOME$/etc/losFiles/projects/Java/miniProgram/src/main/resources/application.properties" />
       <jump line="1744" column="10" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Thread.java" />
       <jump line="104" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/main/java/Address.java" />
@@ -975,10 +974,11 @@
       <jump line="23" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.1.1.RELEASE/spring-security-config-5.1.1.RELEASE.jar!/org/springframework/security/config/annotation/method/configuration/EnableGlobalMethodSecurity.class" />
       <jump line="198" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.1.RELEASE/spring-security-core-5.1.1.RELEASE-sources.jar!/org/springframework/security/authentication/ProviderManager.java" />
       <jump line="128" column="33" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.1.RELEASE/spring-security-core-5.1.1.RELEASE-sources.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.java" />
+      <jump line="18" column="21" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Config/WebSecurityConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/**&quot;,&quot;/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QEVuYWJsZUdsb2JhbE1ldGhvZFNlY3VyaXR5Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/**&quot;,&quot;/</text>
@@ -990,22 +990,22 @@
         <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvdGVzdC9hbm5vdGF0aW9uL2hhc1JvbGVVU0VSIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvdGVzdC8iKQo=</text>
+        <text encoding="base64">QEVuYWJsZUdsb2JhbE1ldGhvZFNlY3VyaXR5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc1JvbGUoJ1VTRVInKSIpCg==</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvdGVzdC8iKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25Qcm9wZXJ0eSgiYmFzaWMiKQo=</text>
+        <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc1JvbGUoJ1VTRVInKSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25Qcm9wZXJ0eQo=</text>
+        <text encoding="base64">QENvbmRpdGlvbmFsT25Qcm9wZXJ0eSgiYmFzaWMiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">QENvbmRpdGlvbmFsT25Qcm9wZXJ0eQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1014,7 +1014,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTZWN1cml0eUNvbnRleHRIb2xkZXIuZ2V0Q29udGV4dCgpLmdldEF1dGhlbnRpY2F0aW9uKCkuZ2V0QXV0aG9yaXRpZXMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>

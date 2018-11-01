@@ -627,12 +627,11 @@
         <mark key="." line="21" column="114" />
         <mark key="^" line="21" column="114" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/wy-dbdata.sql" timestamp="1540955093262">
-        <mark key="'" line="31" column="5" />
-        <mark key="[" line="23" column="25" />
-        <mark key="]" line="23" column="15" />
-        <mark key="^" line="23" column="15" />
-        <mark key="." line="23" column="15" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/wy-dbdata.sql" timestamp="1541073504909">
+        <mark key="'" line="29" column="40" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/AggregatingTests.java" timestamp="1539940782842">
         <mark key="[" line="16" column="25" />
@@ -826,11 +825,11 @@
         <mark key="." line="19" column="48" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.1.RELEASE/spring-security-core-5.1.1.RELEASE-sources.jar!/org/springframework/security/core/GrantedAuthority.java" timestamp="1541048452618" />
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Service/TikuService.java" timestamp="1540902801789">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-        <mark key="^" line="89" column="61" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Service/TikuService.java" timestamp="1541072896419">
+        <mark key="[" line="90" column="63" />
+        <mark key="]" line="90" column="44" />
+        <mark key="." line="90" column="44" />
+        <mark key="^" line="90" column="44" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.9.RELEASE/spring-security-config-5.0.9.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.class" timestamp="1540972813398" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.1.RELEASE/spring-security-core-5.1.1.RELEASE-sources.jar!/org/springframework/security/access/intercept/AbstractSecurityInterceptor.java" timestamp="1541009918165" />
@@ -881,14 +880,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1744" column="10" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Thread.java" />
-      <jump line="104" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/main/java/Address.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/AddressTest.java" />
-      <jump line="100" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/AddressTest.java" />
-      <jump line="101" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/AssertTests.java" />
-      <jump line="106" column="1" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/main/java/JunitDemo/Assertions.java" />
-      <jump line="28" column="4" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/ExpectedExceptionTests.java" />
-      <jump line="37" column="4" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/TimeoutTests.java" />
       <jump line="16" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/TimeoutTests.java" />
       <jump line="31" column="21" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/TimeoutTests.java" />
       <jump line="8" column="16" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/Tmp.java" />
@@ -967,7 +958,6 @@
       <jump line="66" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/dto/response/UserReadHistoryObj.java" />
       <jump line="4" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/dto/response/UserAnswerHistoryObj.java" />
       <jump line="11" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/TODO.md" />
-      <jump line="18" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/wy-dbdata.sql" />
       <jump line="31" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/wy-dbdata.sql" />
       <jump line="17" column="3" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/TODO.md" />
       <jump line="15" column="28" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/pom.xml" />
@@ -981,13 +971,22 @@
       <jump line="128" column="33" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.1.RELEASE/spring-security-core-5.1.1.RELEASE-sources.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.java" />
       <jump line="18" column="21" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Config/WebSecurityConfig.java" />
       <jump line="19" column="4" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Config/MyPermissionEvaluator.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/wy-dbdata.sql" />
+      <jump line="18" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/wy-dbdata.sql" />
+      <jump line="12" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/wy-dbdata.sql" />
+      <jump line="28" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/wy-dbdata.sql" />
+      <jump line="17" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/wy-dbdata.sql" />
+      <jump line="25" column="38" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/wy-dbdata.sql" />
+      <jump line="20" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/wy-dbdata.sql" />
+      <jump line="23" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/wy-dbdata.sql" />
+      <jump line="30" column="40" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/wy-dbdata.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">SU5TRVJUIElOVE8gYHVzZXJfc2VjcmV0YCAoYGlkYCwgYHVzZXJJZGAsIGBiY3J5cHRlZFBhc3NgLCBgY3JlYXRlVGltZWAsIGBsYXN0TG9naW5UaW1lYCwgYG1haWxgLCBgcGhvbmVgLCBgdXVpZGApIFZBTFVFUyAoLTIwMCwtMTAwLCczYWZkcycsJzIwMTgtMTAtMjkgMTQ6NTc6MDAnLCcyMDE4LTEwLTI5IDE0OjU3OjAzJywnZmFrZUBleGFtcGxlLmNvbScsJzE1ODg4ODg4ODg4JywndGVzdHV1aWQnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>REPL</text>
@@ -996,31 +995,31 @@
         <text encoding="base64">ICAgICAgICAgICAgYXJyYXlMaXN0LmFkZChuZXcgQXJyYXlMaXN0PD4oQXJyYXlzLmFzTGlzdCgiYSIsImIiLCJjIikpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gYHVzZXJfc2VjcmV0YCAoYGlkYCwgYHVzZXJJZGAsIGBiY3J5cHRlZFBhc3NgLCBgY3JlYXRlVGltZWAsIGBsYXN0TG9naW5UaW1lYCwgYG1haWxgLCBgcGhvbmVgLCBgdXVpZGApIFZBTFVFUyAoLTIwMCwtMTAwLCczYWZkcycsJzIwMTgtMTAtMjkgMTQ6NTc6MDAnLCcyMDE4LTEwLTI5IDE0OjU3OjAzJywnZmFrZUBleGFtcGxlLmNvbScsJzE1ODg4ODg4ODg4JywndGVzdHV1aWQnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJheUxpc3Quc2kK</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gYHVzZXJgIChgaWRgLCBgbmlja05hbWVgLCBgYXZhdGFyYCwgYGNyZWF0ZVRpbWVgLCBgdXBkYXRlVGltZWAsIGBtb3R0b2AsIGB1bmlxdWVJZGApIFZBTFVFUyAoLTEwMCwndGVzdHVzZXInLCdodHRwczovL2ZpbGVzLmNhdGJveC5tb2UvOGw5cHR1LmpwZycsJzIwMTgtMTAtMjYgMTk6MDA6MTInLCcyMDE4LTEwLTI5IDExOjQ5OjQ4JywnbnVsbCcsJ2MzODUyYWRlZDk3NzRiNzg4YzdiZmM0YWE3YmI4YTE3JyksKC0xLCdzeXN0ZW0nLCdub25lJywnMjAxOC0xMC0zMCAxOTozNjozMycsTlVMTCxOVUxMLCdzeXN0ZW0nKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">LyohNDAwMDAgQUxURVIgVEFCTEUgYHRpa3VfbGlua2AgRU5BQkxFIEtFWVMgKi87Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoSW50ZWdlciBpPTA7aTwxMDtpKyspewo=</text>
+        <text encoding="base64">LyohNDAwMDAgQUxURVIgVEFCTEUgYHRpa3VfaXRlbWAgRU5BQkxFIEtFWVMgKi87Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50W117fTsK</text>
+        <text encoding="base64">LyohNDAwMDAgQUxURVIgVEFCTEUgYHRpa3VfaXRlbWAgRU5BQkxFIEtFWVMgKi87Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gYHRpa3VfaXRlbWAgKGBpZGAsIGBuYW1lYCwgYGNvbnRlbnRgLCBgY3JlYXRlVGltZWAsIGB1cGRhdGVUaW1lYCwgYHVwbG9hZFVzZXJgLCBgdW5pcXVlSWRgLCBgdmlkZW9VcmxgLCBgdmlkZW9UaW1lYCwgYGNvdmVyVXJsYCwgYHJlY29tbWVuZE1zZ2ApIFZBTFVFUyAoLTEwMCwn5rWL6K+V6aKY5bqTMScsJ+a1i+ivlemimDHlhoXlrrnml6AnLCcyMDE4LTEwLTI5IDExOjQ3OjUzJywnMjAxOC0xMS0wMSAwNjo1NzozOCcsLTEwMCwndGVzdHRpa3VpdGVtJywnaHR0cDovL3d3dy53M3NjaG9vbC5jb20uY24vaS9tb3ZpZS5vZ2cnLDEwMC4xMzAwMCwnaHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzhsOXB0dS5qcGcnLCd7XCJjb2xvclwiOlwiYmx1ZVwiLFwibWVzc2FnZVwiOlwi5o6o6I2Q5Y6f5Zug5pegXCJ9JyksKC0xLCfns7vnu5/popgnLCd0ZXN0JywnMjAxOC0xMC0zMCAxOTo1NzoyOScsJzIwMTgtMTEtMDEgMTE6Mzc6MjQnLC0xMywnc3lzdGVtJywnaHR0cDovL3d3dy53M3NjaG9vbC5jb20uY24vaS9tb3ZpZS5vZ2cnLDExLjMwMDAwLCdodHRwczovL2ZpbGVzLmNhdGJveC5tb2UvOGw5cHR1LmpwZycsJ3tcImNvbG9yXCI6XCJibHVlXCIsXCJtZXNzYWdlXCI6XCLmjqjojZDljp/lm6Dml6BcIn0nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QEVuYWJsZUdsb2JhbE1ldGhvZFNlY3VyaXR5Cg==</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gYHRpa3VfaXRlbWAgKGBpZGAsIGBuYW1lYCwgYGNvbnRlbnRgLCBgY3JlYXRlVGltZWAsIGB1cGRhdGVUaW1lYCwgYHVwbG9hZFVzZXJgLCBgdW5pcXVlSWRgLCBgdmlkZW9VcmxgLCBgdmlkZW9UaW1lYCwgYGNvdmVyVXJsYCwgYHJlY29tbWVuZE1zZ2ApIFZBTFVFUyAoLTEwMCwn5rWL6K+V6aKY5bqTMScsJ+a1i+ivlemimDHlhoXlrrnml6AnLCcyMDE4LTEwLTI5IDExOjQ3OjUzJywnMjAxOC0xMC0yOSAxMTo0Nzo1NScsLTEwMCwndGVzdHRpa3VpdGVtJywnd3d3LmV4YW1wbGUuY29tL3ZpZGVvJywxMDAuMTMwMDAsJ3d3dy5leGFtcGxlLmNvbS9jb3ZlcicsJ3tcImNvbG9yXCI6XCJibHVlXCIsXCJtZXNzYWdlXCI6XCLmjqjojZDljp/lm6Dml6BcIn0nKSwoLTEsJ+ezu+e7n+mimCcsJ3Rlc3QnLCcyMDE4LTEwLTMwIDE5OjU3OjI5JywnMjAxOC0xMC0zMCAyMDoxNDowMScsLTEzLCdzeXN0ZW0nLE5VTEwsTlVMTCxOVUxMLCd7XCJjb2xvclwiOlwiYmx1ZVwiLFwibWVzc2FnZVwiOlwi5o6o6I2Q5Y6f5Zug5pegXCJ9Jyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvdGVzdC8iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc1JvbGUoJ1VTRVInKSIpCg==</text>
+        <text encoding="base64">UkVQTEFDRSBJTlRPIGB1c2VyYCAoYGlkYCwgYG5pY2tOYW1lYCwgYGF2YXRhcmAsIGBjcmVhdGVUaW1lYCwgYHVwZGF0ZVRpbWVgLCBgbW90dG9gLCBgdW5pcXVlSWRgKSBWQUxVRVMgKC0xMDAsJ3Rlc3R1c2VyJywnaHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzhsOXB0dS5qcGcnLCcyMDE4LTEwLTI2IDE5OjAwOjEyJywnMjAxOC0xMC0yOSAxMTo0OTo0OCcsJ251bGwnLCdjMzg1MmFkZWQ5Nzc0Yjc4OGM3YmZjNGFhN2JiOGExNycpOwo=</text>
       </register>
     </registers>
     <search>

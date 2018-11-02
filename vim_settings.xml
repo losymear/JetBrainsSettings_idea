@@ -438,11 +438,10 @@
       <file name="/Interface.txt.ft" timestamp="1540552073530">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/FinalSecurity/MyAuthentication.java" timestamp="1541152431401">
-        <mark key="[" line="27" column="27" />
-        <mark key="]" line="28" column="24" />
-        <mark key="^" line="28" column="24" />
-        <mark key="." line="28" column="24" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/FinalSecurity/MyAuthentication.java" timestamp="1541155216892">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/FinalSecurity/MyAccessDenied.java" timestamp="1541153229170">
         <mark key="[" line="25" column="0" />
@@ -555,11 +554,11 @@
         <mark key="^" line="28" column="16" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/FinalSecurity/MyAuthenticationProvider.java" timestamp="1541153184726">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="51" column="11" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/FinalSecurity/MyAuthenticationProvider.java" timestamp="1541155242954">
+        <mark key="[" line="49" column="72" />
+        <mark key="]" line="50" column="35" />
+        <mark key="." line="50" column="35" />
+        <mark key="^" line="50" column="35" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/main/java/Guava/package-info.java" timestamp="1540179531840">
         <mark key="[" line="0" column="0" />
@@ -876,7 +875,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRlbmllZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmdldGEK</text>
       </register>
       <register name="-" type="4">
         <text>httpServletResponse</text>
@@ -888,31 +887,31 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgZGlnZXN0ID0gaHR0cFJlcXVlc3QuZ2V0SGVhZGVyKCJkaWdlc3QiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRlbmllZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmdldGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRlbmllZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKChNeUF1dGhlbnRpY2F0aW9uKSBhdXRoZW50aWNhdGlvbikuc2V0VXNlckVudGl0eSh1c2VyUmVwb3NpdG9yeS5maW5kRGlzdGluY3RCeVV1aWQoYXV0aC5nZXRVdWlkKCkpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTXlBdXRoZW50aWNhdGlvbiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXVpZCA9IGF1dGguZ2V0VXVpZCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXVpZCA9IGF1dGguZ2V0VXVpZCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRlbmllZCIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRlbmllZCIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZXsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZih1c2VyPT1udWxsKXsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>

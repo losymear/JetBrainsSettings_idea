@@ -48,9 +48,9 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Controller/TestController.java" timestamp="1541071184004">
-        <mark key="[" line="98" column="62" />
-        <mark key="]" line="98" column="81" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Controller/TestController.java" timestamp="1541124541252">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="30" column="32" />
         <mark key="." line="98" column="81" />
         <mark key="^" line="98" column="81" />
       </file>
@@ -95,10 +95,6 @@
         <mark key="]" line="22" column="34" />
         <mark key="^" line="22" column="34" />
         <mark key="." line="22" column="34" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.1.RELEASE/spring-security-core-5.1.1.RELEASE-sources.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.java" timestamp="1541039648082">
-        <mark key="e" line="97" column="0" />
-        <mark key="'" line="128" column="33" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qu_voice_java/src/main/resources/application.properties" timestamp="1539836306954">
         <mark key="[" line="5" column="3" />
@@ -193,6 +189,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/resources/application-final.properties" timestamp="1541124515207">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/test/java/com/zhiri/qumianshi/Service/TikuServiceTest.java" timestamp="1540955509677">
         <mark key="[" line="57" column="0" />
@@ -911,6 +913,13 @@
         <mark key="." line="11" column="44" />
         <mark key="^" line="11" column="44" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Controller/FinalController1.java" timestamp="1541124816483">
+        <mark key="'" line="13" column="102" />
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="16" column="23" />
+        <mark key="." line="16" column="23" />
+        <mark key="^" line="16" column="23" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Controller/UserController.java" timestamp="1540894426384">
         <mark key="[" line="57" column="37" />
         <mark key="]" line="56" column="29" />
@@ -922,7 +931,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="21" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/TimeoutTests.java" />
       <jump line="8" column="16" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/Tmp.java" />
       <jump line="46" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/Tmp.java" />
       <jump line="10" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/Tmp.java" />
@@ -1022,46 +1030,47 @@
       <jump line="23" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/wy-dbdata.sql" />
       <jump line="30" column="40" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/wy-dbdata.sql" />
       <jump line="25" column="53" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Config/WebSecurityConfig.java" />
+      <jump line="13" column="102" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Controller/FinalController1.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gYHVzZXJfc2VjcmV0YCAoYGlkYCwgYHVzZXJJZGAsIGBiY3J5cHRlZFBhc3NgLCBgY3JlYXRlVGltZWAsIGBsYXN0TG9naW5UaW1lYCwgYG1haWxgLCBgcGhvbmVgLCBgdXVpZGApIFZBTFVFUyAoLTIwMCwtMTAwLCczYWZkcycsJzIwMTgtMTAtMjkgMTQ6NTc6MDAnLCcyMDE4LTEwLTI5IDE0OjU3OjAzJywnZmFrZUBleGFtcGxlLmNvbScsJzE1ODg4ODg4ODg4JywndGVzdHV1aWQnKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>basic</text>
       </register>
       <register name="/" type="4">
         <text>REPL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJyYXlMaXN0LmFkZChuZXcgQXJyYXlMaXN0PD4oQXJyYXlzLmFzTGlzdCgiYSIsImIiLCJjIikpKTsK</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvdGVzdC9wZXJtaXREZWZhdWx0L3N0cmluZyIpCiAgICBwdWJsaWMgU3RyaW5nIGdldFN0cmluZzEoKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gYHVzZXJfc2VjcmV0YCAoYGlkYCwgYHVzZXJJZGAsIGBiY3J5cHRlZFBhc3NgLCBgY3JlYXRlVGltZWAsIGBsYXN0TG9naW5UaW1lYCwgYG1haWxgLCBgcGhvbmVgLCBgdXVpZGApIFZBTFVFUyAoLTIwMCwtMTAwLCczYWZkcycsJzIwMTgtMTAtMjkgMTQ6NTc6MDAnLCcyMDE4LTEwLTI5IDE0OjU3OjAzJywnZmFrZUBleGFtcGxlLmNvbScsJzE1ODg4ODg4ODg4JywndGVzdHV1aWQnKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gYHVzZXJgIChgaWRgLCBgbmlja05hbWVgLCBgYXZhdGFyYCwgYGNyZWF0ZVRpbWVgLCBgdXBkYXRlVGltZWAsIGBtb3R0b2AsIGB1bmlxdWVJZGApIFZBTFVFUyAoLTEwMCwndGVzdHVzZXInLCdodHRwczovL2ZpbGVzLmNhdGJveC5tb2UvOGw5cHR1LmpwZycsJzIwMTgtMTAtMjYgMTk6MDA6MTInLCcyMDE4LTEwLTI5IDExOjQ5OjQ4JywnbnVsbCcsJ2MzODUyYWRlZDk3NzRiNzg4YzdiZmM0YWE3YmI4YTE3JyksKC0xLCdzeXN0ZW0nLCdub25lJywnMjAxOC0xMC0zMCAxOTozNjozMycsTlVMTCxOVUxMLCdzeXN0ZW0nKTsK</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gYHVzZXJfc2VjcmV0YCAoYGlkYCwgYHVzZXJJZGAsIGBiY3J5cHRlZFBhc3NgLCBgY3JlYXRlVGltZWAsIGBsYXN0TG9naW5UaW1lYCwgYG1haWxgLCBgcGhvbmVgLCBgdXVpZGApIFZBTFVFUyAoLTIwMCwtMTAwLCczYWZkcycsJzIwMTgtMTAtMjkgMTQ6NTc6MDAnLCcyMDE4LTEwLTI5IDE0OjU3OjAzJywnZmFrZUBleGFtcGxlLmNvbScsJzE1ODg4ODg4ODg4JywndGVzdHV1aWQnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyohNDAwMDAgQUxURVIgVEFCTEUgYHRpa3VfbGlua2AgRU5BQkxFIEtFWVMgKi87Cg==</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gYHVzZXJgIChgaWRgLCBgbmlja05hbWVgLCBgYXZhdGFyYCwgYGNyZWF0ZVRpbWVgLCBgdXBkYXRlVGltZWAsIGBtb3R0b2AsIGB1bmlxdWVJZGApIFZBTFVFUyAoLTEwMCwndGVzdHVzZXInLCdodHRwczovL2ZpbGVzLmNhdGJveC5tb2UvOGw5cHR1LmpwZycsJzIwMTgtMTAtMjYgMTk6MDA6MTInLCcyMDE4LTEwLTI5IDExOjQ5OjQ4JywnbnVsbCcsJ2MzODUyYWRlZDk3NzRiNzg4YzdiZmM0YWE3YmI4YTE3JyksKC0xLCdzeXN0ZW0nLCdub25lJywnMjAxOC0xMC0zMCAxOTozNjozMycsTlVMTCxOVUxMLCdzeXN0ZW0nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyohNDAwMDAgQUxURVIgVEFCTEUgYHRpa3VfaXRlbWAgRU5BQkxFIEtFWVMgKi87Cg==</text>
+        <text encoding="base64">LyohNDAwMDAgQUxURVIgVEFCTEUgYHRpa3VfbGlua2AgRU5BQkxFIEtFWVMgKi87Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">LyohNDAwMDAgQUxURVIgVEFCTEUgYHRpa3VfaXRlbWAgRU5BQkxFIEtFWVMgKi87Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gYHRpa3VfaXRlbWAgKGBpZGAsIGBuYW1lYCwgYGNvbnRlbnRgLCBgY3JlYXRlVGltZWAsIGB1cGRhdGVUaW1lYCwgYHVwbG9hZFVzZXJgLCBgdW5pcXVlSWRgLCBgdmlkZW9VcmxgLCBgdmlkZW9UaW1lYCwgYGNvdmVyVXJsYCwgYHJlY29tbWVuZE1zZ2ApIFZBTFVFUyAoLTEwMCwn5rWL6K+V6aKY5bqTMScsJ+a1i+ivlemimDHlhoXlrrnml6AnLCcyMDE4LTEwLTI5IDExOjQ3OjUzJywnMjAxOC0xMS0wMSAwNjo1NzozOCcsLTEwMCwndGVzdHRpa3VpdGVtJywnaHR0cDovL3d3dy53M3NjaG9vbC5jb20uY24vaS9tb3ZpZS5vZ2cnLDEwMC4xMzAwMCwnaHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzhsOXB0dS5qcGcnLCd7XCJjb2xvclwiOlwiYmx1ZVwiLFwibWVzc2FnZVwiOlwi5o6o6I2Q5Y6f5Zug5pegXCJ9JyksKC0xLCfns7vnu5/popgnLCd0ZXN0JywnMjAxOC0xMC0zMCAxOTo1NzoyOScsJzIwMTgtMTEtMDEgMTE6Mzc6MjQnLC0xMywnc3lzdGVtJywnaHR0cDovL3d3dy53M3NjaG9vbC5jb20uY24vaS9tb3ZpZS5vZ2cnLDExLjMwMDAwLCdodHRwczovL2ZpbGVzLmNhdGJveC5tb2UvOGw5cHR1LmpwZycsJ3tcImNvbG9yXCI6XCJibHVlXCIsXCJtZXNzYWdlXCI6XCLmjqjojZDljp/lm6Dml6BcIn0nKTsK</text>
+        <text encoding="base64">LyohNDAwMDAgQUxURVIgVEFCTEUgYHRpa3VfaXRlbWAgRU5BQkxFIEtFWVMgKi87Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gYHRpa3VfaXRlbWAgKGBpZGAsIGBuYW1lYCwgYGNvbnRlbnRgLCBgY3JlYXRlVGltZWAsIGB1cGRhdGVUaW1lYCwgYHVwbG9hZFVzZXJgLCBgdW5pcXVlSWRgLCBgdmlkZW9VcmxgLCBgdmlkZW9UaW1lYCwgYGNvdmVyVXJsYCwgYHJlY29tbWVuZE1zZ2ApIFZBTFVFUyAoLTEwMCwn5rWL6K+V6aKY5bqTMScsJ+a1i+ivlemimDHlhoXlrrnml6AnLCcyMDE4LTEwLTI5IDExOjQ3OjUzJywnMjAxOC0xMC0yOSAxMTo0Nzo1NScsLTEwMCwndGVzdHRpa3VpdGVtJywnd3d3LmV4YW1wbGUuY29tL3ZpZGVvJywxMDAuMTMwMDAsJ3d3dy5leGFtcGxlLmNvbS9jb3ZlcicsJ3tcImNvbG9yXCI6XCJibHVlXCIsXCJtZXNzYWdlXCI6XCLmjqjojZDljp/lm6Dml6BcIn0nKSwoLTEsJ+ezu+e7n+mimCcsJ3Rlc3QnLCcyMDE4LTEwLTMwIDE5OjU3OjI5JywnMjAxOC0xMC0zMCAyMDoxNDowMScsLTEzLCdzeXN0ZW0nLE5VTEwsTlVMTCxOVUxMLCd7XCJjb2xvclwiOlwiYmx1ZVwiLFwibWVzc2FnZVwiOlwi5o6o6I2Q5Y6f5Zug5pegXCJ9Jyk7Cg==</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gYHRpa3VfaXRlbWAgKGBpZGAsIGBuYW1lYCwgYGNvbnRlbnRgLCBgY3JlYXRlVGltZWAsIGB1cGRhdGVUaW1lYCwgYHVwbG9hZFVzZXJgLCBgdW5pcXVlSWRgLCBgdmlkZW9VcmxgLCBgdmlkZW9UaW1lYCwgYGNvdmVyVXJsYCwgYHJlY29tbWVuZE1zZ2ApIFZBTFVFUyAoLTEwMCwn5rWL6K+V6aKY5bqTMScsJ+a1i+ivlemimDHlhoXlrrnml6AnLCcyMDE4LTEwLTI5IDExOjQ3OjUzJywnMjAxOC0xMS0wMSAwNjo1NzozOCcsLTEwMCwndGVzdHRpa3VpdGVtJywnaHR0cDovL3d3dy53M3NjaG9vbC5jb20uY24vaS9tb3ZpZS5vZ2cnLDEwMC4xMzAwMCwnaHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzhsOXB0dS5qcGcnLCd7XCJjb2xvclwiOlwiYmx1ZVwiLFwibWVzc2FnZVwiOlwi5o6o6I2Q5Y6f5Zug5pegXCJ9JyksKC0xLCfns7vnu5/popgnLCd0ZXN0JywnMjAxOC0xMC0zMCAxOTo1NzoyOScsJzIwMTgtMTEtMDEgMTE6Mzc6MjQnLC0xMywnc3lzdGVtJywnaHR0cDovL3d3dy53M3NjaG9vbC5jb20uY24vaS9tb3ZpZS5vZ2cnLDExLjMwMDAwLCdodHRwczovL2ZpbGVzLmNhdGJveC5tb2UvOGw5cHR1LmpwZycsJ3tcImNvbG9yXCI6XCJibHVlXCIsXCJtZXNzYWdlXCI6XCLmjqjojZDljp/lm6Dml6BcIn0nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gYHRpa3VfaXRlbWAgKGBpZGAsIGBuYW1lYCwgYGNvbnRlbnRgLCBgY3JlYXRlVGltZWAsIGB1cGRhdGVUaW1lYCwgYHVwbG9hZFVzZXJgLCBgdW5pcXVlSWRgLCBgdmlkZW9VcmxgLCBgdmlkZW9UaW1lYCwgYGNvdmVyVXJsYCwgYHJlY29tbWVuZE1zZ2ApIFZBTFVFUyAoLTEwMCwn5rWL6K+V6aKY5bqTMScsJ+a1i+ivlemimDHlhoXlrrnml6AnLCcyMDE4LTEwLTI5IDExOjQ3OjUzJywnMjAxOC0xMC0yOSAxMTo0Nzo1NScsLTEwMCwndGVzdHRpa3VpdGVtJywnd3d3LmV4YW1wbGUuY29tL3ZpZGVvJywxMDAuMTMwMDAsJ3d3dy5leGFtcGxlLmNvbS9jb3ZlcicsJ3tcImNvbG9yXCI6XCJibHVlXCIsXCJtZXNzYWdlXCI6XCLmjqjojZDljp/lm6Dml6BcIn0nKSwoLTEsJ+ezu+e7n+mimCcsJ3Rlc3QnLCcyMDE4LTEwLTMwIDE5OjU3OjI5JywnMjAxOC0xMC0zMCAyMDoxNDowMScsLTEzLCdzeXN0ZW0nLE5VTEwsTlVMTCxOVUxMLCd7XCJjb2xvclwiOlwiYmx1ZVwiLFwibWVzc2FnZVwiOlwi5o6o6I2Q5Y6f5Zug5pegXCJ9Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UkVQTEFDRSBJTlRPIGB1c2VyYCAoYGlkYCwgYG5pY2tOYW1lYCwgYGF2YXRhcmAsIGBjcmVhdGVUaW1lYCwgYHVwZGF0ZVRpbWVgLCBgbW90dG9gLCBgdW5pcXVlSWRgKSBWQUxVRVMgKC0xMDAsJ3Rlc3R1c2VyJywnaHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzhsOXB0dS5qcGcnLCcyMDE4LTEwLTI2IDE5OjAwOjEyJywnMjAxOC0xMC0yOSAxMTo0OTo0OCcsJ251bGwnLCdjMzg1MmFkZWQ5Nzc0Yjc4OGM3YmZjNGFhN2JiOGExNycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>

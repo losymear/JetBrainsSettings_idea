@@ -85,11 +85,11 @@
         <mark key="." line="13" column="43" />
         <mark key="^" line="13" column="43" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/pom.xml" timestamp="1541137463295">
-        <mark key="[" line="58" column="21" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="58" column="20" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/pom.xml" timestamp="1541138424049">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="17" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/CHANGELOG.md" timestamp="1540894229558">
         <mark key="'" line="8" column="41" />
@@ -424,7 +424,7 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Config/MyPermissionEvaluator.java" timestamp="1541071608636">
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Config/MyPermissionEvaluator.java" timestamp="1541139043271">
         <mark key="[" line="9" column="39" />
         <mark key="]" line="10" column="26" />
         <mark key="^" line="10" column="26" />
@@ -534,11 +534,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Repository/UserRepository.java" timestamp="1541137301907">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="8" column="31" />
-        <mark key="." line="8" column="31" />
-        <mark key="^" line="8" column="31" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Repository/UserRepository.java" timestamp="1541139034836">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="10" column="10" />
+        <mark key="^" line="10" column="10" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/pom.xml" timestamp="1541077717111">
         <mark key="'" line="15" column="28" />
@@ -870,7 +870,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="22" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/TimeoutTests.java" />
       <jump line="1" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/Tmp.java" />
       <jump line="70" column="13" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Arrays.java" />
       <jump line="15" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/main/java/JunitDemo/MyList.java" />
@@ -970,6 +969,7 @@
       <jump line="33" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/FinalSecurity/CustomAuthenticationProvider.java" />
       <jump line="34" column="14" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/FinalSecurity/AuthenticationTokenFilter.java" />
       <jump line="64" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/pom.xml" />
+      <jump line="68" column="17" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -979,7 +979,7 @@
         <text encoding="base64">VXNlckRldGFpbHNTZXJ2aWNlIA==</text>
       </register>
       <register name="/" type="4">
-        <text>res</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHVibGljIGNsYXNzIFVzZXJEZXRhaWxzU2VydmljZUltcGwgaW1wbGVtZW50cyBVc2VyRGV0YWlsc1NlcnZpY2Ugewo=</text>
@@ -1013,16 +1013,14 @@
       </register>
     </registers>
     <search>
-      <last-search>res</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>res</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>done</entry>
-        <entry>while</entry>
         <entry>await</entry>
         <entry>iml</entry>
         <entry>misc</entry>
@@ -1041,6 +1039,8 @@
         <entry>INSERT</entry>
         <entry>REPL</entry>
         <entry>res</entry>
+        <entry>sur</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd />
       <history-expr />

@@ -374,6 +374,13 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/cap-dbdata.sql" timestamp="1541076706947">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/FinalSecurity/AuthenticationTokenFilter.java" timestamp="1541131360640">
+        <mark key="'" line="40" column="14" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="34" column="19" />
+        <mark key="." line="34" column="19" />
+        <mark key="^" line="34" column="19" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/main/java/Guava/CompareAndOrder/OrderedFoo.java" timestamp="1540285814045">
         <mark key="[" line="14" column="5" />
         <mark key="]" line="15" column="18" />
@@ -441,9 +448,10 @@
         <mark key="^" line="31" column="35" />
         <mark key="." line="31" column="35" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/FinalSecurity/CustomAuthenticationProvider.java" timestamp="1541129604751">
-        <mark key="[" line="31" column="15" />
-        <mark key="]" line="31" column="18" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/FinalSecurity/CustomAuthenticationProvider.java" timestamp="1541130817299">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="63" />
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
@@ -579,12 +587,6 @@
         <mark key="." line="21" column="114" />
         <mark key="^" line="21" column="114" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/wy-dbdata.sql" timestamp="1541073504909">
-        <mark key="'" line="29" column="40" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/AggregatingTests.java" timestamp="1539940782842">
         <mark key="[" line="16" column="25" />
         <mark key="]" line="9" column="25" />
@@ -616,6 +618,12 @@
         <mark key="]" line="14" column="25" />
         <mark key="." line="14" column="25" />
         <mark key="^" line="14" column="25" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/FinalSecurity/UserDetailsServiceImpl.java" timestamp="1541131388588">
+        <mark key="[" line="10" column="67" />
+        <mark key="]" line="10" column="64" />
+        <mark key="^" line="10" column="64" />
+        <mark key="." line="10" column="64" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/application.properties" timestamp="1540976867183">
         <mark key="'" line="8" column="24" />
@@ -754,6 +762,9 @@
         <mark key="." line="26" column="14" />
         <mark key="^" line="26" column="14" />
       </file>
+      <file name="/Dummy.txt" timestamp="1541131501127">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/TestFixturesExample.java" timestamp="1539969363022">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="71" column="0" />
@@ -842,13 +853,11 @@
         <mark key="." line="56" column="29" />
         <mark key="^" line="56" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1541129215080">
+      <file name="/fragment.java" timestamp="1541131413366">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="16" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/Tmp.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/Tmp.java" />
       <jump line="10" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/Tmp.java" />
       <jump line="11" column="22" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/TimeoutTests.java" />
       <jump line="1" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/junit4/src/test/java/JunitDemo/Tmp.java" />
@@ -947,58 +956,59 @@
       <jump line="30" column="40" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/wy-dbdata.sql" />
       <jump line="25" column="53" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Config/WebSecurityConfig.java" />
       <jump line="13" column="102" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Controller/FinalController1.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/FinalSecurity/CustomAuthenticationProvider.java" />
+      <jump line="34" column="14" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/FinalSecurity/AuthenticationTokenFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>au</text>
       </register>
       <register name="/" type="4">
-        <text>REPL</text>
+        <text>res</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25Qcm9wZXJ0eShuYW1lID0gInRlc3RGb3IiLCBoYXZpbmdWYWx1ZSA9ICJmaW5hbCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXVpZCA9IGh0dHBSZXF1ZXN0LmdldEhlYWRlcigidXVpZCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5jb25maWd1cmUoYXV0aCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwLmFkZEZpbHRlckJlZm9yZShNeUF1dGhPbmNlUGVyUmVxdWVzdEZpbHRlci5jbGFzcywpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAg5L2c6ICF77yad2VhbumFsQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbnRNYXRjaGVycygiL3Blcm1pdEFsbCIpLnBlcm1pdEFsbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAg6ZO+5o6l77yaaHR0cHM6Ly9qdWVqaW4uaW0vcG9zdC81OWQ1YmJlYmYyNjVkYTA2NmMyMzNkMGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hdXRob3JpemVSZXF1ZXN0cygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAg6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CCCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAg5p2l5rqQ77ya5o6Y6YeRCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbnRtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbnRNYXRjaGVycygiLyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAg6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CCCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAg5p2l5rqQ77ya5o6Y6YeRCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>REPL</last-search>
+      <last-search>res</last-search>
       <last-offset />
-      <last-pattern>REPL</last-pattern>
+      <last-pattern>res</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Sol</entry>
         <entry>done</entry>
         <entry>while</entry>
         <entry>await</entry>
@@ -1018,6 +1028,7 @@
         <entry>createtime</entry>
         <entry>INSERT</entry>
         <entry>REPL</entry>
+        <entry>res</entry>
       </history-search>
       <history-cmd />
       <history-expr />

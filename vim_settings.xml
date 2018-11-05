@@ -170,12 +170,12 @@
         <mark key="^" line="16" column="50" />
         <mark key="." line="16" column="50" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/log4j2.yaml" timestamp="1541385499481">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/log4j2.yaml" timestamp="1541398005023">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="48" column="13" />
-        <mark key="]" line="48" column="17" />
-        <mark key="." line="48" column="17" />
-        <mark key="^" line="48" column="17" />
+        <mark key="[" line="49" column="13" />
+        <mark key="]" line="49" column="16" />
+        <mark key="." line="49" column="16" />
+        <mark key="^" line="49" column="16" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Component/Utils.java" timestamp="1540885098608">
         <mark key="[" line="10" column="20" />
@@ -582,12 +582,12 @@
         <mark key="^" line="18" column="13" />
         <mark key="." line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/test-dbdata.sql" timestamp="1541393630413">
-        <mark key="'" line="49" column="9" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="68" column="17" />
-        <mark key="^" line="68" column="17" />
-        <mark key="." line="68" column="17" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/test-dbdata.sql" timestamp="1541398079753">
+        <mark key="'" line="71" column="17" />
+        <mark key="[" line="59" column="21" />
+        <mark key="]" line="72" column="27" />
+        <mark key="^" line="72" column="27" />
+        <mark key="." line="72" column="27" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/FinalSecurity/MyAccessDenied.java" timestamp="1541382174383">
         <mark key="[" line="14" column="16" />
@@ -1061,7 +1061,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/test/java/Guava/StringUtilitiesTest.java" />
       <jump line="44" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_jiava/pom.xml" />
       <jump line="13" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_jiava/src/main/resources/log4j2.yaml" />
       <jump line="19" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_jiava/src/main/resources/log4j2.yaml" />
@@ -1161,19 +1160,20 @@
       <jump line="49" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/test-dbdata.sql" />
       <jump line="65" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Configuration/security/MyAccessDecisionVoter.java" />
       <jump line="69" column="40" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Configuration/security/MyAccessDecisionVoter.java" />
+      <jump line="68" column="17" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/test-dbdata.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LSBbIF0gbWQ15qCh6aqMCg==</text>
+      <register name="&quot;" type="4">
+        <text>debug</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hY2Nlc3NEZWNpc2lvbk1hbmFnZXIobmV3IEFmZmlybWF0aXZlQmFzZWQoZGVjaXNpb25Wb3RlcnMpKQo=</text>
+        <text encoding="base64">ICAgICAgbGV2ZWw6IGRlYnVnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LSBbIF0gbWQ15qCh6aqMCg==</text>

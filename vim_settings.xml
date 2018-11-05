@@ -573,14 +573,12 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Controller/TestController.java" timestamp="1541420164394">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Controller/TestController.java" timestamp="1541421921662">
         <mark key="s" line="47" column="26" />
-        <mark key="'" line="43" column="26" />
         <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="40" />
         <mark key="m" line="43" column="26" />
-        <mark key="." line="48" column="11" />
-        <mark key="^" line="48" column="11" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/Repository/UserRoleRepository.java" timestamp="1541384176048">
         <mark key="[" line="27" column="0" />
@@ -1199,7 +1197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/dto/response/UserReadHistoryObj.java" />
       <jump line="21" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/dto/response/UserReadHistoryObj.java" />
       <jump line="23" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/dto/response/UserReadHistoryObj.java" />
       <jump line="25" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/dto/response/UserReadHistoryObj.java" />
@@ -1295,14 +1292,15 @@
       <jump line="78" column="32" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/dto/view/BasicTikuItem.java" />
       <jump line="49" column="37" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/dto/response/UserReadHistoryObj.java" />
       <jump line="50" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Controller/TestController.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Controller/TestController.java" />
       <jump line="48" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Controller/TestController.java" />
       <jump line="47" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Controller/TestController.java" />
       <jump line="43" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Controller/TestController.java" />
+      <jump line="45" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Controller/TestController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Controller/TestController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZnNhZGYgZAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1314,31 +1312,31 @@
         <text encoding="base64">ICAgIEBRdWVyeSh2YWx1ZSA9ICJTRUxFQ1QgbmV3IGNvbS56aGlyaS5xdW1pYW5zaGkuZHRvLnJlc3BvbnNlLlVzZXJSZWFkSGlzdG9yeU9iaiIgKwogICAgICAgICAgICAiKHQyLm5hbWUsdDIuY29udGVudCx0My51bmlxdWVJZCx0Mi51bmlxdWVJZCx0Mi52aWRlb1VybCx0Mi52aWRlb1RpbWUsdDIuY292ZXJVcmwsdDEuY3JlYXRlVGltZSx0Mi5yZWNvbW1lbmRNc2cpICIgKwogICAgICAgICAgICAiZnJvbSBVc2VyUXVlc3Rpb25SZWFkSGlzdG9yeUVudGl0eSB0MSBpbm5lciBqb2luIFRpa3VJdGVtRW50aXR5IHQyIG9uIHQxLnF1ZXN0aW9uSWQ9dDIuaWQiICsKICAgICAgICAgICAgIiAgbGVmdCBqb2luIFVzZXJFbnRpdHkgdDMgb24gdDIudXBsb2FkVXNlciA9IHQzLmlkIGFuZCB0MS51c2VySWQ9PzEgb3JkZXIgYnkgdDIuY3JlYXRlVGltZSBkZXNjIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIih0Mi5uYW1lLHQyLmNvbnRlbnQsdDMudW5pcXVlSWQsdDIuKSAiICsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZnNhZGYgZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihxdWVzdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZmFzZGYgYXNkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDnlKjmiLfkuI3lrZjlnKjml7blpoLkvZXlpITnkIbvvJ8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIih0Mi5uYW1lLHQyLmNvbnRlbnQsdDMudW5pcXVlSWQsdDIuKSAiICsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihxdWVzdGlvbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5zZXJ0IGlnbm9yZSBpbnRvIGB0aWt1X2l0ZW1gIHZhbHVlcyAoLTEwMCwgJ2V3cScsICdxd2UnLCAnMjAxOC0xMC0yOSAxNjoyNDoyMicsIG51bGwsIC0xMDAsICdxd2UnLCBudWxsLCBudWxsLCBudWxsLCAne1wiY29sb3JcIjpcImJsdWVcIixcIm1lc3NhZ2VcIjpcIuaOqOiNkOWOn+WboOaXoFwifScpOwppbnNlcnQgaWdub3JlIGludG8gYHRpa3VfaXRlbWAgdmFsdWVzICgtMTAxLCAncXdlJywgJ2V3cScsICcyMDE4LTEwLTMwIDE5OjUwOjQ5JywgbnVsbCwgLTEwMCwgJ3d3dycsIG51bGwsIG51bGwsIG51bGwsICd7XCJjb2xvclwiOlwiYmx1ZVwiLFwibWVzc2FnZVwiOlwi5o6o6I2Q5Y6f5Zug5pegXCJ9Jyk7Cmluc2VydCBpbnRvIGB0aWt1X2l0ZW1gIChgaWRgLCBgbmFtZWAsIGBjb250ZW50YCwgYGNyZWF0ZXRpbWVgLCBgdXBkYXRldGltZWAsIGB1cGxvYWR1c2VyYCwgYHVuaXF1ZWlkYCwgYHZpZGVvdXJsYCwgYHZpZGVvdGltZWAsIGBjb3ZlcnVybGAsIGByZWNvbW1lbmRtc2dgKSB2YWx1ZXMgKC04MDAsJ+a1i+ivlemimOW6kzEnLCfmtYvor5Xpopgx5YaF5a655pegJywnMjAxOC0xMC0yOSAxMTo0Nzo1MycsJzIwMTgtMTEtMDEgMDY6NTc6MzgnLC04MDAsJ3Rlc3R0aWt1aXRlbScsJ2h0dHA6Ly93d3cudzNzY2hvb2wuY29tLmNuL2kvbW92aWUub2dnJywxMDAuMTMwMDAsJ2h0dHBzOi8vZmlsZXMuY2F0Ym94Lm1vZS84bDlwdHUuanBnJywne1wiY29sb3JcIjpcImJsdWVcIixcIm1lc3NhZ2VcIjpcIuaOqOiNkOWOn+WboOaXoFwifScpLCgtMSwn57O757uf6aKYJywndGVzdCcsJzIwMTgtMTAtMzAgMTk6NTc6MjknLCcyMDE4LTExLTAxIDExOjM3OjI0JywtMSwnc3lzdGVtJywnaHR0cDovL3d3dy53M3NjaG9vbC5jb20uY24vaS9tb3ZpZS5vZ2cnLDExLjMwMDAwLCdodHRwczovL2ZpbGVzLmNhdGJveC5tb2UvOGw5cHR1LmpwZycsJ3tcImNvbG9yXCI6XCJibHVlXCIsXCJtZXNzYWdlXCI6XCLmjqjojZDljp/lm6Dml6BcIn0nKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDnlKjmiLfkuI3lrZjlnKjml7blpoLkvZXlpITnkIbvvJ8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFRyYW5zYWN0aW9uYWwK</text>
+        <text encoding="base64">ICogQAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFVzZXJSZWFkSGlzdG9yeU9iaj4gdXNlclJlYWRIaXN0b3J5T2JqcyA9IHVzZXJTZXJ2aWNlLmdldFVzZXJSZWFkSGlzdG9yeSgidGVzdHV1aWQiKTsK</text>
+        <text encoding="base64">aW5zZXJ0IGlnbm9yZSBpbnRvIGB0aWt1X2l0ZW1gIHZhbHVlcyAoLTEwMCwgJ2V3cScsICdxd2UnLCAnMjAxOC0xMC0yOSAxNjoyNDoyMicsIG51bGwsIC0xMDAsICdxd2UnLCBudWxsLCBudWxsLCBudWxsLCAne1wiY29sb3JcIjpcImJsdWVcIixcIm1lc3NhZ2VcIjpcIuaOqOiNkOWOn+WboOaXoFwifScpOwppbnNlcnQgaWdub3JlIGludG8gYHRpa3VfaXRlbWAgdmFsdWVzICgtMTAxLCAncXdlJywgJ2V3cScsICcyMDE4LTEwLTMwIDE5OjUwOjQ5JywgbnVsbCwgLTEwMCwgJ3d3dycsIG51bGwsIG51bGwsIG51bGwsICd7XCJjb2xvclwiOlwiYmx1ZVwiLFwibWVzc2FnZVwiOlwi5o6o6I2Q5Y6f5Zug5pegXCJ9Jyk7Cmluc2VydCBpbnRvIGB0aWt1X2l0ZW1gIChgaWRgLCBgbmFtZWAsIGBjb250ZW50YCwgYGNyZWF0ZXRpbWVgLCBgdXBkYXRldGltZWAsIGB1cGxvYWR1c2VyYCwgYHVuaXF1ZWlkYCwgYHZpZGVvdXJsYCwgYHZpZGVvdGltZWAsIGBjb3ZlcnVybGAsIGByZWNvbW1lbmRtc2dgKSB2YWx1ZXMgKC04MDAsJ+a1i+ivlemimOW6kzEnLCfmtYvor5Xpopgx5YaF5a655pegJywnMjAxOC0xMC0yOSAxMTo0Nzo1MycsJzIwMTgtMTEtMDEgMDY6NTc6MzgnLC04MDAsJ3Rlc3R0aWt1aXRlbScsJ2h0dHA6Ly93d3cudzNzY2hvb2wuY29tLmNuL2kvbW92aWUub2dnJywxMDAuMTMwMDAsJ2h0dHBzOi8vZmlsZXMuY2F0Ym94Lm1vZS84bDlwdHUuanBnJywne1wiY29sb3JcIjpcImJsdWVcIixcIm1lc3NhZ2VcIjpcIuaOqOiNkOWOn+WboOaXoFwifScpLCgtMSwn57O757uf6aKYJywndGVzdCcsJzIwMTgtMTAtMzAgMTk6NTc6MjknLCcyMDE4LTExLTAxIDExOjM3OjI0JywtMSwnc3lzdGVtJywnaHR0cDovL3d3dy53M3NjaG9vbC5jb20uY24vaS9tb3ZpZS5vZ2cnLDExLjMwMDAwLCdodHRwczovL2ZpbGVzLmNhdGJveC5tb2UvOGw5cHR1LmpwZycsJ3tcImNvbG9yXCI6XCJibHVlXCIsXCJtZXNzYWdlXCI6XCLmjqjojZDljp/lm6Dml6BcIn0nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1Cg==</text>
+        <text encoding="base64">QFRyYW5zYWN0aW9uYWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNeUF1dGhlbnRpY2F0aW9uIHJldHVybkF1dGggPSBuZXcgTXlBdXRoZW50aWNhdGlvbihteUdyYW50ZWRBdXRob3JpdGllcywgdXNlckFsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFVzZXJSZWFkSGlzdG9yeU9iaj4gdXNlclJlYWRIaXN0b3J5T2JqcyA9IHVzZXJTZXJ2aWNlLmdldFVzZXJSZWFkSGlzdG9yeSgidGVzdHV1aWQiKTsK</text>
       </register>
     </registers>
     <search>
@@ -1387,6 +1385,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

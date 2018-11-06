@@ -204,7 +204,6 @@
         <mark key="." line="20" column="60" />
         <mark key="^" line="20" column="60" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.1.1.RELEASE/spring-security-config-5.1.1.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" timestamp="1541129702860" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Component/SwaggerConfig.java" timestamp="1541404925500">
         <mark key="[" line="28" column="39" />
         <mark key="]" line="28" column="49" />
@@ -474,12 +473,12 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/TODO.md" timestamp="1541481069713">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/TODO.md" timestamp="1541481877820">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="8" column="13" />
-        <mark key="^" line="8" column="13" />
-        <mark key="." line="8" column="13" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="21" />
+        <mark key="^" line="10" column="9" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/FinalSecurity/UserDetailsServiceImpl.java" timestamp="1541137384164">
         <mark key="[" line="11" column="36" />
@@ -684,7 +683,6 @@
         <mark key="^" line="29" column="1076" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/FinalSecurity/MyAuthentication.java" timestamp="1541384351843" />
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/FinalSecurity/MyAccessDenied.java" timestamp="1541382174383">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="21" />
@@ -764,7 +762,6 @@
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/dto/request/UserAnswerBindVideoObj.java" timestamp="1541241084015" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/test/java/com/zhiri/qumianshi/Service/TikuServiceTest.java" timestamp="1541239824859">
         <mark key="[" line="71" column="53" />
         <mark key="]" line="72" column="24" />
@@ -975,7 +972,6 @@
         <mark key="." line="14" column="32" />
         <mark key="^" line="14" column="32" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.1.1.RELEASE/spring-security-web-5.1.1.RELEASE.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.class" timestamp="1541226507106" />
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/springsecurity/src/main/java/com/losymear/springsecurity/FinalSecurity/MyAccess403.java" timestamp="1541147232746">
         <mark key="[" line="13" column="58" />
         <mark key="]" line="13" column="55" />
@@ -1146,7 +1142,6 @@
         <mark key="^" line="21" column="15" />
         <mark key="." line="21" column="15" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Interceptor/UserAdapter.java" timestamp="1541414730688" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/dto/response/TikuItemWithSystemAnswer.java" timestamp="1540611108136">
         <mark key="[" line="19" column="32" />
         <mark key="]" line="19" column="48" />
@@ -1306,7 +1301,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LSBbIF0g5re75Yqg5LiA5Lqb6YWN572u77yMbG9nNGoy562JCi0gWyBdIHNlY3VyaXR5IHJlY29yZAotIFsgXSByZWNvbW1lbmRNc2fmmK/kuIDkuKrliJfooagK</text>
+        <text encoding="base64">LSBbIF0gc2VjdXJpdHkgcmVjb3JkCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1318,31 +1313,31 @@
         <text encoding="base64">ICAgIEBRdWVyeSh2YWx1ZSA9ICJTRUxFQ1QgbmV3IGNvbS56aGlyaS5xdW1pYW5zaGkuZHRvLnJlc3BvbnNlLlVzZXJSZWFkSGlzdG9yeU9iaiIgKwogICAgICAgICAgICAiKHQyLm5hbWUsdDIuY29udGVudCx0My51bmlxdWVJZCx0Mi51bmlxdWVJZCx0Mi52aWRlb1VybCx0Mi52aWRlb1RpbWUsdDIuY292ZXJVcmwsdDEuY3JlYXRlVGltZSx0Mi5yZWNvbW1lbmRNc2cpICIgKwogICAgICAgICAgICAiZnJvbSBVc2VyUXVlc3Rpb25SZWFkSGlzdG9yeUVudGl0eSB0MSBpbm5lciBqb2luIFRpa3VJdGVtRW50aXR5IHQyIG9uIHQxLnF1ZXN0aW9uSWQ9dDIuaWQiICsKICAgICAgICAgICAgIiAgbGVmdCBqb2luIFVzZXJFbnRpdHkgdDMgb24gdDIudXBsb2FkVXNlciA9IHQzLmlkIGFuZCB0MS51c2VySWQ9PzEgb3JkZXIgYnkgdDIuY3JlYXRlVGltZSBkZXNjIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBbIF0g5re75Yqg5LiA5Lqb6YWN572u77yMbG9nNGoy562JCi0gWyBdIHNlY3VyaXR5IHJlY29yZAotIFsgXSByZWNvbW1lbmRNc2fmmK/kuIDkuKrliJfooagK</text>
+        <text encoding="base64">LSBbIF0gc2VjdXJpdHkgcmVjb3JkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZnNhZGYgZAo=</text>
+        <text encoding="base64">LSBbIF0gcmVjb21tZW5kTXNn5piv5LiA5Liq5YiX6KGoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZmFzZGYgYXNkCg==</text>
+        <text encoding="base64">LSBbIF0g5re75Yqg5LiA5Lqb6YWN572u77yMbG9nNGoy562JCi0gWyBdIHNlY3VyaXR5IHJlY29yZAotIFsgXSByZWNvbW1lbmRNc2fmmK/kuIDkuKrliJfooagK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIih0Mi5uYW1lLHQyLmNvbnRlbnQsdDMudW5pcXVlSWQsdDIuKSAiICsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZnNhZGYgZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihxdWVzdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZmFzZGYgYXNkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDnlKjmiLfkuI3lrZjlnKjml7blpoLkvZXlpITnkIbvvJ8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIih0Mi5uYW1lLHQyLmNvbnRlbnQsdDMudW5pcXVlSWQsdDIuKSAiICsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihxdWVzdGlvbik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5zZXJ0IGlnbm9yZSBpbnRvIGB0aWt1X2l0ZW1gIHZhbHVlcyAoLTEwMCwgJ2V3cScsICdxd2UnLCAnMjAxOC0xMC0yOSAxNjoyNDoyMicsIG51bGwsIC0xMDAsICdxd2UnLCBudWxsLCBudWxsLCBudWxsLCAne1wiY29sb3JcIjpcImJsdWVcIixcIm1lc3NhZ2VcIjpcIuaOqOiNkOWOn+WboOaXoFwifScpOwppbnNlcnQgaWdub3JlIGludG8gYHRpa3VfaXRlbWAgdmFsdWVzICgtMTAxLCAncXdlJywgJ2V3cScsICcyMDE4LTEwLTMwIDE5OjUwOjQ5JywgbnVsbCwgLTEwMCwgJ3d3dycsIG51bGwsIG51bGwsIG51bGwsICd7XCJjb2xvclwiOlwiYmx1ZVwiLFwibWVzc2FnZVwiOlwi5o6o6I2Q5Y6f5Zug5pegXCJ9Jyk7Cmluc2VydCBpbnRvIGB0aWt1X2l0ZW1gIChgaWRgLCBgbmFtZWAsIGBjb250ZW50YCwgYGNyZWF0ZXRpbWVgLCBgdXBkYXRldGltZWAsIGB1cGxvYWR1c2VyYCwgYHVuaXF1ZWlkYCwgYHZpZGVvdXJsYCwgYHZpZGVvdGltZWAsIGBjb3ZlcnVybGAsIGByZWNvbW1lbmRtc2dgKSB2YWx1ZXMgKC04MDAsJ+a1i+ivlemimOW6kzEnLCfmtYvor5Xpopgx5YaF5a655pegJywnMjAxOC0xMC0yOSAxMTo0Nzo1MycsJzIwMTgtMTEtMDEgMDY6NTc6MzgnLC04MDAsJ3Rlc3R0aWt1aXRlbScsJ2h0dHA6Ly93d3cudzNzY2hvb2wuY29tLmNuL2kvbW92aWUub2dnJywxMDAuMTMwMDAsJ2h0dHBzOi8vZmlsZXMuY2F0Ym94Lm1vZS84bDlwdHUuanBnJywne1wiY29sb3JcIjpcImJsdWVcIixcIm1lc3NhZ2VcIjpcIuaOqOiNkOWOn+WboOaXoFwifScpLCgtMSwn57O757uf6aKYJywndGVzdCcsJzIwMTgtMTAtMzAgMTk6NTc6MjknLCcyMDE4LTExLTAxIDExOjM3OjI0JywtMSwnc3lzdGVtJywnaHR0cDovL3d3dy53M3NjaG9vbC5jb20uY24vaS9tb3ZpZS5vZ2cnLDExLjMwMDAwLCdodHRwczovL2ZpbGVzLmNhdGJveC5tb2UvOGw5cHR1LmpwZycsJ3tcImNvbG9yXCI6XCJibHVlXCIsXCJtZXNzYWdlXCI6XCLmjqjojZDljp/lm6Dml6BcIn0nKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDnlKjmiLfkuI3lrZjlnKjml7blpoLkvZXlpITnkIbvvJ8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFRyYW5zYWN0aW9uYWwK</text>
+        <text encoding="base64">ICogQAo=</text>
       </register>
     </registers>
     <search>

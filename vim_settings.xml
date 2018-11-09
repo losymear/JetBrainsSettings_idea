@@ -512,12 +512,12 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/TODO.md" timestamp="1541690978057">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/TODO.md" timestamp="1541742953323">
         <mark key="'" line="31" column="14" />
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="30" column="24" />
-        <mark key="." line="30" column="24" />
-        <mark key="^" line="30" column="24" />
+        <mark key="[" line="36" column="7" />
+        <mark key="]" line="36" column="22" />
+        <mark key="." line="36" column="22" />
+        <mark key="^" line="36" column="22" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/test/java/com/zhiri/qumianshi/Repository/SystemAnserRepositoryTest.java" timestamp="1541486103637">
         <mark key="[" line="24" column="53" />
@@ -1462,7 +1462,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKc29uRm9ybWF0KHNoYXBlID0gSnNvbkZvcm1hdC5TaGFwZS5TVFJJTkcsIHBhdHRlcm4gPSAieXl5eS1NTS1kZCBISDptbTpzcyIpCg==</text>
+        <text encoding="base64">LSBbIF0gZG9tYWlu5ZKMdmlld+eahOi9rOaNogo=</text>
       </register>
       <register name="-" type="4">
         <text>caiwcel</text>
@@ -1474,37 +1474,39 @@
         <text encoding="base64">ICAgIEBKc29uRm9ybWF0KHNoYXBlID0gSnNvbkZvcm1hdC5TaGFwZS5TVFJJTkcsIHBhdHRlcm4gPSAieXl5eS1NTS1kZCBISDptbTpzcyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmluZGluZ1Jlc3VsdCBiaW5kaW5nUmVzdWx0Cg==</text>
+        <text encoding="base64">LSBbIF0gZG9tYWlu5ZKMdmlld+eahOi9rOaNogo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmluZGluZ1Jlc3VsdCBiaW5kaW5nUmVzdWx0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCLmnKrlrp7njrAiKTsK</text>
+        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFVzZXJFbnRpdHkgZmluZEJ5SWQoSSkK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCLmnKrlrp7njrAiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIExpc3Q8SnBhUmVwb3NpdG9yeT4gZmluZEFsbEJ5dQo=</text>
+        <text encoding="base64">ICAgIFVzZXJFbnRpdHkgZmluZEJ5SWQoSSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBRdWVyeSh2YWx1ZSA9ICJzZWxlY3QgbmV3IEJhc2ljSW50ZXJ2aWV3RGV0YWlsKCkgZnJvbSBJbnRlcnZpZXdsaXN0RW50aXR5IHQxICIpCg==</text>
+        <text encoding="base64">ICAgIExpc3Q8SnBhUmVwb3NpdG9yeT4gZmluZEFsbEJ5dQo=</text>
       </register>
     </registers>
     <search>
       <last-search>用户</last-search>
       <last-offset />
       <last-pattern>用户</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>用户</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

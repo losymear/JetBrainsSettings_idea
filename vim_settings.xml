@@ -455,6 +455,11 @@
         <mark key="^" line="22" column="48" />
         <mark key="." line="22" column="48" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Repository/UserSecretRepository.java" timestamp="1542005324876">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="11" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Configuration/MyError/QmsException.java" timestamp="1541840490296">
         <mark key="[" line="50" column="32" />
         <mark key="]" line="51" column="27" />
@@ -498,6 +503,7 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Service/View/TikuViewService.java" timestamp="1542005199202" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/pom.xml" timestamp="1541585544460">
         <mark key="'" line="7" column="25" />
         <mark key="[" line="153" column="21" />
@@ -728,6 +734,11 @@
         <mark key="]" line="19" column="50" />
         <mark key="^" line="19" column="50" />
         <mark key="." line="19" column="50" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Repository/TikuCategoryRepository.java" timestamp="1542005315107">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/guavademo/src/main/java/Guava/ArrayBlockingQueue.java" timestamp="1540201480804">
         <mark key="[" line="148" column="9" />
@@ -1064,11 +1075,11 @@
         <mark key="." line="20" column="175" />
         <mark key="^" line="20" column="175" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Repository/InterviewUserAppraiseRepository.java" timestamp="1541833004881">
-        <mark key="[" line="14" column="70" />
-        <mark key="]" line="14" column="70" />
-        <mark key="^" line="14" column="69" />
-        <mark key="." line="14" column="69" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Repository/InterviewUserAppraiseRepository.java" timestamp="1542005303170">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="11" />
+        <mark key="^" line="16" column="69" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/dto/request/UserRankInterview.java" timestamp="1541834667019">
         <mark key="[" line="20" column="34" />
@@ -1117,10 +1128,11 @@
         <mark key="^" line="25" column="36" />
         <mark key="." line="25" column="36" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Repository/InterviewListRepository.java" timestamp="1541815962469">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Repository/InterviewListRepository.java" timestamp="1542005298006">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="11" />
+        <mark key="." line="13" column="10" />
+        <mark key="^" line="13" column="10" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/retrofit_swagger/src/main/java/com/losyear/retrofit_swagger/Service/HttpbinService.java" timestamp="1540003452114">
         <mark key="[" line="15" column="19" />
@@ -1723,7 +1735,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDpnaLor5XlrpjnmoTor4Tku7cK</text>
+        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -1732,7 +1744,7 @@
         <text>用户</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFVTRVJfRklOSVNIX0VSUk9SXzEoMzA0MjEpLCAvLyDlt7Lnu4/lrozmiJDvvIzml6Dms5Xlho3mrKHlrozmiJAK</text>
+        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDpnaLor5XlrpjnmoTor4Tku7cK</text>

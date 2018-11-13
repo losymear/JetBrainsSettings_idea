@@ -566,12 +566,12 @@
         <mark key="^" line="131" column="22" />
         <mark key="." line="131" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/TODO.md" timestamp="1542114214347">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="35" column="30" />
-        <mark key="]" line="50" column="19" />
-        <mark key="." line="50" column="19" />
-        <mark key="^" line="50" column="19" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/TODO.md" timestamp="1542132216399">
+        <mark key="'" line="2" column="84" />
+        <mark key="[" line="49" column="14" />
+        <mark key="]" line="49" column="21" />
+        <mark key="." line="49" column="21" />
+        <mark key="^" line="49" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Configuration/UserIDAuditorBean.java" timestamp="1541234917134">
         <mark key="[" line="21" column="28" />
@@ -1386,8 +1386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Configuration/security/MyAuthenticationProvider.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Configuration/security/MyAccessDecisionVoter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/log4j2.yaml" />
       <jump line="49" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/resources/test-dbdata.sql" />
       <jump line="65" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/Configuration/security/MyAccessDecisionVoter.java" />
@@ -1486,6 +1484,8 @@
       <jump line="65" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/test/java/com/zhiri/qumianshi/Service/InterviewServiceTest.java" />
       <jump line="42" column="57" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/test/java/com/zhiri/qumianshi/Service/InterviewServiceTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/TODO.md" />
+      <jump line="51" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/TODO.md" />
+      <jump line="2" column="84" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/TODO.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1505,7 +1505,7 @@
         <text>司</text>
       </register>
       <register name="/" type="4">
-        <text>用户</text>
+        <text>f</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5lcnJvcigi55So5oi3aWQ6e30s5b6u5Y2a55m75b2V5Yib5bu65LqR5L+haWTlh7rplJk6IHt9IixzYXZlZFNlY3JldC5nZXRVc2VySWQoKSwgZS5nZXRNZXNzYWdlKCkpOwo=</text>
@@ -1539,9 +1539,9 @@
       </register>
     </registers>
     <search>
-      <last-search>用户</last-search>
+      <last-search>f</last-search>
       <last-offset />
-      <last-pattern>用户</last-pattern>
+      <last-pattern>f</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>用户</last-substitute>
       <last-dir>1</last-dir>
@@ -1549,7 +1549,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tom</entry>
         <entry>response</entry>
         <entry>String</entry>
         <entry>ApiMode</entry>
@@ -1569,6 +1568,7 @@
         <entry>Time</entry>
         <entry>Times</entry>
         <entry>用户</entry>
+        <entry>f</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -1589,6 +1589,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

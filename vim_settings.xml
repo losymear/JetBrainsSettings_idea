@@ -1131,11 +1131,11 @@
         <mark key="^" line="125" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/Docs/deploy.md" timestamp="1542944172725">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="4" />
-        <mark key="^" line="3" column="4" />
-        <mark key="." line="3" column="4" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/Docs/deploy.md" timestamp="1542945610674">
+        <mark key="'" line="3" column="6" />
+        <mark key="[" line="42" column="3" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi_java/src/main/java/com/zhiri/qumianshi/domain/AnswerRecordEntity.java" timestamp="1540893779776">
         <mark key="[" line="14" column="3" />
@@ -1757,7 +1757,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Service/InterviewService.java" />
       <jump line="139" column="100" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Service/InterviewService.java" />
       <jump line="63" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Service/InterviewService.java" />
       <jump line="58" column="39" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/test/java/com/zhiri/qumianshi/Service/InterviewServiceTest.java" />
@@ -1857,49 +1856,50 @@
       <jump line="117" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Controller/PayController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/README.md" />
       <jump line="52" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/README.md" />
+      <jump line="3" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/Docs/deploy.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyMjIHJlZGlzCmBjb25maWcgc2V0IHJlcXVpcmVwYXNzIHBhc3NgCg==</text>
+        <text encoding="base64">fgo=</text>
       </register>
       <register name="-" type="4">
-        <text>http://www.baidu.com</text>
+        <text>, &quot;-jar&quot;, &quot;qumianshi-0.0.1-SNAPSHOT.jar&quot;]</text>
       </register>
       <register name="/" type="4">
         <text>bad</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBgZmllbGRJZGAgSW50KDExKSBOVUxMLAo=</text>
+        <text encoding="base64">Q01EIFsiZXhlY3V0YWJsZSIsInBhcmFtMSIsInBhcmFtMiJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjIHJlZGlzCmBjb25maWcgc2V0IHJlcXVpcmVwYXNzIHBhc3NgCg==</text>
+        <text encoding="base64">fgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnl1bnhpbkFjY2lkPXNlY3JldC5nZXRZdW54aW5hY2NpZCgpOwo=</text>
+        <text encoding="base64">RG9ja2VyZmlsZSAoRU5EKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLkupHkv6FhY2NpZCIpCiAgICBwcml2YXRlIFN0cmluZyB1bnhpbkFjY2lkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHVueGluQWNjaWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBIUuivhOS7t+mhueebrjHpnIDopoHkv67mlLnmiJDkuIDkuKrlrZflhbgK</text>
+        <text encoding="base64">ZG9ja2VyIGV4ZWMgLWl0IHJlZGlzIHJlZGlzLWNsaSAtcCA2Mzc5IC1hIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBgY3JlYXRlVGltZWAgZGF0ZXRpbWUgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCBDT01NRU5UICforrDlvZXliJvlu7rml7bpl7QnLAogIGB1cGRhdGVUaW1lYCBkYXRldGltZSBERUZBVUxUIE5VTEwgQ09NTUVOVCAn5pu05paw5pe26Ze0JywK</text>
+        <text encoding="base64">ZG9ja2VyIHJ1biAtLW5hbWUgcmVkaXMgLWQgcmVkaXMK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICLnn63kv6HnmbvlvZUiLAogICAgICAgICAgICBub3RlcyA9ICLnn63kv6HnmbvlvZXvvIzotoXml7YxMOWIhumSnyIpCiAgICBAR2V0TWFwcGluZygiL3F1L21lc3NhZ2UvbG9naW4iKQogICAgcHVibGljIFJlc3VsdDxTdHJpbmc+IHNlbmRMb2dpbkNvZGUoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gUmVzdWx0Lm9rKCJvayIpOwogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi55+t5L+h55m75b2VIiwKICAgICAgICAgICAgbm90ZXMgPSAi55+t5L+h55m75b2V77yM6LaF5pe2MTDliIbpkp8iKQogICAgQEdldE1hcHBpbmcoIi9xdS9tZXNzYWdlL2xvZ2luIikKICAgIHB1YmxpYyBSZXN1bHQ8U3RyaW5nPiBzZW5kTG9naW5Db2RlKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIFJlc3VsdC5vaygib2siKTsKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">IyMg6YWN572u57uE5Lu2Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

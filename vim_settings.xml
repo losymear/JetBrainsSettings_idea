@@ -186,10 +186,10 @@
         <mark key="." line="209" column="20" />
         <mark key="^" line="209" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/test/java/com/zhiri/qumianshi/Service/UserServiceTest.java" timestamp="1543203137167">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/test/java/com/zhiri/qumianshi/Service/UserServiceTest.java" timestamp="1543204701589">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Configuration/security/WebSecurityConfig.java" timestamp="1542444182708">
         <mark key="[" line="44" column="56" />
@@ -693,7 +693,7 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">LSBbIF3liJflh7rmjqXlj6MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Null</text>
@@ -705,31 +705,36 @@
         <text encoding="base64">ICAgIEBJZ25vcmUoIuefreS/oeaXoOazlea1i+ivlSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBbIF3liJflh7rmjqXlj6MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">LSBbIF3oh6rlrprkuYnnmoRgU3ByaW5nQm9vdFRlc3Rg5rOo6KejCg==</text>
+      <register name="2" type="4">
+        <text>//    @Test
+//    public void followFieldTest_duplicateField() throws Exception {
+//        UserAll userAll = userService.getUserAll(&quot;testuuid&quot;);
+//        thrown.expectMessage(&quot;不可重复关注:-2已有记录 id: -3&quot;);
+//        userService.fieldFollow(userAll,Arrays.asList(&quot;2&quot;));
+//    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">LSBbIF3liJflh7rmjqXlj6MK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBAVGVzdAogICAgcHVibGljIHZvaWQgZGVsZXRlRm9sbG93VGVzdCgpIHRocm93cyBFeGNlcHRpb257CiAgICAgICBVc2VyQWxsIHVzZXJBbGwgPSB1c2VyU2VydmljZS5nZXRVc2VyQWxsKCJ0ZXN0dXVpZCIpOwogICAgICAgVXNlckVudGl0eSB1c2VyID0gdXNlckFsbC5nZXRQcm9maWxlKCk7CiAgICAgICBhc3NlcnRFcXVhbHModXNlckZvbGxvd2VkRmllbGRSZXBvc2l0b3J5LmZpbmRBbGxCeVVzZXJJZCh1c2VyLmdldElkKCkpLnNpemUoKSwzKTsKICAgICAgIHVzZXJTZXJ2aWNlLmRlbGV0ZUZvbGxvdyh1c2VyQWxsLCBBcnJheXMuYXNMaXN0KCIyIiwiNCIpKTsKICAgICAgICBhc3NlcnRFcXVhbHModXNlckZvbGxvd2VkRmllbGRSZXBvc2l0b3J5LmZpbmRBbGxCeVVzZXJJZCh1c2VyLmdldElkKCkpLnNpemUoKSwxKTsKLy8gICAgICAgIHRocm93bi5leHBlY3RNZXNzYWdlKCLkuI3lrZjlnKjpoobln586YmFkRmllbGQiKTsKLy8gICAgICAgIHVzZXJTZXJ2aWNlLmRlbGV0ZUZvbGxvdyh1c2VyQWxsLCBBcnJheXMuYXNMaXN0KCJiYWRGaWVsZCIsImFub3RoZXJCYWRGaWVsZCIpKTsKICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">LSBbIF3oh6rlrprkuYnnmoRgU3ByaW5nQm9vdFRlc3Rg5rOo6KejCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKElnbm9yZSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5oZWFkZXIoInV1aWQiLCAidGVzdHV1aWQiKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBAVGVzdAogICAgcHVibGljIHZvaWQgZGVsZXRlRm9sbG93VGVzdCgpIHRocm93cyBFeGNlcHRpb257CiAgICAgICBVc2VyQWxsIHVzZXJBbGwgPSB1c2VyU2VydmljZS5nZXRVc2VyQWxsKCJ0ZXN0dXVpZCIpOwogICAgICAgVXNlckVudGl0eSB1c2VyID0gdXNlckFsbC5nZXRQcm9maWxlKCk7CiAgICAgICBhc3NlcnRFcXVhbHModXNlckZvbGxvd2VkRmllbGRSZXBvc2l0b3J5LmZpbmRBbGxCeVVzZXJJZCh1c2VyLmdldElkKCkpLnNpemUoKSwzKTsKICAgICAgIHVzZXJTZXJ2aWNlLmRlbGV0ZUZvbGxvdyh1c2VyQWxsLCBBcnJheXMuYXNMaXN0KCIyIiwiNCIpKTsKICAgICAgICBhc3NlcnRFcXVhbHModXNlckZvbGxvd2VkRmllbGRSZXBvc2l0b3J5LmZpbmRBbGxCeVVzZXJJZCh1c2VyLmdldElkKCkpLnNpemUoKSwxKTsKLy8gICAgICAgIHRocm93bi5leHBlY3RNZXNzYWdlKCLkuI3lrZjlnKjpoobln586YmFkRmllbGQiKTsKLy8gICAgICAgIHVzZXJTZXJ2aWNlLmRlbGV0ZUZvbGxvdyh1c2VyQWxsLCBBcnJheXMuYXNMaXN0KCJiYWRGaWVsZCIsImFub3RoZXJCYWRGaWVsZCIpKTsKICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKElnbm9yZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5oZWFkZXIoInV1aWQiLCAidGVzdHV1aWQiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOgo=</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

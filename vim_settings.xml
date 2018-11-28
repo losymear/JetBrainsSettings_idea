@@ -40,12 +40,12 @@
         <mark key="^" line="17" column="4" />
         <mark key="." line="17" column="4" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interviewer/AuthRecordEntity.java" timestamp="1543327495269">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interviewer/AuthRecordEntity.java" timestamp="1543372581422">
         <mark key="'" line="27" column="11" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="15" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="75" column="11" />
+        <mark key="[" line="63" column="33" />
+        <mark key="]" line="64" column="34" />
+        <mark key="." line="64" column="34" />
+        <mark key="^" line="64" column="34" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interview/InterviewlistEntity.java" timestamp="1543316692044">
         <mark key="[" line="34" column="0" />
@@ -110,9 +110,6 @@
         <mark key="]" line="14" column="14" />
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="14" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/buildImage.sh" timestamp="1543043940561">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/dto/response/OrderObj.java" timestamp="1543052476205">
         <mark key="[" line="19" column="23" />
@@ -182,9 +179,6 @@
         <mark key="]" line="39" column="29" />
         <mark key="." line="39" column="29" />
         <mark key="^" line="39" column="29" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/Java/miniProgram/src/main/java/com/mrboxfood/auth/domain/UserInfo.java" timestamp="1543314755255">
-        <mark key="[" line="12" column="28" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Component/AliMessage.java" timestamp="1543198993822">
         <mark key="[" line="27" column="13" />
@@ -289,6 +283,12 @@
         <mark key="^" line="33" column="58" />
         <mark key="." line="33" column="58" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/request/StatusDto.java" timestamp="1543372112592">
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="19" column="49" />
+        <mark key="." line="19" column="49" />
+        <mark key="^" line="19" column="49" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/dto/response/UserProfile.java" timestamp="1543216156788">
         <mark key="[" line="40" column="25" />
         <mark key="]" line="54" column="49" />
@@ -306,16 +306,19 @@
         <mark key="^" line="26" column="18" />
         <mark key="." line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/newTable.sql" timestamp="1543325285298">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/newTable.sql" timestamp="1543372440945">
         <mark key="'" line="2" column="5" />
-        <mark key="[" line="83" column="64" />
-        <mark key="]" line="83" column="63" />
-        <mark key="^" line="83" column="63" />
-        <mark key="." line="83" column="63" />
+        <mark key="]" line="103" column="63" />
+        <mark key="^" line="103" column="63" />
+        <mark key="." line="103" column="63" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/WyTestController.java" timestamp="1543327301547">
         <mark key="'" line="62" column="25" />
         <mark key="[" line="62" column="28" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/request/QmsPageObj.java" timestamp="1543371667613">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="19" column="39" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/log4j2/src/main/resources/log4j2_parent_child.yaml" timestamp="1542628625669">
         <mark key="[" line="0" column="0" />
@@ -471,9 +474,6 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="28" column="37" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/log4j2/src/main/resources/log4j2_parent_child.xml" timestamp="1542628471373">
-        <mark key="[" line="5" column="28" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/DigestCheckService.java" timestamp="1543308283577">
         <mark key="[" line="54" column="26" />
         <mark key="]" line="54" column="42" />
@@ -486,14 +486,15 @@
         <mark key="^" line="20" column="6" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/qumianshi.sql" timestamp="1543320317208">
-        <mark key="[" line="22" column="7" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/resources/test-dbdata.sql" timestamp="1543310960758">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="^" line="87" column="0" />
         <mark key="." line="75" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/AppointmentController.java" timestamp="1543371486853">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="97" column="76" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/docs/Issue&amp;fix.md" timestamp="1543305134871">
         <mark key="[" line="3" column="0" />
@@ -510,6 +511,13 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/response/Login.java" timestamp="1543326183735">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="53" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/pom.xml" timestamp="1543371963603">
+        <mark key="'" line="26" column="20" />
+        <mark key="[" line="201" column="32" />
+        <mark key="]" line="204" column="11" />
+        <mark key="^" line="204" column="11" />
+        <mark key="." line="204" column="11" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/test/java/com/zhiri/qumianshi/Service/AliMessageServiceTest.java" timestamp="1543201007291">
         <mark key="[" line="26" column="0" />
@@ -681,9 +689,6 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="11" column="27" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Configuration/User/UserConfig.java" timestamp="1542025273042">
-        <mark key="[" line="12" column="33" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/test/java/com/zhiri/qumianshi/Service/DigestCheckServiceTest.java" timestamp="1543063212814">
         <mark key="[" line="15" column="68" />
         <mark key="]" line="17" column="7" />
@@ -702,6 +707,10 @@
         <mark key="^" line="47" column="32" />
         <mark key="." line="47" column="32" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/interviewer/IvInterviewController.java" timestamp="1543371730732">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="57" column="39" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/dto/response/InterviewerObj.java" timestamp="1542801402511">
         <mark key="[" line="18" column="49" />
         <mark key="]" line="0" column="40" />
@@ -714,11 +723,11 @@
         <mark key="^" line="37" column="15" />
         <mark key="." line="37" column="15" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/interviewer/InterviewerController.java" timestamp="1543349177289">
-        <mark key="[" line="126" column="21" />
-        <mark key="]" line="126" column="19" />
-        <mark key="." line="126" column="19" />
-        <mark key="^" line="126" column="19" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/interviewer/InterviewerController.java" timestamp="1543372799714">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="^" line="118" column="31" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Controller/AppointmentController.java" timestamp="1543078983974">
         <mark key="[" line="40" column="0" />
@@ -766,9 +775,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1543323791258">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/UserServiceTest.java" timestamp="1543300811870">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
@@ -776,7 +782,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="28" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/qumianshi.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/QumianshiApplication.java" />
       <jump line="19" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/log4j2/src/main/java/com/losymear/log4j2/LoggerName_vs_ClassName/App.java" />
       <jump line="88" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Service/WechatService.java" />
@@ -876,49 +881,74 @@
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interviewer/AuthRecordEntity.java" />
       <jump line="62" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/WyTestController.java" />
       <jump line="27" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interviewer/AuthRecordEntity.java" />
+      <jump line="26" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">LSDmjpLnj63mqKHmnb8K</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IOmdouivleWumOS/ruaUueaYr+WQpuaYvuekugo=</text>
       </register>
       <register name="-" type="4">
-        <text>只有一张表显示</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>onlinet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtIFsgXSBpbnRlcmZhY2UxCiAgICAgICAgLSBbIF0gLi4uCiAgICAgICAgLSBbIF0gaW50ZXJmYWNlbgo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuWQjeeJhyIpCiAgICBwcml2YXRlIFN0cmluZyBidXNpbmVzc0NhcmRVcmw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSDmjpLnj63mqKHmnb8K</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IOmdouivleWumOS/ruaUueaYr+WQpuaYvuekugo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IOmdouivleWumOS/ruaUueaYr+WQpuaYvuekugo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IOmdouivleWumOS/ruaUueaYr+WQpuaYvuekugo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gWyBd5LiN6KaB5L2/55SoYmluYXJ5Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IOWQjeeJh+acieS4pOW8oO+8jOS/ruaUuQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gWyBd5LiN6KaB5L2/55SoYmluYXJ5Cg==</text>
+      <register name="5" type="4">
+        <text>CREATE TABLE `auth_record` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `interviewerId` int(11) DEFAULT NULL COMMENT '面试官id',
+  `realName` varchar(5) NOT NULL COMMENT '真实姓名',
+  `title` varchar(40) DEFAULT NULL COMMENT '职位，或者叫career',
+  `institution` varchar(40) DEFAULT NULL COMMENT '机构',
+  `corpName` varchar(40) DEFAULT NULL COMMENT '公司名称',
+  `corpAnonymous` varchar(40) DEFAULT NULL COMMENT '公司匿名，如“互联网一线大场等”',
+  `trade` varchar(40) DEFAULT NULL COMMENT '所属行业，如互联网',
+  `workYear` int(11) DEFAULT NULL COMMENT '工作年限',
+  `idPic1Url` varchar(150) DEFAULT NULL COMMENT '身份证下面照',
+  `idPic2Url` varchar(150) DEFAULT NULL COMMENT '身份证反面照',
+  `idPic3Url` varchar(150) DEFAULT NULL COMMENT '手持身份证照',
+  `workCardUrl` varchar(150) DEFAULT NULL COMMENT '工牌',
+  `businessCardUrl` varchar(150) DEFAULT NULL,
+  `corpMail` varchar(60) DEFAULT NULL COMMENT '企业邮箱',
+  `corpMailStatus` tinyint(4) DEFAULT NULL COMMENT '邮箱状态；0未设置；1未发送；2已发送',
+  `status` datetime DEFAULT NULL COMMENT '0未验证；1已经交给审核员，审核中；2验证通过；3验证失败',
+  `checkerId` int(11) NOT NULL DEFAULT '0' COMMENT '审核员id',
+  `denyReason` varchar(255) DEFAULT NULL COMMENT '拒绝原因',
+  `createTime` datetime DEFAULT CURRENT_TIMESTAMP,
+  `updateTime` datetime DEFAULT NULL ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`),
+  KEY `interviewerId` (`interviewerId`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='审核记录， 需要有全部信息。'</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSDorqTor4Hopobnm5bnmoTpl67popjvvJ8K</text>
+        <text encoding="base64">Ly8gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSDmlK/ku5jmtYHnqIsgIFBheeihqAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSDnlKjmiLfnq6/mjqXlj6MK</text>
+        <text encoding="base64">ICAgICAgICBpZihwYXlsb2FkLmdldFN0YXR1cygpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0g5b6F6L+b6KGM6Z2i6K+VCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

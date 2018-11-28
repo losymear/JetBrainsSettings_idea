@@ -253,11 +253,12 @@
         <mark key="^" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/TODO.md" timestamp="1543349146753">
-        <mark key="[" line="94" column="36" />
-        <mark key="]" line="156" column="6" />
-        <mark key="." line="156" column="6" />
-        <mark key="^" line="156" column="6" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/TODO.md" timestamp="1543375048995">
+        <mark key="'" line="106" column="11" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="105" column="10" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/CHANGELOG.md" timestamp="1543347973577">
         <mark key="[" line="25" column="36" />
@@ -788,15 +789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/QumianshiApplication.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/log4j2/src/main/java/com/losymear/log4j2/LoggerName_vs_ClassName/App.java" />
-      <jump line="88" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Service/WechatService.java" />
-      <jump line="16" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Schedule/TestSchedule.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/resources/log4j2.yaml" />
-      <jump line="20" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Controller/Interviewer/IvInterviewerController.java" />
-      <jump line="45" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/dto/view/InterviewInfoForUser.java" />
-      <jump line="105" column="50" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Service/InterviewService.java" />
-      <jump line="52" column="19" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/TODO.md" />
       <jump line="16" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Component/MessageManager.java" />
       <jump line="21" column="42" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Component/MessageManager.java" />
       <jump line="58" column="44" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Controller/Interviewer/InterviewerLoginController.java" />
@@ -888,82 +880,67 @@
       <jump line="62" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/WyTestController.java" />
       <jump line="27" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interviewer/AuthRecordEntity.java" />
       <jump line="26" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/pom.xml" />
+      <jump line="111" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/TODO.md" />
+      <jump line="112" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/TODO.md" />
+      <jump line="113" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/TODO.md" />
+      <jump line="114" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/TODO.md" />
+      <jump line="103" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/TODO.md" />
+      <jump line="104" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/TODO.md" />
+      <jump line="105" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/TODO.md" />
+      <jump line="106" column="15" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/TODO.md" />
+      <jump line="107" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/TODO.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QEFwaSh0YWdzID0geyLpnaLor5Xlrpjkv6Hmga/nm7jlhbMifSkKQFJlc3RDb250cm9sbGVyCkBMb2c0ajIKQFByZUF1dGhvcml6ZSgiaGFzUm9sZShcIlJPTEVfSU5URVJWSUVXRVJcIikiKQo=</text>
+        <text encoding="base64">ICAgICAgIC0gWyBdIOeUqOaIt+S/oeaBr++8iOiupOivgeS/oeaBr+Wtl+aute+8ieOAgXN0YXR1c+OAgWxhc3RBdXRoVGltZeOAgWxhc3RBdXRoRGVueVJlYXNvbgo=</text>
       </register>
       <register name="-" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>onlinet</text>
+        <text>-</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QEFwaSh0YWdzID0geyLpnaLor5Xlrpjkv6Hmga/nm7jlhbMifSkKQFJlc3RDb250cm9sbGVyCkBMb2c0ajIKQFByZUF1dGhvcml6ZSgiaGFzUm9sZShcIlJPTEVfSU5URVJWSUVXRVJcIikiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IOmdouivleWumOS/ruaUueaYr+WQpuaYvuekugo=</text>
+        <text encoding="base64">ICAgICAgIC0gWyBdIOeUqOaIt+S/oeaBr++8iOiupOivgeS/oeaBr+Wtl+aute+8ieOAgXN0YXR1c+OAgWxhc3RBdXRoVGltZeOAgWxhc3RBdXRoRGVueVJlYXNvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IOmdouivleWumOS/ruaUueaYr+WQpuaYvuekugo=</text>
+        <text encoding="base64">ICAgICAgICAtIFsgXSBpbnRlcmZhY2UxCiAgICAgICAgLSBbIF0gLi4uCiAgICAgICAgLSBbIF0gaW50ZXJmYWNlbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IOmdouivleWumOS/ruaUueaYr+WQpuaYvuekugo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IOWQjeeJh+acieS4pOW8oO+8jOS/ruaUuQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>CREATE TABLE `auth_record` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
-  `interviewerId` int(11) DEFAULT NULL COMMENT '面试官id',
-  `realName` varchar(5) NOT NULL COMMENT '真实姓名',
-  `title` varchar(40) DEFAULT NULL COMMENT '职位，或者叫career',
-  `institution` varchar(40) DEFAULT NULL COMMENT '机构',
-  `corpName` varchar(40) DEFAULT NULL COMMENT '公司名称',
-  `corpAnonymous` varchar(40) DEFAULT NULL COMMENT '公司匿名，如“互联网一线大场等”',
-  `trade` varchar(40) DEFAULT NULL COMMENT '所属行业，如互联网',
-  `workYear` int(11) DEFAULT NULL COMMENT '工作年限',
-  `idPic1Url` varchar(150) DEFAULT NULL COMMENT '身份证下面照',
-  `idPic2Url` varchar(150) DEFAULT NULL COMMENT '身份证反面照',
-  `idPic3Url` varchar(150) DEFAULT NULL COMMENT '手持身份证照',
-  `workCardUrl` varchar(150) DEFAULT NULL COMMENT '工牌',
-  `businessCardUrl` varchar(150) DEFAULT NULL,
-  `corpMail` varchar(60) DEFAULT NULL COMMENT '企业邮箱',
-  `corpMailStatus` tinyint(4) DEFAULT NULL COMMENT '邮箱状态；0未设置；1未发送；2已发送',
-  `status` datetime DEFAULT NULL COMMENT '0未验证；1已经交给审核员，审核中；2验证通过；3验证失败',
-  `checkerId` int(11) NOT NULL DEFAULT '0' COMMENT '审核员id',
-  `denyReason` varchar(255) DEFAULT NULL COMMENT '拒绝原因',
-  `createTime` datetime DEFAULT CURRENT_TIMESTAMP,
-  `updateTime` datetime DEFAULT NULL ON UPDATE CURRENT_TIMESTAMP,
-  PRIMARY KEY (`id`),
-  KEY `interviewerId` (`interviewerId`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='审核记录， 需要有全部信息。'</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">MTEyMSBXZWRuLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZihwYXlsb2FkLmdldFN0YXR1cygpKQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">Ci0gW3hdIGxvZzRqMueahHJvdGF0ZQotIFsgXSDpnaLor5Xnq6/mjqXlj6MKICAgIC0gW3hdIOmdouivleWIl+ihqAogICAgLSBbeF0g5LiA5qyh6Z2i6K+V55qE6K+m5oOFICDlpI3liLbkuIvlsLHlpb0KICAgICAgICAtIFt4XSDpnaLor5Xor6bmg4XnmoTmlbDmja7nu5PmnoTopoHkv67mlLnvvIzlha3ovrnlvaLkuLrkuIDkuKrnsbvvvIzlhbblroM05LiqcmFua+S5n+aYr+S4gOS4quexuwogICAgLSBbeF0g6K+E5Lu36Z2i6K+VIFNhdC4gKioxKiogIOmcgOimgeS4gOS4quivt+axguWvueixoeeahOexu+WeiwogICAgLSBbeF0g6I635Y+W55So5oi35L+h5oGv55qE5o6l5Y+j77yM6L+Z6YeM6ZyA6KaB6L+b6KGM5LiA5qyh5Yik5pat</text>
       </register>
       <register name=":" type="4">
         <text>next</text>
       </register>
     </registers>
     <search>
-      <last-search>onlinet</last-search>
+      <last-search>-</last-search>
       <last-offset />
-      <last-pattern>onlinet</last-pattern>
+      <last-pattern>-</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>用户</last-substitute>
       <last-dir>1</last-dir>
@@ -971,7 +948,6 @@
     </search>
     <history>
       <history-search>
-        <entry>answer_re</entry>
         <entry>info</entry>
         <entry>uuid</entry>
         <entry>2</entry>
@@ -991,6 +967,7 @@
         <entry>tag</entry>
         <entry>12</entry>
         <entry>onlinet</entry>
+        <entry>-</entry>
       </history-search>
       <history-cmd>
         <entry>next</entry>

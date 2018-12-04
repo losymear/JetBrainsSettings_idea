@@ -332,7 +332,12 @@
         <mark key="^" line="28" column="20" />
         <mark key="." line="28" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/AccountService.java" timestamp="1543912719274" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/AccountService.java" timestamp="1543914406132">
+        <mark key="[" line="272" column="71" />
+        <mark key="]" line="272" column="84" />
+        <mark key="^" line="272" column="84" />
+        <mark key="." line="272" column="84" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/interviewer/AuthRecordRepository.java" timestamp="1543391192659">
         <mark key="[" line="14" column="72" />
         <mark key="]" line="13" column="10" />
@@ -429,7 +434,7 @@
         <mark key="^" line="4" column="141" />
         <mark key="." line="4" column="141" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/component/WechatClient.java" timestamp="1543912606555" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/component/WechatClient.java" timestamp="1543914174307" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/pom.xml" timestamp="1543822687866" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/interviewer/ScheduleTemplateServiceTest.java" timestamp="1543824184369">
         <mark key="[" line="27" column="7" />
@@ -952,9 +957,9 @@
         <mark key="^" line="87" column="17" />
         <mark key="." line="87" column="17" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/newTable.sql" timestamp="1543912681781">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/newTable.sql" timestamp="1543913571695">
         <mark key="'" line="181" column="112" />
-        <mark key="[" line="187" column="67" />
+        <mark key="[" line="191" column="0" />
         <mark key="]" line="188" column="68" />
         <mark key="." line="188" column="68" />
         <mark key="^" line="188" column="68" />
@@ -1110,11 +1115,11 @@
         <mark key="^" line="32" column="33" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.11.RELEASE/spring-data-commons-2.0.11.RELEASE-sources.jar!/org/springframework/data/annotation/CreatedDate.java" timestamp="1543838796801" />
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/test/java/com/zhiri/qumianshi/domain/UserQuestionReadHistoryEntityTest.java" timestamp="1543310370685">
-        <mark key="[" line="30" column="91" />
-        <mark key="]" line="31" column="69" />
-        <mark key="^" line="31" column="69" />
-        <mark key="." line="31" column="69" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/test/java/com/zhiri/qumianshi/domain/UserQuestionReadHistoryEntityTest.java" timestamp="1543914882615">
+        <mark key="[" line="21" column="6" />
+        <mark key="]" line="21" column="5" />
+        <mark key="^" line="21" column="5" />
+        <mark key="." line="21" column="5" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Configuration/DigestCheck.java" timestamp="1543059372253">
         <mark key="[" line="42" column="0" />
@@ -1225,7 +1230,7 @@
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="31" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/pom.xml" timestamp="1543287796623">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/pom.xml" timestamp="1543914873778">
         <mark key="[" line="83" column="21" />
         <mark key="]" line="89" column="20" />
         <mark key="^" line="89" column="20" />
@@ -1430,7 +1435,7 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVXNlclNlcnZpY2UgdXNlclNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRob3JpemVTZXJ2aWNlLmF1dGhvcml6ZUJ5VXVpZCh1c2VyRnJvbURiLmdldFVuaXF1ZUlkKCksIHN0dWRlbnRSb2xlKTsK</text>
       </register>
       <register name="-" type="4">
         <text>private</text>
@@ -1439,34 +1444,34 @@
         <text>authorize</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dpbiBsb2dpbiA9IGFjY291bnRTZXJ2aWNlLnN0dWRlbnRMb2dpbkJ5V2VjaGF0KGNvZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhdXRob3JpemVTZXJ2aWNlLmF1dGhvcml6ZUJ5VXVpZCh1c2VyRnJvbURiLmdldFVuaXF1ZUlkKCksIHN0dWRlbnRSb2xlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVXNlclNlcnZpY2UgdXNlclNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRob3JpemVTZXJ2aWNlLmF1dGhvcml6ZUJ5VXVpZCh1dWlkLCBzdHVkZW50Um9sZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEB3eSDlrp7njrAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0Lm9rKGxvZ2luKTsK</text>
+        <text encoding="base64">ICAgIC8vIOe7h+WFpeW+ruS/oeeZu+W9lemFjee9rgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IOatpOWkhOWQjOaXtumcgOimgeS/neWtmGFjY2Vzc1Rva2Vu44CBcmVmcmVzaFRva2Vu44CB5Lik6ICF5aSx5pWI5pe26Ze0562JCiAgICAvLyBUT0RPOiBAd3kgVG9rZW7kuZ/pnIDopoHmnInlpLHmlYjml7bpl7QKICAgIC8vIOWQjOaXtgo=</text>
+        <text encoding="base64">ICAgIC8vIOe7h+WFpeW+ruS/oeeZu+W9lemFjee9rgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEB3eSBUb2tlbuS5n+mcgOimgeacieWkseaViOaXtumXtAo=</text>
+        <text encoding="base64">ICAgIC8vIOe7h+WFpeW+ruS/oeeZu+W9lemFjee9rgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIOWQjOaXtgo=</text>
+        <text encoding="base64">ICAgIC8vIOe7h+WFpeW+ruS/oeeZu+W9lemFjee9rgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBuZXcgTG9naW4odXNlckZyb21EYi5nZXRVbmlxdWVJZCgpLCBzZWNyZXRGcm9tRGIuZ2V0VG9rZW4oKSwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIOe7h+WFpeW+ruS/oeeZu+W9lemFjee9rgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGF1dGhvcml6ZVNlcnZpY2UuYXV0aG9yaXplQnlVdWlkKHVzZXJGcm9tRGIuZ2V0VW5pcXVlSWQoKSwgbmV3SW50ZXJ2aWV3ZXJSb2xlKTsK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEB3eSDlrp7njrAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRob3JpemVTZXJ2aWNlLmF1dGhvcml6ZUJ5VXVpZCh1c2VyRnJvbURiLmdldFVuaXF1ZUlkKCksIG5ld0ludGVydmlld2VyUm9sZSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEB3eSDlrp7njrAK</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

@@ -4,7 +4,7 @@
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-    <pattern pattern="\bnotice\b.*" />
+    <pattern case-sensitive="true" pattern="\bfixme\b.*" />
+    <pattern case-sensitive="true" pattern="\bnotice\b.*" />
   </component>
 </application>

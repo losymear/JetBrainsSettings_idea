@@ -836,11 +836,11 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interview/InterviewEntity.java" timestamp="1544252597389">
-        <mark key="[" line="25" column="26" />
-        <mark key="]" line="35" column="30" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interview/InterviewEntity.java" timestamp="1544289244344">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
         <mark key="^" line="35" column="30" />
-        <mark key="." line="35" column="30" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/interviewer/InterviewerController.java" timestamp="1544165290706">
         <mark key="'" line="68" column="24" />
@@ -1625,6 +1625,10 @@
         <mark key="^" line="49" column="7" />
         <mark key="." line="49" column="7" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interview/InterviewerBookingEntity.java" timestamp="1544289221922">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="30" column="24" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/SchedulingService.java" timestamp="1543585048422">
         <mark key="[" line="31" column="93" />
         <mark key="]" line="31" column="92" />
@@ -1758,7 +1762,7 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyMgVE9ET+WIl+ihqAozLiDljZXlhYPmtYvor5XjgIIgIOW+iOWkmnNlcnZpY2XlsYLmjqXlj6PmnKrlrozmiJDjgIIKNC4g5LiA5Lqb5o6l5Y+j5Y+v5Lul5L2/55So57yT5a2YCjIuIOmHjeaUviB0b21jYXTphY3nva5oYXNoCgoKCgoKCiMjIHBlcnNvbmFsCi0gWyBdIHNwcmluZyBzZWN1cml0eSByZWNvcmQKLSBbIF0gZmlsdGVy6K+75Y+WYm9kee+8jHJlY29yZAoKCgpodHRwczovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy81NDAyNzIzL3NwcmluZy1zZWN1cml0eS1tZXRhLWFubm90YXRpb24K</text>
+        <text encoding="base64">ICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="-" type="4">
         <text>答题相关</text>
@@ -1767,34 +1771,34 @@
         <text>InterviewerId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0dWRlbnRNZXNzYWdlRG8+IG1lc3NhZ2VVbmtub3duID0gc3R1ZGVudE1lc3NhZ2VSZXBvLmZpbmRCeVVzZXJJZEFuZEtub3duQW5kVHlwZUluT3JkZXJCeUNyZWF0ZVRpbWVEZXNjKHVzZXJJZCwgMCwgdHlwZUlkcyk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKG1lc3NhZ2VVbmtub3duLCAyKTsK</text>
+        <text encoding="base64">ICAgIEBJZAogICAgQEdlbmVyYXRlZFZhbHVlKHN0cmF0ZWd5ID0gR2VuZXJhdGlvblR5cGUuSURFTlRJVFkpCiAgICBAQ29sdW1uKG5hbWUgPSAiaWQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMgVE9ET+WIl+ihqAozLiDljZXlhYPmtYvor5XjgIIgIOW+iOWkmnNlcnZpY2XlsYLmjqXlj6PmnKrlrozmiJDjgIIKNC4g5LiA5Lqb5o6l5Y+j5Y+v5Lul5L2/55So57yT5a2YCjIuIOmHjeaUviB0b21jYXTphY3nva5oYXNoCgoKCgoKCiMjIHBlcnNvbmFsCi0gWyBdIHNwcmluZyBzZWN1cml0eSByZWNvcmQKLSBbIF0gZmlsdGVy6K+75Y+WYm9kee+8jHJlY29yZAoKCgpodHRwczovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy81NDAyNzIzL3NwcmluZy1zZWN1cml0eS1tZXRhLWFubm90YXRpb24K</text>
+        <text encoding="base64">ICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIEBHZXR0ZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIOWQjOatpXJlZnVuZAo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJpZCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">IyMgVE9ET+WIl+ihqAozLiDljZXlhYPmtYvor5XjgIIgIOW+iOWkmnNlcnZpY2XlsYLmjqXlj6PmnKrlrozmiJDjgIIKNC4g5LiA5Lqb5o6l5Y+j5Y+v5Lul5L2/55So57yT5a2YCjIuIOmHjeaUviB0b21jYXTphY3nva5oYXNoCgoKCgoKCiMjIHBlcnNvbmFsCi0gWyBdIHNwcmluZyBzZWN1cml0eSByZWNvcmQKLSBbIF0gZmlsdGVy6K+75Y+WYm9kee+8jHJlY29yZAoKCgpodHRwczovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy81NDAyNzIzL3NwcmluZy1zZWN1cml0eS1tZXRhLWFubm90YXRpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBhbW91bnQK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSByZWFzb24K</text>
+        <text encoding="base64">ICAgICAqIOWQjOatpXJlZnVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB0cmFkZU5vCg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyQWxsIHVzZXJBbGwgPSBuZXcgVXNlckFsbCgpOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBhbW91bnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3R1ZGVudE1lc3NhZ2VSZXBvLmZpbmRBbGwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByZWFzb24K</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

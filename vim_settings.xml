@@ -24,7 +24,7 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1544623188845">
+      <file name="/a.dummy" timestamp="1544685777989">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/test/java/com/zhiri/qumianshi/Service/AppointmentServiceTest.java" timestamp="1543201039742">
@@ -387,6 +387,12 @@
         <mark key="^" line="4" column="54" />
         <mark key="." line="4" column="54" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/error/QmsException.java" timestamp="1544682454876">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="38" column="48" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Configuration/security/DigestCheckAdvice.java" timestamp="1543200808061">
         <mark key="[" line="23" column="22" />
         <mark key="]" line="23" column="28" />
@@ -520,14 +526,15 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/ActiveTaskController.java" timestamp="1544621249607">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/ActiveTaskController.java" timestamp="1544683947200">
         <mark key="'" line="67" column="0" />
-        <mark key="[" line="44" column="61" />
-        <mark key="]" line="44" column="62" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="45" column="23" />
         <mark key="." line="44" column="62" />
         <mark key="^" line="44" column="62" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/TikuItemRepository.java" timestamp="1544188259263">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/TikuItemRepository.java" timestamp="1544683520743">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="24" column="105" />
@@ -551,9 +558,10 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/ActiveTaskService.java" timestamp="1544624776901">
-        <mark key="[" line="147" column="23" />
-        <mark key="]" line="147" column="22" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/ActiveTaskService.java" timestamp="1544684072799">
+        <mark key="'" line="239" column="27" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="39" column="45" />
         <mark key="^" line="147" column="22" />
         <mark key="." line="147" column="22" />
       </file>
@@ -724,11 +732,11 @@
         <mark key="." line="347" column="0" />
         <mark key="^" line="344" column="3" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/TikuService.java" timestamp="1544248540371">
-        <mark key="[" line="131" column="53" />
-        <mark key="]" line="131" column="60" />
-        <mark key="." line="131" column="60" />
-        <mark key="^" line="131" column="60" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/TikuService.java" timestamp="1544683583135">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="26" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="68" column="25" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ShareAnswerEntity.java" timestamp="1544297016440">
         <mark key="[" line="27" column="22" />
@@ -774,11 +782,25 @@
         <mark key="." line="53" column="69" />
         <mark key="^" line="53" column="69" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/ChallangeController.java" timestamp="1544686725452">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="57" column="1" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="57" column="52" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/watch/ShortVideoCommentServiceTest.java" timestamp="1544297701351">
         <mark key="[" line="36" column="33" />
         <mark key="]" line="36" column="24" />
         <mark key="^" line="36" column="24" />
         <mark key="." line="36" column="24" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/ChallangeManager.java" timestamp="1544685668740">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="14" column="43" />
+        <mark key="^" line="14" column="43" />
+        <mark key="." line="14" column="43" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/daemon/InterviewDaemon.java" timestamp="1544252776437">
         <mark key="[" line="61" column="0" />
@@ -956,11 +978,12 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/FieldEntity.java" timestamp="1544298142443">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="5" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="28" column="3" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/FieldEntity.java" timestamp="1544684803889">
+        <mark key="'" line="0" column="14" />
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="18" column="14" />
+        <mark key="." line="18" column="14" />
+        <mark key="^" line="18" column="14" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/pay/PayRepository.java" timestamp="1543317990097">
         <mark key="[" line="14" column="73" />
@@ -1048,7 +1071,7 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="52" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544607607718">
+      <file name="/Dummy.txt" timestamp="1544682571593">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/yunxin/src/test/java/com/zhiri/qumianshi/controller/YunxinControllerTest.java" timestamp="1543461122744">
@@ -1233,6 +1256,13 @@
         <mark key="." line="25" column="10" />
         <mark key="^" line="25" column="10" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/UserChallengeLevel.java" timestamp="1544684849028">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="25" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/UserQuestionReadHistoryRepository.java" timestamp="1544170330784">
         <mark key="[" line="31" column="4" />
         <mark key="]" line="31" column="42" />
@@ -1402,7 +1432,7 @@
         <mark key="^" line="30" column="43" />
         <mark key="." line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/InterviewController.java" timestamp="1544516459939">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/InterviewController.java" timestamp="1544686683396">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="72" />
         <mark key="." line="41" column="0" />
@@ -1432,11 +1462,11 @@
         <mark key="^" line="29" column="82" />
         <mark key="." line="29" column="64" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/error/MyErrorCodeEnum.java" timestamp="1544521738926">
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="15" column="14" />
-        <mark key="." line="15" column="14" />
-        <mark key="^" line="15" column="14" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/error/MyErrorCodeEnum.java" timestamp="1544682627674">
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="18" column="6" />
+        <mark key="." line="18" column="6" />
+        <mark key="^" line="18" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/util/MyUtils.java" timestamp="1544301220971">
         <mark key="[" line="25" column="24" />
@@ -1480,6 +1510,12 @@
         <mark key="." line="39" column="29" />
         <mark key="^" line="39" column="29" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/dto/ChallangePackage.java" timestamp="1544685444233">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/InterviewUserAppraiseEntity.java" timestamp="1544299579401">
         <mark key="[" line="38" column="16" />
         <mark key="]" line="38" column="18" />
@@ -1492,17 +1528,34 @@
         <mark key="^" line="52" column="19" />
         <mark key="." line="27" column="16" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/ChallangeService.java" timestamp="1544687270122">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="62" column="25" />
+        <mark key="]" line="62" column="31" />
+        <mark key="." line="62" column="31" />
+        <mark key="^" line="62" column="31" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interview/InterviewerInfoEntity.java" timestamp="1544614767669">
         <mark key="[" line="108" column="5" />
         <mark key="]" line="108" column="0" />
         <mark key="^" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/ChallengeTask.java" timestamp="1544682902811">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="43" column="5" />
+        <mark key="]" line="43" column="4" />
+        <mark key="^" line="43" column="4" />
+        <mark key="." line="43" column="4" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/CoreConfiguration.java" timestamp="1544169719098">
         <mark key="[" line="15" column="67" />
         <mark key="]" line="12" column="13" />
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/UserQuestionReadHistoryRepo.java" timestamp="1544685802293">
+        <mark key="[" line="18" column="36" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/yunxin/YunxinLoginEntity.java" timestamp="1544301018476">
         <mark key="[" line="28" column="4" />
@@ -1543,15 +1596,12 @@
         <mark key="." line="43" column="16" />
         <mark key="^" line="43" column="16" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/init.sql" timestamp="1544600989563">
-        <mark key="'" line="71" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/init.sql" timestamp="1544686367920">
+        <mark key="'" line="48" column="33" />
         <mark key="[" line="103" column="17" />
         <mark key="]" line="101" column="16" />
         <mark key="." line="101" column="16" />
         <mark key="^" line="101" column="16" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/InterviewRepo.java" timestamp="1544673308485">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/dto/view/BasicField.java" timestamp="1542974313902">
         <mark key="[" line="26" column="0" />
@@ -1727,6 +1777,13 @@
         <mark key="]" line="32" column="8" />
         <mark key="^" line="32" column="8" />
         <mark key="." line="32" column="8" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/ChallengeLevel.java" timestamp="1544685265218">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="19" column="6" />
+        <mark key="^" line="19" column="6" />
+        <mark key="." line="19" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/dto/inner/ivInterviewerScores.java" timestamp="1542791739923">
         <mark key="[" line="15" column="8" />
@@ -1993,11 +2050,17 @@
         <mark key="^" line="23" column="3" />
         <mark key="." line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/interviewer/InterviewerService.java" timestamp="1544609183437">
-        <mark key="[" line="94" column="99" />
-        <mark key="]" line="95" column="38" />
-        <mark key="." line="95" column="38" />
-        <mark key="^" line="95" column="38" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/qumianshi_v1.3_dzh.sql" timestamp="1544683799230">
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="22" column="25" />
+        <mark key="^" line="22" column="25" />
+        <mark key="." line="22" column="25" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/interviewer/InterviewerService.java" timestamp="1544682744445">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="^" line="123" column="27" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/interviewer/InterviewerHome.java" timestamp="1543637159005">
         <mark key="[" line="39" column="1" />
@@ -2186,29 +2249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/PromotionManager.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/student/StudentActiveStateTodayDo.java" />
-      <jump line="21" column="36" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/student/StudentActiveStateTodayDo.java" />
-      <jump line="86" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/PromotionManager.java" />
-      <jump line="115" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/PromotionManager.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/PromotionManager.java" />
-      <jump line="7" column="51" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/manager/student/PromotionManagerTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/manager/student/PromotionManagerTest.java" />
-      <jump line="77" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/PromotionManager.java" />
-      <jump line="120" column="24" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/PromotionManager.java" />
-      <jump line="96" column="52" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/PromotionManager.java" />
-      <jump line="151" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/PromotionManager.java" />
-      <jump line="78" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/student/StudentActiveStateTodayDo.java" />
-      <jump line="24" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/PromotionService.java" />
-      <jump line="127" column="34" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/newTable.sql" />
-      <jump line="163" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/newTable.sql" />
-      <jump line="313" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/newTable.sql" />
-      <jump line="2" column="37" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/newTable.sql" />
-      <jump line="19" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interviewer/BannerEntity.java" />
-      <jump line="316" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/newTable.sql" />
-      <jump line="48" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/WyTestController.java" />
-      <jump line="41" column="37" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/WyTestController.java" />
-      <jump line="57" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/newTable.sql" />
       <jump line="27" column="41" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/interviewer/InterviewerHomeService.java" />
       <jump line="32" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/interviewer/InterviewerHomeService.java" />
       <jump line="24" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/interviewer/InterviewerHomeServiceTest.java" />
@@ -2286,49 +2326,72 @@
       <jump line="41" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/response/UserProfile.java" />
       <jump line="43" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/response/UserProfile.java" />
       <jump line="45" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/response/UserProfile.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/ChallengeTask.java" />
+      <jump line="4" column="43" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/TikuItemRepository.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/TikuItemRepository.java" />
+      <jump line="239" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/ActiveTaskService.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/ChallangeService.java" />
+      <jump line="31" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/ChallangeService.java" />
+      <jump line="26" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/ChallangeService.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/ChallangeService.java" />
+      <jump line="0" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/FieldEntity.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/UserChallengeLevel.java" />
+      <jump line="37" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/ChallangeService.java" />
+      <jump line="46" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/ChallangeService.java" />
+      <jump line="0" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/ChallengeLevel.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/ChallangeService.java" />
+      <jump line="14" column="2" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/ChallangeService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/ChallangeService.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/ChallangeService.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/ChallangeManager.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/ChallangeManager.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/ChallangeService.java" />
+      <jump line="48" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/init.sql" />
+      <jump line="38" column="39" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/ChallangeController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/ChallangeController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>private</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>static</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuaAp+WIqyIpCiAgICBJbnRlZ2VyIGdlbmRlcjsK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUW1zUnVudGltZUV4Y2VwdGlvbigi5pyq5a6e546wIik7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KQogICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB0Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">OwogICAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0aHIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIiIpCg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAQnVpbGRlci5EZWZhdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIDxwPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IOWPr+S7peacieS4gOS6m2hhc2jooajooajnpLrkuIDkuKrku7vliqHmmK/lkKbmmK/kuIDmrKHmgKfnmoTvvIzkuI3ov4fmsqHlv4XopoHvvJsg5YOP5omT5Y2h562JCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VyQWxsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbmZvCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB0YXNrRGF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

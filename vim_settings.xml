@@ -1628,8 +1628,8 @@
         <mark key="^" line="69" column="36" />
         <mark key="." line="69" column="36" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/CheckInController.java" timestamp="1544769504927">
-        <mark key="'" line="40" column="3" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/CheckInController.java" timestamp="1544771004712">
+        <mark key="'" line="52" column="0" />
         <mark key="[" line="44" column="61" />
         <mark key="]" line="44" column="60" />
         <mark key="." line="44" column="60" />
@@ -2375,7 +2375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/student/ActiveValueTaskDo.java" />
       <jump line="284" column="39" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/newTable.sql" />
       <jump line="330" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/newTable.sql" />
       <jump line="5" column="19" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/constants/RedisCacheConstants.java" />
@@ -2475,6 +2474,7 @@
       <jump line="25" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/ChallengeLevelState.java" />
       <jump line="22" column="24" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/ChallengeLevelState.java" />
       <jump line="40" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/ChallengeManager.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/CheckInController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

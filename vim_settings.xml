@@ -791,11 +791,11 @@
         <mark key="^" line="22" column="14" />
         <mark key="." line="22" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/manager/student/CheckInManagerTest.java" timestamp="1544789731693">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="84" />
-        <mark key="^" line="37" column="37" />
-        <mark key="." line="37" column="37" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/manager/student/CheckInManagerTest.java" timestamp="1544858108974">
+        <mark key="[" line="85" column="80" />
+        <mark key="]" line="86" column="20" />
+        <mark key="^" line="86" column="20" />
+        <mark key="." line="86" column="20" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/test/java/com/zhiri/qumianshi/Controller/AppointmentControllerTest.java" timestamp="1543200848411">
         <mark key="[" line="75" column="0" />
@@ -1524,10 +1524,6 @@
         <mark key="." line="47" column="21" />
         <mark key="^" line="47" column="21" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/init.sql" timestamp="1544845046946">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="78" column="15" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/InterviewRepo.java" timestamp="1544713230790">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="70" column="64" />
@@ -1810,8 +1806,8 @@
         <mark key="^" line="161" column="19" />
         <mark key="." line="161" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/student/activetask/ActiveTaskServiceTest.java" timestamp="1544856852224">
-        <mark key="'" line="45" column="35" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/student/activetask/ActiveTaskServiceTest.java" timestamp="1544857927152">
+        <mark key="'" line="156" column="0" />
         <mark key="[" line="138" column="56" />
         <mark key="]" line="84" column="47" />
         <mark key="." line="84" column="47" />
@@ -2168,8 +2164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/CheckInController.java" />
-      <jump line="41" column="3" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/CheckInController.java" />
       <jump line="7" column="94" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/qumianshi_v1.1_dzh_wy.sql" />
       <jump line="7" column="100" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/qumianshi_v1.2_wy.sql" />
       <jump line="6" column="39" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/qumianshi_v1.2_wy.sql" />
@@ -2268,6 +2262,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/init.sql" />
       <jump line="35" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/watch/ShortVideoServiceTest.java" />
       <jump line="3" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/ActiveTaskController.java" />
+      <jump line="89" column="47" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/student/activetask/ActiveTaskServiceTest.java" />
+      <jump line="156" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/student/activetask/ActiveTaskServiceTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

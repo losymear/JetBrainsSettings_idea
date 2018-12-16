@@ -81,7 +81,6 @@
         <mark key="^" line="33" column="27" />
         <mark key="." line="33" column="27" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/daemon/Tmp.class" timestamp="1544898444878" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/dto/ChallengePackage.java" timestamp="1544703848069">
         <mark key="[" line="47" column="11" />
         <mark key="]" line="47" column="11" />
@@ -827,12 +826,12 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/UserFollowedFieldRepo.java" timestamp="1544697762709">
         <mark key="[" line="19" column="95" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/daemon/Tmp.java" timestamp="1544898500031">
-        <mark key="'" line="12" column="9" />
-        <mark key="[" line="36" column="46" />
-        <mark key="]" line="37" column="20" />
-        <mark key="." line="37" column="20" />
-        <mark key="^" line="37" column="20" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/daemon/Tmp.java" timestamp="1544960455122">
+        <mark key="'" line="9" column="9" />
+        <mark key="[" line="44" column="9" />
+        <mark key="]" line="44" column="9" />
+        <mark key="^" line="44" column="9" />
+        <mark key="." line="44" column="9" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/request/UserAnswerRankObj.java" timestamp="1544173893021">
         <mark key="[" line="19" column="44" />
@@ -2294,11 +2293,11 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PE5hdHVyYWxOdW1iZXI+IGYgPShMaXN0PE5hdHVyYWxOdW1iZXI+KSBsbjsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAvLyBBIHJhdyB0eXBlIC0gY29tcGlsZXIgdGhyb3dzIGFuIHVuY2hlY2tlZCB3YXJuaW5n</text>
       </register>
       <register name="-" type="4">
-        <text>Lists.newArrayList(1,3)</text>
+        <text encoding="base64">ICAvLyBBIHJhdyB0eXBlIC0gY29tcGlsZXIgdGhyb3dzIGFuIHVuY2hlY2tlZCB3YXJuaW5n</text>
       </register>
       <register name="/" type="4">
         <text>private</text>

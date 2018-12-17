@@ -327,7 +327,7 @@
         <mark key="^" line="20" column="6" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interviewer/VerifyRecordEntity.java" timestamp="1545028343339">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interviewer/VerifyRecordEntity.java" timestamp="1545044917875">
         <mark key="[" line="107" column="63" />
         <mark key="]" line="123" column="12" />
         <mark key="." line="123" column="12" />
@@ -666,7 +666,8 @@
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/AnswerController.java" timestamp="1544583375559">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/AnswerController.java" timestamp="1545045338042">
+        <mark key="'" line="64" column="0" />
         <mark key="[" line="34" column="15" />
         <mark key="]" line="35" column="6" />
         <mark key="^" line="35" column="6" />
@@ -1263,6 +1264,7 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/interviewer/InterviewerVerifyResultDto.java" timestamp="1545045119280" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/helper/QmsConverterService.java" timestamp="1544100943330">
         <mark key="[" line="20" column="7" />
         <mark key="]" line="21" column="14" />
@@ -1410,6 +1412,7 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/interviewer/InterviewerPriceDto.java" timestamp="1545044803561" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/qumianshi_v2.2.dzh.sql" timestamp="1545036162408">
         <mark key="[" line="3" column="0" />
       </file>
@@ -1765,6 +1768,7 @@
         <mark key="^" line="31" column="42" />
         <mark key="." line="31" column="42" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/interviewer/InterviewerVerifyService.java" timestamp="1545044748238" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/test/java/com/zhiri/qumianshi/Tmp.java" timestamp="1544781712883">
         <mark key="[" line="13" column="12" />
         <mark key="]" line="16" column="22" />
@@ -2122,6 +2126,7 @@
         <mark key="^" line="183" column="125" />
         <mark key="." line="183" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/interviewer/InterviewerVerifyDto.java" timestamp="1545044901578" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/UserZanRecordEntity.java" timestamp="1544300834156">
         <mark key="[" line="22" column="21" />
         <mark key="]" line="23" column="3" />
@@ -2249,9 +2254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/UserFollowedFieldRepository.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/dto/UnlockedQuestion.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/ChallengeLevelState.java" />
       <jump line="11" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/qumianshi_v1.3_dzh.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/qumianshi_v1.3_dzh.sql" />
       <jump line="1" column="117" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/qumianshi_v1.6_wy.sql" />
@@ -2349,6 +2351,9 @@
       <jump line="47" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/CheckInService.java" />
       <jump line="90" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/interviewer/InterviewerProfile.java" />
       <jump line="37" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/WyTestController.java" />
+      <jump line="0" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/AnswerController.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/AnswerController.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/AnswerController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

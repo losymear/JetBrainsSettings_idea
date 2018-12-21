@@ -27,12 +27,12 @@
         <mark key="." line="128" column="29" />
         <mark key="^" line="128" column="29" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/resources/core.properties" timestamp="1545400836428">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/resources/core.properties" timestamp="1545406102129">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="52" column="29" />
-        <mark key="]" line="67" column="66" />
-        <mark key="^" line="67" column="66" />
-        <mark key="." line="67" column="66" />
+        <mark key="[" line="28" column="56" />
+        <mark key="]" line="53" column="27" />
+        <mark key="^" line="53" column="27" />
+        <mark key="." line="53" column="27" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/activetask/ActiveTaskService.java" timestamp="1545295163898">
         <mark key="[" line="164" column="20" />
@@ -97,6 +97,12 @@
         <mark key="^" line="14" column="6" />
         <mark key="." line="14" column="6" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/umentpush/AndroidNotification.java" timestamp="1545401606673">
+        <mark key="[" line="190" column="17" />
+        <mark key="]" line="207" column="4" />
+        <mark key="^" line="207" column="4" />
+        <mark key="." line="207" column="4" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/dto/RandomQuestions.java" timestamp="1545304093103">
         <mark key="[" line="25" column="23" />
         <mark key="]" line="25" column="25" />
@@ -109,9 +115,9 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="54" column="33" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/AliMessageController.java" timestamp="1544413541758">
-        <mark key="[" line="112" column="12" />
-        <mark key="]" line="120" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/AliMessageController.java" timestamp="1545403482668">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="35" column="35" />
         <mark key="^" line="65" column="56" />
         <mark key="." line="120" column="0" />
       </file>
@@ -126,6 +132,12 @@
         <mark key="]" line="14" column="6" />
         <mark key="^" line="14" column="6" />
         <mark key="." line="14" column="6" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentPushService.java" timestamp="1545404522931">
+        <mark key="[" line="92" column="56" />
+        <mark key="]" line="65" column="8" />
+        <mark key="." line="65" column="8" />
+        <mark key="^" line="65" column="8" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/umentpush/ios/IOSBroadcast.java" timestamp="1545397455520">
         <mark key="[" line="18" column="0" />
@@ -215,7 +227,7 @@
         <mark key="^" line="33" column="14" />
         <mark key="." line="33" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/WyTestController.java" timestamp="1545400253865">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/WyTestController.java" timestamp="1545404930234">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="58" column="18" />
       </file>
@@ -541,7 +553,7 @@
       <file name="$USER_HOME$/Downloads/java/src/main/java/push/ios/IOSFilecast.java" timestamp="1545397513576">
         <mark key="[" line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545397726822">
+      <file name="/Dummy.txt" timestamp="1545405734570">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="45" />
       </file>
@@ -683,6 +695,7 @@
         <mark key="^" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/helper/DigestCheckService.java" timestamp="1545406067095" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/InterviewRepository.java" timestamp="1544100224604">
         <mark key="[" line="38" column="4" />
         <mark key="]" line="38" column="4" />
@@ -732,8 +745,11 @@
         <mark key="^" line="9" column="40" />
         <mark key="." line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/Downloads/java/src/main/java/push/StudentPushManager.java" timestamp="1545398047881">
-        <mark key="[" line="15" column="0" />
+      <file name="$USER_HOME$/Downloads/java/src/main/java/push/StudentPushManager.java" timestamp="1545404889766">
+        <mark key="[" line="171" column="16" />
+        <mark key="]" line="171" column="33" />
+        <mark key="." line="171" column="33" />
+        <mark key="^" line="171" column="33" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Controller/Interviewer/InterviewerController.java" timestamp="1543302898698">
         <mark key="[" line="68" column="15" />
@@ -1242,12 +1258,9 @@
         <mark key="." line="47" column="16" />
         <mark key="^" line="47" column="16" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/StudentPushManager.java" timestamp="1545400845783">
-        <mark key="'" line="46" column="31" />
-        <mark key="[" line="24" column="22" />
-        <mark key="]" line="25" column="47" />
-        <mark key="." line="25" column="47" />
-        <mark key="^" line="25" column="47" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/StudentPushManager.java" timestamp="1545405658114">
+        <mark key="'" line="25" column="0" />
+        <mark key="^" line="91" column="24" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/domain/interview/InterviewerInfoEntity.java" timestamp="1543030568399">
         <mark key="[" line="16" column="69" />
@@ -1748,6 +1761,7 @@
         <mark key="^" line="17" column="78" />
         <mark key="." line="17" column="78" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/QumianshiApplication.java" timestamp="1545403777169" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/pom.xml" timestamp="1544690523759">
         <mark key="[" line="41" column="24" />
         <mark key="]" line="41" column="27" />
@@ -1759,6 +1773,9 @@
         <mark key="]" line="47" column="32" />
         <mark key="^" line="47" column="32" />
         <mark key="." line="47" column="32" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/CommonController.java" timestamp="1545403511459">
+        <mark key="[" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/dto/response/InterviewerObj.java" timestamp="1542801402511">
         <mark key="[" line="18" column="49" />
@@ -2321,18 +2338,14 @@
         <mark key="^" line="128" column="19" />
         <mark key="." line="128" column="19" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/DevController.java" timestamp="1545404293420">
+        <mark key="[" line="48" column="9" />
+        <mark key="]" line="48" column="15" />
+        <mark key="^" line="48" column="15" />
+        <mark key="." line="48" column="15" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="49" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/UserService.java" />
-      <jump line="77" column="37" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/UserService.java" />
-      <jump line="16" column="17" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/ChallengeManager.java" />
-      <jump line="111" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/ChallengeManager.java" />
-      <jump line="25" column="51" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/manager/student/ChallengeManagerTest.java" />
-      <jump line="101" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/manager/student/ChallengeManagerTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/manager/student/ChallengeManagerTest.java" />
-      <jump line="0" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/dto/ChallengeLevelStateDTO.java" />
-      <jump line="45" column="3" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/ChallengeManager.java" />
-      <jump line="107" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/ChallengeManager.java" />
       <jump line="116" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/ChallengeManager.java" />
       <jump line="103" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/ChallengeManager.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/ChallengeManager.java" />
@@ -2423,25 +2436,35 @@
       <jump line="223" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/StudentPushManager.java" />
       <jump line="24" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/StudentPushManager.java" />
       <jump line="36" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/StudentPushManager.java" />
+      <jump line="269" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/StudentPushManager.java" />
+      <jump line="284" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/StudentPushManager.java" />
+      <jump line="46" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/StudentPushManager.java" />
+      <jump line="70" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/StudentPushManager.java" />
+      <jump line="86" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/StudentPushManager.java" />
+      <jump line="102" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/StudentPushManager.java" />
+      <jump line="195" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/StudentPushManager.java" />
+      <jump line="213" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/StudentPushManager.java" />
+      <jump line="254" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/StudentPushManager.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/StudentPushManager.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>TODO: @wy 使用@Value读取properties文件配置</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdW5pY2FzdC5zZXRQcm9kdWN0aW9uTW9kZSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>TODO: @wy 使用@Value读取properties文件配置</text>
+        <text>setTestMode</text>
       </register>
       <register name="/" type="4">
-        <text>private</text>
+        <text>pub</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtzcHJpbmcucHJvZmlsZXMuYWN0aXZlOidwcm9kJ30iKQogICAgU3RyaW5nIGFjdGl2ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5pY2FzdC5zZXRQcm9kdWN0aW9uTW9kZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text encoding="base64">Ly8gICAgICAgIHVuaWNhc3Quc2V0UHJvZHVjdGlvbk1vZGUoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2506,37 +2529,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyogVE9ETyB0aGVzZSBtZXRob2RzIGFyZSBhbGwgYXZhaWxhYmxlLCBqdXN0IGZpbGwgaW4gc29tZSBmaWVsZHMgYW5kIGRvIHRoZSB0ZXN0CiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kQW5kcm9pZEN1c3RvbWl6ZWRjYXN0RmlsZSgpOwogICAgICAgICAgICAgKiBzdHVkZW50UHVzaE1hbmFnZXIuc2VuZEFuZHJvaWRCcm9hZGNhc3QoKTsKICAgICAgICAgICAgICogc3R1ZGVudFB1c2hNYW5hZ2VyLnNlbmRBbmRyb2lkR3JvdXBjYXN0KCk7CiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kQW5kcm9pZEN1c3RvbWl6ZWRjYXN0KCk7CiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kQW5kcm9pZEZpbGVjYXN0KCk7CiAgICAgICAgICAgICAqCiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kSU9TQnJvYWRjYXN0KCk7CiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kSU9TR3JvdXBjYXN0KCk7CiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kSU9TQ3VzdG9taXplZGNhc3QoKTsKICAgICAgICAgICAgICogc3R1ZGVudFB1c2hNYW5hZ2VyLnNlbmRJT1NGaWxlY2FzdCgpOwogICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyogVE9ETyB0aGVzZSBtZXRob2RzIGFyZSBhbGwgYXZhaWxhYmxlLCBqdXN0IGZpbGwgaW4gc29tZSBmaWVsZHMgYW5kIGRvIHRoZSB0ZXN0CiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kQW5kcm9pZEN1c3RvbWl6ZWRjYXN0RmlsZSgpOwogICAgICAgICAgICAgKiBzdHVkZW50UHVzaE1hbmFnZXIuc2VuZEFuZHJvaWRCcm9hZGNhc3QoKTsKICAgICAgICAgICAgICogc3R1ZGVudFB1c2hNYW5hZ2VyLnNlbmRBbmRyb2lkR3JvdXBjYXN0KCk7CiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kQW5kcm9pZEN1c3RvbWl6ZWRjYXN0KCk7CiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kQW5kcm9pZEZpbGVjYXN0KCk7CiAgICAgICAgICAgICAqCiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kSU9TQnJvYWRjYXN0KCk7CiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kSU9TR3JvdXBjYXN0KCk7CiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kSU9TQ3VzdG9taXplZGNhc3QoKTsKICAgICAgICAgICAgICogc3R1ZGVudFB1c2hNYW5hZ2VyLnNlbmRJT1NGaWxlY2FzdCgpOwogICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICB1bmljYXN0LnNldFByb2R1Y3Rpb25Nb2RlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyogVE9ETyB0aGVzZSBtZXRob2RzIGFyZSBhbGwgYXZhaWxhYmxlLCBqdXN0IGZpbGwgaW4gc29tZSBmaWVsZHMgYW5kIGRvIHRoZSB0ZXN0CiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kQW5kcm9pZEN1c3RvbWl6ZWRjYXN0RmlsZSgpOwogICAgICAgICAgICAgKiBzdHVkZW50UHVzaE1hbmFnZXIuc2VuZEFuZHJvaWRCcm9hZGNhc3QoKTsKICAgICAgICAgICAgICogc3R1ZGVudFB1c2hNYW5hZ2VyLnNlbmRBbmRyb2lkR3JvdXBjYXN0KCk7CiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kQW5kcm9pZEN1c3RvbWl6ZWRjYXN0KCk7CiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kQW5kcm9pZEZpbGVjYXN0KCk7CiAgICAgICAgICAgICAqCiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kSU9TQnJvYWRjYXN0KCk7CiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kSU9TR3JvdXBjYXN0KCk7CiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kSU9TQ3VzdG9taXplZGNhc3QoKTsKICAgICAgICAgICAgICogc3R1ZGVudFB1c2hNYW5hZ2VyLnNlbmRJT1NGaWxlY2FzdCgpOwogICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICogc3R1ZGVudFB1c2hNYW5hZ2VyLnNlbmRJT1NVbmljYXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBAVmFsdWUoIiR7c3ByaW5nLnByb2ZpbGVzLmFjdGl2ZToncHJvZCd9IikKICAgIFN0cmluZyBhY3RpdmU7CiAgICBwcml2YXRlIFN0cmluZyBzdHVkZW50QW5kcm9pZEtleSA9ICI1YzA0YTFlNGI0NjVmNWMxZDgwMDAwMTgiOwogICAgcHJpdmF0ZSBTdHJpbmcgc3R1ZGVudEFuZHJvaWRNYXN0ZXJTZWNyZXQgPSAidTl0Y2UxdHFnNHJqd2lmbWZmemxlZWhzZjZ1ZWNhMTkiOwogICAgcHJpdmF0ZSBTdHJpbmcgc3R1ZGVudElPU0tleSA9ICI1YzA4ODkzMGYxZjU1NjUxMmYwMDAxNDciOwogICAgcHJpdmF0ZSBTdHJpbmcgc3R1ZGVudElPU01hc3RlclNlY3JldCA9ICJneTJmaWQ4ZGx0bjR6aGN4bmJoZ21jNXJ5c2s0YWxrbyI7CiAgICBwcml2YXRlIFN0cmluZyB0aW1lc3RhbXAgPSBudWxsOwogICAgcHJpdmF0ZSBQdXNoQ2xpZW50IGNsaWVudCA9IG5ldyBQdXNoQ2xpZW50KCk7CgogICAgcHVibGljIFN0dWRlbnRQdXNoTWFuYWdlcigpIHsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZW5kQW5kcm9pZEJyb2FkY2FzdCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIEFuZHJvaWRCcm9hZGNhc3QgYnJvYWRjYXN0ID0gbmV3IEFuZHJvaWRCcm9hZGNhc3Qoc3R1ZGVudEFuZHJvaWRLZXksIHN0dWRlbnRBbmRyb2lkTWFzdGVyU2VjcmV0KTsKICAgICAgICBicm9hZGNhc3Quc2V0VGlja2VyKCJBbmRyb2lkIGJyb2FkY2FzdCB0aWNrZXIiKTsKICAgICAgICBicm9hZGNhc3Quc2V0VGl0bGUoIuS4reaWh+eahHRpdGxlIik7CiAgICAgICAgYnJvYWRjYXN0LnNldFRleHQoIkFuZHJvaWQgYnJvYWRjYXN0IHRleHQiKTsKICAgICAgICBicm9hZGNhc3QuZ29BcHBBZnRlck9wZW4oKTsKICAgICAgICBicm9hZGNhc3Quc2V0RGlzcGxheVR5cGUoQW5kcm9pZE5vdGlmaWNhdGlvbi5EaXNwbGF5VHlwZS5OT1RJRklDQVRJT04pOwogICAgICAgIC8vIFRPRE8gU2V0ICdwcm9kdWN0aW9uX21vZGUnIHRvICdmYWxzZScgaWYgaXQncyBhIHRlc3QgZGV2aWNlLgogICAgICAgIC8vIEZvciBob3cgdG8gcmVnaXN0ZXIgYSB0ZXN0IGRldmljZSwgcGxlYXNlIHNlZSB0aGUgZGV2ZWxvcGVyIGRvYy4KICAgICAgICBicm9hZGNhc3Quc2V0UHJvZHVjdGlvbk1vZGUoKTsKICAgICAgICAvLyBTZXQgY3VzdG9taXplZCBmaWVsZHMKICAgICAgICBicm9hZGNhc3Quc2V0RXh0cmFGaWVsZCgidGVzdCIsICJoZWxsb3dvcmxkIik7CiAgICAgICAgY2xpZW50LnNlbmQoYnJvYWRjYXN0KTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZW5kQW5kcm9pZFVuaWNhc3QoU3RyaW5nIGRldmljZVRva2VuKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBBbmRyb2lkVW5pY2FzdCB1bmljYXN0ID0gbmV3IEFuZHJvaWRVbmljYXN0KHN0dWRlbnRBbmRyb2lkS2V5LCBzdHVkZW50QW5kcm9pZE1hc3RlclNlY3JldCk7CiAgICAgICAgLy8gVE9ETyBTZXQgeW91ciBkZXZpY2UgdG9rZW4KICAgICAgICB1bmljYXN0LnNldERldmljZVRva2VuKGRldmljZVRva2VuKTsKICAgICAgICB1bmljYXN0LnNldFRpY2tlcigiQW5kcm9pZCB1bmljYXN0IHRpY2tlciIpOwogICAgICAgIHVuaWNhc3Quc2V0VGl0bGUoIuS4reaWh+eahHRpdGxlIik7CiAgICAgICAgdW5pY2FzdC5zZXRUZXh0KCJBbmRyb2lkIHVuaWNhc3QgdGV4dCIpOwogICAgICAgIHVuaWNhc3QuZ29BcHBBZnRlck9wZW4oKTsKICAgICAgICB1bmljYXN0LnNldERpc3BsYXlUeXBlKEFuZHJvaWROb3RpZmljYXRpb24uRGlzcGxheVR5cGUuTk9USUZJQ0FUSU9OKTsKICAgICAgICAvLyBUT0RPIFNldCAncHJvZHVjdGlvbl9tb2RlJyB0byAnZmFsc2UnIGlmIGl0J3MgYSB0ZXN0IGRldmljZS4KICAgICAgICAvLyBGb3IgaG93IHRvIHJlZ2lzdGVyIGEgdGVzdCBkZXZpY2UsIHBsZWFzZSBzZWUgdGhlIGRldmVsb3BlciBkb2MuCiAgICAgICAgdW5pY2FzdC5zZXRQcm9kdWN0aW9uTW9kZSgpOwogICAgICAgIC8vIFNldCBjdXN0b21pemVkIGZpZWxkcwogICAgICAgIHVuaWNhc3Quc2V0RXh0cmFGaWVsZCgidGVzdCIsICJoZWxsb3dvcmxkIik7CiAgICAgICAgY2xpZW50LnNlbmQodW5pY2FzdCk7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2VuZEFuZHJvaWRHcm91cGNhc3QoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBBbmRyb2lkR3JvdXBjYXN0IGdyb3VwY2FzdCA9IG5ldyBBbmRyb2lkR3JvdXBjYXN0KHN0dWRlbnRBbmRyb2lkS2V5LCBzdHVkZW50QW5kcm9pZE1hc3RlclNlY3JldCk7CiAgICAgICAgLyogIFRPRE8KICAgICAgICAgKiAgQ29uc3RydWN0IHRoZSBmaWx0ZXIgY29uZGl0aW9uOgogICAgICAgICAqICAid2hlcmUiOgogICAgICAgICAqCXsKICAgICAgICAgKgkJImFuZCI6CiAgICAgICAgICoJCVsKICAgICAgICAgKgkJCXsidGFnIjoidGVzdCJ9LAogICAgICAgICAqCQkJeyJ0YWciOiJUZXN0In0KICAgICAgICAgKgkJXQogICAgICAgICAqCX0KICAgICAgICAgKi8KICAgICAgICBKU09OT2JqZWN0IGZpbHRlckpzb24gPSBuZXcgSlNPTk9iamVjdCgpOwogICAgICAgIEpTT05PYmplY3Qgd2hlcmVKc29uID0gbmV3IEpTT05PYmplY3QoKTsKICAgICAgICBKU09OQXJyYXkgdGFnQXJyYXkgPSBuZXcgSlNPTkFycmF5KCk7CiAgICAgICAgSlNPTk9iamVjdCB0ZXN0VGFnID0gbmV3IEpTT05PYmplY3QoKTsKICAgICAgICBKU09OT2JqZWN0IFRlc3RUYWcgPSBuZXcgSlNPTk9iamVjdCgpOwogICAgICAgIHRlc3RUYWcucHV0KCJ0YWciLCAidGVzdCIpOwogICAgICAgIFRlc3RUYWcucHV0KCJ0YWciLCAiVGVzdCIpOwogICAgICAgIHRhZ0FycmF5LnB1dCh0ZXN0VGFnKTsKICAgICAgICB0YWdBcnJheS5wdXQoVGVzdFRhZyk7CiAgICAgICAgd2hlcmVKc29uLnB1dCgiYW5kIiwgdGFnQXJyYXkpOwogICAgICAgIGZpbHRlckpzb24ucHV0KCJ3aGVyZSIsIHdoZXJlSnNvbik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZpbHRlckpzb24udG9TdHJpbmcoKSk7CgogICAgICAgIGdyb3VwY2FzdC5zZXRGaWx0ZXIoZmlsdGVySnNvbik7CiAgICAgICAgZ3JvdXBjYXN0LnNldFRpY2tlcigiQW5kcm9pZCBncm91cGNhc3QgdGlja2VyIik7CiAgICAgICAgZ3JvdXBjYXN0LnNldFRpdGxlKCLkuK3mlofnmoR0aXRsZSIpOwogICAgICAgIGdyb3VwY2FzdC5zZXRUZXh0KCJBbmRyb2lkIGdyb3VwY2FzdCB0ZXh0Iik7CiAgICAgICAgZ3JvdXBjYXN0LmdvQXBwQWZ0ZXJPcGVuKCk7CiAgICAgICAgZ3JvdXBjYXN0LnNldERpc3BsYXlUeXBlKEFuZHJvaWROb3RpZmljYXRpb24uRGlzcGxheVR5cGUuTk9USUZJQ0FUSU9OKTsKICAgICAgICAvLyBUT0RPIFNldCAncHJvZHVjdGlvbl9tb2RlJyB0byAnZmFsc2UnIGlmIGl0J3MgYSB0ZXN0IGRldmljZS4KICAgICAgICAvLyBGb3IgaG93IHRvIHJlZ2lzdGVyIGEgdGVzdCBkZXZpY2UsIHBsZWFzZSBzZWUgdGhlIGRldmVsb3BlciBkb2MuCiAgICAgICAgZ3JvdXBjYXN0LnNldFByb2R1Y3Rpb25Nb2RlKCk7CiAgICAgICAgY2xpZW50LnNlbmQoZ3JvdXBjYXN0KTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZW5kQW5kcm9pZEN1c3RvbWl6ZWRjYXN0KCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgQW5kcm9pZEN1c3RvbWl6ZWRjYXN0IGN1c3RvbWl6ZWRjYXN0ID0gbmV3IEFuZHJvaWRDdXN0b21pemVkY2FzdChzdHVkZW50QW5kcm9pZEtleSwgc3R1ZGVudEFuZHJvaWRNYXN0ZXJTZWNyZXQpOwogICAgICAgIC8vIFRPRE8gU2V0IHlvdXIgYWxpYXMgaGVyZSwgYW5kIHVzZSBjb21tYSB0byBzcGxpdCB0aGVtIGlmIHRoZXJlIGFyZSBtdWx0aXBsZSBhbGlhcy4KICAgICAgICAvLyBBbmQgaWYgeW91IGhhdmUgbWFueSBhbGlhcywgeW91IGNhbiBhbHNvIHVwbG9hZCBhIGZpbGUgY29udGFpbmluZyB0aGVzZSBhbGlhcywgdGhlbgogICAgICAgIC8vIHVzZSBmaWxlX2lkIHRvIHNlbmQgY3VzdG9taXplZCBub3RpZmljYXRpb24uCiAgICAgICAgY3VzdG9taXplZGNhc3Quc2V0QWxpYXMoImFsaWFzIiwgImFsaWFzX3R5cGUiKTsKICAgICAgICBjdXN0b21pemVkY2FzdC5zZXRUaWNrZXIoIkFuZHJvaWQgY3VzdG9taXplZGNhc3QgdGlja2VyIik7CiAgICAgICAgY3VzdG9taXplZGNhc3Quc2V0VGl0bGUoIuS4reaWh+eahHRpdGxlIik7CiAgICAgICAgY3VzdG9taXplZGNhc3Quc2V0VGV4dCgiQW5kcm9pZCBjdXN0b21pemVkY2FzdCB0ZXh0Iik7CiAgICAgICAgY3VzdG9taXplZGNhc3QuZ29BcHBBZnRlck9wZW4oKTsKICAgICAgICBjdXN0b21pemVkY2FzdC5zZXREaXNwbGF5VHlwZShBbmRyb2lkTm90aWZpY2F0aW9uLkRpc3BsYXlUeXBlLk5PVElGSUNBVElPTik7CiAgICAgICAgLy8gVE9ETyBTZXQgJ3Byb2R1Y3Rpb25fbW9kZScgdG8gJ2ZhbHNlJyBpZiBpdCdzIGEgdGVzdCBkZXZpY2UuCiAgICAgICAgLy8gRm9yIGhvdyB0byByZWdpc3RlciBhIHRlc3QgZGV2aWNlLCBwbGVhc2Ugc2VlIHRoZSBkZXZlbG9wZXIgZG9jLgogICAgICAgIGN1c3RvbWl6ZWRjYXN0LnNldFByb2R1Y3Rpb25Nb2RlKCk7CiAgICAgICAgY2xpZW50LnNlbmQoY3VzdG9taXplZGNhc3QpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNlbmRBbmRyb2lkQ3VzdG9taXplZGNhc3RGaWxlKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgQW5kcm9pZEN1c3RvbWl6ZWRjYXN0IGN1c3RvbWl6ZWRjYXN0ID0gbmV3IEFuZHJvaWRDdXN0b21pemVkY2FzdChzdHVkZW50QW5kcm9pZEtleSwgc3R1ZGVudEFuZHJvaWRNYXN0ZXJTZWNyZXQpOwogICAgICAgIC8vIFRPRE8gU2V0IHlvdXIgYWxpYXMgaGVyZSwgYW5kIHVzZSBjb21tYSB0byBzcGxpdCB0aGVtIGlmIHRoZXJlIGFyZSBtdWx0aXBsZSBhbGlhcy4KICAgICAgICAvLyBBbmQgaWYgeW91IGhhdmUgbWFueSBhbGlhcywgeW91IGNhbiBhbHNvIHVwbG9hZCBhIGZpbGUgY29udGFpbmluZyB0aGVzZSBhbGlhcywgdGhlbgogICAgICAgIC8vIHVzZSBmaWxlX2lkIHRvIHNlbmQgY3VzdG9taXplZCBub3RpZmljYXRpb24uCiAgICAgICAgU3RyaW5nIGZpbGVJZCA9IGNsaWVudC51cGxvYWRDb250ZW50cyhzdHVkZW50QW5kcm9pZEtleSwgc3R1ZGVudEFuZHJvaWRNYXN0ZXJTZWNyZXQsICJhYSIgKyAiXG4iICsgImJiIiArICJcbiIgKyAiYWxpYXMiKTsKICAgICAgICBjdXN0b21pemVkY2FzdC5zZXRGaWxlSWQoZmlsZUlkLCAiYWxpYXNfdHlwZSIpOwogICAgICAgIGN1c3RvbWl6ZWRjYXN0LnNldFRpY2tlcigiQW5kcm9pZCBjdXN0b21pemVkY2FzdCB0aWNrZXIiKTsKICAgICAgICBjdXN0b21pemVkY2FzdC5zZXRUaXRsZSgi5Lit5paH55qEdGl0bGUiKTsKICAgICAgICBjdXN0b21pemVkY2FzdC5zZXRUZXh0KCJBbmRyb2lkIGN1c3RvbWl6ZWRjYXN0IHRleHQiKTsKICAgICAgICBjdXN0b21pemVkY2FzdC5nb0FwcEFmdGVyT3BlbigpOwogICAgICAgIGN1c3RvbWl6ZWRjYXN0LnNldERpc3BsYXlUeXBlKEFuZHJvaWROb3RpZmljYXRpb24uRGlzcGxheVR5cGUuTk9USUZJQ0FUSU9OKTsKICAgICAgICAvLyBUT0RPIFNldCAncHJvZHVjdGlvbl9tb2RlJyB0byAnZmFsc2UnIGlmIGl0J3MgYSB0ZXN0IGRldmljZS4KICAgICAgICAvLyBGb3IgaG93IHRvIHJlZ2lzdGVyIGEgdGVzdCBkZXZpY2UsIHBsZWFzZSBzZWUgdGhlIGRldmVsb3BlciBkb2MuCiAgICAgICAgY3VzdG9taXplZGNhc3Quc2V0UHJvZHVjdGlvbk1vZGUoKTsKICAgICAgICBjbGllbnQuc2VuZChjdXN0b21pemVkY2FzdCk7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2VuZEFuZHJvaWRGaWxlY2FzdCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIEFuZHJvaWRGaWxlY2FzdCBmaWxlY2FzdCA9IG5ldyBBbmRyb2lkRmlsZWNhc3Qoc3R1ZGVudEFuZHJvaWRLZXksIHN0dWRlbnRBbmRyb2lkTWFzdGVyU2VjcmV0KTsKICAgICAgICAvLyBUT0RPIHVwbG9hZCB5b3VyIGRldmljZSB0b2tlbnMsIGFuZCB1c2UgJ1xuJyB0byBzcGxpdCB0aGVtIGlmIHRoZXJlIGFyZSBtdWx0aXBsZSB0b2tlbnMKICAgICAgICBTdHJpbmcgZmlsZUlkID0gY2xpZW50LnVwbG9hZENvbnRlbnRzKHN0dWRlbnRBbmRyb2lkS2V5LCBzdHVkZW50QW5kcm9pZE1hc3RlclNlY3JldCwgImFhIiArICJcbiIgKyAiYmIiKTsKICAgICAgICBmaWxlY2FzdC5zZXRGaWxlSWQoZmlsZUlkKTsKICAgICAgICBmaWxlY2FzdC5zZXRUaWNrZXIoIkFuZHJvaWQgZmlsZWNhc3QgdGlja2VyIik7CiAgICAgICAgZmlsZWNhc3Quc2V0VGl0bGUoIuS4reaWh+eahHRpdGxlIik7CiAgICAgICAgZmlsZWNhc3Quc2V0VGV4dCgiQW5kcm9pZCBmaWxlY2FzdCB0ZXh0Iik7CiAgICAgICAgZmlsZWNhc3QuZ29BcHBBZnRlck9wZW4oKTsKICAgICAgICBmaWxlY2FzdC5zZXREaXNwbGF5VHlwZShBbmRyb2lkTm90aWZpY2F0aW9uLkRpc3BsYXlUeXBlLk5PVElGSUNBVElPTik7CiAgICAgICAgY2xpZW50LnNlbmQoZmlsZWNhc3QpOwogICAgfQoKICAgIC8qKioqKioqKioqKioqKioqICBpb3Pmlrnms5UgICAgKioqKioqKioqKioqKioqKioqKioqKioqLwoKICAgIHB1YmxpYyB2b2lkIHNlbmRJT1NCcm9hZGNhc3QoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBJT1NCcm9hZGNhc3QgYnJvYWRjYXN0ID0gbmV3IElPU0Jyb2FkY2FzdChzdHVkZW50SU9TS2V5LCBzdHVkZW50SU9TTWFzdGVyU2VjcmV0KTsKCiAgICAgICAgYnJvYWRjYXN0LnNldEFsZXJ0KCJJT1Mg5bm/5pKt5rWL6K+VIik7CiAgICAgICAgYnJvYWRjYXN0LnNldEJhZGdlKDApOwogICAgICAgIGJyb2FkY2FzdC5zZXRTb3VuZCgiZGVmYXVsdCIpOwogICAgICAgIC8vIFRPRE8gc2V0ICdwcm9kdWN0aW9uX21vZGUnIHRvICd0cnVlJyBpZiB5b3VyIGFwcCBpcyB1bmRlciBwcm9kdWN0aW9uIG1vZGUKICAgICAgICAvLyBTZXQgY3VzdG9taXplZCBmaWVsZHMKICAgICAgICBicm9hZGNhc3Quc2V0Q3VzdG9taXplZEZpZWxkKCJ0ZXN0IiwgImhlbGxvd29ybGQiKTsKICAgICAgICBjbGllbnQuc2VuZChicm9hZGNhc3QpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNlbmRJT1NVbmljYXN0KFN0cmluZyBkZXZpY2VUb2tlbiwgU3RyaW5nIGFsZXJ0KSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBJT1NVbmljYXN0IHVuaWNhc3QgPSBuZXcgSU9TVW5pY2FzdChzdHVkZW50SU9TS2V5LCBzdHVkZW50SU9TTWFzdGVyU2VjcmV0KTsKICAgICAgICAvLyBUT0RPIFNldCB5b3VyIGRldmljZSB0b2tlbgogICAgICAgIHVuaWNhc3Quc2V0RGV2aWNlVG9rZW4oZGV2aWNlVG9rZW4pOwogICAgICAgIHVuaWNhc3Quc2V0QWxlcnQoYWxlcnQpOwogICAgICAgIHVuaWNhc3Quc2V0QmFkZ2UoMCk7CiAgICAgICAgdW5pY2FzdC5zZXRTb3VuZCgiZGVmYXVsdCIpOwogICAgICAgIC8vIFRPRE8gc2V0ICdwcm9kdWN0aW9uX21vZGUnIHRvICd0cnVlJyBpZiB5b3VyIGFwcCBpcyB1bmRlciBwcm9kdWN0aW9uIG1vZGUKICAgICAgICAvLyBTZXQgY3VzdG9taXplZCBmaWVsZHMKICAgICAgICB1bmljYXN0LnNldEN1c3RvbWl6ZWRGaWVsZCgidGVzdCIsICJoZWxsb3dvcmxkIik7CiAgICAgICAgY2xpZW50LnNlbmQodW5pY2FzdCk7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2VuZElPU0dyb3VwY2FzdCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIElPU0dyb3VwY2FzdCBncm91cGNhc3QgPSBuZXcgSU9TR3JvdXBjYXN0KHN0dWRlbnRJT1NLZXksIHN0dWRlbnRJT1NNYXN0ZXJTZWNyZXQpOwogICAgICAgIC8qICBUT0RPCiAgICAgICAgICogIENvbnN0cnVjdCB0aGUgZmlsdGVyIGNvbmRpdGlvbjoKICAgICAgICAgKiAgIndoZXJlIjoKICAgICAgICAgKgl7CiAgICAgICAgICoJCSJhbmQiOgogICAgICAgICAqCQlbCiAgICAgICAgICoJCQl7InRhZyI6Imlvc3Rlc3QifQogICAgICAgICAqCQldCiAgICAgICAgICoJfQogICAgICAgICAqLwogICAgICAgIEpTT05PYmplY3QgZmlsdGVySnNvbiA9IG5ldyBKU09OT2JqZWN0KCk7CiAgICAgICAgSlNPTk9iamVjdCB3aGVyZUpzb24gPSBuZXcgSlNPTk9iamVjdCgpOwogICAgICAgIEpTT05BcnJheSB0YWdBcnJheSA9IG5ldyBKU09OQXJyYXkoKTsKICAgICAgICBKU09OT2JqZWN0IHRlc3RUYWcgPSBuZXcgSlNPTk9iamVjdCgpOwogICAgICAgIHRlc3RUYWcucHV0KCJ0YWciLCAiaW9zdGVzdCIpOwogICAgICAgIHRhZ0FycmF5LnB1dCh0ZXN0VGFnKTsKICAgICAgICB3aGVyZUpzb24ucHV0KCJhbmQiLCB0YWdBcnJheSk7CiAgICAgICAgZmlsdGVySnNvbi5wdXQoIndoZXJlIiwgd2hlcmVKc29uKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmlsdGVySnNvbi50b1N0cmluZygpKTsKCiAgICAgICAgLy8gU2V0IGZpbHRlciBjb25kaXRpb24gaW50byByb290SnNvbgogICAgICAgIGdyb3VwY2FzdC5zZXRGaWx0ZXIoZmlsdGVySnNvbik7CiAgICAgICAgZ3JvdXBjYXN0LnNldEFsZXJ0KCJJT1Mg57uE5pKt5rWL6K+VIik7CiAgICAgICAgZ3JvdXBjYXN0LnNldEJhZGdlKDApOwogICAgICAgIGdyb3VwY2FzdC5zZXRTb3VuZCgiZGVmYXVsdCIpOwogICAgICAgIGNsaWVudC5zZW5kKGdyb3VwY2FzdCk7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2VuZElPU0N1c3RvbWl6ZWRjYXN0KCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgSU9TQ3VzdG9taXplZGNhc3QgY3VzdG9taXplZGNhc3QgPSBuZXcgSU9TQ3VzdG9taXplZGNhc3Qoc3R1ZGVudElPU0tleSwgc3R1ZGVudElPU01hc3RlclNlY3JldCk7CiAgICAgICAgLy8gVE9ETyBTZXQgeW91ciBhbGlhcyBhbmQgYWxpYXNfdHlwZSBoZXJlLCBhbmQgdXNlIGNvbW1hIHRvIHNwbGl0IHRoZW0gaWYgdGhlcmUgYXJlIG11bHRpcGxlIGFsaWFzLgogICAgICAgIC8vIEFuZCBpZiB5b3UgaGF2ZSBtYW55IGFsaWFzLCB5b3UgY2FuIGFsc28gdXBsb2FkIGEgZmlsZSBjb250YWluaW5nIHRoZXNlIGFsaWFzLCB0aGVuCiAgICAgICAgLy8gdXNlIGZpbGVfaWQgdG8gc2VuZCBjdXN0b21pemVkIG5vdGlmaWNhdGlvbi4KICAgICAgICBjdXN0b21pemVkY2FzdC5zZXRBbGlhcygiYWxpYXMiLCAiYWxpYXNfdHlwZSIpOwogICAgICAgIGN1c3RvbWl6ZWRjYXN0LnNldEFsZXJ0KCJJT1Mg5Liq5oCn5YyW5rWL6K+VIik7CiAgICAgICAgY3VzdG9taXplZGNhc3Quc2V0QmFkZ2UoMCk7CiAgICAgICAgY3VzdG9taXplZGNhc3Quc2V0U291bmQoImRlZmF1bHQiKTsKICAgICAgICBjbGllbnQuc2VuZChjdXN0b21pemVkY2FzdCk7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2VuZElPU0ZpbGVjYXN0KCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgSU9TRmlsZWNhc3QgZmlsZWNhc3QgPSBuZXcgSU9TRmlsZWNhc3Qoc3R1ZGVudElPU0tleSwgc3R1ZGVudElPU01hc3RlclNlY3JldCk7CiAgICAgICAgLy8gVE9ETyB1cGxvYWQgeW91ciBkZXZpY2UgdG9rZW5zLCBhbmQgdXNlICdcbicgdG8gc3BsaXQgdGhlbSBpZiB0aGVyZSBhcmUgbXVsdGlwbGUgdG9rZW5zCiAgICAgICAgU3RyaW5nIGZpbGVJZCA9IGNsaWVudC51cGxvYWRDb250ZW50cyhzdHVkZW50SU9TS2V5LCBzdHVkZW50SU9TTWFzdGVyU2VjcmV0LCAiYWEiICsgIlxuIiArICJiYiIpOwogICAgICAgIGZpbGVjYXN0LnNldEZpbGVJZChmaWxlSWQpOwogICAgICAgIGZpbGVjYXN0LnNldEFsZXJ0KCJJT1Mg5paH5Lu25pKt5rWL6K+VIik7CiAgICAgICAgZmlsZWNhc3Quc2V0QmFkZ2UoMCk7CiAgICAgICAgZmlsZWNhc3Quc2V0U291bmQoImRlZmF1bHQiKTsKICAgICAgICBjbGllbnQuc2VuZChmaWxlY2FzdCk7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgICAgIC8vIFRPRE8gc2V0IHlvdXIgc3R1ZGVudEFuZHJvaWRLZXkgYW5kIG1hc3RlciBzZWNyZXQgaGVyZQogICAgICAgIFN0dWRlbnRQdXNoTWFuYWdlciBzdHVkZW50UHVzaE1hbmFnZXIgPSBuZXcgU3R1ZGVudFB1c2hNYW5hZ2VyKCk7CiAgICAgICAgdHJ5IHsKLy8gICAgICAgICAgICBzdHVkZW50UHVzaE1hbmFnZXIuc2VuZEFuZHJvaWRVbmljYXN0KCI2MmEzYzliOWQwMmI4ZmRhYmZiNTZiNzAwNWJhMDEwMDlmMjZkYTFjMzhlOWUwMWIyNzBjOTk2MzI5ZGVjMTNhIik7CiAgICAgICAgICAgIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kQW5kcm9pZFVuaWNhc3QoIkFzMTQ1bmw3ZFpWdUZPTDM1WFkxNXgzS09QWm5SSEZJNnRBaDVsVnV0WXBmIik7CiAgICAgICAgICAgIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kSU9TVW5pY2FzdCgiNjY1NjRlYWI2ZTI0YjgyYjM3YWE1YmI0NjYxZDAxNDgzMDAyNTVmZjc5NjA0ZTkyYjU4YTYwOTFmMjM4OTYzMSIsCiAgICAgICAgICAgICAgICAgICAgImFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWEiKTsKICAgICAgICAgICAgLyogVE9ETyB0aGVzZSBtZXRob2RzIGFyZSBhbGwgYXZhaWxhYmxlLCBqdXN0IGZpbGwgaW4gc29tZSBmaWVsZHMgYW5kIGRvIHRoZSB0ZXN0CiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kQW5kcm9pZEN1c3RvbWl6ZWRjYXN0RmlsZSgpOwogICAgICAgICAgICAgKiBzdHVkZW50UHVzaE1hbmFnZXIuc2VuZEFuZHJvaWRCcm9hZGNhc3QoKTsKICAgICAgICAgICAgICogc3R1ZGVudFB1c2hNYW5hZ2VyLnNlbmRBbmRyb2lkR3JvdXBjYXN0KCk7CiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kQW5kcm9pZEN1c3RvbWl6ZWRjYXN0KCk7CiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kQW5kcm9pZEZpbGVjYXN0KCk7CiAgICAgICAgICAgICAqCiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kSU9TQnJvYWRjYXN0KCk7CiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kSU9TVW5pY2FzdCgpOwogICAgICAgICAgICAgKiBzdHVkZW50UHVzaE1hbmFnZXIuc2VuZElPU0dyb3VwY2FzdCgpOwogICAgICAgICAgICAgKiBzdHVkZW50UHVzaE1hbmFnZXIuc2VuZElPU0N1c3RvbWl6ZWRjYXN0KCk7CiAgICAgICAgICAgICAqIHN0dWRlbnRQdXNoTWFuYWdlci5zZW5kSU9TRmlsZWNhc3QoKTsKICAgICAgICAgICAgICovCiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGV4KSB7CiAgICAgICAgICAgIGV4LnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gVE9ETzogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1bmljYXN0LnNldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>
       </register>
     </registers>
     <search>
-      <last-search>private</last-search>
+      <last-search>pub</last-search>
       <last-offset />
-      <last-pattern>private</last-pattern>
+      <last-pattern>pub</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>用户</last-substitute>
       <last-dir>1</last-dir>
@@ -2544,7 +2567,6 @@
     </search>
     <history>
       <history-search>
-        <entry>testiv1</entry>
         <entry>detail</entry>
         <entry>verify</entry>
         <entry>=pay</entry>
@@ -2564,6 +2586,7 @@
         <entry>rpivate</entry>
         <entry>1</entry>
         <entry>private</entry>
+        <entry>pub</entry>
       </history-search>
       <history-cmd>
         <entry>next</entry>

@@ -2391,7 +2391,8 @@
         <mark key="^" line="128" column="19" />
         <mark key="." line="128" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/DevController.java" timestamp="1545404293420">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/DevController.java" timestamp="1545637308525">
+        <mark key="'" line="46" column="19" />
         <mark key="[" line="48" column="9" />
         <mark key="]" line="48" column="15" />
         <mark key="^" line="48" column="15" />
@@ -2399,7 +2400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/challenge/ChallengeService.java" />
       <jump line="31" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/UserQuestionReadHistoryRepo.java" />
       <jump line="9" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/challenge/TikuLinkRepo.java" />
       <jump line="226" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/challenge/ChallengeService.java" />
@@ -2499,6 +2499,7 @@
       <jump line="238" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/ActiveTaskManager.java" />
       <jump line="245" column="15" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/ActiveTaskManager.java" />
       <jump line="16" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/StudentPushManager.java" />
+      <jump line="46" column="19" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/DevController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

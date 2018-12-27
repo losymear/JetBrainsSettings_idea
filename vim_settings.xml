@@ -821,6 +821,9 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java" timestamp="1545916703077">
+        <mark key="'" line="2391" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/resources/test-dbdata.sql" timestamp="1545656025547">
         <mark key="[" line="449" column="0" />
         <mark key="]" line="448" column="0" />
@@ -2446,8 +2449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="34" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentPushService.java" />
-      <jump line="38" column="60" filename="$USER_HOME$/Downloads/java/src/main/java/push/Demo.java" />
       <jump line="23" column="69" filename="$USER_HOME$/Downloads/java/src/main/java/push/Demo.java" />
       <jump line="55" column="41" filename="$USER_HOME$/Downloads/java/src/main/java/push/Demo.java" />
       <jump line="0" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/QumianshiApplication.java" />
@@ -2546,6 +2547,8 @@
       <jump line="140" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/activetask/ActiveTaskService.java" />
       <jump line="148" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/activetask/ActiveTaskService.java" />
       <jump line="1318" column="32" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Hashtable.java" />
+      <jump line="0" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
+      <jump line="2391" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

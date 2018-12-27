@@ -1506,6 +1506,9 @@
         <mark key="." line="224" column="35" />
         <mark key="^" line="224" column="35" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Hashtable.java" timestamp="1545905810635">
+        <mark key="'" line="1318" column="32" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/watch/ShortVideoBaseTest.java" timestamp="1545379845936">
         <mark key="[" line="39" column="8" />
       </file>
@@ -2443,7 +2446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentPushService.java" />
       <jump line="62" column="34" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentPushService.java" />
       <jump line="38" column="60" filename="$USER_HOME$/Downloads/java/src/main/java/push/Demo.java" />
       <jump line="23" column="69" filename="$USER_HOME$/Downloads/java/src/main/java/push/Demo.java" />
@@ -2543,6 +2545,7 @@
       <jump line="113" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/activetask/ActiveTaskService.java" />
       <jump line="140" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/activetask/ActiveTaskService.java" />
       <jump line="148" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/activetask/ActiveTaskService.java" />
+      <jump line="1318" column="32" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Hashtable.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

@@ -1303,8 +1303,8 @@
         <mark key="^" line="55" column="18" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/interviewer/IvInterviewController.java" timestamp="1546680839983">
-        <mark key="[" line="134" column="58" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/interviewer/IvInterviewController.java" timestamp="1546683232156">
+        <mark key="[" line="124" column="49" />
         <mark key="]" line="134" column="78" />
         <mark key="^" line="134" column="78" />
         <mark key="." line="134" column="78" />
@@ -1992,8 +1992,8 @@
         <mark key="^" line="53" column="84" />
         <mark key="." line="53" column="84" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java" timestamp="1546681623482">
-        <mark key="'" line="128" column="17" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java" timestamp="1546682762769">
+        <mark key="'" line="938" column="26" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/daemon/ArrayBuilder.java" timestamp="1544980091800">
         <mark key="[" line="11" column="13" />
@@ -2562,7 +2562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/ActiveTaskManager.java" />
       <jump line="252" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/ActiveTaskManager.java" />
       <jump line="94" column="45" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/message/StudentMessageService.java" />
       <jump line="87" column="39" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/MessageController.java" />
@@ -2662,6 +2661,7 @@
       <jump line="0" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/interviewer/BannerGroupRepo.java" />
       <jump line="128" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java" />
       <jump line="47" column="2" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Dictionary.java" />
+      <jump line="938" column="26" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

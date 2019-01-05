@@ -508,6 +508,7 @@
       <file name="$USER_HOME$/Downloads/java/src/main/java/push/android/AndroidCustomizedcast.java" timestamp="1545397366260">
         <mark key="[" line="29" column="1" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java" timestamp="1546708344333" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Configuration/security/MyAuthenticationProvider.java" timestamp="1543199552467">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -857,6 +858,9 @@
         <mark key="]" line="27" column="8" />
         <mark key="^" line="27" column="8" />
         <mark key="." line="27" column="8" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java" timestamp="1546707357183">
+        <mark key="'" line="608" column="27" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/resources/test-dbdata.sql" timestamp="1545656025547">
         <mark key="[" line="449" column="0" />
@@ -1997,7 +2001,7 @@
         <mark key="^" line="53" column="84" />
         <mark key="." line="53" column="84" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java" timestamp="1546705919185">
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java" timestamp="1546707890291">
         <mark key="'" line="938" column="26" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/daemon/ArrayBuilder.java" timestamp="1544980091800">
@@ -2568,7 +2572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="45" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/message/StudentMessageService.java" />
       <jump line="87" column="39" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/MessageController.java" />
       <jump line="53" column="52" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/MessageController.java" />
       <jump line="22" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/personpage/message/StudentMessageDO.java" />
@@ -2668,6 +2671,7 @@
       <jump line="47" column="2" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Dictionary.java" />
       <jump line="938" column="26" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java" />
       <jump line="362" column="23" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Set.java" />
+      <jump line="608" column="27" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

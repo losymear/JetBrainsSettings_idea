@@ -1576,11 +1576,11 @@
         <mark key="^" line="26" column="18" />
         <mark key="." line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/banner/BannerService.java" timestamp="1546655570743">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/banner/BannerService.java" timestamp="1546657941189">
         <mark key="[" line="71" column="64" />
-        <mark key="]" line="73" column="7" />
-        <mark key="." line="73" column="7" />
-        <mark key="^" line="73" column="7" />
+        <mark key="]" line="59" column="14" />
+        <mark key="." line="59" column="14" />
+        <mark key="^" line="59" column="14" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/retrofit/YunxinApi.java" timestamp="1544550317950">
         <mark key="[" line="12" column="31" />
@@ -2075,12 +2075,12 @@
         <mark key="^" line="18" column="45" />
         <mark key="." line="18" column="45" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/qumianshi_v_3.0_wy.sql" timestamp="1546655284157">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/qumianshi_v_3.0_wy.sql" timestamp="1546657971323">
         <mark key="'" line="7" column="19" />
-        <mark key="[" line="14" column="88" />
-        <mark key="]" line="14" column="87" />
-        <mark key="^" line="14" column="87" />
-        <mark key="." line="14" column="87" />
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="83" />
+        <mark key="^" line="15" column="83" />
+        <mark key="." line="15" column="83" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Controller/QuestionController.java" timestamp="1543201629773">
         <mark key="[" line="92" column="18" />
@@ -2646,17 +2646,17 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+      <register name="&quot;" type="4">
+        <text>bannerGroupId</text>
       </register>
       <register name="-" type="4">
-        <text>Void</text>
+        <text>bannerGroupId</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RCb2R5IEJhbm5lckdyb3VwQ2hhbmdlRHRvIHBheWxvYWQsCiAgICAgICAgICAgIEBDdXJyZW50VXNlciBPcGVyYXRpb25Vc2VyRW50aXR5IG9wZXJhdG9yCg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgYGJhbm5lcmAgYWRkIGNvbHVtbiBgYmFubmVyR3JvdXBJZGAgaW50KDEwKSB1bnNpZ25lZCBudWxsIGNvbW1lbnQgImJhbm5lckdyb3VwSWTooajnmoRpZCI7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>

@@ -502,11 +502,11 @@
         <mark key="." line="53" column="79" />
         <mark key="^" line="53" column="79" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/LoginController.java" timestamp="1546919219251">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="53" column="35" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/LoginController.java" timestamp="1546920847914">
+        <mark key="[" line="54" column="36" />
+        <mark key="]" line="54" column="61" />
+        <mark key="." line="54" column="61" />
+        <mark key="^" line="54" column="61" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/watch/WatchController.java" timestamp="1545120595752">
         <mark key="[" line="119" column="158" />
@@ -1978,7 +1978,7 @@
         <mark key="^" line="32" column="6" />
         <mark key="." line="32" column="6" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/configuration/security/AuthenticationTokenFilter.java" timestamp="1544619501771">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/configuration/security/AuthenticationTokenFilter.java" timestamp="1546920003972">
         <mark key="[" line="73" column="12" />
         <mark key="]" line="73" column="12" />
         <mark key="^" line="73" column="12" />
@@ -2288,6 +2288,12 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/dto/response/OperationLogin.java" timestamp="1546920293018">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="17" column="27" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/Dockerfile-onlinetest" timestamp="1543843638835">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="78" />
@@ -2565,11 +2571,11 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getRequestURI</text>
       </register>
       <register name="-" type="4">
-        <text>66huishou</text>
+        <text>getRequestURI</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -2578,7 +2584,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY29va2llLnNldERvbWFpbigiLjY2aHVpc2hvdS5jb20iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEJ1aWxkZXIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2643,16 +2649,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJlc3BvbnNlLmFkZENvb2tpZShuZXcgQ29va2llKCJ0b2tlbiIsIGxvZ2luLmdldElkKCkgKyAiLSIgKyBsb2dpbi5nZXRUb2tlbigpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dpbi5zZXRBZGRpdGlvbihjb28pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VydmVyLnNlc3Npb24uY29va2llLmRvbWFpbj0uNjZodWlzaG91LmNvbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJlc3BvbnNlLmFkZENvb2tpZShuZXcgQ29va2llKCJ0b2tlbiIsIGxvZ2luLmdldElkKCkgKyAiLSIgKyBsb2dpbi5nZXRUb2tlbigpKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VydmVyLnNlc3Npb24uY29va2llLmRvbWFpbj0uNjZodWlzaG91LmNvbQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>

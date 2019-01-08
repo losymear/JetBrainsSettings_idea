@@ -103,8 +103,11 @@
         <mark key="^" line="253" column="39" />
         <mark key="." line="253" column="39" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/configuration/CorsConfig.java" timestamp="1546939196536">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/configuration/CorsConfig.java" timestamp="1546940093044">
         <mark key="'" line="35" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/interviewer/InterviewerLoginController.java" timestamp="1543910493906">
         <mark key="[" line="34" column="0" />
@@ -869,6 +872,12 @@
         <mark key="]" line="18" column="12" />
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/configuration/security/WebSecurityConfig.java" timestamp="1546940275108">
+        <mark key="[" line="48" column="34" />
+        <mark key="]" line="48" column="50" />
+        <mark key="." line="48" column="50" />
+        <mark key="^" line="48" column="50" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/qumianshi_v2.14_wy.sql" timestamp="1545317592379">
         <mark key="[" line="1" column="85" />
@@ -2567,8 +2576,8 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>http://localhost:9527</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW50TWF0Y2hlcnMoIi91c2VyL2xvZ2luIikucGVybWl0QWxsKCkK</text>
       </register>
       <register name="-" type="4">
         <text>http://localhost:9527</text>
@@ -2577,10 +2586,10 @@
         <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcuYWRkQWxsb3dlZE9yaWdpbigiaHR0cDovL2xvY2FsaG9zdDo5NTI3Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW50TWF0Y2hlcnMoIi8iKS5wZXJtaXRBbGwoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW50TWF0Y2hlcnMoIi91c2VyL2xvZ2luIikucGVybWl0QWxsKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2645,28 +2654,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5hZGRDb29raWUoY29va2llKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcuc2V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5hZGRDb29raWUobmV3IENvb2tpZSgiY2tUZXN0IiwgOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICByZXNwb25zZS5hZGRDb29raWUoY29va2llKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5hZGRDb29raWUoY29va2llKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5hZGRDb29raWUobmV3IENvb2tpZSgiY2tUZXN0IiwgOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5hZGRDb29raWUoY29va2llKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QEJ1aWxkZXIK</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5hZGRDb29raWUoY29va2llKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dpbi5zZXRBZGRpdGlvbihjb28pOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEJ1aWxkZXIK</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

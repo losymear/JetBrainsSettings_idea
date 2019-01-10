@@ -902,6 +902,12 @@
         <mark key="^" line="93" column="93" />
         <mark key="." line="93" column="93" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/deployed/create_v1.2_wy.sql" timestamp="1547103512546">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="58" />
+        <mark key="^" line="6" column="57" />
+        <mark key="." line="6" column="57" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/dto/view/BasicField.java" timestamp="1542974313902">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="31" column="30" />
@@ -1618,6 +1624,11 @@
         <mark key="." line="0" column="83" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/MessageController.java" timestamp="1546953523534" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_v4.0_wy.sql" timestamp="1547103518427">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/UserChallengeTask.java" timestamp="1545140567448">
         <mark key="[" line="70" column="5" />
         <mark key="]" line="39" column="19" />
@@ -2570,19 +2581,19 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>changeBanner</text>
+        <text>student_active_state_today</text>
       </register>
       <register name="-" type="4">
-        <text>changeBanner</text>
+        <text>student_active_state_today</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzKQo=</text>
+        <text encoding="base64">YWx0ZXIgdGFibGUgYHN0dWRlbnRfYWN0aXZlX3N0YXRlX3RvZGF5YCBkcm9wIHByaW1hcnkga2V5Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgYGJhbm5lcmAgQ0hBTkdFIGBpZGAgYGlkYCBJTlQoMTApIHVuc2lnbmVkIEFVVE9fSU5DUkVNRU5UIFBSSU1BUlkgS0VZOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2647,28 +2658,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBCYW5uZXJHcm91cERPIGJhbm5lckdyb3VwRE8gPSBiYW5uZXJHcm91cFJlcG8uZmluZEJ5SWQoZ3JvdXBJZCkub3JFbHNlKG51bGwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxCYW5uZXJHcm91cERPPiBvcHRpb25hbEJhbm5lckdyb3VwRE8gPSBiYW5uZXJHcm91cFJlcG8uZmluZEJ5SWQocGF5bG9hZC5nZXRJZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBCYW5uZXJHcm91cERPIGJhbm5lckdyb3VwRE8gPSBiYW5uZXJHcm91cFJlcG8uZmluZEJ5SWQoZ3JvdXBJZCkub3JFbHNlKG51bGwpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxCYW5uZXJHcm91cERPPiBvcHRpb25hbEJhbm5lckdyb3VwRE8gPSBiYW5uZXJHcm91cFJlcG8uZmluZEJ5SWQocGF5bG9hZC5nZXRJZCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJhbm5lckRPLmdldERlbCgpID09IDEpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5bey57uP5Yig6Zmk5YiZ5peg5rOV5L+u5pS5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJhbm5lckRPLmdldERlbCgpID09IDEpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5bey57uP5Yig6Zmk5YiZ5peg5rOV5L+u5pS5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob3B0aW9uYWxCYW5uZXJETy5pc1ByZXNlbnQoKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

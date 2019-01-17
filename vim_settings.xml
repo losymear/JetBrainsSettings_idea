@@ -803,9 +803,10 @@
         <mark key="^" line="35" column="50" />
         <mark key="." line="35" column="50" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java" timestamp="1547725832262">
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java" timestamp="1547730888619">
         <mark key="p" line="610" column="13" />
-        <mark key="'" line="609" column="6" />
+        <mark key="t" line="1799" column="12" />
+        <mark key="'" line="1800" column="12" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/resources/test-dbdata.sql" timestamp="1547717832623">
         <mark key="'" line="0" column="0" />
@@ -1288,11 +1289,10 @@
         <mark key="." line="22" column="25" />
         <mark key="^" line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/test/java/com/zhiri/qumianshi/daemon/CumulativeRewardDaemonTest.java" timestamp="1547723552614">
-        <mark key="[" line="81" column="63" />
-        <mark key="]" line="81" column="73" />
-        <mark key="." line="81" column="73" />
-        <mark key="^" line="81" column="73" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/test/java/com/zhiri/qumianshi/daemon/CumulativeRewardDaemonTest.java" timestamp="1547726426821">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/resources/core-prod.properties" timestamp="1546408622008">
         <mark key="[" line="9" column="67" />
@@ -2482,7 +2482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="19" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/DevController.java" />
       <jump line="103" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/ChallengeController.java" />
       <jump line="358" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/resources/test-dbdata.sql" />
       <jump line="260" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/resources/test-dbdata.sql" />
@@ -2582,13 +2581,14 @@
       <jump line="120" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/interviewer/InterviewerIncomeServiceTest.java" />
       <jump line="79" column="88" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/interviewer/CumulativeRewardServiceTest.java" />
       <jump line="609" column="6" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
+      <jump line="1800" column="12" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>interviewer_income</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>interviewer_income</text>
@@ -2600,7 +2600,7 @@
         <text encoding="base64">ZGVsZXRlIGZyb20gYGludGVydmlld2VyX2luY29tZWA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFzc2VydEVxdWFscyhsb2NrZWRCYWxhbmNlMC5hZGQoQmlnRGVjaW1hbC52YWx1ZU9mKDIwMCkpLCBsb2NrZWRCYWxhbmNlMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2665,28 +2665,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobG9ja2VkQmFsYW5jZTAsIGxvY2tlZEJhbGFuY2UyKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGFzc2VydEVxdWFscyhsb2NrZWRCYWxhbmNlMC5hZGQoQmlnRGVjaW1hbC52YWx1ZU9mKDIwMCkpLCBsb2NrZWRCYWxhbmNlMSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKGludGVydmlld2VySW5jb21lUmVwb3NpdG9yeS5maW5kQnlJbnRlcnZpZXdlcklkKGludGVydmlld2VySWQsIFBhZ2VSZXF1ZXN0Lm9mKDAsIDEwKSkuZ2V0Q29udGVudCgpLnNpemUoKSA+IDApOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobG9ja2VkQmFsYW5jZTAsIGxvY2tlZEJhbGFuY2UyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHByb3BhZ2F0aW9uID0gUHJvcGFnYXRpb24uTkVWRVIpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKGludGVydmlld2VySW5jb21lUmVwb3NpdG9yeS5maW5kQnlJbnRlcnZpZXdlcklkKGludGVydmlld2VySWQsIFBhZ2VSZXF1ZXN0Lm9mKDAsIDEwKSkuZ2V0Q29udGVudCgpLnNpemUoKSA+IDApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHByb3BhZ2F0aW9uID0gUHJvcGFnYXRpb24uTkVWRVIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhpbnRlcnZpZXdlckJhbGFuY2VSZXBvc2l0b3J5LmZpbmRCeUludGVydmlld2VySWQoaW50ZXJ2aWV3ZXJJZCkub3JFbHNlKG51bGwpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuZXJyb3IoaW50ZXJ2aWV3ZXJDdW11bGF0aXZlUmV3YXJkRGV0YWlsKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhpbnRlcnZpZXdlckJhbGFuY2VSZXBvc2l0b3J5LmZpbmRCeUludGVydmlld2VySWQoaW50ZXJ2aWV3ZXJJZCkub3JFbHNlKG51bGwpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuZXJyb3IoaW50ZXJ2aWV3ZXJDdW11bGF0aXZlUmV3YXJkRGV0YWlsKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBRdWVyeSgic2VsZWN0IERJU1RJTkNUIHQxLmludGVydmlld2VySWQgZnJvbSBJbnRlcnZpZXdFbnRpdHkgdDEgd2hlcmUgdDEuc3RhdHVzIGluIDpzdGF0dXMgYW5kIFlFQVJXRUVLKHQxLnNjaGVkdWxlZFN0YXJ0VGltZSw6eWVhcndlZWtNb2RlKT1ZRUFSV0VFSyg6dGVzdERhdGUsOnllYXJ3ZWVrTW9kZSkiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

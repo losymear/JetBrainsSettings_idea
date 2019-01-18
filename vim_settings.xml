@@ -808,11 +808,11 @@
         <mark key="^" line="35" column="50" />
         <mark key="." line="35" column="50" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java" timestamp="1547781486629">
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java" timestamp="1547782919865">
         <mark key="p" line="610" column="13" />
-        <mark key="a" line="1854" column="30" />
+        <mark key="a" line="1854" column="18" />
         <mark key="t" line="1799" column="12" />
-        <mark key="'" line="1909" column="19" />
+        <mark key="'" line="1852" column="18" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/resources/test-dbdata.sql" timestamp="1547717832623">
         <mark key="'" line="0" column="0" />
@@ -1864,7 +1864,7 @@
         <mark key="^" line="55" column="21" />
         <mark key="." line="55" column="21" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/QumianshiApplication.java" timestamp="1547718941649">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/QumianshiApplication.java" timestamp="1547783131311">
         <mark key="[" line="15" column="18" />
         <mark key="]" line="15" column="18" />
       </file>
@@ -2342,6 +2342,7 @@
         <mark key="^" line="164" column="75" />
         <mark key="." line="178" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/interviewer/InterviewerVerifyDto.java" timestamp="1547783627047" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/UserZanRecordEntity.java" timestamp="1544300834156">
         <mark key="[" line="22" column="21" />
         <mark key="]" line="23" column="3" />
@@ -2488,7 +2489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/StudentPushManager.java" />
       <jump line="236" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/StudentPushManager.java" />
       <jump line="253" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/StudentPushManager.java" />
       <jump line="245" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/StudentPushManager.java" />
@@ -2588,6 +2588,7 @@
       <jump line="1909" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
       <jump line="373" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/test/test_01_19.sql" />
       <jump line="38" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/test/test_01_19.sql" />
+      <jump line="1852" column="18" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

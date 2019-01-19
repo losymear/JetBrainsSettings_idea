@@ -2199,7 +2199,7 @@
         <mark key="^" line="32" column="6" />
         <mark key="." line="32" column="6" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/configuration/security/AuthenticationTokenFilter.java" timestamp="1546920003972">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/configuration/security/AuthenticationTokenFilter.java" timestamp="1547880733552">
         <mark key="[" line="73" column="12" />
         <mark key="]" line="73" column="12" />
         <mark key="^" line="73" column="12" />
@@ -2828,8 +2828,8 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>remaining</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERpZ2VzdFV0aWxzLm1kNURpZ2VzdEFzSGV4KCJlZGJmYWZjNzY2NDc0NWIyOTU5NDQ5NjNhMTdiYjA3NSIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>remaining</text>
@@ -2841,7 +2841,7 @@
         <text encoding="base64">QUxURVIgVEFCTEUgYGludGVydmlld2VyX3dpdGhkcmF3YCBDSEFOR0UgYHJlbWFpbmluZ2AgYHJlbWFpbmluZ2AgZmxvYXQoMTYsNCkgREVGQVVMVCBOVUxMIENPTU1FTlQgJ+S9meminSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERpZ2VzdFV0aWxzLm1kNURpZ2VzdEFzSGV4KCJlZGJmYWZjNzY2NDc0NWIyOTU5NDQ5NjNhMTdiYjA3NSIpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2906,28 +2906,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3RW50aXR5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3RW50aXR5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC5jb250ZXh0LmpkYmMuU3FsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFNxbCgiL3Rlc3QtZGJkYXRhLnNxbCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZXJyb3Ioc3RhdHVzTGlzdCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC5jb250ZXh0LmpkYmMuU3FsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

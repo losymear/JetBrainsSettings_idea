@@ -2118,7 +2118,7 @@
         <mark key="^" line="31" column="42" />
         <mark key="." line="31" column="42" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/interviewer/InterviewerVerifyService.java" timestamp="1548058581641">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/interviewer/InterviewerVerifyService.java" timestamp="1548059567268">
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
         <mark key="^" line="153" column="15" />
@@ -2600,12 +2600,12 @@
         <mark key="^" line="106" column="33" />
         <mark key="." line="106" column="33" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/interviewer/InterviewerVerifyDto.java" timestamp="1548055703101">
-        <mark key="'" line="109" column="57" />
-        <mark key="[" line="78" column="9" />
-        <mark key="]" line="79" column="34" />
-        <mark key="^" line="79" column="34" />
-        <mark key="." line="79" column="34" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/interviewer/InterviewerVerifyDto.java" timestamp="1548059604812">
+        <mark key="'" line="114" column="9" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="64" />
+        <mark key="^" line="101" column="7" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/UserZanRecordEntity.java" timestamp="1544300834156">
         <mark key="[" line="22" column="21" />
@@ -2775,7 +2775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="42" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/challenge/ChallengeService.java" />
       <jump line="231" column="28" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/challenge/ChallengeService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/challenge/ChallengeService.java" />
       <jump line="302" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/challenge/ChallengeService.java" />
@@ -2875,13 +2874,14 @@
       <jump line="16" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/interviewer/InterviewerVerifyResultDto.java" />
       <jump line="110" column="57" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/interviewer/InterviewerVerifyDto.java" />
       <jump line="167" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/interviewer/InterviewerVerifyService.java" />
+      <jump line="114" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/interviewer/InterviewerVerifyDto.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnZlcmlmeVR5cGUgPSBpbnRlcnZpZXdlckluZm9FbnRpdHkuZ2V0VmVyaWZ5VHlwZSgpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>String</text>
@@ -2890,7 +2890,7 @@
         <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB2ZXJpZnlfcmVjb3Jk6KGoCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnZlcmlmeVR5cGUgPSBpbnRlcnZpZXdlckluZm9FbnRpdHkuZ2V0VmVyaWZ5VHlwZSgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

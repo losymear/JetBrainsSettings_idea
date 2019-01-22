@@ -96,12 +96,11 @@
         <mark key="^" line="207" column="4" />
         <mark key="." line="207" column="4" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/student/wellpick/WellPickServiceTest.java" timestamp="1548132282722">
-        <mark key="'" line="22" column="14" />
-        <mark key="[" line="43" column="37" />
-        <mark key="]" line="43" column="46" />
-        <mark key="." line="43" column="46" />
-        <mark key="^" line="43" column="46" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/student/wellpick/WellPickServiceTest.java" timestamp="1548134947812">
+        <mark key="'" line="18" column="14" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/dto/RandomQuestions.java" timestamp="1545304093103">
         <mark key="[" line="25" column="23" />
@@ -391,7 +390,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.10.RELEASE/spring-context-5.0.10.RELEASE-sources.jar!/org/springframework/context/annotation/Profile.java" timestamp="1548039964180" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/Jenkinsfile-onlinetest" timestamp="1548040093129" />
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/student/wellpick/JobQualityScoreRepo.java" timestamp="1548124292717">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/student/wellpick/JobQualityScoreRepo.java" timestamp="1548134889430">
         <mark key="[" line="25" column="98" />
         <mark key="]" line="25" column="101" />
         <mark key="." line="25" column="101" />
@@ -538,12 +537,12 @@
         <mark key="^" line="82" column="43" />
         <mark key="." line="82" column="43" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/wellpick/WellPickService.java" timestamp="1548132619940">
-        <mark key="'" line="44" column="33" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="48" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="62" column="114" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/wellpick/WellPickService.java" timestamp="1548134933648">
+        <mark key="'" line="41" column="33" />
+        <mark key="[" line="58" column="168" />
+        <mark key="]" line="58" column="112" />
+        <mark key="." line="58" column="112" />
+        <mark key="^" line="58" column="112" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/watch/WatchController.java" timestamp="1545120595752">
         <mark key="[" line="119" column="158" />
@@ -3018,10 +3017,10 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cud2Fybihqb2JRdWFsaXR5U2NvcmVSZXBvLmZpbmRBbGwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZXJyb3IoImFsbCB7fSIsIGpvYlF1YWxpdHlTY29yZVJlcG8uZmluZEFsbCgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>peek</text>
+        <text>findBytudentIdAndSimulateJobIdInAndSubscribe</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -3030,7 +3029,7 @@
         <text encoding="base64">ICAgICAgICBsb2cud2Fybihqb2JRdWFsaXR5U2NvcmVSZXBvLmZpbmRBbGwoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBhdXRvCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZXJyb3IoImFsbCB7fSIsIGpvYlF1YWxpdHlTY29yZVJlcG8uZmluZEFsbCgpKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3095,28 +3094,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBgaWNvblVybGAgdmFyY2hhcigyNTUpIE5VTEwgQ09NTUVOVCAnaWNvbicsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBqb2JRdWFsaXR5U2NvcmVSZXBvLmZsdXNoKCk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dvZy5pbmZvKGpvYlF1YWxpdHlTY29yZVJlcG8uZmluZEFsbCgpKTsK</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4ubG9nNGouTG9nNGoyOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cud2Fybihqb2JRdWFsaXR5UmVwby5maW5kQWxsKCkpOwo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBsb2cuZXJyb3Ioam9iUXVhbGl0eVNjb3JlUmVwby5maW5kQWxsKCkpOwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">QExvZzRqMgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4ubG9nNGouTG9nNGoyOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vcmFjbGUudG9vbHMucGFja2FnZXIuTG9nOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cud2Fybihqb2JRdWFsaXR5UmVwby5maW5kQWxsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cud2Fybihqb2JRdWFsaXR5U2NvcmVSZXBvLmZpbmRBbGwoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cud2FybigiYXNkZnt9Iixqb2JRdWFsaXR5U2NvcmVSZXBvLmZpbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZXJyb3IoInNpemUge30iLGpvYlF1YWxpdHlTY29yZURPTGlzdC5zaXplKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

@@ -2110,11 +2110,11 @@
         <mark key="^" line="47" column="32" />
         <mark key="." line="47" column="32" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/WellPickController.java" timestamp="1548129953961">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="68" column="38" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/WellPickController.java" timestamp="1548143502287">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="92" column="4" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/dto/response/InterviewerObj.java" timestamp="1542801402511">
         <mark key="[" line="18" column="49" />
@@ -2975,7 +2975,7 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgTGlzdDxDaGFsbGVuZ2VMZXZlbFN0YXRlRFRPPj4gbWFwID0gY2hhbGxlbmdlTWFuYWdlci5nZXRDaGFsbGVuZ2VEZXRhaWwodXNlckFsbC5nZXRQcm9maWxlKCkuZ2V0SWQoKSwgZmllbGRJZCk7CiAgICAgICAgTGlzdDxDaGFsbGVuZ2VEZXRhaWxEdG8+IHJldCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIG1hcC5mb3JFYWNoKChsZXZlbCwgc3RhdGVzKSAtPiB7CiAgICAgICAgICAgIHJldC5hZGQobmV3IENoYWxsZW5nZURldGFpbER0byhsZXZlbCwgc3RhdGVzKSk7CiAgICAgICAgfSk7CiAgICAgICAgcmV0dXJuIFJlc3VsdC5vayhyZXQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>tikuItemRepository.countPraticedCareer(studentInfoDO.getUserId(), ChallengeConstants.COMMON_FIELD_ID)</text>
@@ -2984,10 +2984,10 @@
         <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFVzZXJDaGFsbGVuZ2VMZXZlbERPPiBjaGFsbGVuZ2VMZXZlbERPUyA9IHVzZXJDaGFsbGVuZ2VMZXZlbFJlcG8uZmluZEFsbEJ5VXNlcklkQW5kRmllbGRJZEluKHVzZXJJZCwgZmllbGRJZHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUW1zUnVudGltZUV4Y2VwdGlvbigi5pyq5a6e546wIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgTGlzdDxDaGFsbGVuZ2VMZXZlbFN0YXRlRFRPPj4gbWFwID0gY2hhbGxlbmdlTWFuYWdlci5nZXRDaGFsbGVuZ2VEZXRhaWwodXNlckFsbC5nZXRQcm9maWxlKCkuZ2V0SWQoKSwgZmllbGRJZCk7CiAgICAgICAgTGlzdDxDaGFsbGVuZ2VEZXRhaWxEdG8+IHJldCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIG1hcC5mb3JFYWNoKChsZXZlbCwgc3RhdGVzKSAtPiB7CiAgICAgICAgICAgIHJldC5hZGQobmV3IENoYWxsZW5nZURldGFpbER0byhsZXZlbCwgc3RhdGVzKSk7CiAgICAgICAgfSk7CiAgICAgICAgcmV0dXJuIFJlc3VsdC5vayhyZXQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3052,29 +3052,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBjb21tb25QYWNrYWdlOwo=</text>
+        <text encoding="base64">ICAgICAgICAiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgQmlnRGVjaW1hbC52YWx1ZU9mKHN0dWRlbnRJbmZvRE8uZ2V0QWN0aXZlVmFsdWUoKSAqIDEwMCAvIGFjdGl2ZVRhc2tNYW5hZ2VyLmdldFByb21vdGlvblJ1bGVMaXN0QXNUcmVlKCkuZ2V0KDE1KS5nZXRNaW5BY3RpdmVWYWx1ZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBAYXBpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNvbW1vblBhY2thZ2Uuc2V0UHJvZ3Jlc3MobGV2ZWwgPCA3IHx8IGxldmVsID49IDE1ID8gQmlnRGVjaW1hbC52YWx1ZU9mKDEwMCkgOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBAbml1cyDpnIDopoHorr7orqHlm74K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFVzZXJDaGFsbGVuZ2VMZXZlbERPPiBjaGFsbGVuZ2VMZXZlbERPUyA9IGZpZWxkUmVwb3NpdG9yeS5maW5kQnlQYXJlbnRJZE5vdChudWxsKQogICAgICAgICAgICAgICAgLnN0cmVhbSgpLm1hcChVc2VyQ2hhbGxlbmdlTGV2ZWxETzo6bW9jaykuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgTGlzdDxDaGFsbGVuZ2VMZXZlbFN0YXRlRFRPPj4gbWFwID0gY2hhbGxlbmdlTWFuYWdlci5nZXRDaGFsbGVuZ2VEZXRhaWwodXNlckFsbC5nZXRQcm9maWxlKCkuZ2V0SWQoKSwgZmllbGRJZCk7CiAgICAgICAgTGlzdDxDaGFsbGVuZ2VEZXRhaWxEdG8+IHJldCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIG1hcC5mb3JFYWNoKChsZXZlbCwgc3RhdGVzKSAtPiB7CiAgICAgICAgICAgIHJldC5hZGQobmV3IENoYWxsZW5nZURldGFpbER0byhsZXZlbCwgc3RhdGVzKSk7CiAgICAgICAgfSk7CiAgICAgICAgcmV0dXJuIFJlc3VsdC5vayhyZXQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBmaWVsZElkID0gY2hhbGxlbmdlTGV2ZWxETy5nZXRGaWVsZElkKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBjb21tb25QYWNrYWdlOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>,
-                    challengeLevelDO,</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgQmlnRGVjaW1hbC52YWx1ZU9mKHN0dWRlbnRJbmZvRE8uZ2V0QWN0aXZlVmFsdWUoKSAqIDEwMCAvIGFjdGl2ZVRhc2tNYW5hZ2VyLmdldFByb21vdGlvblJ1bGVMaXN0QXNUcmVlKCkuZ2V0KDE1KS5nZXRNaW5BY3RpdmVWYWx1ZSgpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

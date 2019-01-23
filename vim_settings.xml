@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks>
       <mark key="C" line="36" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/CouponAdminController.java" protocol="file" />
-      <mark key="E" line="493" column="54" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/AccountService.java" protocol="file" />
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/dto/interviewer/ScheduleTemplateTest.java" timestamp="1543921627353">
@@ -1707,12 +1706,6 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/yunxin/src/main/java/com/zhiri/qumianshi/controller/YunxinController.java" timestamp="1548240860851">
-        <mark key="[" line="64" column="68" />
-        <mark key="]" line="64" column="72" />
-        <mark key="^" line="64" column="72" />
-        <mark key="." line="64" column="72" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/deployed/create_v2.0_wy.sql" timestamp="1547878422400">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="102" />
@@ -2258,7 +2251,7 @@
         <mark key="^" line="32" column="6" />
         <mark key="." line="32" column="6" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/configuration/security/AuthenticationTokenFilter.java" timestamp="1547880733552">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/configuration/security/AuthenticationTokenFilter.java" timestamp="1548247485543">
         <mark key="[" line="73" column="12" />
         <mark key="]" line="73" column="12" />
         <mark key="^" line="73" column="12" />
@@ -2445,13 +2438,6 @@
         <mark key="]" line="54" column="15" />
         <mark key="." line="54" column="15" />
         <mark key="^" line="54" column="15" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/AccountService.java" timestamp="1548233104843">
-        <mark key="'" line="72" column="13" />
-        <mark key="[" line="557" column="0" />
-        <mark key="]" line="557" column="74" />
-        <mark key="^" line="560" column="85" />
-        <mark key="." line="560" column="85" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Configuration/security/MyAuthentication.java" timestamp="1543072048943">
         <mark key="[" line="46" column="31" />
@@ -2697,11 +2683,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="82" column="21" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/pom.xml" timestamp="1548176661975">
-        <mark key="[" line="49" column="19" />
-        <mark key="]" line="49" column="22" />
-        <mark key="^" line="49" column="22" />
-        <mark key="." line="49" column="22" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/pom.xml" timestamp="1548246930587">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="41" column="19" />
+        <mark key="]" line="41" column="22" />
+        <mark key="^" line="41" column="22" />
+        <mark key="." line="26" column="174" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/component/YunxinClient.java" timestamp="1544301402882">
         <mark key="[" line="31" column="59" />
@@ -2825,11 +2812,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/china_regions/init_v_3.0_wy.sql" />
-      <jump line="0" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/interviewer/BannerGroupRepo.java" />
-      <jump line="128" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java" />
-      <jump line="47" column="2" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Dictionary.java" />
-      <jump line="938" column="26" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java" />
       <jump line="362" column="23" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Set.java" />
       <jump line="608" column="27" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
       <jump line="571" column="9" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java" />
@@ -2925,6 +2907,11 @@
       <jump line="40" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/wellpick/WellPickService.java" />
       <jump line="101" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/test/java/com/zhiri/qumianshi/daemon/CumulativeRewardDaemonTest.java" />
       <jump line="6" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/QumianshiApplication.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/pom.xml" />
+      <jump line="26" column="174" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/pom.xml" />
+      <jump line="153" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/pom.xml" />
+      <jump line="115" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">

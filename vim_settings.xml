@@ -275,7 +275,6 @@
         <mark key="^" line="40" column="135" />
         <mark key="." line="40" column="135" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/CouponAdminController.java" timestamp="1548235245633" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/ActiveTaskService.java" timestamp="1544791312826">
         <mark key="[" line="118" column="20" />
         <mark key="]" line="55" column="0" />
@@ -397,11 +396,11 @@
         <mark key="^" line="29" column="4" />
         <mark key="." line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/TikuService.java" timestamp="1548165905176">
-        <mark key="[" line="70" column="79" />
-        <mark key="]" line="70" column="30" />
-        <mark key="^" line="70" column="30" />
-        <mark key="." line="70" column="30" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/TikuService.java" timestamp="1548299118373">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="82" column="98" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/user/WechatLoginConfig.java" timestamp="1543894665992">
         <mark key="[" line="3" column="27" />
@@ -569,6 +568,10 @@
         <mark key="]" line="20" column="6" />
         <mark key="." line="20" column="6" />
         <mark key="^" line="20" column="6" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/pay/RefundService.java" timestamp="1548299031876">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="5" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/yunxin/src/test/java/com/zhiri/qumianshi/controller/YunxinControllerTest.java" timestamp="1543461122744">
         <mark key="[" line="17" column="0" />
@@ -2354,12 +2357,12 @@
         <mark key="^" line="87" column="17" />
         <mark key="." line="87" column="17" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/ChallengeManager.java" timestamp="1548179249699">
-        <mark key="'" line="258" column="78" />
-        <mark key="[" line="220" column="111" />
-        <mark key="]" line="100" column="71" />
-        <mark key="^" line="100" column="71" />
-        <mark key="." line="100" column="71" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/student/ChallengeManager.java" timestamp="1548299133861">
+        <mark key="'" line="281" column="78" />
+        <mark key="[" line="111" column="16" />
+        <mark key="]" line="111" column="16" />
+        <mark key="^" line="111" column="16" />
+        <mark key="." line="111" column="16" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/GeetestLib.java" timestamp="1544550157413">
         <mark key="[" line="486" column="60" />
@@ -2542,12 +2545,12 @@
         <mark key="." line="9" column="48" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/challenge/ChallengeService.java" timestamp="1548182480300">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/challenge/ChallengeService.java" timestamp="1548299003630">
         <mark key="'" line="85" column="0" />
-        <mark key="[" line="71" column="35" />
-        <mark key="]" line="76" column="27" />
-        <mark key="^" line="76" column="27" />
-        <mark key="." line="76" column="27" />
+        <mark key="[" line="62" column="52" />
+        <mark key="]" line="62" column="37" />
+        <mark key="^" line="62" column="37" />
+        <mark key="." line="62" column="37" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/FieldRepository.java" timestamp="1548157186042">
         <mark key="[" line="21" column="42" />
@@ -2914,20 +2917,20 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>fieldRepository.findByUniqueId(fieldUniqueId);</text>
       </register>
       <register name="/" type="4">
         <text>800</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGludCBldmVudFR5cGU7Cg==</text>
+        <text encoding="base64">QExhenkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0Lm9rKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2995,22 +2998,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0Lm9rKCk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEludGVnZXIgZGVsID0gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>

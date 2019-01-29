@@ -242,11 +242,6 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/adminconfig/req/CreateJobDto.java" timestamp="1548409993223">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/redis/RedissionBase.java" timestamp="1544594226652">
         <mark key="[" line="32" column="31" />
         <mark key="]" line="33" column="14" />
@@ -810,11 +805,6 @@
         <mark key="^" line="33" column="37" />
         <mark key="." line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interview/SimulateJob.java" timestamp="1548415933380">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="62" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Service/PayService.java" timestamp="1543578963725">
         <mark key="[" line="36" column="21" />
         <mark key="]" line="30" column="43" />
@@ -959,10 +949,11 @@
         <mark key="^" line="361" column="40" />
         <mark key="." line="361" column="40" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/adminconfig/SimulateJobAdminService.java" timestamp="1548752709679">
-        <mark key="[" line="249" column="0" />
-        <mark key="]" line="249" column="0" />
-        <mark key="." line="249" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/adminconfig/SimulateJobAdminService.java" timestamp="1548754497644">
+        <mark key="[" line="115" column="40" />
+        <mark key="]" line="115" column="47" />
+        <mark key="." line="115" column="47" />
+        <mark key="^" line="116" column="38" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/interview/TestWithInterview.java" timestamp="1548664784675">
         <mark key="[" line="133" column="29" />
@@ -1496,7 +1487,12 @@
         <mark key="^" line="17" column="4" />
         <mark key="." line="17" column="4" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/SimulateJobAdminController.java" timestamp="1548752708447" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/SimulateJobAdminController.java" timestamp="1548754555581">
+        <mark key="[" line="73" column="36" />
+        <mark key="]" line="74" column="69" />
+        <mark key="^" line="74" column="69" />
+        <mark key="." line="74" column="69" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/component/MyUtils.java" timestamp="1544301214343">
         <mark key="[" line="25" column="24" />
         <mark key="]" line="27" column="8" />
@@ -2614,11 +2610,6 @@
         <mark key="^" line="33" column="18" />
         <mark key="." line="33" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/interviewer/SimulateJobAbilityRepository.java" timestamp="1548660572595">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/package.json" timestamp="1548663410075">
         <mark key="'" line="7" column="3" />
         <mark key="[" line="10" column="18" />
@@ -2928,11 +2919,11 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>String industry, String company, String department, String job, Integer page, Integer size</text>
       </register>
       <register name="-" type="4">
-        <text>interviewerInfoEntity</text>
+        <text>String industry, String company, String department, String job, Integer page, Integer size</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
@@ -2941,7 +2932,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBCYXNpY0ludGVydmlld2VyQWRtaW5EVE8oaW50ZXJ2aWV3ZXJJbmZvRW50aXR5LCB1c2VyLCB1c2VyU2VjcmV0RW50aXR5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBRU2ltdWxhdGVKb2IgcVNpbXVsYXRlSm9iID0gUVNpbXVsYXRlSm9iLnNpbXVsYXRlSm9iOwogICAgICAgIEJvb2xlYW5FeHByZXNzaW9uIHByZWRpY2F0ZSA9IEV4cHJlc3Npb25zLmFzQm9vbGVhbih0cnVlKS5pc1RydWUoKTsKICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmlzRW1wdHkoaW5kdXN0cnkpKSB7CiAgICAgICAgICAgIHByZWRpY2F0ZSA9IHByZWRpY2F0ZS5hbmQocVNpbXVsYXRlSm9iLmluZHVzdHJ5Lmxpa2UoIiUiICsgaW5kdXN0cnkgKyAiJSIpKTsKICAgICAgICB9CiAgICAgICAgaWYgKCFTdHJpbmdVdGlscy5pc0VtcHR5KGNvbXBhbnkpKSB7CiAgICAgICAgICAgIHByZWRpY2F0ZSA9IHByZWRpY2F0ZS5hbmQocVNpbXVsYXRlSm9iLmNvbXBhbnkubGlrZSgiJSIgKyBjb21wYW55ICsgIiUiKSk7CiAgICAgICAgfQogICAgICAgIGlmICghU3RyaW5nVXRpbHMuaXNFbXB0eShkZXBhcnRtZW50KSkgewogICAgICAgICAgICBwcmVkaWNhdGUgPSBwcmVkaWNhdGUuYW5kKHFTaW11bGF0ZUpvYi5kZXBhcnRtZW50Lmxpa2UoIiUiICsgZGVwYXJ0bWVudCArICIlIikpOwogICAgICAgIH0KICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmlzRW1wdHkoam9iKSkgewogICAgICAgICAgICBwcmVkaWNhdGUgPSBwcmVkaWNhdGUuYW5kKHFTaW11bGF0ZUpvYi5qb2IubGlrZSgiJSIgKyBqb2IgKyAiJSIpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3006,28 +2997,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUW1zUGFnZVJlcy5vZihqb2JSZXBvc2l0b3J5LmZpbmRBbGwocHJlZGljYXRlLCBQYWdlUmVxdWVzdC5vZihwYWdlLCBzaXplLCBTb3J0LkRpcmVjdGlvbi5ERVNDLCAiaWQiKSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaW11bGF0ZUpvYkFiaWxpdHkuc2V0TGV2ZWwobGV2ZWwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEludGVydmlld2VyUHVzaFNlcnZpY2UgaW50ZXJ2aWV3ZXJQdXNoU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICBzaW11bGF0ZUpvYkFiaWxpdHkuc2V0TGV2ZWwobGV2ZWwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdHVkZW50TWVzc2FnZVJlcG8uc2F2ZShidWlsZGVyLmJ1aWxkKCkpOwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEludGVydmlld2VyUHVzaFNlcnZpY2UgaW50ZXJ2aWV3ZXJQdXNoU2VydmljZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNlbmRUZWFjaGVyTWVzc2FnZShTdHVkZW50TWVzc2FnZURPLlN0dWRlbnRNZXNzYWdlRE9CdWlsZGVyIGJ1aWxkZXIpIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

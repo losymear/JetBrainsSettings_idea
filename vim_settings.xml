@@ -949,11 +949,11 @@
         <mark key="^" line="361" column="40" />
         <mark key="." line="361" column="40" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/adminconfig/SimulateJobAdminService.java" timestamp="1548757532612">
-        <mark key="[" line="261" column="45" />
-        <mark key="]" line="261" column="42" />
-        <mark key="." line="261" column="42" />
-        <mark key="^" line="261" column="42" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/adminconfig/SimulateJobAdminService.java" timestamp="1548760102848">
+        <mark key="[" line="155" column="135" />
+        <mark key="]" line="155" column="122" />
+        <mark key="^" line="155" column="122" />
+        <mark key="." line="155" column="122" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/interview/TestWithInterview.java" timestamp="1548664784675">
         <mark key="[" line="133" column="29" />
@@ -1487,11 +1487,11 @@
         <mark key="^" line="17" column="4" />
         <mark key="." line="17" column="4" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/SimulateJobAdminController.java" timestamp="1548757374819">
-        <mark key="[" line="149" column="5" />
-        <mark key="]" line="147" column="47" />
-        <mark key="." line="147" column="47" />
-        <mark key="^" line="147" column="47" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/SimulateJobAdminController.java" timestamp="1548759819288">
+        <mark key="[" line="143" column="25" />
+        <mark key="]" line="75" column="4" />
+        <mark key="." line="75" column="4" />
+        <mark key="^" line="75" column="4" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/component/MyUtils.java" timestamp="1544301214343">
         <mark key="[" line="25" column="24" />
@@ -2929,10 +2929,10 @@
         <text>delete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgiam9iSWQiKSBJbnRlZ2VyIGpvYklkLAo=</text>
+        <text encoding="base64">ICAgICAgICBzaW11bGF0ZUpvYkFiaWxpdHkuc2V0QXVkaXRvcklkKG9wZXJhdG9ySWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhdmVkQWJpbGl0eS5zZXRTaW11bGF0ZUpvYklkKGpvYklkKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2996,29 +2996,42 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>public void addNewAbility(Integer interviewerId, Long jobId, Integer level, Integer operatorId,String operatorName) {
+        SimulateJobAbility savedAbility = simulateJobAbilityRepository.findByInterviewerIdAndSimulateJobId(interviewerId, jobId).orElse(null);
+        // 如果已经有数据
+        if (savedAbility != null) {
+            if (savedAbility.getVerifyStatus() == SimulateJobAbility.VerifyStatus.已认证) {
+                throw new QmsRuntimeException(&quot;已经认证过&quot;);
+            } else {
+                savedAbility.setLevel(level);
+                savedAbility.setSimulateJobId(jobId);
+                savedAbility.setVerifyStatus(SimulateJobAbility.VerifyStatus.已认证);
+                simulateJobAbility.setAuditorName(operatorName);
+                simulateJobAbilityRepository.save(savedAbility);
+            }
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBRU2ltdWxhdGVKb2IgcVNpbXVsYXRlSm9iID0gUVNpbXVsYXRlSm9iLnNpbXVsYXRlSm9iOwogICAgICAgIEJvb2xlYW5FeHByZXNzaW9uIHByZWRpY2F0ZSA9IEV4cHJlc3Npb25zLmFzQm9vbGVhbih0cnVlKS5pc1RydWUoKTsKICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmlzRW1wdHkoaW5kdXN0cnkpKSB7CiAgICAgICAgICAgIHByZWRpY2F0ZSA9IHByZWRpY2F0ZS5hbmQocVNpbXVsYXRlSm9iLmluZHVzdHJ5Lmxpa2UoIiUiICsgaW5kdXN0cnkgKyAiJSIpKTsKICAgICAgICB9CiAgICAgICAgaWYgKCFTdHJpbmdVdGlscy5pc0VtcHR5KGNvbXBhbnkpKSB7CiAgICAgICAgICAgIHByZWRpY2F0ZSA9IHByZWRpY2F0ZS5hbmQocVNpbXVsYXRlSm9iLmNvbXBhbnkubGlrZSgiJSIgKyBjb21wYW55ICsgIiUiKSk7CiAgICAgICAgfQogICAgICAgIGlmICghU3RyaW5nVXRpbHMuaXNFbXB0eShkZXBhcnRtZW50KSkgewogICAgICAgICAgICBwcmVkaWNhdGUgPSBwcmVkaWNhdGUuYW5kKHFTaW11bGF0ZUpvYi5kZXBhcnRtZW50Lmxpa2UoIiUiICsgZGVwYXJ0bWVudCArICIlIikpOwogICAgICAgIH0KICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmlzRW1wdHkoam9iKSkgewogICAgICAgICAgICBwcmVkaWNhdGUgPSBwcmVkaWNhdGUuYW5kKHFTaW11bGF0ZUpvYi5qb2IubGlrZSgiJSIgKyBqb2IgKyAiJSIpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUW1zUGFnZVJlcy5vZihqb2JSZXBvc2l0b3J5LmZpbmRBbGwocHJlZGljYXRlLCBQYWdlUmVxdWVzdC5vZihwYWdlLCBzaXplLCBTb3J0LkRpcmVjdGlvbi5ERVNDLCAiaWQiKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpbQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhdmVkQWJpbGl0eS5zZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaW11bGF0ZUpvYkFiaWxpdHkuc2V0TGV2ZWwobGV2ZWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBRU2ltdWxhdGVKb2IgcVNpbXVsYXRlSm9iID0gUVNpbXVsYXRlSm9iLnNpbXVsYXRlSm9iOwogICAgICAgIEJvb2xlYW5FeHByZXNzaW9uIHByZWRpY2F0ZSA9IEV4cHJlc3Npb25zLmFzQm9vbGVhbih0cnVlKS5pc1RydWUoKTsKICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmlzRW1wdHkoaW5kdXN0cnkpKSB7CiAgICAgICAgICAgIHByZWRpY2F0ZSA9IHByZWRpY2F0ZS5hbmQocVNpbXVsYXRlSm9iLmluZHVzdHJ5Lmxpa2UoIiUiICsgaW5kdXN0cnkgKyAiJSIpKTsKICAgICAgICB9CiAgICAgICAgaWYgKCFTdHJpbmdVdGlscy5pc0VtcHR5KGNvbXBhbnkpKSB7CiAgICAgICAgICAgIHByZWRpY2F0ZSA9IHByZWRpY2F0ZS5hbmQocVNpbXVsYXRlSm9iLmNvbXBhbnkubGlrZSgiJSIgKyBjb21wYW55ICsgIiUiKSk7CiAgICAgICAgfQogICAgICAgIGlmICghU3RyaW5nVXRpbHMuaXNFbXB0eShkZXBhcnRtZW50KSkgewogICAgICAgICAgICBwcmVkaWNhdGUgPSBwcmVkaWNhdGUuYW5kKHFTaW11bGF0ZUpvYi5kZXBhcnRtZW50Lmxpa2UoIiUiICsgZGVwYXJ0bWVudCArICIlIikpOwogICAgICAgIH0KICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmlzRW1wdHkoam9iKSkgewogICAgICAgICAgICBwcmVkaWNhdGUgPSBwcmVkaWNhdGUuYW5kKHFTaW11bGF0ZUpvYi5qb2IubGlrZSgiJSIgKyBqb2IgKyAiJSIpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUW1zUGFnZVJlcy5vZihqb2JSZXBvc2l0b3J5LmZpbmRBbGwocHJlZGljYXRlLCBQYWdlUmVxdWVzdC5vZihwYWdlLCBzaXplLCBTb3J0LkRpcmVjdGlvbi5ERVNDLCAiaWQiKSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

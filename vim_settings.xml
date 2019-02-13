@@ -525,11 +525,11 @@
         <mark key="." line="43" column="40" />
         <mark key="^" line="43" column="40" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/wellpick/WellPickService.java" timestamp="1550048514801">
-        <mark key="[" line="143" column="11" />
-        <mark key="]" line="9" column="15" />
-        <mark key="." line="9" column="15" />
-        <mark key="^" line="9" column="15" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/wellpick/WellPickService.java" timestamp="1550050291833">
+        <mark key="[" line="147" column="11" />
+        <mark key="]" line="149" column="22" />
+        <mark key="." line="149" column="22" />
+        <mark key="^" line="149" column="22" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/watch/WatchController.java" timestamp="1545120595752">
         <mark key="[" line="119" column="158" />
@@ -2954,11 +2954,11 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBFcXVhbHNBbmRIYXNoQ29kZShjYWxsU3VwZXIgPSBmYWxzZSkK</text>
+      <register name="&quot;" type="4">
+        <text>studentId</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>studentId</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>

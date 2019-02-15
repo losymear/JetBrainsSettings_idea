@@ -14,8 +14,8 @@
       <file name="/a.dummy" timestamp="1549956737657">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/ChallengeLevelEnum.java" timestamp="1545385046894">
-        <mark key="[" line="11" column="3" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/ChallengeLevelEnum.java" timestamp="1550200724708">
+        <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="11" />
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
@@ -1674,6 +1674,7 @@
         <mark key="^" line="15" column="95" />
         <mark key="." line="15" column="95" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/TikuItemEntity.java" timestamp="1550200777985" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/watch/ShortVideoWatchHistory.java" timestamp="1544298449379">
         <mark key="[" line="24" column="13" />
         <mark key="]" line="24" column="8" />
@@ -1903,10 +1904,12 @@
         <mark key="^" line="7" column="42" />
         <mark key="." line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_v7.5.wy.sql" timestamp="1550199137314">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="82" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_v7.5.wy.sql" timestamp="1550201366828">
+        <mark key="'" line="0" column="35" />
+        <mark key="[" line="7" column="85" />
+        <mark key="]" line="7" column="87" />
+        <mark key="." line="7" column="87" />
+        <mark key="^" line="7" column="87" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/UserChallengeTask.java" timestamp="1545140567448">
         <mark key="[" line="70" column="5" />
@@ -2385,11 +2388,11 @@
         <mark key="^" line="30" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/FreelyChatSkuDO.java" timestamp="1550046914018">
-        <mark key="[" line="31" column="17" />
-        <mark key="]" line="31" column="16" />
-        <mark key="." line="31" column="16" />
-        <mark key="^" line="31" column="16" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/FreelyChatSkuDO.java" timestamp="1550201016260">
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="24" column="22" />
+        <mark key="^" line="24" column="22" />
+        <mark key="." line="24" column="22" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/docker-compose.admin.yml" timestamp="1548672735839">
         <mark key="[" line="9" column="15" />
@@ -2432,6 +2435,9 @@
         <mark key="]" line="52" column="19" />
         <mark key="^" line="52" column="19" />
         <mark key="." line="27" column="16" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interview/InterviewerInfoEntity.java" timestamp="1550200227650">
+        <mark key="[" line="83" column="29" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/deployed/create_v1.1_dzh_wy.sql" timestamp="1549956387142">
         <mark key="[" line="2" column="0" />
@@ -2903,7 +2909,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/pay/InterviewerWithdrawEntity.java" />
       <jump line="39" column="61" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/adminconfig/WithdrawAdminService.java" />
       <jump line="53" column="136" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/adminconfig/WithdrawAdminService.java" />
       <jump line="68" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/daemon/onlinetest/CumulativeRewardTestDaemon.java" />
@@ -3003,25 +3008,26 @@
       <jump line="321" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/pay/campaign/Coupon.java" />
       <jump line="208" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/order/AppointmentController.java" />
       <jump line="73" column="55" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/order/UniformOrderManager.java" />
+      <jump line="0" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_v7.5.wy.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgYHdlbGxfc2NvcmVfcGxhaW5gIENIQU5HRSBgc2NvcmVgIGBzY29yZWAgIGRlY2ltYWwoMTQsMikgREVGQVVMVCBOVUxMOwo=</text>
+        <text encoding="base64">ICAgICAqIEBzZWUgdGhpcyNzdGF0dXMgc2t154q25oCBCg==</text>
       </register>
       <register name="-" type="4">
-        <text>userId</text>
+        <text>price</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgYHdlbGxfc2NvcmVfcGxhaW5gIENIQU5HRSBgc2NvcmVgIGBzY29yZWAgIGRlY2ltYWwoMTQsMikgREVGQVVMVCBOVUxMOwo=</text>
+        <text encoding="base64">ICAgICAqIEBzZWUgdGhpcyNzdGF0dXMgc2t154q25oCBCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoZW50aWNhdGVBc0Fub255bW91c1VzZXIocmVxLCByZXMsIGZpbHRlckNoYWluKTsK</text>
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3086,28 +3092,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPOkB3eSDpnIDopoHkv67mlLkK</text>
+        <text encoding="base64">ICAgICAgICAgKiDmjJHmiJjnrYnnuqcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPOkB3eSDpnIDopoHkv67mlLkK</text>
+        <text encoding="base64">ICAgICAgICAvKioK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEN1cnJlbnRVc2VyIFVzZXJBbGwgdXNlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86QHd5IOa3u+WKoOaOkuacn+aOpeWPowo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBSb2xlSW50ZXJ2aWV3ZXIK</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJtYXhQcmljZSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86QHd5IOa3u+WKoOaOkuacn+aOpeWPowo=</text>
+        <text encoding="base64">ICAgICAgICBhdXRoZW50aWNhdGVBc0Fub255bW91c1VzZXIocmVxLCByZXMsIGZpbHRlckNoYWluKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgQFJvbGVJbnRlcnZpZXdlciDml6DpnIDop5LoibIK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPOkB3eSDpnIDopoHkv67mlLkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBSb2xlQWRtaW4K</text>
+        <text encoding="base64">ICAgICAgICBUT0RPOkB3eSDpnIDopoHkv67mlLkK</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

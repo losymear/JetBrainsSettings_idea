@@ -2594,6 +2594,13 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/dto/FreelyChatDTO.java" timestamp="1550482327068">
+        <mark key="'" line="71" column="21" />
+        <mark key="[" line="95" column="55" />
+        <mark key="]" line="96" column="58" />
+        <mark key="." line="96" column="58" />
+        <mark key="^" line="96" column="58" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/FreelyChatCatalogDO.java" timestamp="1550468631208">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -3001,7 +3008,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/test/test_admin_initial.sql" />
       <jump line="69" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/test/test_admin_initial.sql" />
       <jump line="84" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/test/test_admin_initial.sql" />
       <jump line="88" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/test/test_admin_initial.sql" />
@@ -3101,13 +3107,14 @@
       <jump line="46" column="52" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/order/UniformOrderController.java" />
       <jump line="58" column="60" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatStudentService.java" />
       <jump line="429" column="53" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/AccountService.java" />
+      <jump line="71" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/dto/FreelyChatDTO.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBAQXBpTW9kZWxQcm9wZXJ0eSgi6Z2i6K+V5a6Y5ZCN5a2XIikKICAgICAgICBTdHJpbmcgcmVhbE5hbWU7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;id&quot;, Sort.Direction.de</text>
@@ -3116,7 +3123,7 @@
         <text>delete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpbXVsYXRlSm9iIHNpbXVsYXRlSm9iID0gc2ltdWxhdGVKb2JSZXBvc2l0b3J5LmZpbmRBbGwoUGFnZVJlcXVlc3Qub2YoMCwgMSkpLmdldENvbnRlbnQoKS5nZXQoMCk7CiAgICAgICAgICAgICAgICBmcmVlbHlDaGF0U2t1RE8uc2V0VG9waWMoIuWcqCIgKyBzaW11bGF0ZUpvYi5nZXRDb21wYW55KCkgKyAi5YGaIiArIHNpbXVsYXRlSm9iLmdldEpvYigpICsgIuaYr+S4gOenjeaAjuagt+eahOS9k+mqjCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBAQXBpTW9kZWxQcm9wZXJ0eSgi6Z2i6K+V5a6Y5ZCN5a2XIikKICAgICAgICBTdHJpbmcgcmVhbE5hbWU7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>

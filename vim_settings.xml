@@ -358,12 +358,12 @@
         <mark key="^" line="29" column="69" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatInterviewerService.java" timestamp="1550668455663">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatInterviewerService.java" timestamp="1550669509485">
         <mark key="'" line="153" column="68" />
-        <mark key="[" line="155" column="42" />
-        <mark key="]" line="157" column="0" />
-        <mark key="^" line="156" column="39" />
-        <mark key="." line="157" column="0" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="135" column="58" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/pom.xml" timestamp="1542805366426">
         <mark key="[" line="97" column="44" />
@@ -883,12 +883,12 @@
         <mark key="^" line="15" column="50" />
         <mark key="." line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatStudentService.java" timestamp="1550662415502">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatStudentService.java" timestamp="1550669492851">
         <mark key="'" line="70" column="23" />
-        <mark key="[" line="277" column="17" />
-        <mark key="]" line="274" column="0" />
-        <mark key="." line="274" column="0" />
-        <mark key="^" line="274" column="0" />
+        <mark key="[" line="335" column="40" />
+        <mark key="]" line="334" column="0" />
+        <mark key="^" line="334" column="0" />
+        <mark key="." line="334" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/watch/ShortVideoService.java" timestamp="1544869540913">
         <mark key="[" line="181" column="76" />
@@ -2480,8 +2480,8 @@
         <mark key="^" line="20" column="32" />
         <mark key="." line="20" column="32" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/FreelyChatDetailDO.java" timestamp="1550660687370">
-        <mark key="[" line="67" column="26" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/FreelyChatDetailDO.java" timestamp="1550669364736">
+        <mark key="[" line="67" column="19" />
         <mark key="]" line="67" column="25" />
         <mark key="^" line="67" column="25" />
         <mark key="." line="67" column="25" />
@@ -3268,7 +3268,7 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzpAd3kg5L+u5pS55ZON5bqU5pe26Ze0Cg==</text>
+        <text encoding="base64">ICAgICAgICBGcmVlbHlDaGF0U2t1RE8gc2t1ID0gZnJlZWx5Q2hhdFNrdVJlcG8uZmluZEJ5SWQoY2hhdC5nZXRTa3VJZCgpKS5vckVsc2VUaHJvdyhRbXNSdW50aW1lRXhjZXB0aW9uOjpuZXcpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>, 600L, 650L, 750L, 800L);</text>
@@ -3280,7 +3280,7 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIuW5s+Wdh+WTjeW6lOaXtumXtDEwMEwiLCAxMDBMLCDojrflj5blubPlnYfml7bpl7QoMSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzpAd3kg5L+u5pS55ZON5bqU5pe26Ze0Cg==</text>
+        <text encoding="base64">ICAgICAgICBGcmVlbHlDaGF0U2t1RE8gc2t1ID0gZnJlZWx5Q2hhdFNrdVJlcG8uZmluZEJ5SWQoY2hhdC5nZXRTa3VJZCgpKS5vckVsc2VUaHJvdyhRbXNSdW50aW1lRXhjZXB0aW9uOjpuZXcpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3345,28 +3345,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRnJlZWx5Q2hhdFNrdURPIHNrdSA9IGZyZWVseUNoYXRTa3VSZXBvLmZpbmRCeUlkKGRldGFpbC5nZXRTa3VJZCgpKS5vckVsc2VUaHJvdyhRbXNSdW50aW1lRXhjZXB0aW9uOjpuZXcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGF0LnNldFN0YXR1cyhGcmVlbHlDaGF0RGV0YWlsRE8uRnJlZWx5Q2hhdE9yZGVyU3RhdHVzRW51bS7lj4zmlrnmoIforrDnu5PmnZ8pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBza3Uuc2V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wYXJlKHByb2ZpbGUuZ2V0QXZhdGFyKCksICJhdmF0YXJVcmwiKS5jb21wYXJlKHByb2ZpbGUuZ2V0TG9jYXRpb24oKSwgIuadreW3niIpCg==</text>
+        <text encoding="base64">ICAgICAgICBza3Uuc2V0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJ2aWV3ZXJJbmZvUmVwb3NpdG9yeS5zYXZlKGluZm9FbnRpdHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzpAd3kg5L+u5pS55ZON5bqU5pe26Ze0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZXJ2aWV3ZXJJbmZvRW50aXR5IGluZm9FbnRpdHkgPSB1c2VyQWxsLmdldEludGVydmlld2VySW5mbygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIHN1bUF2ZyA9IE1hdGguCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

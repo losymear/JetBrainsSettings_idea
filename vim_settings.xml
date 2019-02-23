@@ -935,12 +935,12 @@
         <mark key="^" line="15" column="50" />
         <mark key="." line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatStudentService.java" timestamp="1550894760532">
-        <mark key="'" line="419" column="0" />
-        <mark key="[" line="168" column="135" />
-        <mark key="]" line="185" column="103" />
-        <mark key="^" line="185" column="103" />
-        <mark key="." line="185" column="103" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatStudentService.java" timestamp="1550902079906">
+        <mark key="'" line="418" column="0" />
+        <mark key="[" line="208" column="71" />
+        <mark key="]" line="208" column="98" />
+        <mark key="." line="208" column="98" />
+        <mark key="^" line="208" column="98" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/watch/ShortVideoService.java" timestamp="1544869540913">
         <mark key="[" line="181" column="76" />
@@ -2304,11 +2304,11 @@
         <mark key="." line="37" column="14" />
         <mark key="^" line="37" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/ordersystem/FreelyChatDetailRepo.java" timestamp="1550803262642">
-        <mark key="[" line="35" column="40" />
-        <mark key="]" line="35" column="39" />
-        <mark key="^" line="35" column="39" />
-        <mark key="." line="35" column="39" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/ordersystem/FreelyChatDetailRepo.java" timestamp="1550902066040">
+        <mark key="[" line="25" column="41" />
+        <mark key="]" line="25" column="40" />
+        <mark key="^" line="25" column="40" />
+        <mark key="." line="25" column="40" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/interviewer/ScheduleTemplateServiceTest.java" timestamp="1545104527449">
         <mark key="[" line="14" column="15" />
@@ -3499,20 +3499,20 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>findByUserIdAndStatusIn</text>
       </register>
       <register name="-" type="4">
-        <text>detail.getStatus() != FreelyChatDetailDO.FreelyChatOrderStatusEnum.学生已评价</text>
+        <text>findByUserIdAndStatusIn</text>
       </register>
       <register name="/" type="4">
-        <text>UserAll</text>
+        <text encoding="base64">XDxMaXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGV0YWlsLmdldFN0YXR1cygpICE9IEZyZWVseUNoYXREZXRhaWxETy5GcmVlbHlDaGF0T3JkZXJTdGF0dXNFbnVtLuWtpueUn+W3suivhOS7tykgewo=</text>
+        <text encoding="base64">ICAgIExpc3Q8RnJlZWx5Q2hhdERldGFpbERPPiBmaW5kQnlVc2VySWRBbmRTdGF0dXNJbihJbnRlZ2VyIHN0dWRlbnRJZCwgTGlzdDxGcmVlbHlDaGF0RGV0YWlsRE8uRnJlZWx5Q2hhdE9yZGVyU3RhdHVzRW51bT4gc3RhdHVzRW51bXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXN0PFN0cmluZz4gdG9waWMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3577,45 +3577,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChkZXRhaWwuZ2V0U3RhdHVzKCkgIT0gRnJlZWx5Q2hhdERldGFpbERPLkZyZWVseUNoYXRPcmRlclN0YXR1c0VudW0u5a2m55Sf5bey6K+E5Lu3KSB7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGlmIChkZXRhaWwuZ2V0U3RhdHVzKCkgIT0gRnJlZWx5Q2hhdERldGFpbERPLkZyZWVseUNoYXRPcmRlclN0YXR1c0VudW0u5a2m55Sf5bey6K+E5Lu3KSB7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pZ25vcmVkUGFyYW1ldGVyVHlwZXMoQ3VycmVudFVzZXIuY2xhc3MpCg==</text>
+        <text encoding="base64">QAo=</text>
       </register>
       <register name=":" type="4">
         <text>next</text>
       </register>
     </registers>
     <search>
-      <last-search>UserAll</last-search>
+      <last-search encoding="base64">XDxMaXN0XD4=</last-search>
       <last-offset />
-      <last-pattern>UserAll</last-pattern>
+      <last-pattern encoding="base64">XDxMaXN0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>用户</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>12</entry>
         <entry>onlinet</entry>
         <entry>-</entry>
         <entry>authorize</entry>
@@ -3635,6 +3634,7 @@
         <entry>delete</entry>
         <entry>Userall</entry>
         <entry>UserAll</entry>
+        <entry encoding="base64">XDxMaXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>next</entry>

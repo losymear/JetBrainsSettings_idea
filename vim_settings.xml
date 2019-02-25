@@ -360,11 +360,11 @@
         <mark key="^" line="81" column="67" />
         <mark key="." line="81" column="67" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/StudentAppController.java" timestamp="1551099805641">
-        <mark key="[" line="98" column="31" />
-        <mark key="]" line="3" column="31" />
-        <mark key="." line="3" column="31" />
-        <mark key="^" line="3" column="31" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/StudentAppController.java" timestamp="1551101048084">
+        <mark key="[" line="94" column="48" />
+        <mark key="]" line="87" column="30" />
+        <mark key="." line="87" column="30" />
+        <mark key="^" line="87" column="30" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/ActiveTaskService.java" timestamp="1544791312826">
         <mark key="[" line="118" column="20" />
@@ -2247,12 +2247,12 @@
         <mark key="^" line="71" column="47" />
         <mark key="." line="71" column="47" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAppService.java" timestamp="1551100121453">
-        <mark key="'" line="55" column="6" />
-        <mark key="[" line="123" column="113" />
-        <mark key="]" line="126" column="0" />
-        <mark key="^" line="126" column="0" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAppService.java" timestamp="1551101951911">
+        <mark key="'" line="232" column="76" />
+        <mark key="[" line="155" column="21" />
+        <mark key="]" line="155" column="44" />
+        <mark key="^" line="155" column="44" />
+        <mark key="." line="155" column="44" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/pickscore/JobQualityDO.java" timestamp="1548147375311">
         <mark key="[" line="16" column="0" />
@@ -3378,9 +3378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="22" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatStudentService.java" />
-      <jump line="197" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatInterviewerService.java" />
-      <jump line="28" column="3" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/freelychat/FreelyChatStudentController.java" />
       <jump line="187" column="47" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/freelychat/FreelyChatStudentController.java" />
       <jump line="56" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatStudentService.java" />
       <jump line="395" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatStudentService.java" />
@@ -3478,25 +3475,28 @@
       <jump line="82" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/WechatMiniAppService.java" />
       <jump line="198" column="38" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/WechatMiniAppService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/WechatMiniAppService.java" />
+      <jump line="51" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAppService.java" />
+      <jump line="179" column="120" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAppService.java" />
+      <jump line="232" column="76" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAppService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5pYXBwVXNlclJvbGVzLnNldFJvbGVzKExpc3RzLm5ld0FycmF5TGlzdChzdHVkZW50Um9sZSwgbmV3SW50ZXJ2aWV3ZXJSb2xlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="-" type="4">
         <text>取权限</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMaXN0XD4=</text>
+        <text>181</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYXV0aG9yaXplU2VydmljZS5pc1VzZXJIYXNSb2xlKHVzZXIsc3R1ZGVudFJvbGUpKXsKICAgICAgICAgICAgcm9sZXMuYWRkKHN0dWRlbnRSb2xlKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5pYXBwVXNlclJvbGVzLnNldFJvbGVzKExpc3RzLm5ld0FycmF5TGlzdChzdHVkZW50Um9sZSwgbmV3SW50ZXJ2aWV3ZXJSb2xlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgIC5tYXAoa2spOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3561,45 +3561,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNaW5pYXBwVXNlclJvbGVzIG1pbmlhcHBVc2VyUm9sZXMgPSBuZXcgTWluaWFwcFVzZXJSb2xlcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNaW5pYXBwVXNlclJvbGVzIG1pbmlhcHBVc2VyUm9sZXMgPSBuZXcgTWluaWFwcFVzZXJSb2xlcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5pYXBwVXNlclJvbGVzLnNldFJvbGVzKExpc3RzLm5ld0FycmF5TGlzdChzdHVkZW50Um9sZSwgbmV3SW50ZXJ2aWV3ZXJSb2xlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXIgLT4gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbWluaWFwcFVzZXJSb2xlczsK</text>
+        <text encoding="base64">ICAgICAgICBtaW5pYXBwVXNlclJvbGVzLnNldFJvbGVzKExpc3RzLm5ld0FycmF5TGlzdChzdHVkZW50Um9sZSwgbmV3SW50ZXJ2aWV3ZXJSb2xlKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNaW5pYXBwVXNlclJvbGVzIG1pbmlhcHBVc2VyUm9sZXMgPSBuZXcgTWluaWFwcFVzZXJSb2xlcygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBRbXNUT0RPLkxpc3Q8Pgo=</text>
+        <text encoding="base64">ICAgICAgICBNaW5pYXBwVXNlclJvbGVzIG1pbmlhcHBVc2VyUm9sZXMgPSBuZXcgTWluaWFwcFVzZXJSb2xlcygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtaW5pYXBwVXNlclJvbGVzLnNldFJvbGVzKExpc3RzLm5ld0FycmF5TGlzdChzdHVkZW50Um9sZSwgbmV3SW50ZXJ2aWV3ZXJSb2xlKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWluaWFwcFVzZXJSb2xlczsK</text>
       </register>
       <register name=":" type="4">
         <text>next</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMaXN0XD4=</last-search>
+      <last-search>181</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMaXN0XD4=</last-pattern>
+      <last-pattern>181</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>用户</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onlinet</entry>
         <entry>-</entry>
         <entry>authorize</entry>
         <entry>Double</entry>
@@ -3619,6 +3618,7 @@
         <entry>Userall</entry>
         <entry>UserAll</entry>
         <entry encoding="base64">XDxMaXN0XD4=</entry>
+        <entry>181</entry>
       </history-search>
       <history-cmd>
         <entry>next</entry>

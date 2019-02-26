@@ -1020,8 +1020,8 @@
         <mark key="^" line="436" column="10" />
         <mark key="." line="436" column="10" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/LoginSmsController.java" timestamp="1551092561303">
-        <mark key="[" line="155" column="35" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/LoginSmsController.java" timestamp="1551157252368">
+        <mark key="[" line="232" column="36" />
         <mark key="]" line="155" column="34" />
         <mark key="^" line="155" column="34" />
         <mark key="." line="155" column="34" />
@@ -1187,12 +1187,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/controller/MiniAppLoginController.java" timestamp="1551152751757">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/controller/MiniAppLoginController.java" timestamp="1551157823954">
         <mark key="'" line="13" column="35" />
-        <mark key="[" line="92" column="19" />
-        <mark key="]" line="92" column="25" />
-        <mark key="^" line="92" column="25" />
-        <mark key="." line="92" column="25" />
+        <mark key="[" line="123" column="40" />
+        <mark key="]" line="118" column="23" />
+        <mark key="^" line="118" column="23" />
+        <mark key="." line="118" column="23" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/InterviewUserAppraiseEntity.java" timestamp="1544299579401">
         <mark key="[" line="38" column="16" />
@@ -2573,12 +2573,12 @@
         <mark key="." line="94" column="45" />
         <mark key="^" line="94" column="45" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/WechatMiniAppService.java" timestamp="1551153477425">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/WechatMiniAppService.java" timestamp="1551157813025">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="189" column="31" />
-        <mark key="]" line="186" column="32" />
-        <mark key="^" line="186" column="32" />
-        <mark key="." line="186" column="32" />
+        <mark key="[" line="195" column="145" />
+        <mark key="]" line="195" column="29" />
+        <mark key="^" line="195" column="29" />
+        <mark key="." line="195" column="29" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/interview/InterviewerBelongFieldRepository.java" timestamp="1545621512843">
         <mark key="[" line="16" column="79" />
@@ -3093,12 +3093,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="54" column="15" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/AccountService.java" timestamp="1551153497365">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/AccountService.java" timestamp="1551157796122">
         <mark key="'" line="250" column="28" />
-        <mark key="[" line="212" column="7" />
-        <mark key="]" line="213" column="30" />
-        <mark key="." line="213" column="30" />
-        <mark key="^" line="213" column="30" />
+        <mark key="[" line="284" column="57" />
+        <mark key="]" line="284" column="56" />
+        <mark key="." line="284" column="56" />
+        <mark key="^" line="284" column="56" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Configuration/security/MyAuthentication.java" timestamp="1543072048943">
         <mark key="[" line="46" column="31" />
@@ -3689,19 +3689,19 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>学生通过小程序注册</text>
+        <text>学生在小程序绑定手机号</text>
       </register>
       <register name="-" type="4">
-        <text>学生通过小程序注册</text>
+        <text>学生在小程序绑定手机号</text>
       </register>
       <register name="/" type="4">
         <text>181</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyRW50aXR5IHNhdmVkVXNlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFFtc1J1bnRpbWVFeGNlcHRpb24oIuivt+WcqGFwcOeUs+ivt+aIkOS4uuWvvOW4iCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3766,28 +3766,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNaW5pYXBwQWNjb3VudFJlcyByZXMgPSBuZXcgTWluaWFwcEFjY291bnRSZXMoKTsKICAgICAgICByZXMuc2V0VXVpZCh1dWlkKTsKICAgICAgICByZXMuc2V0WHRva2VuKHh0b2tlbik7CiAgICAgICAgcmV0dXJuIHJlczsK</text>
+        <text encoding="base64">ICAgICAgICBmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5aaC5p6c5bey57uP5pyJ6K+l5omL5py65Y+377yMIOWcqOaJi+acuuWPt+S4uuepuuaXtuaJjei/m+ihjOe7keWumgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoT2JqZWN0cy5ub25OdWxsKHNlY3JldEVudGl0eS5nZXRNaW5pYXBwT3BlbklkKCkpKXsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBCb29sZWFuCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dpblNtc1NlcnZpY2Uuc2VuZExvZ2luQ29kZShwYXlsb2FkLnBob25lKTsK</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

@@ -11,7 +11,7 @@
         <mark key="^" line="20" column="8" />
         <mark key="." line="20" column="8" />
       </file>
-      <file name="/a.dummy" timestamp="1551164517948">
+      <file name="/a.dummy" timestamp="1551236611904">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/ChallengeLevelEnum.java" timestamp="1550556088494">
@@ -129,8 +129,8 @@
         <mark key="^" line="207" column="4" />
         <mark key="." line="207" column="4" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/dto/req/MiniRegisterDTO.java" timestamp="1551095458955">
-        <mark key="[" line="20" column="16" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/dto/req/MiniRegisterDTO.java" timestamp="1551235426011">
+        <mark key="[" line="0" column="1" />
         <mark key="]" line="22" column="1" />
         <mark key="^" line="22" column="1" />
         <mark key="." line="22" column="1" />
@@ -200,6 +200,12 @@
         <mark key="]" line="94" column="18" />
         <mark key="." line="94" column="18" />
         <mark key="^" line="94" column="18" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/dto/MiniRegisterDTO.java" timestamp="1551235445583">
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/umentpush/ios/IOSBroadcast.java" timestamp="1545397455520">
         <mark key="[" line="18" column="0" />
@@ -393,10 +399,6 @@
         <mark key="^" line="29" column="69" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatInterviewerService.java" timestamp="1551185699287">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="58" column="45" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/retrofit/MiniAppApiConfig.java" timestamp="1550927841859">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="18" column="33" />
@@ -426,6 +428,12 @@
         <mark key="]" line="24" column="6" />
         <mark key="^" line="24" column="6" />
         <mark key="." line="24" column="6" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/dto/MiniAppLoginResDTO.java" timestamp="1551235572729">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/admin/AdminApplication.java" timestamp="1544691471953">
         <mark key="[" line="10" column="22" />
@@ -505,12 +513,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/dto/res/MiniappUserRoles.java" timestamp="1551166227267">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="19" column="12" />
-        <mark key="." line="19" column="12" />
-        <mark key="^" line="19" column="12" />
-      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/dto/res/MiniappUserRoles.java" timestamp="1551235350815" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/test/com/zhiri/qumianshi/service/WyTest.java" timestamp="1551076936011">
         <mark key="'" line="23" column="6" />
         <mark key="[" line="56" column="0" />
@@ -560,7 +563,7 @@
         <mark key="^" line="86" column="14" />
         <mark key="." line="86" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/MiniappApplication.java" timestamp="1550839089353">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/MiniappApplication.java" timestamp="1551236658616">
         <mark key="[" line="20" column="29" />
         <mark key="]" line="23" column="47" />
         <mark key="^" line="23" column="47" />
@@ -693,6 +696,12 @@
         <mark key="^" line="105" column="24" />
         <mark key="." line="105" column="24" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/miniapp/TmpMiniappLoginRepo.java" timestamp="1551237179571">
+        <mark key="[" line="17" column="88" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="17" column="34" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/helper/AssertService.java" timestamp="1544027221223">
         <mark key="[" line="15" column="22" />
         <mark key="]" line="10" column="22" />
@@ -753,7 +762,7 @@
         <mark key="." line="20" column="6" />
         <mark key="^" line="20" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550838709365">
+      <file name="/Dummy.txt" timestamp="1551235015226">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/yunxin/src/test/java/com/zhiri/qumianshi/controller/YunxinControllerTest.java" timestamp="1543461122744">
@@ -1114,6 +1123,13 @@
         <mark key="^" line="133" column="46" />
         <mark key="." line="134" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/MiniAppLoginManager.java" timestamp="1551236485117">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="27" column="24" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="69" column="9" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/test/java/com/zhiri/qumianshi/Retrofit/WechatPayApiTest.java" timestamp="1543199969116">
         <mark key="[" line="39" column="30" />
         <mark key="]" line="39" column="29" />
@@ -1356,15 +1372,21 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_v8.2.wy.sql" timestamp="1551235725813">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="8" column="58" />
+        <mark key="^" line="8" column="58" />
+        <mark key="." line="8" column="58" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/message/StudentMessageRepo.java" timestamp="1546953429196">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
         <mark key="^" line="42" column="47" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/constants/AESConstants.java" timestamp="1551076281400">
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="9" column="33" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/constants/AESConstants.java" timestamp="1551236262602">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="72" />
         <mark key="^" line="9" column="33" />
         <mark key="." line="9" column="33" />
       </file>
@@ -1433,6 +1455,9 @@
         <mark key="]" line="62" column="68" />
         <mark key="." line="62" column="68" />
         <mark key="^" line="62" column="68" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/deployed/create_v7.6.wy.sql" timestamp="1551234496061">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/test/resources/log4j2.yaml" timestamp="1543301404493">
         <mark key="[" line="41" column="0" />
@@ -1641,6 +1666,12 @@
         <mark key="^" line="338" column="57" />
         <mark key="." line="338" column="57" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/dto/Jscode2SessionDTO.java" timestamp="1551235642564">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/interviewer/InterviewerHome.java" timestamp="1543637159005">
         <mark key="[" line="39" column="1" />
         <mark key="]" line="39" column="0" />
@@ -1751,11 +1782,6 @@
         <mark key="^" line="52" column="31" />
         <mark key="." line="52" column="31" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/deployed/create_v8.0_wy.sql" timestamp="1551185829488">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="83" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/dto/request/LoginCode.java" timestamp="1542852778105">
         <mark key="[" line="23" column="23" />
         <mark key="]" line="22" column="25" />
@@ -1767,6 +1793,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_v8.2_wy.sql" timestamp="1551236936908">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="8" column="58" />
+        <mark key="^" line="8" column="58" />
+        <mark key="." line="8" column="58" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/inner/RecommendMsg.java" timestamp="1544421877336">
         <mark key="[" line="11" column="0" />
@@ -1967,11 +1999,11 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/dto/Jscode2SessionDTO.java" timestamp="1551062991693">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/dto/Jscode2SessionDTO.java" timestamp="1551235639146">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="12" column="0" />
         <mark key="^" line="11" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/interviewer/WithdrawRepository.java" timestamp="1547815689046">
         <mark key="[" line="13" column="94" />
@@ -2081,10 +2113,6 @@
         <mark key="]" line="13" column="29" />
         <mark key="^" line="13" column="29" />
         <mark key="." line="13" column="29" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/configuration/security/qms/QmsAuthenticationFilter.java" timestamp="1551095012488">
-        <mark key="[" line="40" column="52" />
-        <mark key="]" line="40" column="55" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/request/StatusDto.java" timestamp="1543496990850">
         <mark key="[" line="21" column="0" />
@@ -2321,6 +2349,12 @@
         <mark key="." line="37" column="14" />
         <mark key="^" line="37" column="14" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/ordersystem/FreelyChatDetailRepo.java" timestamp="1551237039806">
+        <mark key="'" line="0" column="10" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/interviewer/ScheduleTemplateServiceTest.java" timestamp="1545104527449">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="31" />
@@ -2400,6 +2434,12 @@
         <mark key="^" line="18" column="54" />
         <mark key="." line="18" column="54" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/AESConstants.java" timestamp="1551235484910">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/pay/PayRepository.java" timestamp="1543317990097">
         <mark key="[" line="14" column="73" />
         <mark key="]" line="15" column="3" />
@@ -2442,6 +2482,7 @@
         <mark key="^" line="53" column="76" />
         <mark key="." line="53" column="76" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/MiniAppLoginEncryptManager.java" timestamp="1551236510880" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/user/UserConfig.java" timestamp="1543405477674">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="19" />
@@ -2466,12 +2507,19 @@
         <mark key="." line="94" column="45" />
         <mark key="^" line="94" column="45" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/WechatMiniAppService.java" timestamp="1551171742604">
-        <mark key="'" line="211" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/WechatMiniAppService.java" timestamp="1551236532615">
+        <mark key="'" line="172" column="6" />
+        <mark key="[" line="69" column="36" />
+        <mark key="]" line="69" column="56" />
+        <mark key="^" line="69" column="56" />
+        <mark key="." line="69" column="56" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/miniapp/TmpMiniappLoginDO.java" timestamp="1551237310839">
+        <mark key="'" line="42" column="1" />
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="15" column="12" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="15" column="12" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/interview/InterviewerBelongFieldRepository.java" timestamp="1545621512843">
         <mark key="[" line="16" column="79" />
@@ -2484,6 +2532,12 @@
         <mark key="]" line="60" column="31" />
         <mark key="." line="60" column="31" />
         <mark key="^" line="60" column="31" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/WechatMiniAppService.java" timestamp="1551235684119">
+        <mark key="[" line="77" column="51" />
+        <mark key="]" line="61" column="18" />
+        <mark key="." line="61" column="18" />
+        <mark key="^" line="61" column="18" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/InterviewServiceTest.java" timestamp="1545723867865">
         <mark key="[" line="65" column="14" />
@@ -2508,6 +2562,12 @@
         <mark key="]" line="47" column="32" />
         <mark key="^" line="47" column="32" />
         <mark key="." line="47" column="32" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/CommonController.java" timestamp="1551237611764">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="76" />
+        <mark key="^" line="95" column="26" />
+        <mark key="." line="95" column="26" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/WellPickController.java" timestamp="1549963809702">
         <mark key="[" line="125" column="17" />
@@ -2577,10 +2637,6 @@
         <mark key="^" line="579" column="70" />
         <mark key="." line="568" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/component/WechatPayClient.java" timestamp="1550928548929">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="9" column="10" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/UserSecretEntity.java" timestamp="1550921675775">
         <mark key="[" line="76" column="11" />
         <mark key="]" line="76" column="25" />
@@ -2605,7 +2661,7 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="64" column="51" />
       </file>
-      <file name="/fragment.java" timestamp="1551182562655">
+      <file name="/fragment.java" timestamp="1551235015271">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/QuestionCommentEntity.java" timestamp="1544300911396">
@@ -2753,12 +2809,18 @@
         <mark key="^" line="30" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/FreelyChatSkuDO.java" timestamp="1551174102849">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/FreelyChatSkuDO.java" timestamp="1551234880848">
         <mark key="'" line="101" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="22" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="43" column="15" />
         <mark key="^" line="42" column="43" />
         <mark key="." line="42" column="43" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/dto/MiniappUserRoles.java" timestamp="1551235356006">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/statusenum/OrderServiceStatusEnum.java" timestamp="1550736451842">
         <mark key="[" line="26" column="55" />
@@ -2813,6 +2875,12 @@
         <mark key="]" line="331" column="70" />
         <mark key="^" line="445" column="45" />
         <mark key="." line="445" column="45" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/MiniappSecurityManager.java" timestamp="1551237650569">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="30" column="6" />
+        <mark key="." line="30" column="6" />
+        <mark key="^" line="30" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/CoreConfiguration.java" timestamp="1544169719098">
         <mark key="[" line="15" column="67" />
@@ -2982,6 +3050,12 @@
         <mark key="]" line="64" column="29" />
         <mark key="." line="64" column="29" />
         <mark key="^" line="64" column="29" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/test/com/zhiri/qumianshi/service/WechatMiniAppServiceTest.java" timestamp="1551235992479">
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="18" column="13" />
+        <mark key="^" line="18" column="13" />
+        <mark key="." line="18" column="13" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/daemon/ArrayBuilder2.java" timestamp="1544984166024">
         <mark key="[" line="15" column="27" />
@@ -3281,12 +3355,7 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="17" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/dto/res/MiniAppLoginResDTO.java" timestamp="1551187780045">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="17" />
-        <mark key="^" line="22" column="17" />
-        <mark key="." line="22" column="17" />
-      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/dto/res/MiniAppLoginResDTO.java" timestamp="1551235565994" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/component/YunxinClient.java" timestamp="1544301402882">
         <mark key="[" line="31" column="59" />
         <mark key="]" line="31" column="65" />
@@ -3431,11 +3500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/interviewer/InterviewerAppService.java" />
-      <jump line="153" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/test/com/zhiri/qumianshi/service/TestWithInterview.java" />
-      <jump line="41" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/FreelyChatSkuDO.java" />
-      <jump line="64" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/FreelyChatSkuDO.java" />
-      <jump line="101" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/FreelyChatSkuDO.java" />
       <jump line="70" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/test/com/zhiri/qumianshi/service/TestForFrontEnd.java" />
       <jump line="8" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/freelychat/TestWithFreelyChat.java" />
       <jump line="41" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/freelychat/FreelyChatProcessingTest.java" />
@@ -3518,8 +3582,6 @@
       <jump line="29" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/WechatMiniAppService.java" />
       <jump line="231" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/WechatMiniAppService.java" />
       <jump line="217" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/WechatMiniAppService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/WechatMiniAppService.java" />
-      <jump line="211" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/WechatMiniAppService.java" />
       <jump line="6" column="65" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_v8.0_wy.sql" />
       <jump line="166" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/PayService.java" />
       <jump line="168" column="62" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/PayService.java" />
@@ -3531,25 +3593,32 @@
       <jump line="189" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatInterviewerService.java" />
       <jump line="1" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/deployed/create_v8.0_wy.sql" />
       <jump line="0" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_v8.1.wy.sql" />
+      <jump line="42" column="1" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/miniapp/TmpMiniappLoginDO.java" />
+      <jump line="211" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/WechatMiniAppService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/WechatMiniAppService.java" />
+      <jump line="17" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/MiniAppLoginManager.java" />
+      <jump line="80" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/MiniAppLoginManager.java" />
+      <jump line="172" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/WechatMiniAppService.java" />
+      <jump line="0" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/ordersystem/FreelyChatDetailRepo.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyB2ZXJpZnk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChvcHRpb25hbFRtcE1pbmlhcHBMb2dpbkRPLmlzUHJlc2VudCgpKSB7Ci8vICAgICAgICAgICAgdXBkYXRlZE1pbmlhcHBMb2dpbkRPID0gb3B0aW9uYWxUbXBNaW5pYXBwTG9naW5ETy5nZXQoKTsKLy8gICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgdXBkYXRlZE1pbmlhcHBMb2dpbkRPID0gbmV3IFRtcE1pbmlhcHBMb2dpbkRPKCk7Ci8vICAgICAgICAgICAgdXBkYXRlZE1pbmlhcHBMb2dpbkRPLnNldE9wZW5JZChvcGVuSWQpOwovLyAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>varchar</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text>181</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyB2ZXJpZnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2Vzc2lvbklkID0gVVVJRC5yYW5kb21VVUlEKCkudG9TdHJpbmcoKS5yZXBsYWNlQWxsKCItIiwgIiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoTGlzdHMubmV3QXJyYXlMaXN0KEZyZWVseUNoYXREZXRhaWxETy5GcmVlbHlDaGF0T3JkZXJTdGF0dXNFbnVtLumdouivleWumOWPlua2iCwKICAgICAgICAgICAgICAgIEZyZWVseUNoYXREZXRhaWxETy5GcmVlbHlDaGF0T3JkZXJTdGF0dXNFbnVtLuWtpueUn+mAgOWNlemdouivleWumOWQjOaEjywKICAgICAgICAgICAgICAgIEZyZWVseUNoYXREZXRhaWxETy5GcmVlbHlDaGF0T3JkZXJTdGF0dXNFbnVtLuW3suaLkue7nQogICAgICAgICkuY29udGFpbnMoZGV0YWlsU3RhdHVzKSkgewogICAgICAgICAgICBvcmRlckVudGl0eS5zZXRTZXJ2aWNlU3RhdHVzKE9yZGVyU2VydmljZVN0YXR1c0VudW0u5Y+W5raIKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChvcHRpb25hbFRtcE1pbmlhcHBMb2dpbkRPLmlzUHJlc2VudCgpKSB7Ci8vICAgICAgICAgICAgdXBkYXRlZE1pbmlhcHBMb2dpbkRPID0gb3B0aW9uYWxUbXBNaW5pYXBwTG9naW5ETy5nZXQoKTsKLy8gICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgdXBkYXRlZE1pbmlhcHBMb2dpbkRPID0gbmV3IFRtcE1pbmlhcHBMb2dpbkRPKCk7Ci8vICAgICAgICAgICAgdXBkYXRlZE1pbmlhcHBMb2dpbkRPLnNldE9wZW5JZChvcGVuSWQpOwovLyAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3614,28 +3683,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJSZXBvc2l0b3J5LnNhdmUob3JkZXJFbnRpdHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxUbXBNaW5pYXBwTG9naW5ETz4gb3B0aW9uYWxUbXBNaW5pYXBwTG9naW5ETyA9IHRtcE1pbmlhcHBMb2dpblJlcG8uZmluZEJ5T3BlbklkKG9wZW5JZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV0YWlsLnNldFN0YXR1cyhkZXRhaWxTdGF0dXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBUbXBNaW5pYXBwTG9naW5ETyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV0YWlsLnNldFN0YXR1cyhkZXRhaWxTdGF0dXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlZFRtcExvZ2luRE8uc2V0RXhwaXJlVGltZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQg6K6+572u6IGK6IGK5ZKM6K6i5Y2V5pyN5Yqh54q25oCBKEZyZWVseUNoYXREZXRhaWxETyBkZXRhaWwsIE9yZGVyRW50aXR5IG9yZGVyRW50aXR5LCBGcmVlbHlDaGF0RGV0YWlsRE8uRnJlZWx5Q2hhdE9yZGVyU3RhdHVzRW51bSBkZXRhaWxTdGF0dXMpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlZE1pbmlhcHBMb2dpbkRPLnNldEV4cGlyZVRpbWUoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgKyBlZmZlY3RUaW1lKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG1wTWluaWFwcExvZ2luUmVwby5zYXZlKG9wdGlvbmFsVG1wTWluaWFwcExvZ2luRE8uZ2V0KCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBJZ25vcmUK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGxvZwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtzcHJpbmcucHJvZmlsZXMuYWN0aXZlOidwcm9kJ30iKQogICAgU3RyaW5nIGFjdGl2ZVByb2ZpbGU7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

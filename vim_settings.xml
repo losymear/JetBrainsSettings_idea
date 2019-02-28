@@ -933,8 +933,8 @@
         <mark key="^" line="36" column="55" />
         <mark key="." line="36" column="55" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/freelychat/FreelyChatTopicController.java" timestamp="1551339528805">
-        <mark key="[" line="71" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/freelychat/FreelyChatTopicController.java" timestamp="1551341639847">
+        <mark key="[" line="71" column="77" />
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
         <mark key="^" line="68" column="45" />
@@ -2088,12 +2088,12 @@
         <mark key="^" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatTopicService.java" timestamp="1551340965505">
-        <mark key="'" line="85" column="26" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="116" column="3" />
-        <mark key="^" line="116" column="3" />
-        <mark key="." line="116" column="3" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatTopicService.java" timestamp="1551341812726">
+        <mark key="'" line="77" column="26" />
+        <mark key="[" line="118" column="7" />
+        <mark key="]" line="118" column="6" />
+        <mark key="^" line="118" column="6" />
+        <mark key="." line="118" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/user/InterviewerConfig.java" timestamp="1543893702906">
         <mark key="[" line="9" column="20" />
@@ -3906,10 +3906,10 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLnroDljoYiKQo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIFVzZXJSZXBvc2l0b3J5IHVzZXJSZXBvc2l0b3J5OwogICAgQEF1dG93aXJlZAogICAgSW50ZXJ2aWV3ZXJJbmZvUmVwb3NpdG9yeSBpbnRlcnZpZXdlckluZm9SZXBvc2l0b3J5OwogICAgQEF1dG93aXJlZAogICAgVXNlclNlY3JldFJlcG9zaXRvcnkgc2VjcmV0UmVwb3NpdG9yeTsK</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>secretRepository.findByUserId(interviewerId).orElseThrow(QmsRuntimeException::new);</text>
       </register>
       <register name="/" type="4">
         <text>181</text>
@@ -3918,7 +3918,7 @@
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLnroDljoYiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJlZWx5Q2hhdERldGFpbERUTy5zZXRSZXN1bWVOZWVkZWQoZGV0YWlsKTsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIFVzZXJSZXBvc2l0b3J5IHVzZXJSZXBvc2l0b3J5OwogICAgQEF1dG93aXJlZAogICAgSW50ZXJ2aWV3ZXJJbmZvUmVwb3NpdG9yeSBpbnRlcnZpZXdlckluZm9SZXBvc2l0b3J5OwogICAgQEF1dG93aXJlZAogICAgVXNlclNlY3JldFJlcG9zaXRvcnkgc2VjcmV0UmVwb3NpdG9yeTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3983,28 +3983,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEZyZWVseUNoYXRTdHVkZW50U2VydmljZSBmcmVlbHlDaGF0U3R1ZGVudFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICBVc2VyRW50aXR5IGludGVydmlld2VyID0gdXNlclJlcG9zaXRvcnkuZmluZEJ5SWQodXNlckFsbC5nZXRJZCgpKS5vckVsc2VUaHJvdyhRbXNSdW50aW1lRXhjZXB0aW9uOjpuZXcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJlZWx5Q2hhdERldGFpbERUTy5zZXRSZXN1bWVOZWVkZWQoZGV0YWlsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUW1zUnVudGltZUV4Y2VwdGlvbigi5pyq5a6e546wIik7Cg==</text>
+        <text encoding="base64">ICAgIEZyZWVseUNoYXRTdHVkZW50U2VydmljZSBmcmVlbHlDaGF0U3R1ZGVudFNlcnZpY2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEFwaVBhcmFtKCLor53popjnirbmgIEgMOWuoeaguOS4re+8jDHlrqHmoLjpgJrov4fvvIwy5a6h5qC46KKr5ouS57ud77yMM+S4i+aetjsg5LiN5Lyg6buY6K6k5Li6WzAsMSwyLDNdIikgQFJlcXVlc3RQYXJhbSgic3RhdHVzIikgTGlzdDxJbnRlZ2VyPiBzdGF0dXNlcwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOkB3eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUW1zUnVudGltZUV4Y2VwdGlvbigi5pyq5a6e546wIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEFwaVBhcmFtKCLor53popjnirbmgIEgMOWuoeaguOS4re+8jDHlrqHmoLjpgJrov4fvvIwy5a6h5qC46KKr5ouS57ud77yMM+S4i+aetjsg5LiN5Lyg6buY6K6k5Li6WzAsMSwyLDNdIikgQFJlcXVlc3RQYXJhbSgic3RhdHVzIikgTGlzdDxJbnRlZ2VyPiBzdGF0dXNlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

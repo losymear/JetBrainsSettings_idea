@@ -816,6 +816,9 @@
         <mark key="." line="0" column="74" />
         <mark key="^" line="0" column="74" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/interviewer/alipay/ZhimaService.java" timestamp="1551358433873">
+        <mark key="[" line="58" column="42" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/dto/view/BasicInterviewInterviewerAppraise.java" timestamp="1542801441877">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="81" />
@@ -897,11 +900,11 @@
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/interviewer/InterviewerController.java" timestamp="1550667161108">
-        <mark key="[" line="63" column="36" />
-        <mark key="]" line="63" column="35" />
-        <mark key="." line="63" column="35" />
-        <mark key="^" line="63" column="35" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/interviewer/InterviewerController.java" timestamp="1551358229579">
+        <mark key="[" line="98" column="37" />
+        <mark key="]" line="98" column="37" />
+        <mark key="." line="98" column="37" />
+        <mark key="^" line="98" column="37" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Controller/AppointmentController.java" timestamp="1543078983974">
         <mark key="[" line="40" column="0" />
@@ -939,11 +942,11 @@
         <mark key="^" line="36" column="55" />
         <mark key="." line="36" column="55" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/freelychat/FreelyChatTopicController.java" timestamp="1551353454579">
-        <mark key="[" line="66" column="125" />
-        <mark key="]" line="70" column="50" />
-        <mark key="." line="70" column="50" />
-        <mark key="^" line="70" column="50" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/freelychat/FreelyChatTopicController.java" timestamp="1551358035514">
+        <mark key="[" line="29" column="7" />
+        <mark key="]" line="30" column="15" />
+        <mark key="." line="30" column="15" />
+        <mark key="^" line="30" column="15" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/UserSecretRepository.java" timestamp="1551087451221">
         <mark key="[" line="41" column="64" />
@@ -2098,8 +2101,8 @@
         <mark key="^" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatTopicService.java" timestamp="1551356634071">
-        <mark key="'" line="78" column="26" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatTopicService.java" timestamp="1551358024688">
+        <mark key="'" line="89" column="32" />
         <mark key="[" line="141" column="40" />
         <mark key="]" line="141" column="48" />
         <mark key="." line="141" column="48" />
@@ -3092,12 +3095,12 @@
         <mark key="^" line="52" column="19" />
         <mark key="." line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interview/InterviewerInfoEntity.java" timestamp="1550747963509">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interview/InterviewerInfoEntity.java" timestamp="1551358473338">
         <mark key="'" line="21" column="40" />
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="181" column="28" />
-        <mark key="^" line="54" column="32" />
-        <mark key="." line="54" column="32" />
+        <mark key="[" line="60" column="18" />
+        <mark key="]" line="60" column="17" />
+        <mark key="^" line="60" column="17" />
+        <mark key="." line="60" column="17" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/deployed/create_v1.1_dzh_wy.sql" timestamp="1550921536442">
         <mark key="[" line="331" column="0" />
@@ -3796,7 +3799,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/FreelyChatDetailDO.java" />
       <jump line="140" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/daemon/FreelyChatOnlinetestDaemon.java" />
       <jump line="8" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/retrofit/MiniAppApi.java" />
       <jump line="22" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/retrofit/MiniAppApi.java" />
@@ -3896,6 +3898,7 @@
       <jump line="23" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/dto/FreelyChatSkuEditDTO.java" />
       <jump line="6" column="17" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/dto/FreelyChatSkuEditDTO.java" />
       <jump line="52" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/dto/FreelyChatSkuEditDTO.java" />
+      <jump line="89" column="32" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatTopicService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

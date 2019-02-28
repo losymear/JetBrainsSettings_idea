@@ -177,11 +177,11 @@
         <mark key="." line="223" column="53" />
         <mark key="^" line="223" column="53" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/freelychat/FreelyChatTopicController.java" timestamp="1551271949518">
-        <mark key="[" line="69" column="25" />
-        <mark key="]" line="69" column="48" />
-        <mark key="^" line="69" column="48" />
-        <mark key="." line="69" column="48" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/freelychat/FreelyChatTopicController.java" timestamp="1551275709496">
+        <mark key="[" line="58" column="72" />
+        <mark key="]" line="58" column="74" />
+        <mark key="^" line="58" column="74" />
+        <mark key="." line="58" column="74" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatStudentService.java" timestamp="1551269136427">
         <mark key="'" line="112" column="67" />
@@ -369,9 +369,9 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatManager.java" timestamp="1551182012684">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatManager.java" timestamp="1551275571073">
         <mark key="'" line="69" column="160" />
-        <mark key="[" line="77" column="11" />
+        <mark key="[" line="15" column="34" />
         <mark key="]" line="64" column="0" />
         <mark key="^" line="64" column="0" />
         <mark key="." line="64" column="0" />
@@ -407,11 +407,11 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-dyplsapi/1.1.2/aliyun-java-sdk-dyplsapi-1.1.2-sources.jar!/com/aliyuncs/dyplsapi/model/v20170525/BindAxbResponse.java" timestamp="1551163134618" />
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatTopicService.java" timestamp="1551274679579">
-        <mark key="[" line="44" column="77" />
-        <mark key="]" line="44" column="16" />
-        <mark key="^" line="44" column="16" />
-        <mark key="." line="44" column="16" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatTopicService.java" timestamp="1551275719495">
+        <mark key="[" line="42" column="51" />
+        <mark key="]" line="43" column="15" />
+        <mark key="." line="43" column="15" />
+        <mark key="^" line="43" column="15" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/error/QmsRuntimeException.java" timestamp="1551244278076">
         <mark key="[" line="27" column="0" />
@@ -840,8 +840,8 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>skuFromDb.getInterviewerId()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQEN1cnJlbnRVc2VyIFVzZXJBbGwgaW50ZXJ2aWV3ZXIK</text>
       </register>
       <register name="-" type="4">
         <text>skuFromDb.getInterviewerId()</text>
@@ -850,10 +850,10 @@
         <text>181</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3QuYWRkKEZyZWVseUNoYXRPcmRlclN0YXR1c0VudW0udmFsdWVzKClbc3RhdHVzXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEN1cnJlbnRVc2VyIFVzZXJBbGwgaW50ZXJ2aWV3ZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBzZWUgdGhpcyNwcmljZUZvckludGVydmlld2VyIOmdouivleWumOaUtuWFpeS7t+agvAo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUW1zUnVudGltZUV4Y2VwdGlvbigi5pyq5a6e546wIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -918,28 +918,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBzZWUgdGhpcyNyYW5raW5nIOW5s+Wdh+W+l+WIhgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOkB3eQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBzZWUgdGhpcyN0aW1lcyDorqLljZXlrozmiJDmrKHmlbAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOkB3eQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBzZWUgdGhpcyNzdGF0dXMgc2t155qE54q25oCB77yM5a6h5qC45Lit77yM5a6h5qC45aSx6LSl562JCg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUW1zUnVudGltZUV4Y2VwdGlvbigi5pyq5a6e546wIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2t1VG9TYXZlLnNldFN0YXR1cyjlrqHmoLjkuK0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRnJlZWx5Q2hhdE1hbmFnZXLkuLrku4DkuYjlj6/og73nm7TmjqUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBza3VUb1NhdmUuc2V0SW50ZXJ2aWV3ZXJJZChpbnRlcnZpZXdlcklkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzpAbml1cyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2t1VG9TYXZlLnNldElkKHBheWxvYWQuZ2V0U2t1SWQoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS56aGlyaS5xdW1pYW5zaGkuZG9tYWluLm9yZGVyc3lzdGVtLkZyZWVseUNoYXRTa3VETzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNrdVRvU2F2ZS5zZXRJZChwYXlsb2FkLmdldFNrdUlkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAg5a6h5qC45LitCg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

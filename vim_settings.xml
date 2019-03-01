@@ -422,9 +422,9 @@
         <mark key="^" line="29" column="69" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatInterviewerService.java" timestamp="1551344494010">
-        <mark key="[" line="147" column="65" />
-        <mark key="]" line="147" column="82" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatInterviewerService.java" timestamp="1551421225169">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="75" />
         <mark key="." line="147" column="82" />
         <mark key="^" line="147" column="82" />
       </file>
@@ -2104,12 +2104,12 @@
         <mark key="^" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatTopicService.java" timestamp="1551409943261">
-        <mark key="'" line="90" column="32" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
-        <mark key="^" line="155" column="46" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatTopicService.java" timestamp="1551422184048">
+        <mark key="'" line="94" column="32" />
+        <mark key="[" line="114" column="7" />
+        <mark key="]" line="114" column="6" />
+        <mark key="." line="114" column="6" />
+        <mark key="^" line="114" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/user/InterviewerConfig.java" timestamp="1543893702906">
         <mark key="[" line="9" column="20" />
@@ -2322,6 +2322,12 @@
         <mark key="]" line="113" column="0" />
         <mark key="^" line="101" column="15" />
         <mark key="." line="113" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/ordersystem/FreelyChatSkuRepo.java" timestamp="1551421306472">
+        <mark key="[" line="24" column="53" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/retrofit/YunxinApi.java" timestamp="1544550317950">
         <mark key="[" line="12" column="31" />
@@ -3030,12 +3036,12 @@
         <mark key="^" line="30" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/FreelyChatSkuDO.java" timestamp="1551420220922">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/FreelyChatSkuDO.java" timestamp="1551421110435">
         <mark key="'" line="105" column="17" />
         <mark key="[" line="152" column="6" />
-        <mark key="]" line="152" column="0" />
-        <mark key="^" line="152" column="0" />
-        <mark key="." line="152" column="0" />
+        <mark key="]" line="143" column="78" />
+        <mark key="^" line="143" column="78" />
+        <mark key="." line="143" column="78" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/dto/MiniappUserRoles.java" timestamp="1551235356006">
         <mark key="[" line="14" column="3" />
@@ -3928,19 +3934,19 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgYGFuc3dlcl9yZWNvcmRgIEFERCBDT05TVFJBSU5UIGB1bmlxdWVJZF91bmlxdWVgIFVOSVFVRSAoYHVuaXF1ZUlkYCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEZyZWVseUNoYXRTa3VETz4gTGlzdEZvclBhc3NlZCA9IExpc3RzLm5ld0FycmF5TGlzdCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>denyReason</text>
+        <text encoding="base64">c2t1RE9TLnN0cmVhbSgpLmZpbHRlcihza3UgLT4gc2t1LmdldFN0YXR1cygpID09IOWuoeaguOmAmui/hykuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTs=</text>
       </register>
       <register name="/" type="4">
-        <text>181</text>
+        <text encoding="base64">XDxza3VET1NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgYGFuc3dlcl9yZWNvcmRgIEFERCBDT05TVFJBSU5UIGB1bmlxdWVJZF91bmlxdWVgIFVOSVFVRSAoYHVuaXF1ZUlkYCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEZyZWVseUNoYXRTa3VETz4gTGlzdEZvclBhc3NlZCA9IExpc3RzLm5ld0FycmF5TGlzdCgpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">c2t1RE9TID0gTGlzdHMubmV3QXJyYXlMaXN0KHNrdVJlcG8uZmluZEFsbChwcmVkaWNhdGUpKTsKCiAgICAgICAgTGlzdDxGcmVlbHlDaGF0U2t1RE8+IExpc3RGb3JQYXNzZWQgPSA=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4005,45 +4011,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZWRpdG9ySW50cm9QaG90bzsK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXNFbnVtcy5zb3J0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUUZyZWVseUNoYXRTa3VETyBxRnJlZWx5Q2hhdFNrdURPID0gUUZyZWVseUNoYXRTa3VETy5mcmVlbHlDaGF0U2t1RE87Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQm9vbGVhbkV4cHJlc3Npb24gcHJlZGljYXRlID0gRXhwcmVzc2lvbnMuYXNCb29sZWFuKHRydWUpLmlzVHJ1ZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOkB3eSBuaWNrbmFtZeS4uuepuuaXtu+8jOmcgOimgeiuvue9rgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZGljYXRlLmFuZChwcmVkaWNhdGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQm9vbGVhbkV4cHJlc3Npb24gcHJlZGljYXRlID0gRXhwcmVzc2lvbnMuYXNCb29sZWFuKHRydWUpLmlzVHJ1ZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gVE9ETzpAd3kg6K6k6K+B5o6l5Y+j77yM5a2X5q615L+u5pS577yMIOa3u+WKoHJlYWxUaXRsZQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGludGVydmlld2VyU2VydmljZS51cGRhdGVJbnRlcnZpZXdlclZlcmlmaWNhdGlvbih1c2VyQWxsLmdldEludGVydmlld2VySW5mbygpLCB2ZXJpZnlJbWFnZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZWRpdG9ySW50cm9QaG90bzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUW1zUnVudGltZUV4Y2VwdGlvbigiVE9ETyIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>
       </register>
     </registers>
     <search>
-      <last-search>181</last-search>
+      <last-search encoding="base64">XDxza3VET1NcPg==</last-search>
       <last-offset />
-      <last-pattern>181</last-pattern>
+      <last-pattern encoding="base64">XDxza3VET1NcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>用户</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>-</entry>
         <entry>authorize</entry>
         <entry>Double</entry>
         <entry>InterviewerId</entry>
@@ -4063,6 +4068,7 @@
         <entry>UserAll</entry>
         <entry encoding="base64">XDxMaXN0XD4=</entry>
         <entry>181</entry>
+        <entry encoding="base64">XDxza3VET1NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>next</entry>

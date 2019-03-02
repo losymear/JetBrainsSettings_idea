@@ -1364,11 +1364,11 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/specialtopic/SpecialTopicAdminController.java" timestamp="1551445704865">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/specialtopic/SpecialTopicAdminController.java" timestamp="1551508212617">
         <mark key="'" line="21" column="15" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="14" />
-        <mark key="." line="66" column="0" />
+        <mark key="[" line="68" column="18" />
+        <mark key="]" line="68" column="18" />
+        <mark key="." line="68" column="18" />
         <mark key="^" line="56" column="13" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/InterviewRepo.java" timestamp="1550224246673">
@@ -1587,6 +1587,12 @@
         <mark key="]" line="7" column="95" />
         <mark key="." line="7" column="95" />
         <mark key="^" line="7" column="95" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/configuration/security/AuthenticationTokenFilter.java" timestamp="1551508114737">
+        <mark key="[" line="128" column="27" />
+        <mark key="]" line="128" column="41" />
+        <mark key="^" line="128" column="41" />
+        <mark key="." line="128" column="41" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/resources/static-src/challenge/index.html" timestamp="1547608514821">
         <mark key="[" line="14" column="17" />
@@ -4019,11 +4025,11 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>create</text>
       </register>
       <register name="-" type="4">
-        <text>Long.valueOf(specialTopicRepo.count()).intValue() + 1;</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxza3VET1NcPg==</text>

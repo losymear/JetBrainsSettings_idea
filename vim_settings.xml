@@ -349,11 +349,11 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/WechatPayService.java" timestamp="1551713265379">
-        <mark key="[" line="158" column="35" />
-        <mark key="]" line="158" column="34" />
-        <mark key="^" line="158" column="34" />
-        <mark key="." line="158" column="34" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/WechatPayService.java" timestamp="1551715166645">
+        <mark key="[" line="88" column="43" />
+        <mark key="]" line="240" column="14" />
+        <mark key="^" line="240" column="14" />
+        <mark key="." line="240" column="14" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/interview/InterviewerInfoRepository.java" timestamp="1551343941015">
         <mark key="[" line="70" column="44" />
@@ -3432,11 +3432,11 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/pay/PayController.java" timestamp="1551712590439">
-        <mark key="[" line="150" column="47" />
-        <mark key="]" line="101" column="137" />
-        <mark key="." line="101" column="137" />
-        <mark key="^" line="101" column="137" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/pay/PayController.java" timestamp="1551715132328">
+        <mark key="[" line="132" column="5" />
+        <mark key="]" line="132" column="4" />
+        <mark key="." line="132" column="4" />
+        <mark key="^" line="132" column="4" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/test/java/com/zhiri/qumianshi/IntegrationTest.java" timestamp="1543460228560">
         <mark key="[" line="22" column="0" />
@@ -3883,6 +3883,12 @@
         <mark key="." line="35" column="10" />
         <mark key="^" line="35" column="10" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/dto/wechat/AppUnifiedOrderResponse.java" timestamp="1551714682638">
+        <mark key="[" line="12" column="51" />
+        <mark key="]" line="12" column="50" />
+        <mark key="^" line="12" column="50" />
+        <mark key="." line="12" column="50" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/SystemController.java" timestamp="1543649328488">
         <mark key="[" line="34" column="4" />
         <mark key="]" line="34" column="3" />
@@ -4141,7 +4147,7 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzaWdu5rWL6K+VKCkgewogICAgICAgIFVuaWZpZWRPcmRlclJlcXVlc3QgcGF5UmVxdWVzdCA9IG5ldyBVbmlmaWVkT3JkZXJSZXF1ZXN0KCk7CiAgICAgICAgCgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2VjaGF0UmVzcCA9IHdlY2hhdE1pbmlhcHBQYXlDbGllbnQudW5pZmllZE9yZGVyKHBheVJlcXVlc3QpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>wx4ec40108dcecdac5</text>
@@ -4153,7 +4159,7 @@
         <text encoding="base64">ICAgICAgICBVbmlmaWVkT3JkZXJSZXF1ZXN0IHBheVJlcXVlc3QgPSBuZXcgVW5pZmllZE9yZGVyUmVxdWVzdCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzaWdu5rWL6K+VKCkgewogICAgICAgIFVuaWZpZWRPcmRlclJlcXVlc3QgcGF5UmVxdWVzdCA9IG5ldyBVbmlmaWVkT3JkZXJSZXF1ZXN0KCk7CiAgICAgICAgCgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2VjaGF0UmVzcCA9IHdlY2hhdE1pbmlhcHBQYXlDbGllbnQudW5pZmllZE9yZGVyKHBheVJlcXVlc3QpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4218,28 +4224,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZXJyb3IoIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2VjaGF0UmVzcCA9IHdlY2hhdFBheUNsaWVudC51bmlmaWVkT3JkZXIocGF5UmVxdWVzdCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlSZXF1ZXN0LnMK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbFJlc3Auc2V0UGFydG5lcmlkKHdlY2hhdFJlc3AuZ2V0TWNoX2lkKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlSZXF1ZXN0LnNldAo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzaWdu5rWL6K+VKCkgewogICAgICAgIFVuaWZpZWRPcmRlclJlcXVlc3QgcGF5UmVxdWVzdCA9IG5ldyBVbmlmaWVkT3JkZXJSZXF1ZXN0KCk7CiAgICAgICAgCgogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlSZXF1ZXN0Lgo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZXJyb3IoIiIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlSZXF1ZXN0LnNldGRkCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXlSZXF1ZXN0LnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlSZXF1ZXN0LnNldE9wZW5pZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXlSZXF1ZXN0LnNldAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlSZXF1ZXN0LnNldAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXlSZXF1ZXN0Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlSZXF1ZXN0LnNldAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXlSZXF1ZXN0LnNldGRkCg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

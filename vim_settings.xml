@@ -441,12 +441,12 @@
         <mark key="." line="106" column="13" />
         <mark key="^" line="106" column="13" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatAdminService.java" timestamp="1551865209426">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatAdminService.java" timestamp="1551866037576">
         <mark key="'" line="62" column="49" />
-        <mark key="[" line="142" column="42" />
-        <mark key="]" line="143" column="7" />
-        <mark key="." line="143" column="7" />
-        <mark key="^" line="143" column="7" />
+        <mark key="[" line="147" column="42" />
+        <mark key="]" line="148" column="45" />
+        <mark key="." line="148" column="45" />
+        <mark key="^" line="148" column="45" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/retrofit/MiniAppApiConfig.java" timestamp="1550927841859">
         <mark key="[" line="15" column="0" />
@@ -1591,11 +1591,11 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/dto/FreelyChatSkuEditDTO.java" timestamp="1551864949311">
-        <mark key="[" line="48" column="26" />
-        <mark key="]" line="48" column="27" />
-        <mark key="." line="48" column="27" />
-        <mark key="^" line="48" column="34" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/dto/FreelyChatSkuEditDTO.java" timestamp="1551866386289">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="13" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="65" column="12" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_v8.2.wy.sql" timestamp="1551272056373">
         <mark key="'" line="8" column="0" />
@@ -3515,11 +3515,11 @@
         <mark key="^" line="113" column="21" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/freelychat/FreelyChatAdminController.java" timestamp="1551865310668">
-        <mark key="[" line="71" column="6" />
-        <mark key="]" line="78" column="23" />
-        <mark key="." line="78" column="23" />
-        <mark key="^" line="78" column="23" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/freelychat/FreelyChatAdminController.java" timestamp="1551866222051">
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="79" column="23" />
+        <mark key="." line="79" column="23" />
+        <mark key="^" line="79" column="23" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/JacksonXmlConverterFactory.java" timestamp="1544301206547">
         <mark key="[" line="30" column="78" />
@@ -4203,8 +4203,8 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>handle</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBOb3RFbXB0eQo=</text>
       </register>
       <register name="-" type="4">
         <text>handle</text>
@@ -4213,7 +4213,7 @@
         <text>return</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2t1R2VuZXJlYXRlZC5zZXRPcmRlcklkKG9yZGVySWQpOwo=</text>
+        <text encoding="base64">ICAgIEBOb3RFbXB0eQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBGcmVlbHlDaGF0U2t1RE8gc2t1ID0gZnJlZWx5Q2hhdFRvcGljU2VydmljZS5tb2RpZmVkT3JVcGRhdGVkU2t1VG9TYXZlKCk7Cg==</text>

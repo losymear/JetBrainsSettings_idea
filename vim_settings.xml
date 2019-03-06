@@ -238,6 +238,9 @@
         <mark key="." line="94" column="18" />
         <mark key="^" line="94" column="18" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/security/PrivilegedAction.java" timestamp="1551840423418">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/umentpush/ios/IOSBroadcast.java" timestamp="1545397455520">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="17" column="0" />
@@ -327,14 +330,6 @@
         <mark key="]" line="44" column="55" />
         <mark key="^" line="44" column="55" />
         <mark key="." line="44" column="55" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java" timestamp="1551784572214">
-        <mark key="q" line="117" column="20" />
-        <mark key="c" line="107" column="21" />
-        <mark key="'" line="0" column="0" />
-        <mark key="j" line="363" column="25" />
-        <mark key="m" line="353" column="15" />
-        <mark key="n" line="148" column="44" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/user/StudentWechatConfig.java" timestamp="1543894541051">
         <mark key="[" line="8" column="25" />
@@ -2248,11 +2243,11 @@
         <mark key="^" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/UserService.java" timestamp="1551790121624">
-        <mark key="[" line="301" column="18" />
-        <mark key="]" line="309" column="37" />
-        <mark key="^" line="309" column="37" />
-        <mark key="." line="309" column="37" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/UserService.java" timestamp="1551840273918">
+        <mark key="[" line="311" column="30" />
+        <mark key="]" line="305" column="164" />
+        <mark key="^" line="305" column="164" />
+        <mark key="." line="305" column="164" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatTopicService.java" timestamp="1551443310796">
         <mark key="'" line="221" column="0" />
@@ -3346,9 +3341,9 @@
         <mark key="^" line="52" column="19" />
         <mark key="." line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interview/InterviewerInfoEntity.java" timestamp="1551789481722">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interview/InterviewerInfoEntity.java" timestamp="1551839934557">
         <mark key="'" line="161" column="4" />
-        <mark key="[" line="62" column="13" />
+        <mark key="[" line="62" column="20" />
         <mark key="]" line="246" column="67" />
         <mark key="." line="246" column="67" />
         <mark key="^" line="246" column="67" />
@@ -4106,8 +4101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="490" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatStudentService.java" />
-      <jump line="53" column="28" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatTopicService.java" />
       <jump line="119" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatTopicService.java" />
       <jump line="81" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatTopicService.java" />
       <jump line="27" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatManager.java" />
@@ -4206,16 +4199,18 @@
       <jump line="176" column="56" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/SimulateJobAdminController.java" />
       <jump line="19" column="37" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/InterviewerAdminController.java" />
       <jump line="42" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/interviewer/InterviewerAdminService.java" />
+      <jump line="28" column="2" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/security/PrivilegedAction.java" />
+      <jump line="1" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/security/PrivilegedAction.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>interviewerAdminService.getInterviewerInfo(phone)</text>
+        <text>QmsRuntimeException::new</text>
       </register>
       <register name="-" type="4">
-        <text>interviewerAdminService.getInterviewerInfo(phone)</text>
+        <text>QmsRuntimeException::new</text>
       </register>
       <register name="/" type="4">
         <text>return</text>

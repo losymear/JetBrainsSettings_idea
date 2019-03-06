@@ -999,8 +999,8 @@
         <mark key="." line="38" column="53" />
         <mark key="^" line="38" column="53" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java" timestamp="1551788887456">
-        <mark key="'" line="732" column="8" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java" timestamp="1551841179273">
+        <mark key="'" line="299" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAccountBindService.java" timestamp="1544581066394">
         <mark key="[" line="17" column="40" />
@@ -2261,6 +2261,9 @@
         <mark key="]" line="9" column="42" />
         <mark key="^" line="21" column="44" />
         <mark key="." line="21" column="44" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1551841189599">
+        <mark key="'" line="1189" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/freelychat/dto/ChatRequestDTO.java" timestamp="1550646165265">
         <mark key="[" line="14" column="0" />
@@ -4101,8 +4104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatTopicService.java" />
-      <jump line="81" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatTopicService.java" />
       <jump line="27" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatManager.java" />
       <jump line="53" column="41" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatManager.java" />
       <jump line="23" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/dto/FreelyChatSkuEditDTO.java" />
@@ -4201,6 +4202,8 @@
       <jump line="42" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/interviewer/InterviewerAdminService.java" />
       <jump line="28" column="2" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/security/PrivilegedAction.java" />
       <jump line="1" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/security/PrivilegedAction.java" />
+      <jump line="299" column="21" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java" />
+      <jump line="1189" column="21" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

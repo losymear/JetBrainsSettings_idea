@@ -1134,6 +1134,12 @@
         <mark key="^" line="15" column="50" />
         <mark key="." line="15" column="50" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatStudentService.java" timestamp="1551959407669">
+        <mark key="[" line="346" column="9" />
+        <mark key="]" line="346" column="8" />
+        <mark key="^" line="346" column="8" />
+        <mark key="." line="346" column="8" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/watch/ShortVideoService.java" timestamp="1544869540913">
         <mark key="[" line="181" column="76" />
         <mark key="]" line="181" column="72" />
@@ -1606,11 +1612,11 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/dto/FreelyChatSkuEditDTO.java" timestamp="1551866386289">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="13" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="65" column="12" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/dto/FreelyChatSkuEditDTO.java" timestamp="1551958409004">
+        <mark key="[" line="64" column="25" />
+        <mark key="]" line="62" column="21" />
+        <mark key="." line="62" column="21" />
+        <mark key="^" line="62" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_v8.2.wy.sql" timestamp="1551272056373">
         <mark key="'" line="8" column="0" />
@@ -2279,12 +2285,12 @@
         <mark key="^" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatTopicService.java" timestamp="1551958179324">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatTopicService.java" timestamp="1551958402692">
         <mark key="'" line="245" column="72" />
         <mark key="[" line="245" column="18" />
-        <mark key="]" line="245" column="17" />
-        <mark key="." line="245" column="17" />
-        <mark key="^" line="245" column="17" />
+        <mark key="]" line="38" column="13" />
+        <mark key="." line="38" column="13" />
+        <mark key="^" line="38" column="13" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/user/InterviewerConfig.java" timestamp="1543893702906">
         <mark key="[" line="9" column="20" />
@@ -4312,10 +4318,10 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>price.multiply(valueOf(0.8)).setScale(2, RoundingMode.HALF_UP);</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>price.multiply(valueOf(0.8)).setScale(2, RoundingMode.HALF_UP);</text>
       </register>
       <register name="/" type="4">
         <text>return</text>

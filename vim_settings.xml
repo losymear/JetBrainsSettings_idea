@@ -18,6 +18,11 @@
         <mark key="." line="53" column="77" />
         <mark key="^" line="53" column="77" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Thread.java" timestamp="1551977079755">
+        <mark key="q" line="1770" column="31" />
+        <mark key="e" line="281" column="30" />
+        <mark key="'" line="1240" column="35" />
+      </file>
       <file name="/a.dummy" timestamp="1551955914114">
         <mark key="[" line="0" column="0" />
       </file>
@@ -4203,7 +4208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/interviewer/InterviewerService.java" />
       <jump line="6" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/interviewer/InterviewerService.java" />
       <jump line="49" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interview/InterviewerInfoEntity.java" />
       <jump line="244" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interview/InterviewerInfoEntity.java" />
@@ -4303,6 +4307,7 @@
       <jump line="12" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/resources/log4j2.yaml" />
       <jump line="37" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/elasticjob/ElasticJobListener.java" />
       <jump line="22" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/elasticjob/ElasticJobListener.java" />
+      <jump line="1240" column="35" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Thread.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

@@ -232,7 +232,9 @@
         <mark key="^" line="14" column="6" />
         <mark key="." line="14" column="6" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class" timestamp="1551779733904" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class" timestamp="1552026399504">
+        <mark key="'" line="357" column="21" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/interviewer/InterviewerAppService.java" timestamp="1551346232597">
         <mark key="'" line="76" column="16" />
         <mark key="[" line="98" column="0" />
@@ -767,7 +769,7 @@
         <mark key="." line="67" column="124" />
         <mark key="^" line="67" column="124" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/sms/YunpianSmsService.java" timestamp="1551845353728">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/sms/YunpianSmsService.java" timestamp="1552026186129">
         <mark key="[" line="209" column="1" />
         <mark key="]" line="209" column="0" />
         <mark key="^" line="209" column="0" />
@@ -1012,7 +1014,7 @@
         <mark key="." line="38" column="53" />
         <mark key="^" line="38" column="53" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java" timestamp="1551879330795">
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java" timestamp="1552026869951">
         <mark key="'" line="299" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAccountBindService.java" timestamp="1544581066394">
@@ -1697,8 +1699,8 @@
         <mark key="^" line="121" column="30" />
         <mark key="." line="121" column="30" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/SecurityManager.java" timestamp="1552016015495">
-        <mark key="'" line="670" column="16" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/SecurityManager.java" timestamp="1552026287273">
+        <mark key="'" line="1774" column="23" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/qumianshi_v2.5_wy.sql" timestamp="1545113070872">
         <mark key="[" line="3" column="0" />
@@ -2712,6 +2714,7 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="15" column="2" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/security/PrivilegedExceptionAction.java" timestamp="1552026049578" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAppService.java" timestamp="1551266181755">
         <mark key="'" line="232" column="76" />
         <mark key="[" line="119" column="0" />
@@ -2990,6 +2993,12 @@
         <mark key="]" line="191" column="20" />
         <mark key="^" line="191" column="20" />
         <mark key="." line="191" column="20" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/concurrency/main/java/com/losymear/concurrency/ThreadExample.java" timestamp="1552025715639">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="29" />
+        <mark key="^" line="4" column="29" />
+        <mark key="." line="4" column="29" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Configuration/security/MyAccessDecisionVoter.java" timestamp="1542438213686">
         <mark key="[" line="47" column="49" />
@@ -3307,6 +3316,7 @@
         <mark key="^" line="14" column="49" />
         <mark key="." line="14" column="54" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java" timestamp="1552026406858" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/statusenum/OrderServiceStatusEnum.java" timestamp="1550736451842">
         <mark key="[" line="26" column="55" />
         <mark key="]" line="26" column="14" />
@@ -4157,8 +4167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/qiniu/QiniuManager.java" />
-      <jump line="10" column="15" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/specialtopic/SpecialTopicAdminController.java" />
       <jump line="5" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/adminconfigurable/SpecialTopicDO.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/adminconfigurable/SpecialTopicDO.java" />
       <jump line="45" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/adminconfigurable/SpecialTopicDO.java" />
@@ -4257,6 +4265,8 @@
       <jump line="1049" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ThreadGroup.java" />
       <jump line="64" column="34" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/System.java" />
       <jump line="1167" column="33" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Properties.java" />
+      <jump line="1774" column="23" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/SecurityManager.java" />
+      <jump line="357" column="21" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class" />
     </jumps>
     <registers>
       <register name="a" type="4">

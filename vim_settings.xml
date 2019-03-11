@@ -345,6 +345,9 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="3" column="32" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinTask.java" timestamp="1552241727370">
+        <mark key="'" line="10" column="1" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/docs/Issue&amp;fix.md" timestamp="1544379876968">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="141" />
@@ -525,6 +528,9 @@
         <mark key="]" line="12" column="15" />
         <mark key="." line="12" column="15" />
         <mark key="^" line="12" column="15" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/security/AccessController.java" timestamp="1552023895633">
+        <mark key="'" line="847" column="23" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/UserSecretRepository.java" timestamp="1551087451221">
         <mark key="[" line="41" column="64" />
@@ -734,8 +740,8 @@
         <mark key="^" line="38" column="18" />
         <mark key="." line="38" column="18" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinPool.java" timestamp="1551843944265">
-        <mark key="'" line="2853" column="32" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinPool.java" timestamp="1552241349758">
+        <mark key="'" line="3476" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java" timestamp="1551878605253" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/configuration/security/WebSecurityConfig.java" timestamp="1546940275108">
@@ -966,6 +972,9 @@
         <mark key="]" line="14" column="89" />
         <mark key="^" line="14" column="89" />
         <mark key="." line="14" column="89" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/System.java" timestamp="1552025298956">
+        <mark key="'" line="64" column="34" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/UserChallengeLevelDO.java" timestamp="1548145314465">
         <mark key="[" line="78" column="62" />
@@ -4097,10 +4106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="56" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/pay/PayController.java" />
-      <jump line="117" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/pay/RefundService.java" />
-      <jump line="148" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/pay/RefundService.java" />
-      <jump line="127" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/pay/WechatMiniappPayService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/StudentAppController.java" />
       <jump line="114" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/StudentAppController.java" />
       <jump line="54" column="38" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/StudentAppController.java" />
@@ -4197,6 +4202,10 @@
       <jump line="102" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/view/BasicInterviewerInfo.java" />
       <jump line="128" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interview/InterviewerInfoEntity.java" />
       <jump line="155" column="9" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java" />
+      <jump line="330" column="31" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="0" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="3476" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinPool.java" />
+      <jump line="10" column="1" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinTask.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

@@ -1120,12 +1120,12 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/src/main/java/com/zhiri/qumianshi/elasticdaemon/job/SkuAutoDenyJob.java" timestamp="1552397245163">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/src/main/java/com/zhiri/qumianshi/elasticdaemon/job/SkuAutoDenyJob.java" timestamp="1552401021163">
         <mark key="'" line="42" column="0" />
-        <mark key="[" line="37" column="33" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/adminconfig/dto/res/BasicInterviewerAdminDTO.java" timestamp="1551789533216">
         <mark key="[" line="37" column="9" />
@@ -2608,12 +2608,12 @@
         <mark key="." line="19" column="44" />
         <mark key="^" line="19" column="44" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/src/main/java/com/zhiri/qumianshi/elasticdaemon/service/ElasticJobService.java" timestamp="1552397278960">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/src/main/java/com/zhiri/qumianshi/elasticdaemon/service/ElasticJobService.java" timestamp="1552401005007">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="24" column="19" />
-        <mark key="]" line="24" column="18" />
-        <mark key="^" line="24" column="18" />
-        <mark key="." line="24" column="18" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="29" column="4" />
+        <mark key="^" line="29" column="4" />
+        <mark key="." line="29" column="4" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/CouponEntity.java" timestamp="1544296146470">
         <mark key="[" line="20" column="0" />
@@ -3673,11 +3673,11 @@
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/src/main/java/com/zhiri/qumianshi/ElasticDaemonApplication.java" timestamp="1552399200596">
-        <mark key="[" line="43" column="30" />
-        <mark key="]" line="19" column="14" />
-        <mark key="^" line="19" column="14" />
-        <mark key="." line="19" column="14" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/src/main/java/com/zhiri/qumianshi/ElasticDaemonApplication.java" timestamp="1552400911317">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="12" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="3" column="12" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/pay/campaign/WechatPayManager.java" timestamp="1551758715475">
         <mark key="[" line="52" column="9" />
@@ -3709,12 +3709,12 @@
         <mark key="^" line="0" column="83" />
         <mark key="." line="0" column="83" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/src/main/java/com/zhiri/qumianshi/elasticdaemon/service/ElasticJobHandler.java" timestamp="1552396932247">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/src/main/java/com/zhiri/qumianshi/elasticdaemon/service/ElasticJobHandler.java" timestamp="1552400589885">
         <mark key="'" line="72" column="0" />
-        <mark key="[" line="40" column="21" />
-        <mark key="]" line="11" column="59" />
-        <mark key="^" line="11" column="59" />
-        <mark key="." line="11" column="59" />
+        <mark key="[" line="70" column="1" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/docker-compose.yml" timestamp="1551943982581">
         <mark key="[" line="23" column="14" />
@@ -4689,11 +4689,11 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPnd4LW9mZmljaWFsLWFjY291bnQ8L21vZHVsZT4K</text>
+      <register name="&quot;" type="4">
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>daemon</text>

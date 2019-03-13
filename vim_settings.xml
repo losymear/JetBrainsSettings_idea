@@ -1222,12 +1222,6 @@
         <mark key="^" line="15" column="50" />
         <mark key="." line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatStudentService.java" timestamp="1552457560250">
-        <mark key="[" line="545" column="21" />
-        <mark key="]" line="545" column="20" />
-        <mark key="." line="545" column="20" />
-        <mark key="^" line="545" column="20" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/watch/ShortVideoService.java" timestamp="1544869540913">
         <mark key="[" line="181" column="76" />
         <mark key="]" line="181" column="72" />
@@ -3281,12 +3275,6 @@
         <mark key="^" line="47" column="32" />
         <mark key="." line="47" column="32" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/CommonController.java" timestamp="1552457512305">
-        <mark key="[" line="124" column="17" />
-        <mark key="]" line="124" column="41" />
-        <mark key="^" line="124" column="41" />
-        <mark key="." line="124" column="41" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/WellPickController.java" timestamp="1549963809702">
         <mark key="[" line="125" column="17" />
         <mark key="]" line="125" column="15" />
@@ -4512,7 +4500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="670" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/SecurityManager.java" />
       <jump line="847" column="23" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/security/AccessController.java" />
       <jump line="1049" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ThreadGroup.java" />
       <jump line="64" column="34" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/System.java" />
@@ -4612,25 +4599,26 @@
       <jump line="94" column="64" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Lock.java" />
       <jump line="913" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/StampedLock.java" />
       <jump line="0" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java" />
+      <jump line="467" column="40" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatStudentService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDkuI3lrZjlnKjorrDlvZXvvIzliJnml6Dms5Xorr/pl67or6XmjqXlj6MK</text>
+        <text encoding="base64">Ly8gICAgICAgIHRocm93IG5ldyBRbXNSdW50aW1lRXhjZXB0aW9uKCLml6Dms5Xorr/pl64iKTsK</text>
       </register>
       <register name="-" type="4">
         <text>millis</text>
       </register>
       <register name="/" type="4">
-        <text>Note that</text>
+        <text>rules</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEFjY2lkRmluZGVyUnVsZS5idWlsZGVyKCkuc3RhdHVzKExpc3RzLm5ld0FycmF5TGlzdCjlt7LpgJrov4cpKS5vcmRlckNvbHVtbigiaGFuZGxlVGltZSIpLmlzQXNjKHRydWUpLmJ1aWxkKCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDkuI3lrZjlnKjorrDlvZXvvIzliJnml6Dms5Xorr/pl67or6XmjqXlj6MK</text>
+        <text encoding="base64">Ly8gICAgICAgIHRocm93IG5ldyBRbXNSdW50aW1lRXhjZXB0aW9uKCLml6Dms5Xorr/pl64iKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4695,37 +4683,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNpemUgPSByZXN1bWVETy5nZXRTaXplKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDkuI3lrZjlnKjorrDlvZXvvIzliJnml6Dms5Xorr/pl67or6XmjqXlj6MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8c3RhcnQtY2xhc3M+Y29tLnpoaXJpLnF1bWlhbnNoaS5FbGFzdGljRGFlbW9uQXBwbGljYXRpb248L3N0YXJ0LWNsYXNzPgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDkuI3lrZjlnKjorrDlvZXvvIzliJnml6Dms5Xorr/pl67or6XmjqXlj6MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvcHJvcGVydGllcz4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNpemUgPSByZXN1bWVETy5nZXRTaXplKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0aWVzPgo=</text>
+        <text encoding="base64">ICAgICAgICA8c3RhcnQtY2xhc3M+Y29tLnpoaXJpLnF1bWlhbnNoaS5FbGFzdGljRGFlbW9uQXBwbGljYXRpb248L3N0YXJ0LWNsYXNzPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8c3RhcnQtY2xhc3M+Y29tLnpoaXJpLnF1bWlhbnNoaS5lbGFzdGljZGFlbW9uLkVsYXN0aWNEYWVtb25BcHBsaWNhdGlvbjwvc3RhcnQtY2xhc3M+Cg==</text>
+        <text encoding="base64">ICAgIDwvcHJvcGVydGllcz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kYW5nZGFuZy5kZGZyYW1lLmpvYi5saXRlLmFwaS5saXN0ZW5lci5FbGFzdGljSm9iTGlzdGVuZXI7Cg==</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0aWVzPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uemhpcmkucXVtaWFuc2hpLmVsYXN0aWNqb2I7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c3RhcnQtY2xhc3M+Y29tLnpoaXJpLnF1bWlhbnNoaS5lbGFzdGljZGFlbW9uLkVsYXN0aWNEYWVtb25BcHBsaWNhdGlvbjwvc3RhcnQtY2xhc3M+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uemhpcmkucXVtaWFuc2hpLmVsYXN0aWNqb2I7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kYW5nZGFuZy5kZGZyYW1lLmpvYi5saXRlLmFwaS5saXN0ZW5lci5FbGFzdGljSm9iTGlzdGVuZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>
       </register>
     </registers>
     <search>
-      <last-search>Note that</last-search>
+      <last-search>rules</last-search>
       <last-offset />
-      <last-pattern>Note that</last-pattern>
+      <last-pattern>rules</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>用户</last-substitute>
       <last-dir>1</last-dir>
@@ -4733,7 +4721,6 @@
     </search>
     <history>
       <history-search>
-        <entry>800</entry>
         <entry>delete</entry>
         <entry>Userall</entry>
         <entry>UserAll</entry>
@@ -4753,6 +4740,7 @@
         <entry>ssh</entry>
         <entry>note that</entry>
         <entry>Note that</entry>
+        <entry>rules</entry>
       </history-search>
       <history-cmd>
         <entry>next</entry>

@@ -157,6 +157,9 @@
         <mark key="^" line="14" column="6" />
         <mark key="." line="14" column="6" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class" timestamp="1552476468996">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentPushService.java" timestamp="1550933917548">
         <mark key="[" line="94" column="19" />
         <mark key="]" line="94" column="18" />
@@ -4665,8 +4668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAppService.java" />
-      <jump line="331" column="52" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/PayService.java" />
       <jump line="103" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/pay/PayEntity.java" />
       <jump line="93" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAppService.java" />
       <jump line="274" column="51" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAppService.java" />
@@ -4765,6 +4766,8 @@
       <jump line="21" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/qiniu/QiniuOSService.java" />
       <jump line="7" column="23" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/concurrency/main/java/com/losymear/concurrency/condition/ReentrantLockWithCondition.java" />
       <jump line="892" column="37" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/StampedLock.java" />
+      <jump line="42" column="25" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class" />
+      <jump line="0" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class" />
     </jumps>
     <registers>
       <register name="a" type="4">

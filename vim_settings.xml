@@ -4574,6 +4574,13 @@
         <mark key="^" line="29" column="24" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/concurrency/main/java/com/losymear/concurrency/condition/ReentrantLockWithCondition.java" timestamp="1552475635649">
+        <mark key="'" line="7" column="23" />
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="9" column="52" />
+        <mark key="." line="9" column="52" />
+        <mark key="^" line="9" column="52" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/deployed/init_20181219ChallengeTask.sql" timestamp="1545654800548">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="11" />
@@ -4646,7 +4653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/concurrency/main/java/com/losymear/concurrency/PhaserExample.java" />
       <jump line="321" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/UserService.java" />
       <jump line="88" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAppService.java" />
       <jump line="331" column="52" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/PayService.java" />
@@ -4746,13 +4752,14 @@
       <jump line="49" column="55" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/qiniu/QiniuOSService.java" />
       <jump line="64" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/qiniu/QiniuOSService.java" />
       <jump line="21" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/qiniu/QiniuOSService.java" />
+      <jump line="7" column="23" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/concurrency/main/java/com/losymear/concurrency/condition/ReentrantLockWithCondition.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbmFsPEludGVydmlld2VySW5mb0VudGl0eT4gZmluZERpc3RpbmN0QnlVc2VySWQoSW50ZWdlciBpbnRlcnZpZXdlcklkKTsK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFJlZW50cmFudExvY2tXaXRoQ29uZGl0aW9uIHsKCn0K</text>
       </register>
       <register name="-" type="4">
         <text>QiniuOSService.byteToSize(QiniuOSService.view(key).fsize)</text>
@@ -4764,7 +4771,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIEFjY2lkRmluZGVyUnVsZS5idWlsZGVyKCkuc3RhdHVzKExpc3RzLm5ld0FycmF5TGlzdCjlrabnlJ/moIforrDpgJror53nu5PmnZ8pKS5vcmRlckNvbHVtbigiaGFuZGxlVGltZSIpLmlzQXNjKHRydWUpLmJ1aWxkKCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbmFsPEludGVydmlld2VySW5mb0VudGl0eT4gZmluZERpc3RpbmN0QnlVc2VySWQoSW50ZWdlciBpbnRlcnZpZXdlcklkKTsK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFJlZW50cmFudExvY2tXaXRoQ29uZGl0aW9uIHsKCn0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4832,25 +4839,25 @@
         <text encoding="base64">ICAgIE9wdGlvbmFsPEludGVydmlld2VySW5mb0VudGl0eT4gZmluZERpc3RpbmN0QnlVc2VySWQoSW50ZWdlciBpbnRlcnZpZXdlcklkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZpbGVJbmZvLmZzaXplKTsK</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPEludGVydmlld2VySW5mb0VudGl0eT4gZmluZERpc3RpbmN0QnlVc2VySWQoSW50ZWdlciBpbnRlcnZpZXdlcklkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjY2lkRmluZGVyUnVsZS5idWlsZGVyKCkuc3RhdHVzKG51bGwpLm9yZGVyQ29sdW1uKCJ1cGRhdGVUaW1lIikuaXNBc2ModHJ1ZSkuYnVpbGQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZpbGVJbmZvLmZzaXplKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjY2lkRmluZGVyUnVsZS5idWlsZGVyKCkuc3RhdHVzKExpc3RzLm5ld0FycmF5TGlzdCjlvoXpgJrov4cpKS5vcmRlckNvbHVtbigiY3JlYXRlVGltZSIpLmlzQXNjKHRydWUpLmJ1aWxkKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjY2lkRmluZGVyUnVsZS5idWlsZGVyKCkuc3RhdHVzKG51bGwpLm9yZGVyQ29sdW1uKCJ1cGRhdGVUaW1lIikuaXNBc2ModHJ1ZSkuYnVpbGQoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1TaXplICsgIk0iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjY2lkRmluZGVyUnVsZS5idWlsZGVyKCkuc3RhdHVzKExpc3RzLm5ld0FycmF5TGlzdCjlvoXpgJrov4cpKS5vcmRlckNvbHVtbigiY3JlYXRlVGltZSIpLmlzQXNjKHRydWUpLmJ1aWxkKCksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IG1TaXplID0gKGludCkgZnNpemUgLyAoMTAyNCAqIDEwMjQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1TaXplICsgIk0iOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGtiU2l6ZSArICJLQiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IG1TaXplID0gKGludCkgZnNpemUgLyAoMTAyNCAqIDEwMjQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGtiU2l6ZSA9IChpbnQpIGZzaXplIC8gMTAyNDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGtiU2l6ZSArICJLQiI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

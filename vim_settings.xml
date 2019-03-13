@@ -1241,6 +1241,9 @@
         <mark key="^" line="113" column="23" />
         <mark key="." line="113" column="23" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1552475832120">
+        <mark key="c" line="1839" column="15" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/resources/core-prod.properties" timestamp="1551943863188">
         <mark key="[" line="1" column="68" />
         <mark key="]" line="1" column="67" />
@@ -1980,6 +1983,9 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Lock.java" timestamp="1552448753789">
+        <mark key="'" line="94" column="64" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_v9.3.wy.sql" timestamp="1552361649984">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="180" />
@@ -2021,6 +2027,9 @@
         <mark key="]" line="55" column="72" />
         <mark key="." line="55" column="72" />
         <mark key="^" line="55" column="72" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/StampedLock.java" timestamp="1552475798637">
+        <mark key="'" line="892" column="37" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/GeetestLib.java" timestamp="1544550157413">
         <mark key="[" line="486" column="60" />
@@ -2984,6 +2993,9 @@
         <mark key="]" line="31" column="27" />
         <mark key="^" line="31" column="27" />
         <mark key="." line="31" column="27" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java" timestamp="1552458058878">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/WellPickService.java" timestamp="1548068580042">
         <mark key="[" line="8" column="5" />
@@ -4653,7 +4665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="321" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/UserService.java" />
       <jump line="88" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAppService.java" />
       <jump line="331" column="52" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/PayService.java" />
       <jump line="103" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/pay/PayEntity.java" />
@@ -4753,6 +4764,7 @@
       <jump line="64" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/qiniu/QiniuOSService.java" />
       <jump line="21" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/qiniu/QiniuOSService.java" />
       <jump line="7" column="23" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/concurrency/main/java/com/losymear/concurrency/condition/ReentrantLockWithCondition.java" />
+      <jump line="892" column="37" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/StampedLock.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

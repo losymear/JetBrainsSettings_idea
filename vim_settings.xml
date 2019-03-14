@@ -1946,8 +1946,8 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="2" column="84" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/FreelyChatSkuDO.java" timestamp="1552545491546">
-        <mark key="[" line="72" column="25" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/FreelyChatSkuDO.java" timestamp="1552569162778">
+        <mark key="[" line="67" column="26" />
         <mark key="]" line="72" column="24" />
         <mark key="." line="72" column="24" />
         <mark key="^" line="72" column="24" />
@@ -2684,11 +2684,11 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/dto/FreelyChatDetailDTO.java" timestamp="1552567474426">
-        <mark key="[" line="120" column="25" />
-        <mark key="]" line="120" column="24" />
-        <mark key="." line="120" column="24" />
-        <mark key="^" line="120" column="24" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/dto/FreelyChatDetailDTO.java" timestamp="1552569111492">
+        <mark key="[" line="100" column="21" />
+        <mark key="]" line="105" column="19" />
+        <mark key="." line="105" column="19" />
+        <mark key="^" line="105" column="19" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/freelychat/FreelyChatCatalogRepo.java" timestamp="1550660227200">
         <mark key="[" line="14" column="0" />
@@ -3209,12 +3209,12 @@
         <mark key="^" line="9" column="29" />
         <mark key="." line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/order/UniformOrderService.java" timestamp="1552378220222">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="98" column="33" />
-        <mark key="]" line="98" column="32" />
-        <mark key="^" line="98" column="32" />
-        <mark key="." line="98" column="32" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/order/UniformOrderService.java" timestamp="1552569210366">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="88" column="29" />
+        <mark key="]" line="88" column="28" />
+        <mark key="." line="88" column="28" />
+        <mark key="^" line="88" column="28" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/yunxin/src/main/java/com/zhiri/qumianshi/dto/YunxinVideoDownloadDTO.java" timestamp="1548240624457">
         <mark key="[" line="14" column="18" />
@@ -4756,7 +4756,7 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb3Vwb24oY291KQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>verifyId</text>
@@ -4768,7 +4768,7 @@
         <text encoding="base64">ICAgICAgICBGcmVlbHlDaGF0RGV0YWlsRE8gZGV0YWlsID0gZnJlZWx5Q2hhdERldGFpbFJlcG8uZmluZEJ5T3JkZXJJZChvcmRlckVudGl0eS5nZXRJZCgpKS5vckVsc2VUaHJvdygoKSAtPiBuZXcgUW1zUnVudGltZUV4Y2VwdGlvbigi6K6i5Y2V5aSE55CG5LitIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb3Vwb24oY291KQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4832,30 +4832,30 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb3Vwb24oY291KQo=</text>
+      </register>
+      <register name="3" type="4">
         <text>unionId = miniAppLoginEncryptManager.AES解密(payload.getSessionId());
         String  = min</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAqIFRPRE86IOaWsOeahOaJi+acuumqjOivgeeggWNvZGUK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIE9wdGlvbmFsPFRtcE1pbmlhcHBMb2dpbkRPPiBmaW5kQnlPcGVuSWQoU3RyaW5nIHVuaW9uSWQpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIFRPRE86QHd5IOaUueaIkHVuaW9uSWQK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">YWx0ZXIgdG1wX21pbmlhcHBfbG9naW4gY2hhbmdlIGNvbHVtbiBgb3BlbklkYCBgdW5pb25JZGAgdmFyY2hhcig1MCkgREVGQVVMVCBOVUxMOwo=</text>
+        <text encoding="base64">ICAgICAqIFRPRE86QHd5IOaUueaIkHVuaW9uSWQK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">YWx0ZXIgdG1wX21pbmlhcHBfbG9naW4gY2hhbmdlIGNvbHVtbiBgb3BlbklkYCBgdW5pb25JZGAgdmFyY2hhcig1MCkgREVGQVVMVCBOVUxMOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWx0ZXIgdG1wX21pbmlhcHBfbG9naW4gY2hhbmdlIGNvbHVtbiBgb3BlbklkYCBgdW5pb25JZGAgdmFyY2hhcig1MCkgREVGQVVMVCBOVUxMOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

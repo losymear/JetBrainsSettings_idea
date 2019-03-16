@@ -348,8 +348,9 @@
         <mark key="^" line="20" column="13" />
         <mark key="." line="20" column="13" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/concurrency/main/java/com/losymear/concurrency/PhaserRuleTest.java" timestamp="1552064832442">
-        <mark key="[" line="42" column="61" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/concurrency/main/java/com/losymear/concurrency/PhaserRuleTest.java" timestamp="1552755217135">
+        <mark key="'" line="27" column="19" />
+        <mark key="[" line="51" column="5" />
         <mark key="]" line="43" column="7" />
         <mark key="^" line="43" column="7" />
         <mark key="." line="43" column="7" />
@@ -1560,11 +1561,12 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/concurrency/main/java/com/losymear/concurrency/completable/CompletableFutureExampleTest.java" timestamp="1552621739925">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/concurrency/main/java/com/losymear/concurrency/completable/CompletableFutureExampleTest.java" timestamp="1552755301924">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/yunxin/YunxinVideoDownloadDO.java" timestamp="1548240780688">
         <mark key="[" line="25" column="20" />
@@ -3588,6 +3590,12 @@
         <mark key="." line="55" column="72" />
         <mark key="^" line="55" column="72" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/concurrency/main/java/com/losymear/concurrency/UnsafeTest.java" timestamp="1552755386973">
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="38" />
+        <mark key="." line="20" column="38" />
+        <mark key="^" line="20" column="38" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/dto/view/BasicTikuItem.java" timestamp="1543199928284">
         <mark key="[" line="87" column="29" />
         <mark key="]" line="87" column="17" />
@@ -4265,8 +4273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="333" column="44" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAppService.java" />
-      <jump line="78" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAppService.java" />
       <jump line="273" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAppService.java" />
       <jump line="247" column="94" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAppService.java" />
       <jump line="14" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/pom.xml" />
@@ -4365,13 +4371,15 @@
       <jump line="23" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/test/java/com/zhiri/qumianshi/service/WyTest.java" />
       <jump line="75" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/test/java/com/zhiri/qumianshi/service/WyTest.java" />
       <jump line="20" column="19" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/test/java/com/zhiri/qumianshi/service/WyTest.java" />
+      <jump line="27" column="19" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/concurrency/main/java/com/losymear/concurrency/PhaserRuleTest.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/concurrency/main/java/com/losymear/concurrency/completable/CompletableFutureExampleTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGFja2FnZSBqYXZhLmNvbS56aGlyaS5xdW1pYW5zaGkuc2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICBDbGFzcyBjYyA9IHN1bi5yZWZsZWN0LlJlZmxlY3Rpb24uZ2V0Q2FsbGVyQ2xhc3MoMik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>添加新群</text>
@@ -4380,10 +4388,10 @@
         <text>statusList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZSBqYXZhLmNvbS56aGlyaS5xdW1pYW5zaGkuc2VydmljZTsK</text>
+        <text encoding="base64">QFJ1bldpdGgoSlVuaXQ0LmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFja2FnZSBqYXZhLmNvbS56aGlyaS5xdW1pYW5zaGkuc2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICBDbGFzcyBjYyA9IHN1bi5yZWZsZWN0LlJlZmxlY3Rpb24uZ2V0Q2FsbGVyQ2xhc3MoMik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4448,28 +4456,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUW1zUnVudGltZUV4Y2VwdGlvbigiZiIpOwo=</text>
+        <text encoding="base64">cGFja2FnZSBqYXZhLmNvbS56aGlyaS5xdW1pYW5zaGkuc2VydmljZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUW1zUnVudGltZUV4Y2VwdGlvbigiZiIpOwogICAgICAgIEZpZWxkIGYgPSBVbnNhZmUuY2xhc3MuZ2V0RGVjbGFyZWRGaWVsZCgidGhlVW5zYWZlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUW1zUnVudGltZUV4Y2VwdGlvbigiZiIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAxCiAgICAgICAgMgogICAgICAgIDMK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUW1zUnVudGltZUV4Y2VwdGlvbigiZiIpOwogICAgICAgIEZpZWxkIGYgPSBVbnNhZmUuY2xhc3MuZ2V0RGVjbGFyZWRGaWVsZCgidGhlVW5zYWZlIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBVbnNhZmUgYSA9IFVuc2FmZS5nZXRVbnNhZmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAxCiAgICAgICAgMgogICAgICAgIDMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0Lm9rKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBVbnNhZmUgYSA9IFVuc2FmZS5nZXRVbnNhZmUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RCb2R5IEt1YUN1c3RvbVFyR3JvdXBETyBwYXlsb2FkLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0Lm9rKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RCb2R5IEt1YUN1c3RvbVFyR3JvdXBETyBwYXlsb2FkLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmc2Fmc2EK</text>
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

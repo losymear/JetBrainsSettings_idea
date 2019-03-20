@@ -2547,6 +2547,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/kuakua/KuaService.java" timestamp="1553087992206">
+        <mark key="[" line="264" column="22" />
+        <mark key="]" line="210" column="6" />
+        <mark key="." line="210" column="6" />
+        <mark key="^" line="210" column="6" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/dto/FreelyChatDetailDO.java" timestamp="1550492048410">
         <mark key="[" line="103" column="29" />
         <mark key="]" line="103" column="28" />
@@ -4732,20 +4738,20 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QFNlcnZpY2UKQExvZzRqMgpAVHJhbnNhY3Rpb25hbChyb2xsYmFja0ZvciA9IEV4Y2VwdGlvbi5jbGFzcykK</text>
+      <register name="&quot;" type="4">
+        <text>华南</text>
       </register>
       <register name="-" type="4">
-        <text>getStatus</text>
+        <text>华南</text>
       </register>
       <register name="/" type="4">
         <text>refreshToken</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QFNlcnZpY2UKQExvZzRqMgpAVHJhbnNhY3Rpb25hbChyb2xsYmFja0ZvciA9IEV4Y2VwdGlvbi5jbGFzcykK</text>
+        <text encoding="base64">ICAgICAgICByZWFsUmVzLnB1dCgi5Y2O5Y2XIiwgcmVzLmdldCgi5Y2O5Y2XIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWFsUmVzLnB1dCgi5Y2O5LicIiwgcmVzLmdldCgi5Y2O5LicIikpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4810,28 +4816,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3RzLmlzTnVsbCh1c2VyU2VjcmV0RW50aXR5LmdldFRva2VuKCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChyZWZyZXNoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RzLmlzTnVsbCh1c2VyU2VjcmV0RW50aXR5LmdldFRva2VuKCkpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChyZWZyZXNoKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIGlmKCBPYmplY3RzLmlzTnVsbCh1c2VyU2VjcmV0RW50aXR5LmdldFRva2VuKCkpKSB7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIGlmKCBPYmplY3RzLmlzTnVsbCh1c2VyU2VjcmV0RW50aXR5LmdldFRva2VuKCkpKSB7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlclNlY3JldEVudGl0eS5zZXRUb2tlbkV4cGlyZVRpbWUoTG9jYWxEYXRlVGltZS5ub3coKS5wbHVzRGF5cygzMCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

@@ -1423,8 +1423,11 @@
         <mark key="^" line="39" column="7" />
         <mark key="." line="39" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/pay/campaign/Coupon.java" timestamp="1552894700470">
-        <mark key="[" line="117" column="28" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/pay/campaign/Coupon.java" timestamp="1553135887068">
+        <mark key="[" line="262" column="70" />
+        <mark key="]" line="261" column="17" />
+        <mark key="^" line="261" column="0" />
+        <mark key="." line="261" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Repository/interview/InterviewerInfoRepository.java" timestamp="1543031193780">
         <mark key="[" line="27" column="61" />
@@ -3622,9 +3625,9 @@
         <mark key="." line="67" column="113" />
         <mark key="^" line="67" column="113" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/OrderEntity.java" timestamp="1553002141301">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/OrderEntity.java" timestamp="1553135734983">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="32" />
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
@@ -4763,20 +4766,20 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>OrderServiceStatusEnum.valueOf(status)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="-" type="4">
-        <text>OrderServiceStatusEnum.valueOf(status)</text>
+        <text>attribute.size() == SpuType.values().length</text>
       </register>
       <register name="/" type="4">
         <text>refreshToken</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZWFsUmVzLnB1dCgi5Y2O5Y2XIiwgcmVzLmdldCgi5Y2O5Y2XIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWFsUmVzLnB1dCgi5Y2O5LicIiwgcmVzLmdldCgi5Y2O5LicIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4841,28 +4844,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWFsUmVzLnB1dCgi5Y2O5LicIiwgcmVzLmdldCgi5Y2O5LicIikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3RzLmlzTnVsbCh1c2VyU2VjcmV0RW50aXR5LmdldFRva2VuKCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChyZWZyZXNoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RzLmlzTnVsbCh1c2VyU2VjcmV0RW50aXR5LmdldFRva2VuKCkpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChyZWZyZXNoKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIGlmKCBPYmplY3RzLmlzTnVsbCh1c2VyU2VjcmV0RW50aXR5LmdldFRva2VuKCkpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgIGlmKCBPYmplY3RzLmlzTnVsbCh1c2VyU2VjcmV0RW50aXR5LmdldFRva2VuKCkpKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

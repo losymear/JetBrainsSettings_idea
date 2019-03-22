@@ -736,9 +736,9 @@
         <mark key="^" line="63" column="34" />
         <mark key="." line="63" column="34" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/dto/SpuType.java" timestamp="1553153725179">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/dto/SpuType.java" timestamp="1553250658989">
         <mark key="'" line="33" column="7" />
-        <mark key="[" line="39" column="37" />
+        <mark key="[" line="55" column="39" />
         <mark key="]" line="39" column="36" />
         <mark key="^" line="39" column="36" />
         <mark key="." line="39" column="36" />
@@ -1829,12 +1829,12 @@
         <mark key="." line="60" column="31" />
         <mark key="^" line="60" column="31" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/OrderAdminService.java" timestamp="1553249499112">
-        <mark key="'" line="114" column="55" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="71" column="30" />
-        <mark key="^" line="71" column="30" />
-        <mark key="." line="71" column="30" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/OrderAdminService.java" timestamp="1553251467565">
+        <mark key="'" line="138" column="55" />
+        <mark key="[" line="118" column="54" />
+        <mark key="]" line="120" column="102" />
+        <mark key="^" line="120" column="102" />
+        <mark key="." line="120" column="102" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/QumianshiApplication.java" timestamp="1553069814798">
         <mark key="[" line="17" column="0" />
@@ -2220,6 +2220,15 @@
         <mark key="]" line="34" column="25" />
         <mark key="^" line="34" column="25" />
         <mark key="." line="34" column="25" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/AccountService.java" timestamp="1553250622085">
+        <mark key="t" line="164" column="32" />
+        <mark key="'" line="177" column="12" />
+        <mark key="[" line="757" column="64" />
+        <mark key="m" line="690" column="34" />
+        <mark key="]" line="757" column="78" />
+        <mark key="^" line="690" column="15" />
+        <mark key="." line="690" column="15" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Configuration/security/MyAuthentication.java" timestamp="1543072048943">
         <mark key="[" line="46" column="31" />
@@ -3692,8 +3701,8 @@
         <mark key="." line="67" column="113" />
         <mark key="^" line="67" column="113" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/OrderEntity.java" timestamp="1553173886002">
-        <mark key="[" line="104" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/OrderEntity.java" timestamp="1553251279568">
+        <mark key="[" line="191" column="6" />
         <mark key="]" line="104" column="32" />
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
@@ -3770,11 +3779,11 @@
         <mark key="." line="0" column="110" />
         <mark key="^" line="0" column="110" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/order/OrderAdminController.java" timestamp="1553249441835">
-        <mark key="[" line="44" column="101" />
-        <mark key="]" line="53" column="109" />
-        <mark key="^" line="53" column="109" />
-        <mark key="." line="53" column="109" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/order/OrderAdminController.java" timestamp="1553251515548">
+        <mark key="[" line="53" column="94" />
+        <mark key="]" line="53" column="93" />
+        <mark key="^" line="53" column="93" />
+        <mark key="." line="53" column="93" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/QuestionController.java" timestamp="1544170773080">
         <mark key="[" line="68" column="0" />
@@ -4277,9 +4286,9 @@
         <mark key="^" line="32" column="6" />
         <mark key="." line="32" column="6" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/pay/campaign/CouponController.java" timestamp="1553238688110">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/pay/campaign/CouponController.java" timestamp="1553250281006">
         <mark key="'" line="75" column="31" />
-        <mark key="[" line="68" column="33" />
+        <mark key="[" line="69" column="23" />
         <mark key="]" line="68" column="32" />
         <mark key="." line="68" column="32" />
         <mark key="^" line="68" column="32" />
@@ -4859,19 +4868,19 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>nickName</text>
+        <text>beginLong</text>
       </register>
       <register name="-" type="4">
-        <text>nickName</text>
+        <text>beginLong</text>
       </register>
       <register name="/" type="4">
         <text>student</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSGFzaE1hcDxTdHJpbmcsIEhhc2hNYXA8U3RyaW5nLCBJbnRlZ2VyPj4gdmVyaWZ5U3RhdHVzTWFwID0gbmV3IEhhc2hNYXA8Pig0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIEBBcGlQYXJhbSgi5byA5aeL5pe26Ze05oizIikgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAiYmVnaW5Mb25nIixyZXF1aXJlZCA9IGZhbHNlKSBMb25nIGJlZ2luTG9uZywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4936,28 +4945,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUgdG9kYXlCYWNrID0gSW5zdGFudC5vZkVwb2NoU2Vjb25kKHRvZGF5TG9uZykuYXRab25lKFpvbmVJZC5zeXN0ZW1EZWZhdWx0KCkpLnRvTG9jYWxEYXRlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sb3I6IHJlZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoMSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzdHlsZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sb3I6IHJlZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bmVlZFN0dWRlbnRJZAo=</text>
+        <text encoding="base64">ICAgICAgICBoMSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxzdHlsZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyB1cmwgPSBuZXcgRmlsZShpbnB1dEZpbGUpLnRvVVJJKCkudG9VUkwoKS50b1N0cmluZygpOwo=</text>
+        <text encoding="base64">bmVlZFN0dWRlbnRJZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

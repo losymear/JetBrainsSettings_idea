@@ -1216,10 +1216,10 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/dto/Jscode2SessionDTO.java" timestamp="1553326809757">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="5" />
-        <mark key="." line="13" column="18" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/dto/Jscode2SessionDTO.java" timestamp="1553482335247">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
         <mark key="^" line="13" column="18" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/configuration/security/OperationAuthentication.java" timestamp="1546600394740">
@@ -3069,7 +3069,7 @@
         <mark key="^" line="185" column="0" />
         <mark key="." line="185" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553245075647">
+      <file name="/Dummy.txt" timestamp="1553482337148">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/yunxin/src/test/java/com/zhiri/qumianshi/controller/YunxinControllerTest.java" timestamp="1543461122744">
@@ -3288,11 +3288,11 @@
         <mark key="." line="39" column="29" />
         <mark key="^" line="39" column="29" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/utils/WxCryptUtils.java" timestamp="1553080325208">
-        <mark key="[" line="38" column="64" />
-        <mark key="]" line="38" column="63" />
-        <mark key="." line="38" column="63" />
-        <mark key="^" line="38" column="63" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/utils/WxCryptUtils.java" timestamp="1553482164165">
+        <mark key="[" line="5" column="50" />
+        <mark key="]" line="35" column="49" />
+        <mark key="." line="35" column="49" />
+        <mark key="^" line="35" column="49" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/specialtopic/SpecialTopicAdminService.java" timestamp="1553169710897">
         <mark key="[" line="5" column="41" />
@@ -4257,13 +4257,13 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/adminconfigurable/OperatorConfigDO.java" timestamp="1553340901336">
         <mark key="[" line="20" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/WechatMiniAppService.java" timestamp="1553340728884">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/WechatMiniAppService.java" timestamp="1553482327577">
         <mark key="t" line="253" column="31" />
-        <mark key="'" line="156" column="31" />
-        <mark key="[" line="99" column="60" />
-        <mark key="]" line="99" column="59" />
-        <mark key="^" line="99" column="59" />
-        <mark key="." line="99" column="59" />
+        <mark key="'" line="144" column="43" />
+        <mark key="[" line="265" column="24" />
+        <mark key="]" line="254" column="61" />
+        <mark key="^" line="254" column="61" />
+        <mark key="." line="254" column="61" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/InterviewerVerifyController.java" timestamp="1548058559728">
         <mark key="[" line="50" column="18" />
@@ -4922,7 +4922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="46" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/kuakua/KuaAdminController.java" />
       <jump line="19" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/kuakua/KuaAdminController.java" />
       <jump line="20" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/kuakua/KuaAdminController.java" />
       <jump line="117" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/controller/MiniAppLoginController.java" />
@@ -5022,13 +5021,14 @@
       <jump line="33" column="35" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/stream/Collector.java" />
       <jump line="68" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/adminconfig/CumulativeRewardAdminService.java" />
       <jump line="31" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/specialtopic/SpecialTopicController.java" />
+      <jump line="144" column="43" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/WechatMiniAppService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>[{\&quot;id\&quot;:null,\&quot;title\&quot;:\&quot;新手红包15元\&quot;,\&quot;description\&quot;:\&quot;满50-15\&quot;,\&quot;validateDays\&quot;:30,\&quot;couponType\&quot;:\&quot;直减\&quot;,\&quot;firstPay\&quot;:0,\&quot;needLeastPayAmount\&quot;:1,\&quot;leastPayAmount\&quot;:\&quot;50.00\&quot;,\&quot;cashDiscount\&quot;:\&quot;15.00\&quot;,\&quot;percentOff\&quot;:null},{\&quot;id\&quot;:null,\&quot;title\&quot;:\&quot;新手红包25元\&quot;,\&quot;description\&quot;:\&quot;满70-25\&quot;,\&quot;validateDays\&quot;:30,\&quot;couponType\&quot;:\&quot;直减\&quot;,\&quot;firstPay\&quot;:0,\&quot;needLeastPayAmount\&quot;:1,\&quot;leastPayAmount\&quot;:\&quot;70.00\&quot;,\&quot;cashDiscount\&quot;:\&quot;25.00\&quot;,\&quot;percentOff\&quot;:null},{\&quot;id\&quot;:null,\&quot;title\&quot;:\&quot;新手红包50元\&quot;,\&quot;description\&quot;:\&quot;满150-50\&quot;,\&quot;validateDays\&quot;:30,\&quot;couponType\&quot;:\&quot;直减\&quot;,\&quot;firstPay\&quot;:0,\&quot;needLeastPayAmount\&quot;:1,\&quot;leastPayAmount\&quot;:\&quot;150.00\&quot;,\&quot;cashDiscount\&quot;:\&quot;50.00\&quot;,\&quot;percentOff\&quot;:null},{\&quot;id\&quot;:null,\&quot;title\&quot;:\&quot;新手5折券\&quot;,\&quot;description\&quot;:\&quot;仅限首单使用\&quot;,\&quot;validateDays\&quot;:30,\&quot;couponType\&quot;:\&quot;折扣\&quot;,\&quot;firstPay\&quot;:1,\&quot;needLeastPayAmount\&quot;:0,\&quot;leastPayAmount\&quot;:null,\&quot;cashDiscount\&quot;:null,\&quot;percentOff\&quot;:\&quot;0.50\&quot;}]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyB1bmlvbmlkOwo=</text>
       </register>
       <register name="-" type="4">
         <text>[{\&quot;id\&quot;:null,\&quot;title\&quot;:\&quot;新手红包15元\&quot;,\&quot;description\&quot;:\&quot;满50-15\&quot;,\&quot;validateDays\&quot;:30,\&quot;couponType\&quot;:\&quot;直减\&quot;,\&quot;firstPay\&quot;:0,\&quot;needLeastPayAmount\&quot;:1,\&quot;leastPayAmount\&quot;:\&quot;50.00\&quot;,\&quot;cashDiscount\&quot;:\&quot;15.00\&quot;,\&quot;percentOff\&quot;:null},{\&quot;id\&quot;:null,\&quot;title\&quot;:\&quot;新手红包25元\&quot;,\&quot;description\&quot;:\&quot;满70-25\&quot;,\&quot;validateDays\&quot;:30,\&quot;couponType\&quot;:\&quot;直减\&quot;,\&quot;firstPay\&quot;:0,\&quot;needLeastPayAmount\&quot;:1,\&quot;leastPayAmount\&quot;:\&quot;70.00\&quot;,\&quot;cashDiscount\&quot;:\&quot;25.00\&quot;,\&quot;percentOff\&quot;:null},{\&quot;id\&quot;:null,\&quot;title\&quot;:\&quot;新手红包50元\&quot;,\&quot;description\&quot;:\&quot;满150-50\&quot;,\&quot;validateDays\&quot;:30,\&quot;couponType\&quot;:\&quot;直减\&quot;,\&quot;firstPay\&quot;:0,\&quot;needLeastPayAmount\&quot;:1,\&quot;leastPayAmount\&quot;:\&quot;150.00\&quot;,\&quot;cashDiscount\&quot;:\&quot;50.00\&quot;,\&quot;percentOff\&quot;:null},{\&quot;id\&quot;:null,\&quot;title\&quot;:\&quot;新手5折券\&quot;,\&quot;description\&quot;:\&quot;仅限首单使用\&quot;,\&quot;validateDays\&quot;:30,\&quot;couponType\&quot;:\&quot;折扣\&quot;,\&quot;firstPay\&quot;:1,\&quot;needLeastPayAmount\&quot;:0,\&quot;leastPayAmount\&quot;:null,\&quot;cashDiscount\&quot;:null,\&quot;percentOff\&quot;:\&quot;0.50\&quot;}]</text>
@@ -5037,10 +5037,10 @@
         <text>student</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBIYXNoTWFwPFN0cmluZywgSGFzaE1hcDxTdHJpbmcsIEludGVnZXI+PiB2ZXJpZnlTdGF0dXNNYXAgPSBtaW5pYXBwVmVyaWZ5Q29uZmlnU2VydmljZS7ojrflj5blsI/nqIvluo/lrqHmoLjnirbmgIEoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCLluo/liJfljJblpLHotKUsIGVuY3J5cHREYXRhOiB7fSwgaXY6e30sIHNlc3Npb25LZXl7fSIsIGVuY3J5cHREYXRhLCBpdiwgc2Vzc2lvbktleSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyB1bmlvbmlkOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5105,28 +5105,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBIYXNoTWFwPFN0cmluZywgSGFzaE1hcDxTdHJpbmcsIEludGVnZXI+PiDojrflj5blsI/nqIvluo/lrqHmoLgK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBsb2cuZXJyb3IoIuW+ruS/oeaJi+acuuWPt+aVsOaNruino+WvhuWksei0pSIsIGUpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBIYXNoTWFwPFN0cmluZywgSGFzaE1hcDxTdHJpbmcsIEludGVnZXI+PiDojrflj5blsI/nqIvluo/lrqHmoLgK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdETy5zZXRBdWRpdG9yKGF1ZGl0b3JJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25maWdETy5zZXRBdWRpdG9yKGF1ZGl0b3JJZCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnU3RyOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

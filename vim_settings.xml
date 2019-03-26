@@ -510,11 +510,11 @@
         <mark key="." line="68" column="78" />
         <mark key="^" line="68" column="78" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/src/main/java/com/zhiri/qumianshi/elasticdaemon/config/ElasticJobConfig.java" timestamp="1553585508683">
-        <mark key="[" line="28" column="37" />
-        <mark key="]" line="28" column="36" />
-        <mark key="." line="28" column="36" />
-        <mark key="^" line="28" column="36" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/src/main/java/com/zhiri/qumianshi/elasticdaemon/config/ElasticJobConfig.java" timestamp="1553587714472">
+        <mark key="[" line="55" column="39" />
+        <mark key="]" line="55" column="38" />
+        <mark key="." line="55" column="38" />
+        <mark key="^" line="55" column="38" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/watch/WatchController.java" timestamp="1545120595752">
         <mark key="[" line="119" column="158" />
@@ -1744,6 +1744,7 @@
         <mark key="." line="40" column="28" />
         <mark key="^" line="40" column="28" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dangdang/elastic-job-common-core/2.1.5/elastic-job-common-core-2.1.5-sources.jar!/com/dangdang/ddframe/job/event/JobEventConfiguration.java" timestamp="1553587675502" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/UserRoleRepository.java" timestamp="1543403620458">
         <mark key="[" line="27" column="73" />
         <mark key="]" line="27" column="21" />
@@ -3720,8 +3721,8 @@
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="31" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/README.md" timestamp="1553582799507">
-        <mark key="[" line="5" column="8" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/README.md" timestamp="1553587363811">
+        <mark key="[" line="3" column="81" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -4074,11 +4075,11 @@
         <mark key="." line="19" column="17" />
         <mark key="^" line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/src/main/java/com/zhiri/qumianshi/ElasticDaemonApplication.java" timestamp="1553586392260">
-        <mark key="[" line="31" column="31" />
-        <mark key="]" line="31" column="30" />
-        <mark key="^" line="31" column="30" />
-        <mark key="." line="31" column="30" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/src/main/java/com/zhiri/qumianshi/ElasticDaemonApplication.java" timestamp="1553587008263">
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="11" />
+        <mark key="^" line="29" column="11" />
+        <mark key="." line="29" column="11" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/pay/campaign/WechatPayManager.java" timestamp="1551758715475">
         <mark key="[" line="52" column="9" />
@@ -4110,11 +4111,11 @@
         <mark key="^" line="0" column="83" />
         <mark key="." line="0" column="83" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/src/main/java/com/zhiri/qumianshi/elasticdaemon/service/ElasticJobHandler.java" timestamp="1553585451434">
-        <mark key="[" line="73" column="65" />
-        <mark key="]" line="73" column="68" />
-        <mark key="." line="73" column="68" />
-        <mark key="^" line="73" column="68" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/src/main/java/com/zhiri/qumianshi/elasticdaemon/service/ElasticJobHandler.java" timestamp="1553587920337">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="75" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/docker-compose.yml" timestamp="1553500590276">
         <mark key="[" line="24" column="12" />
@@ -5104,10 +5105,10 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>warn</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>warn</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>student</text>

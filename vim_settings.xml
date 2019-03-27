@@ -2088,6 +2088,10 @@
         <mark key="^" line="10" column="41" />
         <mark key="." line="10" column="41" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java" timestamp="1553658630126">
+        <mark key="'" line="105" column="19" />
+        <mark key="m" line="1076" column="23" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/dto/StudentInfo.java" timestamp="1552915718098">
         <mark key="[" line="39" column="41" />
         <mark key="]" line="39" column="40" />
@@ -4907,7 +4911,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="59" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/resumediagnose/ResumeDiagnoseProcessingTest.java" />
       <jump line="260" column="44" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/WechatMiniAppService.java" />
       <jump line="236" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/WechatMiniAppService.java" />
       <jump line="170" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/WechatMiniAppService.java" />
@@ -5007,6 +5010,7 @@
       <jump line="22" column="38" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/CommonService.java" />
       <jump line="149" column="43" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/CommonController.java" />
       <jump line="44" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/CommonController.java" />
+      <jump line="105" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

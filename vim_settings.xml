@@ -4168,12 +4168,12 @@
         <mark key="." line="22" column="17" />
         <mark key="^" line="22" column="17" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAppService.java" timestamp="1553483218123">
-        <mark key="'" line="187" column="8" />
-        <mark key="[" line="193" column="63" />
-        <mark key="]" line="193" column="62" />
-        <mark key="^" line="193" column="62" />
-        <mark key="." line="193" column="62" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAppService.java" timestamp="1553665786978">
+        <mark key="'" line="159" column="85" />
+        <mark key="[" line="205" column="42" />
+        <mark key="]" line="205" column="41" />
+        <mark key="^" line="205" column="41" />
+        <mark key="." line="205" column="41" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/watch/ShortVideoCommentServiceTest.java" timestamp="1544297701351">
         <mark key="[" line="36" column="33" />
@@ -4998,8 +4998,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="22" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/WechatMiniAppService.java" />
-      <jump line="234" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/AccountService.java" />
       <jump line="174" column="42" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/AccountService.java" />
       <jump line="397" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/AccountService.java" />
       <jump line="412" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/AccountService.java" />
@@ -5098,6 +5096,8 @@
       <jump line="112" column="15" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java" />
       <jump line="33" column="46" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/stream/src/test/java/com/losymear/stream/basic/IntStreamDemoTest.java" />
       <jump line="12" column="56" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/stream/src/test/java/com/losymear/stream/basic/IntStreamDemoTest.java" />
+      <jump line="83" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAppService.java" />
+      <jump line="159" column="85" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/StudentAppService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

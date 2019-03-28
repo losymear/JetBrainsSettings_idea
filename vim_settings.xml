@@ -389,11 +389,6 @@
         <mark key="^" line="113" column="36" />
         <mark key="." line="113" column="36" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_11.8_wy.sql" timestamp="1553761584500">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/TikuService.java" timestamp="1548317134999">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
@@ -2903,10 +2898,10 @@
         <mark key="^" line="54" column="90" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/freelychat/FreelyChatInterviewerService.java" timestamp="1553775058960">
-        <mark key="[" line="331" column="36" />
-        <mark key="]" line="331" column="35" />
-        <mark key="." line="331" column="35" />
-        <mark key="^" line="331" column="35" />
+        <mark key="[" line="333" column="36" />
+        <mark key="]" line="333" column="35" />
+        <mark key="." line="333" column="35" />
+        <mark key="^" line="333" column="35" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Annotation/QmsTODO.java" timestamp="1543200185261">
         <mark key="[" line="15" column="28" />
@@ -4351,11 +4346,11 @@
         <mark key="^" line="53" column="76" />
         <mark key="." line="53" column="76" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/airesume/AIResumeController.java" timestamp="1553680933879">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="49" column="26" />
-        <mark key="^" line="49" column="26" />
-        <mark key="." line="49" column="26" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/airesume/AIResumeController.java" timestamp="1553776420848">
+        <mark key="[" line="46" column="59" />
+        <mark key="]" line="46" column="58" />
+        <mark key="." line="46" column="58" />
+        <mark key="^" line="46" column="58" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/order/constants/OrderConfigConstants.java" timestamp="1553743381723">
         <mark key="[" line="16" column="98" />
@@ -5187,10 +5182,10 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>refundFullAsyc</text>
+        <text>aiResumeService.getResumeList(student.getId())</text>
       </register>
       <register name="-" type="4">
-        <text>refundFullAsyc</text>
+        <text>aiResumeService.getResumeList(student.getId())</text>
       </register>
       <register name="/" type="4">
         <text>student</text>
@@ -5199,7 +5194,7 @@
         <text encoding="base64">ICAgICAgICBPcmRlckVudGl0eSB1cGRhdGVkT3JkZXIgPSBvcmRlclJlcG9zaXRvcnkuZmluZEJ5SWQoaW5pdGlhbE9yZGVyLmdldElkKCkpLm9yRWxzZUdldChPcmRlckVudGl0eTo6bmV3KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBc3luYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEN1cnJlbnRVc2VyIFVzZXJBbGwgc3R1ZGVudAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5267,25 +5262,25 @@
         <text encoding="base64">ICAgIEBBc3luYwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygi6YCA5qy+5pe2b3JkZXJFbml0eeeahOeKtuaAgeS4unt9Iiwgb3JkZXJlbik7Cg==</text>
+        <text encoding="base64">ICAgIEBBc3luYwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygi6YCA5qy+5pe2b3JkZXJFbml0eeeahOeKtuaAgeS4unt9Iiwgb3JkZXJlbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3JkZXJSZXBvc2l0b3J5LmZpbmRBbGwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3JkZXJSZXBvc2l0b3J5LmZpbmRBbGwoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFVuaWZvcm1PcmRlclNlcnZpY2UgdW5pZm9ybU9yZGVyU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIFVuaWZvcm1PcmRlclNlcnZpY2UgdW5pZm9ybU9yZGVyU2VydmljZTsK</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

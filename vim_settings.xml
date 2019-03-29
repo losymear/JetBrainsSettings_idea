@@ -774,7 +774,7 @@
         <mark key="." line="1" column="20" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/airesume/AIResumeServiceTest.java" timestamp="1553832055581">
-        <mark key="'" line="54" column="40" />
+        <mark key="'" line="50" column="40" />
         <mark key="[" line="35" column="36" />
         <mark key="]" line="35" column="35" />
         <mark key="." line="35" column="35" />
@@ -1012,6 +1012,7 @@
         <mark key="^" line="59" column="64" />
         <mark key="." line="59" column="64" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" timestamp="1553834918578" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/zhima/ZhimiController.java" timestamp="1551178190965">
         <mark key="[" line="19" column="34" />
         <mark key="]" line="20" column="26" />
@@ -1525,9 +1526,9 @@
         <mark key="^" line="39" column="7" />
         <mark key="." line="39" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/pay/campaign/Coupon.java" timestamp="1553671909545">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/pay/campaign/Coupon.java" timestamp="1553834362923">
         <mark key="'" line="205" column="26" />
-        <mark key="[" line="423" column="13" />
+        <mark key="[" line="95" column="30" />
         <mark key="]" line="397" column="70" />
         <mark key="^" line="389" column="23" />
         <mark key="." line="389" column="23" />
@@ -1678,12 +1679,12 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" timestamp="1553679285277">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" timestamp="1553835439604">
         <mark key="'" line="72" column="32" />
-        <mark key="[" line="50" column="24" />
-        <mark key="]" line="57" column="36" />
-        <mark key="^" line="57" column="36" />
-        <mark key="." line="57" column="36" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/invite/InviteService.java" timestamp="1547197367693">
         <mark key="[" line="100" column="120" />
@@ -2657,12 +2658,12 @@
         <mark key="^" line="46" column="4" />
         <mark key="." line="46" column="4" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/AiResumeRawDO.java" timestamp="1553761666109">
-        <mark key="'" line="161" column="36" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="98" column="51" />
-        <mark key="^" line="98" column="51" />
-        <mark key="." line="98" column="51" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/AiResumeRawDO.java" timestamp="1553834750051">
+        <mark key="'" line="161" column="7" />
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="317" column="36" />
+        <mark key="^" line="317" column="36" />
+        <mark key="." line="317" column="36" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/interviewer/ScheduleTemplateService.java" timestamp="1545103471929">
         <mark key="[" line="18" column="76" />
@@ -4355,7 +4356,8 @@
         <mark key="^" line="53" column="76" />
         <mark key="." line="53" column="76" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/airesume/AIResumeController.java" timestamp="1553831718772">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/airesume/AIResumeController.java" timestamp="1553834314778">
+        <mark key="'" line="58" column="33" />
         <mark key="[" line="57" column="41" />
         <mark key="]" line="57" column="40" />
         <mark key="." line="57" column="40" />
@@ -5088,24 +5090,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/pay/campaign/CouponServiceTest.java" />
-      <jump line="44" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/pay/campaign/CouponServiceTest.java" />
-      <jump line="255" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/pay/campaign/CouponServiceTest.java" />
-      <jump line="9" column="40" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/AccountService.java" />
-      <jump line="162" column="34" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/AccountService.java" />
-      <jump line="274" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/AccountService.java" />
-      <jump line="201" column="81" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/AccountService.java" />
-      <jump line="676" column="88" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/AccountService.java" />
-      <jump line="0" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/AccountService.java" />
-      <jump line="105" column="28" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/pay/campaign/CouponService.java" />
-      <jump line="29" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/dto/SpuType.java" />
-      <jump line="230" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/pay/campaign/Coupon.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/MiniappLoginEncryptManager.java" />
-      <jump line="73" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/MiniappLoginEncryptManager.java" />
-      <jump line="27" column="39" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/MiniappLoginEncryptManager.java" />
-      <jump line="51" column="28" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/MiniappLoginEncryptManager.java" />
-      <jump line="61" column="22" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/controller/MiniAppLoginController.java" />
-      <jump line="74" column="32" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/MiniappLoginEncryptManager.java" />
       <jump line="31" column="28" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/MiniappLoginEncryptManager.java" />
       <jump line="68" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/controller/MiniAppLoginController.java" />
       <jump line="75" column="50" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/MiniappLoginEncryptManager.java" />
@@ -5188,19 +5172,37 @@
       <jump line="32" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/order/UniformOrderServiceTest.java" />
       <jump line="71" column="3" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/test/java/com/zhiri/qumianshi/service/WyTest.java" />
       <jump line="0" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/test/java/com/zhiri/qumianshi/service/WyTest.java" />
+      <jump line="58" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/airesume/AIResumeController.java" />
+      <jump line="199" column="49" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/AiResumeRawDO.java" />
+      <jump line="214" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/AiResumeRawDO.java" />
+      <jump line="218" column="119" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/AiResumeRawDO.java" />
+      <jump line="234" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/AiResumeRawDO.java" />
+      <jump line="239" column="68" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/AiResumeRawDO.java" />
+      <jump line="254" column="49" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/AiResumeRawDO.java" />
+      <jump line="267" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/AiResumeRawDO.java" />
+      <jump line="269" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/AiResumeRawDO.java" />
+      <jump line="273" column="101" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/AiResumeRawDO.java" />
+      <jump line="288" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/AiResumeRawDO.java" />
+      <jump line="293" column="64" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/AiResumeRawDO.java" />
+      <jump line="302" column="49" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/AiResumeRawDO.java" />
+      <jump line="315" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/AiResumeRawDO.java" />
+      <jump line="317" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/AiResumeRawDO.java" />
+      <jump line="321" column="93" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/AiResumeRawDO.java" />
+      <jump line="18" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/AiResumeRawDO.java" />
+      <jump line="159" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/AiResumeRawDO.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlZHVjYXRpb25CYWNrZ3JvdW5kLnNldFN0YXJ0VGltZSgiZmQiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>List</text>
       </register>
       <register name="-" type="4">
-        <text>InterviewerWithdrawEntity</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
-        <text>student</text>
+        <text>Linked</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlZHVjYXRpb25CYWNrZ3JvdW5kLnNldFN0YXJ0VGltZSgiZmQiKTsK</text>
@@ -5299,9 +5301,9 @@
       </register>
     </registers>
     <search>
-      <last-search>student</last-search>
+      <last-search>Linked</last-search>
       <last-offset />
-      <last-pattern>student</last-pattern>
+      <last-pattern>Linked</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>用户</last-substitute>
       <last-dir>1</last-dir>
@@ -5309,8 +5311,6 @@
     </search>
     <history>
       <history-search>
-        <entry>return</entry>
-        <entry>register</entry>
         <entry>map</entry>
         <entry>reference</entry>
         <entry>count</entry>
@@ -5329,6 +5329,8 @@
         <entry>HashMap</entry>
         <entry>refreshToken</entry>
         <entry>student</entry>
+        <entry>linked</entry>
+        <entry>Linked</entry>
       </history-search>
       <history-cmd>
         <entry>next</entry>

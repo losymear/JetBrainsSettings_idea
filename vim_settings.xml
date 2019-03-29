@@ -1674,12 +1674,12 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" timestamp="1553835439604">
-        <mark key="'" line="72" column="32" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" timestamp="1553857593638">
+        <mark key="'" line="78" column="32" />
+        <mark key="[" line="75" column="36" />
+        <mark key="]" line="75" column="35" />
+        <mark key="^" line="75" column="35" />
+        <mark key="." line="75" column="35" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/invite/InviteService.java" timestamp="1547197367693">
         <mark key="[" line="100" column="120" />
@@ -5203,17 +5203,17 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>用于生成pdf，接口不鉴权，不过会限制ip为47或者17开头</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoT2JqZWN0cy5ub25OdWxsKHBheWxvYWQuZ2V0U2tpbGwoKSkpIHsKICAgICAgICAgICAgcmVzdW1lRnJvbURiLnNldFNraWxsKHBheWxvYWQuZ2V0U2tpbGwoKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>用于生成pdf，接口不鉴权，不过会限制ip为47或者17开头</text>
+        <text>getHobby</text>
       </register>
       <register name="/" type="4">
         <text>Linked</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAQXBpTW9kZWxQcm9wZXJ0eSgi5ouF5Lu76KeS6ImyIikKICAgICAgICBTdHJpbmcgcm9sZTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoT2JqZWN0cy5ub25OdWxsKHBheWxvYWQuZ2V0U2tpbGwoKSkpIHsKICAgICAgICAgICAgcmVzdW1lRnJvbURiLnNldFNraWxsKHBheWxvYWQuZ2V0U2tpbGwoKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICBTdHJpbmcgbmFtZTsKICAgIFN0cmluZyBwaG9uZTsKCiAgICBwdWJsaWMgdm9pZCBzZXRCYXNpY0luZm8oQmFzaWNJbmZvIGJhc2ljSW5mbykgewogICAgICAgIHRoaXMuYmFzaWNJbmZvID0gYmFzaWNJbmZvOwogICAgICAgIGlmIChPYmplY3RzLm5vbk51bGwoYmFzaWNJbmZvKSkgewogICAgICAgICAgICBpZiAoT2JqZWN0cy5ub25OdWxsKGJhc2ljSW5mby5nZXROYW1lKCkpKSB7CiAgICAgICAgICAgICAgICB0aGlzLm5hbWUgPSBiYXNpY0luZm8uZ2V0TmFtZSgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChPYmplY3RzLm5vbk51bGwoYmFzaWNJbmZvLmdldFBob25lKCkpKSB7CiAgICAgICAgICAgICAgICB0aGlzLnBob25lID0gYmFzaWNJbmZvLmdldFBob25lKCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgfQogICAgfQ==</text>

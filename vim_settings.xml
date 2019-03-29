@@ -2480,7 +2480,7 @@
         <mark key="." line="16" column="10" />
         <mark key="^" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/buildImage-release.sh" timestamp="1553853114685">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/buildImage-release.sh" timestamp="1553853688552">
         <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/UserZanRecordEntity.java" timestamp="1544300834156">
@@ -4362,12 +4362,12 @@
         <mark key="^" line="53" column="76" />
         <mark key="." line="53" column="76" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/airesume/AIResumeController.java" timestamp="1553834314778">
-        <mark key="'" line="58" column="33" />
-        <mark key="[" line="57" column="41" />
-        <mark key="]" line="57" column="40" />
-        <mark key="." line="57" column="40" />
-        <mark key="^" line="57" column="40" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/airesume/AIResumeController.java" timestamp="1553853776977">
+        <mark key="'" line="68" column="33" />
+        <mark key="[" line="57" column="16" />
+        <mark key="]" line="57" column="15" />
+        <mark key="." line="57" column="15" />
+        <mark key="^" line="57" column="15" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/order/constants/OrderConfigConstants.java" timestamp="1553743381723">
         <mark key="[" line="16" column="98" />
@@ -5202,10 +5202,10 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>BasicInfo</text>
+        <text>用于生成pdf，接口不鉴权，不过会限制ip为47或者17开头</text>
       </register>
       <register name="-" type="4">
-        <text>BasicInfo</text>
+        <text>用于生成pdf，接口不鉴权，不过会限制ip为47或者17开头</text>
       </register>
       <register name="/" type="4">
         <text>Linked</text>

@@ -1703,12 +1703,12 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" timestamp="1554117944695">
-        <mark key="'" line="162" column="37" />
-        <mark key="[" line="97" column="58" />
-        <mark key="]" line="98" column="62" />
-        <mark key="." line="98" column="62" />
-        <mark key="^" line="98" column="62" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" timestamp="1554125507357">
+        <mark key="'" line="0" column="10" />
+        <mark key="[" line="138" column="120" />
+        <mark key="]" line="138" column="119" />
+        <mark key="." line="138" column="119" />
+        <mark key="^" line="138" column="119" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/invite/InviteService.java" timestamp="1547197367693">
         <mark key="[" line="100" column="120" />
@@ -5172,8 +5172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="55" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/OrderAdminService.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/stream/src/test.html" />
       <jump line="238" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/pay/campaign/CouponService.java" />
       <jump line="33" column="35" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/stream/Collector.java" />
       <jump line="68" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/adminconfig/CumulativeRewardAdminService.java" />
@@ -5272,6 +5270,8 @@
       <jump line="169" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/freelychat/FreelyChatStudentController.java" />
       <jump line="37" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/lieying/LieyingService.java" />
       <jump line="7" column="57" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_12.01_wy.sql" />
+      <jump line="2" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" />
+      <jump line="0" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

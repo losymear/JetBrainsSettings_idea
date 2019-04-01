@@ -4142,11 +4142,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="49" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/lieying/LieyingController.java" timestamp="1554112530095">
-        <mark key="[" line="42" column="27" />
-        <mark key="]" line="42" column="26" />
-        <mark key="." line="42" column="26" />
-        <mark key="^" line="42" column="26" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/lieying/LieyingController.java" timestamp="1554116013864">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="55" column="27" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_v_7.94.wy.sql" timestamp="1550667418726">
         <mark key="[" line="1" column="0" />
@@ -5277,20 +5277,20 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>miniappOpenIdForAiResume</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOkB3eQo=</text>
       </register>
       <register name="-" type="4">
-        <text>miniappOpenIdForAiResume</text>
+        <text>是否可提交</text>
       </register>
       <register name="/" type="4">
         <text>Linked</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgYHF1bWlhbnNoaWAuYHVzZXJfc2VjcmV0YCBhZGQgY29sdW1uIGBtaW5pYXBwT3BlbklkRm9yQWlSZXN1bWVgIHZhcmNoYXIoNTApIGRlZmF1bHQgbnVsbDsK</text>
+        <text encoding="base64">ICAgIEBSb2xlU3R1ZGVudAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBtaW5pYXBwT3BlbklkRm9yTGllWWluZzsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOkB3eQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5355,25 +5355,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsaWV5aW5nU2VydmljZS5hcHBseShzdHVkZW50QWxsLmdldFByb2ZpbGUoKSwgcGF5bG9hZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEN1cnJlbnRVc2VyIFVzZXJBbGwgc3R1ZGVudEFsbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RCb2R5IExpZXlpbmdBcHBseURPIHBheWxvYWQK</text>
+        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBtaW5pYXBwT3BlbklkRm9yTGllWWluZzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCJwcmV2aWV3IikK</text>
+        <text encoding="base64">ICAgICAgICBsaWV5aW5nU2VydmljZS5hcHBseShzdHVkZW50QWxsLmdldFByb2ZpbGUoKSwgcGF5bG9hZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiYXBwbHkiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RCb2R5IExpZXlpbmdBcHBseURPIHBheWxvYWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0Lm9rKAo=</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCJwcmV2aWV3IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiYXBwbHkiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0Lm9rKAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

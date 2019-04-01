@@ -1204,9 +1204,9 @@
         <mark key="^" line="38" column="59" />
         <mark key="." line="38" column="59" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_12.01_wy.sql" timestamp="1554112894256">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_12.01_wy.sql" timestamp="1554117646311">
         <mark key="'" line="7" column="57" />
-        <mark key="[" line="19" column="0" />
+        <mark key="[" line="15" column="20" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -1703,12 +1703,12 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" timestamp="1554102930810">
-        <mark key="'" line="150" column="37" />
-        <mark key="[" line="155" column="30" />
-        <mark key="]" line="155" column="29" />
-        <mark key="." line="155" column="29" />
-        <mark key="^" line="155" column="29" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" timestamp="1554117944695">
+        <mark key="'" line="162" column="37" />
+        <mark key="[" line="97" column="58" />
+        <mark key="]" line="98" column="62" />
+        <mark key="." line="98" column="62" />
+        <mark key="^" line="98" column="62" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/invite/InviteService.java" timestamp="1547197367693">
         <mark key="[" line="100" column="120" />
@@ -3169,7 +3169,7 @@
         <mark key="." line="14" column="4" />
         <mark key="^" line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_12.00_wy.sql" timestamp="1554103389065">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_12.00_wy.sql" timestamp="1554117639024">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="3" column="115" />
         <mark key="^" line="3" column="115" />
@@ -5277,17 +5277,17 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOkB3eQo=</text>
+      <register name="&quot;" type="4">
+        <text>2018-03-01</text>
       </register>
       <register name="-" type="4">
-        <text>是否可提交</text>
+        <text>2018-03-01</text>
       </register>
       <register name="/" type="4">
         <text>Linked</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBSb2xlU3R1ZGVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdC5zZXRTdGFydFRpbWUoIjIwMTgtMDMtMDEiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOkB3eQo=</text>

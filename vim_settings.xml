@@ -1690,12 +1690,12 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" timestamp="1554088630155">
-        <mark key="'" line="79" column="32" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="79" />
-        <mark key="^" line="40" column="45" />
-        <mark key="." line="40" column="45" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" timestamp="1554091155899">
+        <mark key="'" line="103" column="32" />
+        <mark key="[" line="61" column="19" />
+        <mark key="]" line="63" column="42" />
+        <mark key="." line="63" column="42" />
+        <mark key="^" line="63" column="42" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/invite/InviteService.java" timestamp="1547197367693">
         <mark key="[" line="100" column="120" />
@@ -4401,12 +4401,12 @@
         <mark key="^" line="53" column="76" />
         <mark key="." line="53" column="76" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/airesume/AIResumeController.java" timestamp="1554089419114">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/airesume/AIResumeController.java" timestamp="1554090756705">
         <mark key="'" line="45" column="33" />
-        <mark key="[" line="47" column="51" />
-        <mark key="]" line="47" column="50" />
-        <mark key="." line="47" column="50" />
-        <mark key="^" line="47" column="50" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/order/constants/OrderConfigConstants.java" timestamp="1553743381723">
         <mark key="[" line="16" column="98" />
@@ -5240,20 +5240,20 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>findById</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>findById</text>
+        <text>setBirthDay(&quot;2019-10-01&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>Linked</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExpc3Q8QWlSZXN1bWVSYXdETz4gZmluZEJ5VXNlcklkKEludGVnZXIgdXNlcklkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC5zZXRTdGFydFRpbWUoIjIwMTgtMTAiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW5pcXVlSWQ9IDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5324,10 +5324,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBQT1NUKCJvYXV0aDIvZ2V0X3Rva2VuX2luZm8iKQogICAgQ2FsbDxUb2tlbkluZm9SZXNwb25zZT4gZ2V0VG9rZW5JbmZvKEBCb2R5IFRva2VuSW5mb1JlcXVlc3QgdG9rZW5JbmZvUmVxdWVzdCk7CgogICAgQFBPU1QoIm9hdXRoMi9yZXZva2VvYXV0aDIiKQogICAgQ2FsbDxSZXZva2VSZXNwb25zZT4gcmV2b2tlb2F1dGgyKEBCb2R5IFJldm9rZVJlcXVlc3QgcmV2b2tlUmVxdWVzdCk7CgogICAgQEdFVCgiMi91c2Vycy9zaG93Lmpzb24iKQogICAgQ2FsbDxVc2VySW5mb1Jlc3BvbnNlPiBnZXRVc2VySW5mbyhAUXVlcnkoImFjY2Vzc190b2tlbiIpIFN0cmluZyBhY2Nlc3NUb2tlbiwgQFF1ZXJ5KCJ1aWQiKSBJbnRlZ2VyIHVpZCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5pcXVlSWQ9IDsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -5336,10 +5336,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBQT1NUKCJvYXV0aDIvZ2V0X3Rva2VuX2luZm8iKQogICAgQ2FsbDxUb2tlbkluZm9SZXNwb25zZT4gZ2V0VG9rZW5JbmZvKEBCb2R5IFRva2VuSW5mb1JlcXVlc3QgdG9rZW5JbmZvUmVxdWVzdCk7CgogICAgQFBPU1QoIm9hdXRoMi9yZXZva2VvYXV0aDIiKQogICAgQ2FsbDxSZXZva2VSZXNwb25zZT4gcmV2b2tlb2F1dGgyKEBCb2R5IFJldm9rZVJlcXVlc3QgcmV2b2tlUmVxdWVzdCk7CgogICAgQEdFVCgiMi91c2Vycy9zaG93Lmpzb24iKQogICAgQ2FsbDxVc2VySW5mb1Jlc3BvbnNlPiBnZXRVc2VySW5mbyhAUXVlcnkoImFjY2Vzc190b2tlbiIpIFN0cmluZyBhY2Nlc3NUb2tlbiwgQFF1ZXJ5KCJ1aWQiKSBJbnRlZ2VyIHVpZCk7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

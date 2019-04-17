@@ -2332,11 +2332,12 @@
         <mark key="^" line="26" column="22" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/Jenkinsfile-onlinetest" timestamp="1555484215970">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="12" />
-        <mark key="^" line="8" column="12" />
-        <mark key="." line="8" column="12" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/Jenkinsfile-onlinetest" timestamp="1555485756478">
+        <mark key="'" line="5" column="14" />
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="14" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Service/DigestCheckService.java" timestamp="1543072159572">
         <mark key="[" line="45" column="59" />
@@ -2972,12 +2973,12 @@
         <mark key="." line="18" column="75" />
         <mark key="^" line="18" column="75" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/configuration/security/qms/QmsAuthenticator.java" timestamp="1555484971633">
-        <mark key="'" line="193" column="46" />
-        <mark key="[" line="158" column="21" />
-        <mark key="]" line="158" column="20" />
-        <mark key="^" line="158" column="20" />
-        <mark key="." line="158" column="20" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/configuration/security/qms/QmsAuthenticator.java" timestamp="1555485845781">
+        <mark key="'" line="194" column="46" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="173" column="18" />
+        <mark key="^" line="173" column="18" />
+        <mark key="." line="173" column="18" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/elasticjob/SkuAutoDenyJob.java" timestamp="1552013646582">
         <mark key="[" line="20" column="0" />
@@ -6086,7 +6087,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="25" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Comparator.java" />
       <jump line="0" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Comparator.java" />
       <jump line="533" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Comparator.java" />
       <jump line="5157" column="25" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Collections.java" />
@@ -6186,6 +6186,7 @@
       <jump line="180" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/pom.xml" />
       <jump line="191" column="46" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/configuration/security/qms/QmsAuthenticator.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/Dockerfile-release" />
+      <jump line="5" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/Jenkinsfile-onlinetest" />
     </jumps>
     <registers>
       <register name="a" type="4">

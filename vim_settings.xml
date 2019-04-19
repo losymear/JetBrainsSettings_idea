@@ -415,11 +415,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/baidu/BaiduBaomingDO.java" timestamp="1555684021340">
-        <mark key="[" line="39" column="26" />
-        <mark key="]" line="39" column="25" />
-        <mark key="." line="39" column="25" />
-        <mark key="^" line="39" column="25" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/baidu/BaiduBaomingDO.java" timestamp="1555686720275">
+        <mark key="[" line="54" column="16" />
+        <mark key="]" line="42" column="25" />
+        <mark key="." line="42" column="25" />
+        <mark key="^" line="42" column="25" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/deployed/create_vv_12.06_wy.sql" timestamp="1554273866186">
         <mark key="[" line="1" column="0" />
@@ -3797,7 +3797,7 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/service/user/MiniappLoginService.java" timestamp="1555505371772">
         <mark key="[" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduController.java" timestamp="1555576699064">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduController.java" timestamp="1555686552026">
         <mark key="[" line="132" column="29" />
         <mark key="]" line="132" column="28" />
         <mark key="^" line="132" column="28" />
@@ -6002,8 +6002,8 @@
         <mark key="^" line="37" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/deployed/create_vv_13.02_wy.sql" timestamp="1555684003902">
-        <mark key="[" line="0" column="88" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/deployed/create_vv_13.02_wy.sql" timestamp="1555686724923">
+        <mark key="[" line="1" column="0" />
         <mark key="]" line="0" column="87" />
         <mark key="." line="0" column="87" />
         <mark key="^" line="0" column="87" />
@@ -6190,11 +6190,11 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLlrabnlJ/lp5PlkI0iKQogICAgU3RyaW5nIG5hbWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>学生姓名</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>学生姓名</text>
       </register>
       <register name="/" type="4">
         <text>refreshT</text>

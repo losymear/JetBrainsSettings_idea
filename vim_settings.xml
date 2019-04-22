@@ -1997,12 +1997,12 @@
         <mark key="^" line="143" column="39" />
         <mark key="." line="143" column="39" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AiResumeClient.java" timestamp="1555744004635">
-        <mark key="'" line="42" column="35" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="39" column="49" />
-        <mark key="." line="50" column="29" />
-        <mark key="^" line="50" column="29" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AiResumeClient.java" timestamp="1555915202128">
+        <mark key="'" line="37" column="30" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/helper/DigestCheckService.java" timestamp="1544150631441">
         <mark key="[" line="48" column="98" />
@@ -6408,7 +6408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/invite/QrcodeService.java" />
       <jump line="43" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/invite/QrcodeService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/invite/QrcodeService.java" />
       <jump line="32" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/pom.xml" />
@@ -6508,6 +6507,7 @@
       <jump line="31" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/dingding/DingRobotManager.java" />
       <jump line="62" column="1" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/dingding/DingRobotManager.java" />
       <jump line="10" column="17" filename="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/repo/repository/UserRepo.java" />
+      <jump line="37" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AiResumeClient.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

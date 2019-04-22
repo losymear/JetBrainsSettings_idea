@@ -383,7 +383,6 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/CouponAdminController.java" timestamp="1555748543610" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/umentpush/ios/IOSFilecast.java" timestamp="1545397512198">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="20" column="0" />
@@ -543,8 +542,8 @@
         <mark key="^" line="113" column="36" />
         <mark key="." line="113" column="36" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/repo/domain/UserDO.java" timestamp="1555905451851">
-        <mark key="[" line="25" column="17" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/repo/domain/UserDO.java" timestamp="1555905759729">
+        <mark key="[" line="62" column="48" />
         <mark key="]" line="26" column="3" />
         <mark key="." line="26" column="3" />
         <mark key="^" line="26" column="3" />
@@ -2202,11 +2201,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/configuration/security/MiniappAuthenticationProvider.java" timestamp="1555576451800">
-        <mark key="[" line="27" column="38" />
-        <mark key="]" line="27" column="37" />
-        <mark key="." line="27" column="37" />
-        <mark key="^" line="27" column="37" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/configuration/security/MiniappAuthenticationProvider.java" timestamp="1555906015646">
+        <mark key="[" line="32" column="56" />
+        <mark key="]" line="32" column="55" />
+        <mark key="." line="32" column="55" />
+        <mark key="^" line="32" column="55" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/service/miniapp/MiniappServiceManager.java" timestamp="1555676903215">
         <mark key="[" line="84" column="21" />
@@ -2421,6 +2420,10 @@
         <mark key="]" line="95" column="24" />
         <mark key="^" line="95" column="24" />
         <mark key="." line="95" column="24" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/daemon/TokenExpireDaemon.java" timestamp="1555905819950">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="42" column="36" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/pom.xml" timestamp="1555487194080">
         <mark key="[" line="173" column="21" />
@@ -3085,11 +3088,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/cronjob/job/AccountJob.java" timestamp="1555905543825">
-        <mark key="[" line="25" column="101" />
-        <mark key="]" line="25" column="100" />
-        <mark key="^" line="25" column="100" />
-        <mark key="." line="25" column="100" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/cronjob/job/AccountJob.java" timestamp="1555905846035">
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="35" column="25" />
+        <mark key="." line="35" column="25" />
+        <mark key="^" line="35" column="25" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/repo2/src/main/java/configuration/RepoConfiguration.java" timestamp="1555471787925">
         <mark key="[" line="40" column="0" />
@@ -6510,7 +6513,7 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5FeHBpcmVUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgKyA4NjQwMCAqIDEwMDAgKiAxNTsK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="-" type="4">
         <text>unionId</text>
@@ -6519,10 +6522,10 @@
         <text>refreshT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5FeHBpcmVUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgKyA4NjQwMCAqIDEwMDAgKiAxNTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog6YeN572udG9rZW7vvIzlsI/ml7bph43nva7kuIDmrKEKICAgICAqLwogICAgQFNjaGVkdWxlZChjcm9uID0gIjAgMCAqICogKiAqIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiYWlkdUJhb21pbmdSZXBvLnNhdmUocGF5bG9hZCk7Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6587,28 +6590,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFpZHVCYW9taW5nUmVwby5zYXZlKHBheWxvYWQpOwo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBTY2hlZHVsZWQoY3JvbiA9ICIwIDUgMCAqICogTU9OIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWlkdUJhb21pbmdSZXBvLnNhdmUocGF5bG9hZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFpZHVCYW9taW5nUmVwby5zYXZlKHBheWxvYWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFRyYW5zYWN0aW9uYWwobm9Sb2xsYmFja0ZvciA9IEV4Y2VwdGlvbi5jbGFzcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBTY2hlZHVsZWQoY3JvbiA9ICIwIDUgMCAqICogTU9OIikK</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

@@ -2667,10 +2667,6 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/FreelyChatDetailDO.java" timestamp="1556084305122">
-        <mark key="[" line="39" column="15" />
-        <mark key="]" line="26" column="35" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/resumediagnose/ResumeDiagnoseStudentController.java" timestamp="1555049902750">
         <mark key="[" line="78" column="11" />
         <mark key="]" line="106" column="54" />
@@ -4927,6 +4923,13 @@
         <mark key="^" line="14" column="50" />
         <mark key="." line="14" column="50" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/summary/SummaryService.java" timestamp="1556092037898">
+        <mark key="'" line="17" column="6" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/wechat/WechatMpTicketDTO.java" timestamp="1555399042900">
         <mark key="[" line="14" column="9" />
         <mark key="]" line="15" column="19" />
@@ -6553,8 +6556,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/elasticsearch/CompanyTagEsService.java" />
-      <jump line="74" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/WyTestController.java" />
       <jump line="48" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/elasticsearch/CompanyTagEsService.java" />
       <jump line="67" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduController.java" />
       <jump line="91" column="78" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduController.java" />
@@ -6653,13 +6654,15 @@
       <jump line="22" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/error/GlobalErrorHandler.java" />
       <jump line="27" column="50" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/test/java/com/zhiri/qumianshi/controller/configuration/security/AuthenticationTokenFilterTest.java" />
       <jump line="40" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/fakeresume/FakeResumeAdminController.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/summary/SummaryService.java" />
+      <jump line="17" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/summary/SummaryService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>workAward</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>workAward</text>
@@ -6671,7 +6674,7 @@
         <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24oIuiOt+WPluW3peS9nOe7j+WOhuWIl+ihqCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgQ2FtcHVzRXhwc0RPCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6736,28 +6739,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0Lm9rKFFtc1BhZ2VSZXMub2Yod29ya0V4cHNSZXBvLmZpbmRBbGwocGFnZWFibGUpKSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGdldFRvZGF5UmVjb3JkKCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBRQ2FtcHVzRXhwc0RPIHFDYW1wdXNFeHBzRE8gPSBRQ2FtcHVzRXhwc0RPLmNhbXB1c0V4cHNETzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0Lm9rKFFtc1BhZ2VSZXMub2YoY2FtcHVzRXhwc1JlcG8uZmluZEFsbChwYWdlYWJsZSkpKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBzdW1tYXJ5RE9TYXZlLnNldFByb3BlcnRpZXMoc3VtbWFyeURPKTsK</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

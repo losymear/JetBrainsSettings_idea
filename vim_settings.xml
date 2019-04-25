@@ -395,6 +395,7 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/CouponAdminController.java" timestamp="1556160495305" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/umentpush/ios/IOSFilecast.java" timestamp="1545397512198">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="20" column="0" />
@@ -953,7 +954,6 @@
         <mark key="." line="10" column="4" />
         <mark key="^" line="10" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.11.RELEASE/spring-data-commons-2.0.11.RELEASE-sources.jar!/org/springframework/data/web/PageableDefault.java" timestamp="1556095085566" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/repo2/src/main/java/domian/FreelyChatDetailDO.java" timestamp="1555467778719">
         <mark key="[" line="23" column="1" />
         <mark key="]" line="23" column="0" />
@@ -3759,7 +3759,7 @@
         <mark key="." line="44" column="30" />
         <mark key="^" line="44" column="30" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/StudentAppController.java" timestamp="1555405824434">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/student/StudentAppController.java" timestamp="1556161833489">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="52" column="27" />
         <mark key="^" line="92" column="32" />
@@ -5416,6 +5416,12 @@
         <mark key="^" line="14" column="27" />
         <mark key="." line="14" column="27" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/IndustryDirectionComponent.java" timestamp="1556162641268">
+        <mark key="[" line="53" column="9" />
+        <mark key="]" line="53" column="8" />
+        <mark key="." line="53" column="8" />
+        <mark key="^" line="53" column="8" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/src/main/java/com/zhiri/qumianshi/elasticdaemon/service/ElasticJobHandler.java" timestamp="1553587920337">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -6252,6 +6258,12 @@
         <mark key="^" line="48" column="26" />
         <mark key="." line="48" column="26" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/dto/ResumeDirectionDTO.java" timestamp="1556161996416">
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="29" column="26" />
+        <mark key="^" line="29" column="26" />
+        <mark key="." line="29" column="26" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/FieldRepository.java" timestamp="1548157186042">
         <mark key="[" line="21" column="42" />
         <mark key="]" line="21" column="41" />
@@ -6659,20 +6671,35 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFBhZ2VhYmxlRGVmYXVsdCgpIFBhZ2VhYmxlIHBhZ2VhYmxlCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;互联网&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>page</text>
+        <text>&quot;互联网&quot;</text>
       </register>
       <register name="/" type="4">
         <text>refreshT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgicGFnZSIpIEludGVnZXIgcGFnZSwKICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJzaXplIiwgZGVmYXVsdFZhbHVlID0gIjEwIikgSW50ZWdlciBzaXplCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2ViRGlyZWN0aW9ucy5hZGQoUmVzdW1lRGlyZWN0aW9uRFRPLmJ1aWxkZXIoKS5kaXJlY3Rpb24oIuW4guWcuuaWueWQkSIpCiAgICAgICAgICAgICAgICAgICAgLmRlc2NyaXB0aW9uKCLnlKjmiLfosIPnoJTvvIzpnIDmsYLmsYfmgLvnur/kuIrnur/kuIvmtLvliqjnrZbliJLkuI7mjqjlub/mi5PlsZXnlKjmiLfvvIzmi4nmlrDmjqjlub8iKQogICAgICAgICAgICAgICAgICAgIC5zb2Z0d2FyZVNraWxsKCJXb3Jk44CBZXhjZWzjgIFwb3dlcnBvaW5044CBUGhvdG9zaG9w44CBQWRvYmUgSWxsdXN0cmF0b3LjgIFYbWluZOOAgU1vY2twbHVz44CBQXh1cmUgUlDjgIHloqjliIDjgIFza2V0Y2jjgIFUZWFtYml0aW9u44CBdmlzaW/jgIFwcm9jZXNzb27jgIFBZG9iZSBQcmVtaWVyZSIpCiAgICAgICAgICAgICAgICAgICAgLnNraWxsKCLnlKjmiLfnoJTnqbbjgIHnu4Tnu4fljY/osIPjgIHpobnnm67nrqHnkIbjgIHmlbDmja7liIbmnpDjgIHkuqTkupLorr7orqHjgIHluILlnLrosIPmn6XjgIHliY3nq6/lvIDlj5HjgIHlkI7nq6/lvIDlj5HjgIFKQVZB57yW56iL44CB6KeG6aKR5Ymq6L6R44CBVUnorr7orqHjgIHlrabkuaDog73lipvjgIHmsp/pgJrog73lipvjgIHmiafooYzog73lipvjgIHnu4Tnu4fpooblr7wiKQogICAgICAgICAgICAgICAgICAgIC5sYW5ndWFnZVNraWxsKCLoi7Hor61DRVQtNOOAgeiLseivrUNFVC0244CB6Iux6K+tVEVNLTTjgIHoi7Hor61URU0tOOOAgeaJmOS4muOAgVRPRUZM44CBR1JF44CBR01BQVTjgIHml6Xor63jgIHpn6nor63jgIHms5Xor63jgIHkv4Tor63jgIHlvrfor63jgIHopb/nj63niZnor63jgIHokaHokITniZnor60iKS5idWlsZCgpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFBhZ2VhYmxlRGVmYXVsdCgpIFBhZ2VhYmxlIHBhZ2VhYmxlCg==</text>
+      <register name="1" type="4">
+        <text>&quot;\&quot;英语CET-4、英语CET-6、英语TEM-4、
+                            &quot;英语TEM-8\n&quot; +
+                            &quot;托业\n&quot; +
+                            &quot;TOEFL\n&quot; +
+                            &quot;GRE\n&quot; +
+                            &quot;GMAT\n&quot; +
+                            &quot;日语\n&quot; +
+                            &quot;韩语\n&quot; +
+                            &quot;法语\n&quot; +
+                            &quot;俄语\n&quot; +
+                            &quot;德语\n&quot; +
+                            &quot;西班牙语\n&quot; +
+                            &quot;葡萄牙语\n&quot; +
+                            &quot;\&quot;\n&quot; +
+                            &quot;\n&quot; +
+                            &quot;\n&quot;</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6736,29 +6763,48 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFBhZ2VhYmxlRGVmYXVsdCgpIFBhZ2VhYmxlIHBhZ2VhYmxlCg==</text>
+      <register name="2" type="4">
+        <text>ResumeDirectionDTO.builder().direction(&quot;产品方向&quot;)
+                    .description(&quot;需求分析，需求整理产品功能设计，交互设计推动项目进度，测试验收&quot;)
+                    .softwareSkill(&quot;Word、excel、powerpoint、Photoshop、Adobe Illustrator、Xmind、Mockplus、Axure RP、墨刀、sketch、Teambition、visio、processon、Adobe Premiere&quot;)
+                    .skill(&quot;用户研究、组织协调、项目管理、数据分析、交互设计、市场调查、前端开发、后端开发、JAVA编程、视频剪辑、UI设计、学习能力、沟通能力、执行能力、组织领导&quot;)
+                    .languageSkill(&quot;\&quot;英语CET-4、英语CET-6、英语TEM-4、
+                            &quot;英语TEM-8\n&quot; +
+                            &quot;托业\n&quot; +
+                            &quot;TOEFL\n&quot; +
+                            &quot;GRE\n&quot; +
+                            &quot;GMAT\n&quot; +
+                            &quot;日语\n&quot; +
+                            &quot;韩语\n&quot; +
+                            &quot;法语\n&quot; +
+                            &quot;俄语\n&quot; +
+                            &quot;德语\n&quot; +
+                            &quot;西班牙语\n&quot; +
+                            &quot;葡萄牙语\n&quot; +
+                            &quot;\&quot;\n&quot; +
+                            &quot;\n&quot; +
+                            &quot;\n&quot;)</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQFBhZ2VhYmxlRGVmYXVsdCgpIFBhZ2VhYmxlIHBhZ2VhYmxlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFBhZ2VhYmxlRGVmYXVsdCgpIFBhZ2VhYmxlIHBhZ2VhYmxlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFBhZ2VhYmxlRGVmYXVsdCgpIFBhZ2VhYmxlIHBhZ2VhYmxlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRlbnQgPSAi5rWL6K+V5pyNOiAiICsgY29udGVudDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFPYmplY3RzLmVxdWFscyhwcm9maWxlLCAicHJvZCIpKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

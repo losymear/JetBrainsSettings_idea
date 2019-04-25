@@ -966,11 +966,11 @@
         <mark key="^" line="181" column="72" />
         <mark key="." line="181" column="72" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/adminconfigurable/SpecialTopicRepo.java" timestamp="1551444868837">
-        <mark key="[" line="18" column="48" />
-        <mark key="]" line="18" column="21" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/adminconfigurable/SpecialTopicRepo.java" timestamp="1556171049985">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="25" />
         <mark key="^" line="18" column="21" />
-        <mark key="." line="18" column="21" />
+        <mark key="." line="19" column="25" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/configuration/security/role/RoleAdmin.java" timestamp="1551785339740">
         <mark key="[" line="10" column="19" />
@@ -3785,6 +3785,7 @@
         <mark key="." line="19" column="91" />
         <mark key="^" line="19" column="91" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_14.01_wy.sql" timestamp="1556172055907" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Repository/FieldRepository.java" timestamp="1543026377756">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="19" column="44" />
@@ -4118,6 +4119,12 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/adminconfigurable/SpecialTopicDO.java" timestamp="1556171956057">
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Controller/LoginController.java" timestamp="1543073558747">
         <mark key="[" line="22" column="7" />
         <mark key="]" line="23" column="13" />
@@ -4233,11 +4240,11 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/specialtopic/SpecialTopicDTO.java" timestamp="1551445022630">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="14" />
-        <mark key="." line="14" column="14" />
-        <mark key="^" line="14" column="14" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/specialtopic/SpecialTopicDTO.java" timestamp="1556171977332">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="20" column="19" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/dto/Result.java" timestamp="1555489039124">
         <mark key="[" line="73" column="0" />
@@ -4433,11 +4440,11 @@
         <mark key="^" line="20" column="28" />
         <mark key="." line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/specialtopic/SpecialTopicAdminService.java" timestamp="1553169710897">
-        <mark key="[" line="5" column="41" />
-        <mark key="]" line="6" column="57" />
-        <mark key="." line="6" column="57" />
-        <mark key="^" line="6" column="57" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/specialtopic/SpecialTopicAdminService.java" timestamp="1556172005294">
+        <mark key="[" line="43" column="33" />
+        <mark key="]" line="43" column="53" />
+        <mark key="." line="43" column="53" />
+        <mark key="^" line="43" column="53" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/challenge/dto/ChallangePackage.java" timestamp="1544685444233">
         <mark key="[" line="9" column="1" />
@@ -4487,11 +4494,11 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/specialtopic/SpecialTopicAdminController.java" timestamp="1556166444067">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="76" column="1" />
-        <mark key="^" line="76" column="1" />
-        <mark key="." line="76" column="1" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/specialtopic/SpecialTopicAdminController.java" timestamp="1556171201021">
+        <mark key="[" line="65" column="64" />
+        <mark key="]" line="65" column="63" />
+        <mark key="^" line="65" column="63" />
+        <mark key="." line="65" column="63" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/InterviewRepo.java" timestamp="1550224246673">
         <mark key="[" line="83" column="0" />
@@ -4775,6 +4782,9 @@
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/dingding/retrofit/DingdingClient.java" timestamp="1556094624606">
         <mark key="[" line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/deployed/create_v8.5.wy.sql" timestamp="1556170877829">
+        <mark key="[" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/retrofit/WechatPayApi.java" timestamp="1555743824609">
         <mark key="[" line="19" column="32" />
@@ -5092,9 +5102,9 @@
         <mark key="." line="67" column="113" />
         <mark key="^" line="67" column="113" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/OrderEntity.java" timestamp="1555049697712">
-        <mark key="[" line="286" column="65" />
-        <mark key="]" line="104" column="32" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/OrderEntity.java" timestamp="1556170943763">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="32" />
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
@@ -5782,11 +5792,6 @@
         <mark key="]" line="31" column="42" />
         <mark key="^" line="31" column="42" />
         <mark key="." line="31" column="42" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/dingding/DingRobotManager.java" timestamp="1556094595438">
-        <mark key="'" line="62" column="1" />
-        <mark key="[" line="26" column="40" />
-        <mark key="]" line="27" column="19" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/kuakua/KuaServiceTest.java" timestamp="1555334157862">
         <mark key="'" line="63" column="20" />
@@ -6675,19 +6680,19 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBSb2xlU3R1ZGVudAo=</text>
+        <text encoding="base64">ICAgICAgICBzcGVjaWFsVG9waWNETy5zZXREZWwoMCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TGlzdDxTdHJpbmc+</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>refreshT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5kdXN0cmllcy5hZGQoaW5kdXN0cnlGaW5hbmNlKTsK</text>
+        <text encoding="base64">ICAgICAgICBzcGVjaWFsVG9waWNETy5zZXREZWwoMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBSb2xlU3R1ZGVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6758,10 +6763,10 @@
         <text encoding="base64">ICAgIEBSb2xlU3R1ZGVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBSb2xlU3R1ZGVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -6769,7 +6774,10 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>&quot;\&quot;英语CET-4、英语CET-6、英语TEM-4、
                             &quot;英语TEM-8\n&quot; +
                             &quot;托业\n&quot; +
@@ -6786,28 +6794,6 @@
                             &quot;\&quot;\n&quot; +
                             &quot;\n&quot; +
                             &quot;\n&quot;</text>
-      </register>
-      <register name="9" type="4">
-        <text>ResumeDirectionDTO.builder().direction(&quot;产品方向&quot;)
-                    .description(&quot;需求分析，需求整理产品功能设计，交互设计推动项目进度，测试验收&quot;)
-                    .softwareSkill(&quot;Word、excel、powerpoint、Photoshop、Adobe Illustrator、Xmind、Mockplus、Axure RP、墨刀、sketch、Teambition、visio、processon、Adobe Premiere&quot;)
-                    .skill(&quot;用户研究、组织协调、项目管理、数据分析、交互设计、市场调查、前端开发、后端开发、JAVA编程、视频剪辑、UI设计、学习能力、沟通能力、执行能力、组织领导&quot;)
-                    .languageSkill(&quot;\&quot;英语CET-4、英语CET-6、英语TEM-4、
-                            &quot;英语TEM-8\n&quot; +
-                            &quot;托业\n&quot; +
-                            &quot;TOEFL\n&quot; +
-                            &quot;GRE\n&quot; +
-                            &quot;GMAT\n&quot; +
-                            &quot;日语\n&quot; +
-                            &quot;韩语\n&quot; +
-                            &quot;法语\n&quot; +
-                            &quot;俄语\n&quot; +
-                            &quot;德语\n&quot; +
-                            &quot;西班牙语\n&quot; +
-                            &quot;葡萄牙语\n&quot; +
-                            &quot;\&quot;\n&quot; +
-                            &quot;\n&quot; +
-                            &quot;\n&quot;)</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

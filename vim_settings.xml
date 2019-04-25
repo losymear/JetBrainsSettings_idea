@@ -1767,6 +1767,9 @@
         <mark key="^" line="21" column="44" />
         <mark key="." line="21" column="44" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.1.12/rxjava-2.1.12-sources.jar!/io/reactivex/Completable.java" timestamp="1556189753601">
+        <mark key="'" line="863" column="26" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/freelychat/dto/ChatRequestDTO.java" timestamp="1550646165265">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -3065,6 +3068,13 @@
         <mark key="]" line="8" column="14" />
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/rxjava/src/test/java/com/losymear/rxjava/DefferedDependentTest.java" timestamp="1556190029133">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/student/CheckInRepo.java" timestamp="1547706555554">
         <mark key="[" line="23" column="0" />
@@ -6048,8 +6058,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="78" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduController.java" />
-      <jump line="234" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/LoginSmsService.java" />
       <jump line="202" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/LoginSmsService.java" />
       <jump line="108" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduController.java" />
       <jump line="25" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduService.java" />
@@ -6148,13 +6156,15 @@
       <jump line="17" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/summary/SummaryService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/QumianshiApplication.java" />
       <jump line="18" column="8" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/rxjava/src/test/java/com/losymear/rxjava/flowable/RangeTest.java" />
+      <jump line="863" column="26" filename="$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.1.12/rxjava-2.1.12-sources.jar!/io/reactivex/Completable.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/rxjava/src/test/java/com/losymear/rxjava/DefferedDependentTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0KCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>!visitRecordFind.isPresent()</text>
@@ -6166,7 +6176,7 @@
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0KCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9zYXZlIHZpc2l0IHJlY29yZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6231,28 +6241,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBpbmR1c3RyeTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBpbmR1c3RyeTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9zYXZlIHZpc2l0IHJlY29yZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBSb2xlU3R1ZGVudAo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBpbmR1c3RyeTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBSb2xlU3R1ZGVudAo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBpbmR1c3RyeTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBSb2xlU3R1ZGVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

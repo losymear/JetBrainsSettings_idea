@@ -2481,11 +2481,12 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/QumianshiApplication.java" timestamp="1555561376832">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="14" column="13" />
-        <mark key="^" line="14" column="13" />
-        <mark key="." line="14" column="13" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/QumianshiApplication.java" timestamp="1556164796259">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/InterviewServiceTest.java" timestamp="1545723867865">
         <mark key="[" line="65" column="14" />
@@ -2566,11 +2567,11 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="27" column="25" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/daemon/BaiduStatisticDaemon.java" timestamp="1556095346894">
-        <mark key="[" line="46" column="9" />
-        <mark key="]" line="46" column="8" />
-        <mark key="^" line="46" column="8" />
-        <mark key="." line="46" column="8" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/daemon/BaiduStatisticDaemon.java" timestamp="1556165023018">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/interviewer/InterviewerProfile.java" timestamp="1555403328290">
         <mark key="[" line="42" column="12" />
@@ -5416,11 +5417,11 @@
         <mark key="^" line="14" column="27" />
         <mark key="." line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/IndustryDirectionComponent.java" timestamp="1556162641268">
-        <mark key="[" line="53" column="9" />
-        <mark key="]" line="53" column="8" />
-        <mark key="." line="53" column="8" />
-        <mark key="^" line="53" column="8" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/IndustryDirectionComponent.java" timestamp="1556164717130">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="20" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/src/main/java/com/zhiri/qumianshi/elasticdaemon/service/ElasticJobHandler.java" timestamp="1553587920337">
         <mark key="[" line="75" column="0" />
@@ -5664,12 +5665,12 @@
         <mark key="^" line="53" column="76" />
         <mark key="." line="53" column="76" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/airesume/AIResumeController.java" timestamp="1554355423725">
-        <mark key="'" line="131" column="45" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="37" column="31" />
-        <mark key="." line="127" column="36" />
-        <mark key="^" line="127" column="36" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/airesume/AIResumeController.java" timestamp="1556164741589">
+        <mark key="'" line="135" column="45" />
+        <mark key="[" line="150" column="63" />
+        <mark key="]" line="150" column="70" />
+        <mark key="^" line="150" column="70" />
+        <mark key="." line="150" column="70" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/user/UserConfig.java" timestamp="1543405477674">
         <mark key="[" line="9" column="16" />
@@ -6566,7 +6567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/elasticsearch/CompanyTagEsService.java" />
       <jump line="67" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduController.java" />
       <jump line="91" column="78" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduController.java" />
       <jump line="234" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/LoginSmsService.java" />
@@ -6666,40 +6666,26 @@
       <jump line="40" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/fakeresume/FakeResumeAdminController.java" />
       <jump line="24" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/summary/SummaryService.java" />
       <jump line="17" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/summary/SummaryService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/QumianshiApplication.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;互联网&quot;</text>
+        <text encoding="base64">TGlzdDxTdHJpbmc+</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;互联网&quot;</text>
+        <text encoding="base64">TGlzdDxTdHJpbmc+</text>
       </register>
       <register name="/" type="4">
         <text>refreshT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2ViRGlyZWN0aW9ucy5hZGQoUmVzdW1lRGlyZWN0aW9uRFRPLmJ1aWxkZXIoKS5kaXJlY3Rpb24oIuW4guWcuuaWueWQkSIpCiAgICAgICAgICAgICAgICAgICAgLmRlc2NyaXB0aW9uKCLnlKjmiLfosIPnoJTvvIzpnIDmsYLmsYfmgLvnur/kuIrnur/kuIvmtLvliqjnrZbliJLkuI7mjqjlub/mi5PlsZXnlKjmiLfvvIzmi4nmlrDmjqjlub8iKQogICAgICAgICAgICAgICAgICAgIC5zb2Z0d2FyZVNraWxsKCJXb3Jk44CBZXhjZWzjgIFwb3dlcnBvaW5044CBUGhvdG9zaG9w44CBQWRvYmUgSWxsdXN0cmF0b3LjgIFYbWluZOOAgU1vY2twbHVz44CBQXh1cmUgUlDjgIHloqjliIDjgIFza2V0Y2jjgIFUZWFtYml0aW9u44CBdmlzaW/jgIFwcm9jZXNzb27jgIFBZG9iZSBQcmVtaWVyZSIpCiAgICAgICAgICAgICAgICAgICAgLnNraWxsKCLnlKjmiLfnoJTnqbbjgIHnu4Tnu4fljY/osIPjgIHpobnnm67nrqHnkIbjgIHmlbDmja7liIbmnpDjgIHkuqTkupLorr7orqHjgIHluILlnLrosIPmn6XjgIHliY3nq6/lvIDlj5HjgIHlkI7nq6/lvIDlj5HjgIFKQVZB57yW56iL44CB6KeG6aKR5Ymq6L6R44CBVUnorr7orqHjgIHlrabkuaDog73lipvjgIHmsp/pgJrog73lipvjgIHmiafooYzog73lipvjgIHnu4Tnu4fpooblr7wiKQogICAgICAgICAgICAgICAgICAgIC5sYW5ndWFnZVNraWxsKCLoi7Hor61DRVQtNOOAgeiLseivrUNFVC0244CB6Iux6K+tVEVNLTTjgIHoi7Hor61URU0tOOOAgeaJmOS4muOAgVRPRUZM44CBR1JF44CBR01BQVTjgIHml6Xor63jgIHpn6nor63jgIHms5Xor63jgIHkv4Tor63jgIHlvrfor63jgIHopb/nj63niZnor63jgIHokaHokITniZnor60iKS5idWlsZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kdXN0cmllcy5hZGQoaW5kdXN0cnlGaW5hbmNlKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;\&quot;英语CET-4、英语CET-6、英语TEM-4、
-                            &quot;英语TEM-8\n&quot; +
-                            &quot;托业\n&quot; +
-                            &quot;TOEFL\n&quot; +
-                            &quot;GRE\n&quot; +
-                            &quot;GMAT\n&quot; +
-                            &quot;日语\n&quot; +
-                            &quot;韩语\n&quot; +
-                            &quot;法语\n&quot; +
-                            &quot;俄语\n&quot; +
-                            &quot;德语\n&quot; +
-                            &quot;西班牙语\n&quot; +
-                            &quot;葡萄牙语\n&quot; +
-                            &quot;\&quot;\n&quot; +
-                            &quot;\n&quot; +
-                            &quot;\n&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6763,7 +6749,34 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>&quot;\&quot;英语CET-4、英语CET-6、英语TEM-4、
+                            &quot;英语TEM-8\n&quot; +
+                            &quot;托业\n&quot; +
+                            &quot;TOEFL\n&quot; +
+                            &quot;GRE\n&quot; +
+                            &quot;GMAT\n&quot; +
+                            &quot;日语\n&quot; +
+                            &quot;韩语\n&quot; +
+                            &quot;法语\n&quot; +
+                            &quot;俄语\n&quot; +
+                            &quot;德语\n&quot; +
+                            &quot;西班牙语\n&quot; +
+                            &quot;葡萄牙语\n&quot; +
+                            &quot;\&quot;\n&quot; +
+                            &quot;\n&quot; +
+                            &quot;\n&quot;</text>
+      </register>
+      <register name="6" type="4">
         <text>ResumeDirectionDTO.builder().direction(&quot;产品方向&quot;)
                     .description(&quot;需求分析，需求整理产品功能设计，交互设计推动项目进度，测试验收&quot;)
                     .softwareSkill(&quot;Word、excel、powerpoint、Photoshop、Adobe Illustrator、Xmind、Mockplus、Axure RP、墨刀、sketch、Teambition、visio、processon、Adobe Premiere&quot;)
@@ -6785,26 +6798,14 @@
                             &quot;\n&quot; +
                             &quot;\n&quot;)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFBhZ2VhYmxlRGVmYXVsdCgpIFBhZ2VhYmxlIHBhZ2VhYmxlCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFBhZ2VhYmxlRGVmYXVsdCgpIFBhZ2VhYmxlIHBhZ2VhYmxlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFBhZ2VhYmxlRGVmYXVsdCgpIFBhZ2VhYmxlIHBhZ2VhYmxlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFBhZ2VhYmxlRGVmYXVsdCgpIFBhZ2VhYmxlIHBhZ2VhYmxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFBhZ2VhYmxlRGVmYXVsdCgpIFBhZ2VhYmxlIHBhZ2VhYmxlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFBhZ2VhYmxlRGVmYXVsdCgpIFBhZ2VhYmxlIHBhZ2VhYmxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

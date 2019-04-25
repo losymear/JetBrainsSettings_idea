@@ -5172,6 +5172,13 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/rxjava/src/test/java/com/losymear/rxjava/flowable/RangeTest.java" timestamp="1556186879715">
+        <mark key="'" line="18" column="8" />
+        <mark key="[" line="37" column="56" />
+        <mark key="]" line="37" column="55" />
+        <mark key="^" line="37" column="55" />
+        <mark key="." line="37" column="55" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/deployed/create_vv_12.11_wy.sql" timestamp="1554698232819">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="17" column="11" />
@@ -6041,7 +6048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduController.java" />
       <jump line="91" column="78" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduController.java" />
       <jump line="234" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/LoginSmsService.java" />
       <jump line="202" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/LoginSmsService.java" />
@@ -6141,13 +6147,14 @@
       <jump line="24" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/summary/SummaryService.java" />
       <jump line="17" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/summary/SummaryService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/QumianshiApplication.java" />
+      <jump line="18" column="8" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/rxjava/src/test/java/com/losymear/rxjava/flowable/RangeTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9zYXZlIHZpc2l0IHJlY29yZAo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0KCkgewo=</text>
       </register>
       <register name="-" type="4">
         <text>!visitRecordFind.isPresent()</text>
@@ -6156,7 +6163,7 @@
         <text>refreshT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QFJ1bldpdGgoSlVuaXQ0LmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0KCkgewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy9zYXZlIHZpc2l0IHJlY29yZAo=</text>

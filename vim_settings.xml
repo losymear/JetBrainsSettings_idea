@@ -1620,8 +1620,8 @@
         <mark key="." line="7" column="2" />
         <mark key="^" line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/resources/core-prod.properties" timestamp="1555408145784">
-        <mark key="[" line="1" column="19" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/resources/core-prod.properties" timestamp="1556268430549">
+        <mark key="[" line="14" column="0" />
         <mark key="]" line="9" column="67" />
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="28" />
@@ -2493,11 +2493,12 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="2" column="84" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/wechat/WechatShareService.java" timestamp="1555398135287">
-        <mark key="[" line="33" column="7" />
-        <mark key="]" line="34" column="92" />
-        <mark key="^" line="34" column="92" />
-        <mark key="." line="34" column="92" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/wechat/WechatShareService.java" timestamp="1556269172622">
+        <mark key="'" line="35" column="23" />
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="41" column="56" />
+        <mark key="^" line="41" column="56" />
+        <mark key="." line="41" column="56" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/configuration/SwaggerSecurity.java" timestamp="1555496434672">
         <mark key="[" line="68" column="29" />
@@ -3088,11 +3089,12 @@
         <mark key="^" line="51" column="17" />
         <mark key="." line="51" column="17" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/wechat/WechatTicketManager.java" timestamp="1555405535248">
-        <mark key="[" line="21" column="45" />
-        <mark key="]" line="21" column="44" />
-        <mark key="." line="21" column="44" />
-        <mark key="^" line="21" column="44" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/wechat/WechatTicketManager.java" timestamp="1556269258887">
+        <mark key="'" line="32" column="37" />
+        <mark key="[" line="29" column="38" />
+        <mark key="]" line="29" column="37" />
+        <mark key="." line="29" column="37" />
+        <mark key="^" line="29" column="37" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/adminconfig/CouponAdminService.java" timestamp="1547192940069">
         <mark key="[" line="24" column="3" />
@@ -3573,6 +3575,13 @@
         <mark key="]" line="39" column="15" />
         <mark key="^" line="86" column="14" />
         <mark key="." line="86" column="14" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/component/WechatClient.java" timestamp="1556268012995">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="71" column="13" />
+        <mark key="]" line="71" column="12" />
+        <mark key="^" line="71" column="12" />
+        <mark key="." line="71" column="12" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/web/src/main/resources/log4j2-prod.yaml" timestamp="1555420844656">
         <mark key="[" line="50" column="21" />
@@ -6058,12 +6067,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/LoginSmsService.java" />
-      <jump line="108" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduController.java" />
-      <jump line="25" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduService.java" />
-      <jump line="32" column="37" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduService.java" />
-      <jump line="35" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduService.java" />
-      <jump line="83" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduController.java" />
       <jump line="77" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduService.java" />
       <jump line="8" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/dto/BaomingMiniappDTO.java" />
       <jump line="239" column="22" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/LoginSmsService.java" />
@@ -6158,6 +6161,12 @@
       <jump line="18" column="8" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/rxjava/src/test/java/com/losymear/rxjava/flowable/RangeTest.java" />
       <jump line="863" column="26" filename="$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.1.12/rxjava-2.1.12-sources.jar!/io/reactivex/Completable.java" />
       <jump line="19" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/rxjava/src/test/java/com/losymear/rxjava/DefferedDependentTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/component/WechatClient.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/wechat/WechatShareService.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/wechat/WechatShareService.java" />
+      <jump line="38" column="42" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/wechat/WechatShareService.java" />
+      <jump line="35" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/wechat/WechatShareService.java" />
+      <jump line="32" column="37" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/wechat/WechatTicketManager.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

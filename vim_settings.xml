@@ -8,6 +8,12 @@
       <file name="/a.dummy" timestamp="1556087258929">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AiResumeExperienceComponent.java" timestamp="1556596914588">
+        <mark key="[" line="29" column="59" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="25" column="24" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/resources/core.properties" timestamp="1556273242303">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="89" column="12" />
@@ -5036,11 +5042,12 @@
         <mark key="^" line="14" column="27" />
         <mark key="." line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/IndustryDirectionComponent.java" timestamp="1556522286473">
-        <mark key="[" line="35" column="36" />
-        <mark key="]" line="9" column="20" />
-        <mark key="^" line="9" column="20" />
-        <mark key="." line="9" column="20" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/IndustryDirectionComponent.java" timestamp="1556596353648">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="27" />
+        <mark key="^" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/src/main/java/com/zhiri/qumianshi/elasticdaemon/service/ElasticJobHandler.java" timestamp="1553587920337">
         <mark key="[" line="75" column="0" />
@@ -5270,12 +5277,12 @@
         <mark key="^" line="53" column="76" />
         <mark key="." line="53" column="76" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/airesume/AIResumeController.java" timestamp="1556523317724">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/airesume/AIResumeController.java" timestamp="1556596155402">
         <mark key="'" line="68" column="7" />
-        <mark key="[" line="184" column="78" />
-        <mark key="]" line="184" column="77" />
-        <mark key="." line="184" column="77" />
-        <mark key="^" line="184" column="77" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="0" />
+        <mark key="." line="190" column="0" />
+        <mark key="^" line="190" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/user/UserConfig.java" timestamp="1543405477674">
         <mark key="[" line="9" column="16" />
@@ -5520,11 +5527,11 @@
         <mark key="^" line="18" column="45" />
         <mark key="." line="18" column="45" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/Dockerfile" timestamp="1555415052702">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/Dockerfile" timestamp="1556596076526">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/test/com/zhiri/qumianshi/service/qiniu/QiniuManagerTest.java" timestamp="1551442395322">
         <mark key="[" line="22" column="1" />
@@ -6125,7 +6132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/qiniu/QiniuController.java" />
       <jump line="57" column="75" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/qiniu/QiniuController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/UserSecretEntity.java" />
       <jump line="4" column="54" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/create_vv_12.22_wy.sql" />
@@ -6225,13 +6231,14 @@
       <jump line="53" column="45" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" />
       <jump line="20" column="53" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/test/java/com/zhiri/qumianshi/service/specialtopic/SpecialTopicAdminServiceTest.java" />
       <jump line="89" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/specialtopic/SpecialTopicAdminService.java" />
+      <jump line="95" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/IndustryDirectionComponent.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEN1cnJlbnRVc2VyIFNwZWNpYWxUb3BpY0RUTyBhdWRpdG9yLAo=</text>
+        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0CiAgICBwdWJsaWMgdm9pZCBpbml0aWFsKCkgewo=</text>
       </register>
       <register name="-" type="4">
         <text>newId</text>
@@ -6240,7 +6247,7 @@
         <text>refreshT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEN1cnJlbnRVc2VyIE9wZXJhdGlvblVzZXJFbnRpdHkgYXVkaXRvciwK</text>
+        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0CiAgICBwdWJsaWMgdm9pZCBpbml0aWFsKCkgewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQEN1cnJlbnRVc2VyIFNwZWNpYWxUb3BpY0RUTyBhdWRpdG9yLAo=</text>

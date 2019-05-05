@@ -329,11 +329,11 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/cronjob/job/MiniAppTemplateMessage.java" timestamp="1556629618191">
-        <mark key="[" line="37" column="4" />
-        <mark key="]" line="40" column="28" />
-        <mark key="." line="40" column="28" />
-        <mark key="^" line="40" column="28" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/cronjob/job/MiniAppTemplateMessage.java" timestamp="1557024340173">
+        <mark key="[" line="62" column="20" />
+        <mark key="]" line="62" column="19" />
+        <mark key="^" line="62" column="19" />
+        <mark key="." line="62" column="19" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/interview/InterviewerInfoRepository.java" timestamp="1552474156411">
         <mark key="[" line="35" column="0" />
@@ -654,6 +654,12 @@
         <mark key="]" line="18" column="12" />
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/cronjob/job/HolidayComponent.java" timestamp="1557024558087">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/ordersystem/OrderPayloadManager.java" timestamp="1552910128295">
         <mark key="[" line="54" column="1" />
@@ -1465,11 +1471,11 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/test/java/com/zhiri/ribao/service/miniapp/MiniappServiceManagerTest.java" timestamp="1556619214199">
-        <mark key="[" line="25" column="44" />
-        <mark key="]" line="25" column="43" />
-        <mark key="." line="25" column="43" />
-        <mark key="^" line="25" column="43" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/test/java/com/zhiri/ribao/service/miniapp/MiniappServiceManagerTest.java" timestamp="1557023574432">
+        <mark key="[" line="37" column="48" />
+        <mark key="]" line="37" column="47" />
+        <mark key="." line="37" column="47" />
+        <mark key="^" line="37" column="47" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/resources/application.properties" timestamp="1555566962884">
         <mark key="[" line="15" column="1" />
@@ -6289,20 +6295,20 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>17qms.com</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>17qms.com</text>
+        <text>LocalDate.now()</text>
       </register>
       <register name="/" type="4">
         <text>refreshT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChyZXF1ZXN0VVJJLmNvbnRhaW5zKCJsb2NhbGhvc3QiKSkgewo=</text>
+        <text encoding="base64">QENvbXBvbmVudApATG9nNGoyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlcXVlc3RVUkkuY29udGFpbnMoIjY2aHVpc2hvdS5jb20iKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6367,28 +6373,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdFVSSS5nZXRiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">QExvZzRqMgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoIXJlcXVlc3RVUkkuY29udGFpbnMoImxvY2FsaG9zdCIpKSB7Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTGlzdHMubmV3YXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIENhbGxiYWNrQiB7Cgp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlcXVlc3RVUkkuY29udGFpbnMoIjY2aHVpc2hvdS5jb20iKSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEZ1dHVyZUEgewoKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdFVSSS5nZXRiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEZ1dHVyZXNCIHsKCn0K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

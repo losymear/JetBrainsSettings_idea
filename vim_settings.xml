@@ -2131,6 +2131,14 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" timestamp="1557285736943">
+        <mark key="t" line="65" column="24" />
+        <mark key="'" line="419" column="26" />
+        <mark key="[" line="131" column="22" />
+        <mark key="]" line="132" column="11" />
+        <mark key="^" line="132" column="11" />
+        <mark key="." line="132" column="11" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/invite/InviteService.java" timestamp="1547197367693">
         <mark key="[" line="100" column="120" />
         <mark key="]" line="100" column="133" />
@@ -5470,6 +5478,12 @@
         <mark key="^" line="53" column="76" />
         <mark key="." line="53" column="76" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/airesume/AIResumeController.java" timestamp="1557285640802">
+        <mark key="[" line="218" column="48" />
+        <mark key="]" line="54" column="23" />
+        <mark key="^" line="54" column="23" />
+        <mark key="." line="54" column="23" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/user/UserConfig.java" timestamp="1543405477674">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="19" />
@@ -5702,11 +5716,11 @@
         <mark key="^" line="14" column="49" />
         <mark key="." line="14" column="54" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduEvaluationAdminController.java" timestamp="1557284188911">
-        <mark key="[" line="120" column="1" />
-        <mark key="]" line="120" column="0" />
-        <mark key="^" line="120" column="0" />
-        <mark key="." line="120" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduEvaluationAdminController.java" timestamp="1557285613196">
+        <mark key="[" line="118" column="7" />
+        <mark key="]" line="118" column="6" />
+        <mark key="^" line="118" column="6" />
+        <mark key="." line="118" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/statusenum/OrderServiceStatusEnum.java" timestamp="1554206898098">
         <mark key="[" line="20" column="5" />
@@ -6329,7 +6343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="48" filename="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/repo2/pom.xml" />
       <jump line="14" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/web/src/main/resources/application.properties" />
       <jump line="150" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/repo2/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/web/src/main/resources/application.properties" />
@@ -6429,6 +6442,7 @@
       <jump line="3688" column="0" filename="$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.1.12/rxjava-2.1.12-sources.jar!/io/reactivex/Single.java" />
       <jump line="15" column="0" filename="$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.1.12/rxjava-2.1.12-sources.jar!/io/reactivex/Single.java" />
       <jump line="2764" column="29" filename="$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.1.12/rxjava-2.1.12-sources.jar!/io/reactivex/Single.java" />
+      <jump line="417" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

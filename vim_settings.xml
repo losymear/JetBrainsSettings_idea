@@ -750,6 +750,7 @@
         <mark key="^" line="105" column="24" />
         <mark key="." line="105" column="24" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE-sources.jar!/org/springframework/web/util/UriUtils.java" timestamp="1557821630528" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/constants/ChallengeConstants.java" timestamp="1548154133851">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="51" />
@@ -1134,6 +1135,7 @@
         <mark key="^" line="41" column="8" />
         <mark key="." line="41" column="8" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/nio/charset/Charset.java" timestamp="1557821184465" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/MiniappService.java" timestamp="1555653210377">
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="126" />
@@ -2450,6 +2452,7 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/io/FileSystem.java" timestamp="1557926140429" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/QumianshiApplication.java" timestamp="1557934471012">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -2958,11 +2961,11 @@
         <mark key="^" line="32" column="8" />
         <mark key="." line="32" column="8" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/baidu/BaiduEvaluationRepo.java" timestamp="1557301763033">
-        <mark key="[" line="20" column="72" />
-        <mark key="]" line="20" column="49" />
-        <mark key="." line="20" column="49" />
-        <mark key="^" line="20" column="49" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/baidu/BaiduEvaluationRepo.java" timestamp="1557993285006">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="9" column="2" />
+        <mark key="." line="9" column="2" />
+        <mark key="^" line="9" column="2" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/annotation/IntegrationTest.java" timestamp="1543459869733">
         <mark key="[" line="27" column="15" />
@@ -3045,12 +3048,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/baidu/BaiduEvaluationDO.java" timestamp="1557986871427">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/baidu/BaiduEvaluationDO.java" timestamp="1557993223108">
         <mark key="'" line="126" column="13" />
-        <mark key="[" line="76" column="29" />
-        <mark key="]" line="76" column="28" />
-        <mark key="^" line="76" column="28" />
-        <mark key="." line="76" column="28" />
+        <mark key="[" line="308" column="36" />
+        <mark key="]" line="308" column="35" />
+        <mark key="^" line="308" column="35" />
+        <mark key="." line="308" column="35" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/challenge/UserChallengeLevelRepo.java" timestamp="1545187583125">
         <mark key="[" line="13" column="18" />
@@ -5598,12 +5601,7 @@
         <mark key="^" line="54" column="23" />
         <mark key="." line="54" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_15.04_wy.sql" timestamp="1557987190720">
-        <mark key="[" line="0" column="61" />
-        <mark key="]" line="0" column="91" />
-        <mark key="^" line="0" column="91" />
-        <mark key="." line="0" column="91" />
-      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_15.04_wy.sql" timestamp="1557992791743" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/user/UserConfig.java" timestamp="1543405477674">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="19" />
@@ -5835,8 +5833,8 @@
         <mark key="^" line="14" column="49" />
         <mark key="." line="14" column="54" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduEvaluationAdminController.java" timestamp="1557737370249">
-        <mark key="[" line="125" column="1" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduEvaluationAdminController.java" timestamp="1557993277827">
+        <mark key="[" line="115" column="25" />
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
         <mark key="^" line="125" column="0" />
@@ -5859,6 +5857,7 @@
         <mark key="^" line="18" column="45" />
         <mark key="." line="18" column="45" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/Dockerfile" timestamp="1557923604209" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/test/com/zhiri/qumianshi/service/qiniu/QiniuManagerTest.java" timestamp="1551442395322">
         <mark key="[" line="22" column="1" />
         <mark key="]" line="21" column="0" />
@@ -6571,19 +6570,19 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">RlJPTSBqYXZhOjgtamRrCg==</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPEJhaWR1RXZhbHVhdGlvbkRPPiBmaW5kQnlJZChTdHJpbmcgZmFrZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>摆渡计划在线协议.docx</text>
+        <text>Integer id, Integer del</text>
       </register>
       <register name="/" type="4">
         <text>refreshT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RlJPTSBhcm1hbjE3MDgvamRrOC1saWJyZW9mZmljZTpsYXRlc3QK</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPEJhaWR1RXZhbHVhdGlvbkRPPiBmaW5kQnlJZEFuZERlbChJbnRlZ2VyIGlkLCBJbnRlZ2VyIGRlbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RlJPTSBqYXZhOjgtamRrCg==</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPEJhaWR1RXZhbHVhdGlvbkRPPiBmaW5kQnlJZChTdHJpbmcgZmFrZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6651,25 +6650,25 @@
         <text encoding="base64">RlJPTSBqYXZhOjgtamRrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRSZXN1bWVQZGZVcmwoKTsK</text>
+        <text encoding="base64">RlJPTSBqYXZhOjgtamRrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IOeUn+aIkOaWsAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRSZXN1bWVQZGZVcmwoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IOeUn+aIkOaWsAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIOeUn+aIkAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

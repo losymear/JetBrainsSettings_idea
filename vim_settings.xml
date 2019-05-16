@@ -389,8 +389,8 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/LibreOffice.java" timestamp="1557989151046">
-        <mark key="[" line="25" column="87" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/LibreOffice.java" timestamp="1557990573951">
+        <mark key="[" line="9" column="28" />
         <mark key="]" line="25" column="86" />
         <mark key="." line="25" column="86" />
         <mark key="^" line="25" column="86" />
@@ -1461,6 +1461,12 @@
         <mark key="]" line="13" column="13" />
         <mark key="^" line="13" column="13" />
         <mark key="." line="13" column="13" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/Dockerfile-release" timestamp="1557990605380">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/student/StudentActiveValueGainRepo.java" timestamp="1544440125473">
         <mark key="[" line="14" column="92" />
@@ -2663,9 +2669,9 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/Dockerfile" timestamp="1557989821781">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="22" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/Dockerfile" timestamp="1557990598566">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="22" />
       </file>
@@ -6271,6 +6277,12 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/Dockerfile-onlinetest" timestamp="1557990602719">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/AppointmentService.java" timestamp="1543559634167">
         <mark key="[" line="204" column="0" />
         <mark key="]" line="204" column="117" />
@@ -6453,7 +6465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3567" column="33" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Collections.java" />
       <jump line="170" column="47" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/configuration/security/qms/QmsAuthenticationFilter.java" />
       <jump line="22" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/error/GlobalErrorHandler.java" />
       <jump line="27" column="50" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/test/java/com/zhiri/qumianshi/controller/configuration/security/AuthenticationTokenFilterTest.java" />
@@ -6553,13 +6564,14 @@
       <jump line="225" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduEvaluationService.java" />
       <jump line="41" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduEvaluationService.java" />
       <jump line="228" column="41" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduEvaluationService.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/Dockerfile-onlinetest" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>摆渡计划在线协议.docx</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">RlJPTSBqYXZhOjgtamRrCg==</text>
       </register>
       <register name="-" type="4">
         <text>摆渡计划在线协议.docx</text>
@@ -6568,10 +6580,10 @@
         <text>refreshT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgUW1zUnVudGltZUV4Y2VwdGlvbigi5Y2P6K6u55Sf5oiQ5Ye66ZSZIik7Cg==</text>
+        <text encoding="base64">RlJPTSBhcm1hbjE3MDgvamRrOC1saWJyZW9mZmljZTpsYXRlc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRSZXN1bWVQZGZVcmwoKTsK</text>
+        <text encoding="base64">RlJPTSBqYXZhOjgtamRrCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6636,28 +6648,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IOeUn+aIkOaWsAo=</text>
+        <text encoding="base64">RlJPTSBqYXZhOjgtamRrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRSZXN1bWVQZGZVcmwoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IOeUn+aIkOaWsAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIOeUn+aIkAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIOeUn+aIkHBkZgo=</text>
+        <text encoding="base64">ICAgICAqIOeUn+aIkAo=</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

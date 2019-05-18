@@ -3043,6 +3043,13 @@
         <mark key="." line="14" column="2" />
         <mark key="^" line="14" column="2" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/README-MAVEN.txt" timestamp="1558161423404">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/annotation/IntegrationTest.java" timestamp="1543459869733">
         <mark key="[" line="27" column="15" />
         <mark key="]" line="27" column="14" />
@@ -6597,7 +6604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="37" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/wechat/WechatTicketManager.java" />
       <jump line="8835" column="31" filename="$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.1.12/rxjava-2.1.12-sources.jar!/io/reactivex/Flowable.java" />
       <jump line="6" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/resources/core-dev.properties" />
       <jump line="68" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/airesume/AIResumeController.java" />
@@ -6697,6 +6703,7 @@
       <jump line="57" column="33" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/easy/PalindromeNumber_Q9.java" />
       <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/README.md" />
+      <jump line="100" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/README-MAVEN.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">

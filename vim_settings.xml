@@ -3288,6 +3288,12 @@
         <mark key="^" line="89" column="46" />
         <mark key="." line="89" column="46" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/BinarySearch.java" timestamp="1558168677961">
+        <mark key="[" line="99" column="15" />
+        <mark key="]" line="99" column="14" />
+        <mark key="^" line="99" column="14" />
+        <mark key="." line="99" column="14" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/Dockerfile-release" timestamp="1551943771481">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="3" />
@@ -3780,6 +3786,13 @@
         <mark key="]" line="1" column="51" />
         <mark key="^" line="1" column="51" />
         <mark key="." line="1" column="51" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/In.java" timestamp="1558168626534">
+        <mark key="'" line="541" column="17" />
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="2" />
+        <mark key="^" line="6" column="2" />
+        <mark key="." line="6" column="2" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/concurrency/main/java/com/losymear/concurrency/PhaserTest.java" timestamp="1552064241616">
         <mark key="[" line="10" column="19" />
@@ -6604,7 +6617,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8835" column="31" filename="$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.1.12/rxjava-2.1.12-sources.jar!/io/reactivex/Flowable.java" />
       <jump line="6" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/resources/core-dev.properties" />
       <jump line="68" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/airesume/AIResumeController.java" />
       <jump line="23" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/StudentResumeSkillDO.java" />
@@ -6704,6 +6716,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/README.md" />
       <jump line="100" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/README-MAVEN.txt" />
+      <jump line="541" column="17" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/In.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

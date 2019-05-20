@@ -1537,6 +1537,9 @@
         <mark key="." line="79" column="55" />
         <mark key="^" line="79" column="55" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/awt/Graphics2D.java" timestamp="1558342837912">
+        <mark key="'" line="789" column="25" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/student/ActiveValueTask.java" timestamp="1544422538529">
         <mark key="[" line="15" column="30" />
         <mark key="]" line="16" column="3" />
@@ -4009,8 +4012,12 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/StdDraw.java" timestamp="1558322233648">
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/StdDraw.java" timestamp="1558342833006">
         <mark key="'" line="1925" column="1" />
+        <mark key="[" line="983" column="24" />
+        <mark key="]" line="983" column="23" />
+        <mark key="^" line="983" column="23" />
+        <mark key="." line="983" column="23" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/summary/SummaryController.java" timestamp="1556024596029">
         <mark key="[" line="12" column="0" />
@@ -6431,6 +6438,13 @@
         <mark key="^" line="28" column="6" />
         <mark key="." line="28" column="6" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/Interval2D.java" timestamp="1558342806018">
+        <mark key="'" line="137" column="44" />
+        <mark key="[" line="132" column="7" />
+        <mark key="]" line="132" column="6" />
+        <mark key="^" line="132" column="6" />
+        <mark key="." line="132" column="6" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/configuration/WebSecurityConfig.java" timestamp="1556621173014">
         <mark key="[" line="52" column="40" />
         <mark key="]" line="52" column="39" />
@@ -6655,9 +6669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="41" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AiResumeProjectExperienceDTO.java" />
-      <jump line="76" column="15" filename="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/configuration/GlobalErrorHandler.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/test/java/com/zhiri/qumianshi/service/WyTest.java" />
       <jump line="106" column="16" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/rxjava/src/main/java/com/losymear/rxjava/futuredemo/CallbackB.java" />
       <jump line="320" column="56" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" />
       <jump line="46" column="54" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Collections.java" />
@@ -6755,6 +6766,9 @@
       <jump line="9" column="40" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/yunxin/YunxinRobotDO.java" />
       <jump line="46" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/UserSecretEntity.java" />
       <jump line="29" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/FreelyChatDetailDO.java" />
+      <jump line="142" column="3" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/Interval2D.java" />
+      <jump line="137" column="44" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/Interval2D.java" />
+      <jump line="789" column="25" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/awt/Graphics2D.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

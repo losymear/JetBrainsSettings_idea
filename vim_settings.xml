@@ -1086,7 +1086,7 @@
         <mark key="^" line="31" column="8" />
         <mark key="." line="31" column="8" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/yunxin/YunxinRobotDO.java" timestamp="1558341668801">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/yunxin/YunxinRobotDO.java" timestamp="1558344268381">
         <mark key="'" line="8" column="40" />
         <mark key="[" line="17" column="26" />
         <mark key="]" line="24" column="35" />
@@ -2186,12 +2186,12 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/retrofit/YunxinApi.java" timestamp="1558320653711">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/yunxin/src/main/java/com/zhiri/qumianshi/controller/YunxinController.java" timestamp="1558340266716">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/yunxin/src/main/java/com/zhiri/qumianshi/controller/YunxinController.java" timestamp="1558344278687">
         <mark key="'" line="25" column="13" />
-        <mark key="[" line="57" column="23" />
-        <mark key="]" line="57" column="22" />
-        <mark key="^" line="57" column="22" />
-        <mark key="." line="57" column="22" />
+        <mark key="[" line="55" column="31" />
+        <mark key="]" line="55" column="43" />
+        <mark key="^" line="55" column="43" />
+        <mark key="." line="55" column="43" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/resumediagnose/ResumeDiagnoseDetailManager.java" timestamp="1553050425111">
         <mark key="[" line="94" column="0" />
@@ -4370,8 +4370,8 @@
         <mark key="^" line="13" column="56" />
         <mark key="." line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/yunxin/src/main/java/com/zhiri/qumianshi/service/YunxinLogService.java" timestamp="1558341606858">
-        <mark key="[" line="28" column="26" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/yunxin/src/main/java/com/zhiri/qumianshi/service/YunxinLogService.java" timestamp="1558344275494">
+        <mark key="[" line="16" column="7" />
         <mark key="]" line="28" column="25" />
         <mark key="^" line="28" column="25" />
         <mark key="." line="28" column="25" />
@@ -6775,10 +6775,10 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>class</text>
+        <text>saveSessionMessage</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>saveSessionMessage</text>
       </register>
       <register name="/" type="4">
         <text>refreshT</text>

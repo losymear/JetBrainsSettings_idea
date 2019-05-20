@@ -2039,6 +2039,12 @@
         <mark key="^" line="37" column="27" />
         <mark key="." line="37" column="27" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/medium/AddTwoNumbers_Q2.java" timestamp="1558322217138">
+        <mark key="[" line="28" column="40" />
+        <mark key="]" line="28" column="39" />
+        <mark key="." line="28" column="39" />
+        <mark key="^" line="28" column="39" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/test/java/com/zhiri/qumianshi/domain/interviewer/VerifyRecordEntityTest.java" timestamp="1551425299180">
         <mark key="[" line="39" column="108" />
         <mark key="]" line="39" column="7" />
@@ -3977,6 +3983,9 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/StdDraw.java" timestamp="1558322233648">
+        <mark key="'" line="1925" column="1" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/summary/SummaryController.java" timestamp="1556024596029">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -4406,8 +4415,8 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/var/folders/_v/z535f7f145gg60r6t69df90w0000gn/T/leetcode-plugin/en/[2]Add Two Numbers.java" timestamp="1558160285356">
-        <mark key="[" line="12" column="0" />
+      <file name="/var/folders/_v/z535f7f145gg60r6t69df90w0000gn/T/leetcode-plugin/en/[2]Add Two Numbers.java" timestamp="1558322193199">
+        <mark key="[" line="11" column="2" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -6607,8 +6616,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" />
-      <jump line="38" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" />
       <jump line="271" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" />
       <jump line="53" column="45" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" />
       <jump line="20" column="53" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/test/java/com/zhiri/qumianshi/service/specialtopic/SpecialTopicAdminServiceTest.java" />
@@ -6707,16 +6714,18 @@
       <jump line="33" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/retrofit/YunxinApi.java" />
       <jump line="3" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/retrofit/YunxinApi.java" />
       <jump line="25" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/yunxin/src/main/java/com/zhiri/qumianshi/controller/YunxinController.java" />
+      <jump line="1636" column="54" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/StdDraw.java" />
+      <jump line="1925" column="1" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/StdDraw.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>git@github.com:losymear/algs4.git</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIOWumuS5ieS4gOS4queugOWNleeahAo=</text>
       </register>
       <register name="-" type="4">
-        <text>git@github.com:losymear/algs4.git</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>refreshT</text>
@@ -6725,7 +6734,7 @@
         <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiaXNQYWxpbmRyb21lKDEyMzQzMik6LHt9Iixzb2x1dGlvbi5pc1BhbGluZHJvbWUoMTIzNDMyKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIOWumuS5ieS4gOS4queugOWNleeahAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6790,28 +6799,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSDlhbYK</text>
+        <text encoding="base64">ICAgICAgRGVmaW5pdGlvbiBmb3Igc2luZ2x5LWxpbmtlZCBsaXN0Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAvCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIOWFiOiuoeeul+aVsOWAvOS9jeaVsAo=</text>
+        <text encoding="base64">LSDlhbYK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeC89MTA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHggPCAwKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGludCByZXN1bHQgPSAwOwogICAgICAgICAgICBpbnQgdmFsOwoKICAgICAgICAgICAgaW50IHhDb3B5ID0geDsKICAgICAgICAgICAgd2hpbGUgKHhDb3B5ICE9IDApIHsKICAgICAgICAgICAgICAgIHZhbCA9IHhDb3B5ICUgMTA7CiAgICAgICAgICAgICAgICB4Q29weSAvPSAxMDsKICAgICAgICAgICAgICAgIGlmIChyZXN1bHQgPiBJbnRlZ2VyLk1BWF9WQUxVRSAvIDEwIHx8IChyZXN1bHQgPT0gSW50ZWdlci5NQVhfVkFMVUUgLyAxMCAmJiB2YWwgPiA3KSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICByZXN1bHQgPSAxMCAqIHJlc3VsdCArIHZhbDsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIHJlc3VsdCA9PSB4OwoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

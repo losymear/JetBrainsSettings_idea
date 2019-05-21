@@ -2331,7 +2331,8 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" timestamp="1558356718949">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" timestamp="1558425450121">
+        <mark key="'" line="250" column="60" />
         <mark key="[" line="250" column="62" />
         <mark key="]" line="250" column="61" />
         <mark key="^" line="250" column="61" />
@@ -3249,6 +3250,9 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/dto/yunxin/YxSendMsg.java" timestamp="1558424701263">
+        <mark key="[" line="11" column="14" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/daemon/ArrayBuilder2.java" timestamp="1544984166024">
         <mark key="[" line="15" column="27" />
         <mark key="]" line="16" column="31" />
@@ -3526,6 +3530,13 @@
         <mark key="]" line="0" column="81" />
         <mark key="^" line="0" column="81" />
         <mark key="." line="0" column="81" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/component/YunxinClient.java" timestamp="1558424692950">
+        <mark key="q" line="200" column="43" />
+        <mark key="[" line="175" column="14" />
+        <mark key="]" line="175" column="13" />
+        <mark key="^" line="175" column="13" />
+        <mark key="." line="175" column="13" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Service/SystemService.java" timestamp="1543201810343">
         <mark key="[" line="10" column="0" />
@@ -4502,11 +4513,11 @@
         <mark key="^" line="13" column="56" />
         <mark key="." line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/yunxin/src/main/java/com/zhiri/qumianshi/service/YunxinLogService.java" timestamp="1558351683919">
-        <mark key="[" line="45" column="66" />
-        <mark key="]" line="45" column="65" />
-        <mark key="." line="45" column="65" />
-        <mark key="^" line="45" column="65" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/yunxin/src/main/java/com/zhiri/qumianshi/service/YunxinLogService.java" timestamp="1558425138394">
+        <mark key="[" line="70" column="66" />
+        <mark key="]" line="70" column="62" />
+        <mark key="." line="70" column="62" />
+        <mark key="^" line="70" column="62" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/stream/.gitignore" timestamp="1553655201821">
         <mark key="[" line="2" column="4" />
@@ -6855,7 +6866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="13" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Vector.java" />
       <jump line="466" column="29" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Vector.java" />
       <jump line="1209" column="13" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Vector.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/BaseManager.java" />
@@ -6955,16 +6965,17 @@
       <jump line="695" column="1" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/StdIn.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/StdIn.java" />
       <jump line="100" column="4" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/medium/q2/AddTwoNumbers.java" />
+      <jump line="250" column="60" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AIResumeService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>pdf协议地址</text>
+        <text>usereu</text>
       </register>
       <register name="-" type="4">
-        <text>pdf协议地址</text>
+        <text>usereu</text>
       </register>
       <register name="/" type="4">
         <text>refreshT</text>
@@ -6973,7 +6984,7 @@
         <text encoding="base64">YWx0ZXIgdGFibGUgYHF1bWlhbnNoaWAuYGJhaWR1X2V2YWx1YXRpb25gIGFkZCBjb2x1bW4geGlleWlVcmwgdmFyY2hhcigyNTUpIGNvbW1lbnQgJ3BkZuWNj+iuruWcsOWdgCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVkaWNhdGUgPSBwcmVkaWNhdGUuYW5kKHFCYWlkdUV2YWx1YXRpb25ETy5kZWwuZXEoMCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFl4U2VuZE1zZwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7038,28 +7049,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgU29sdXRpb24gewogICAgcHVibGljIExpc3ROb2RlIGFkZFR3b051bWJlcnMoTGlzdE5vZGUgbDEsIExpc3ROb2RlIGwyKSB7CiAgICAgICAgCiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFl1bnhpbkNsaWVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmVkaWNhdGUgPSBwcmVkaWNhdGUuYW5kKHFCYWlkdUV2YWx1YXRpb25ETy5kZWwuZXEoMCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgU29sdXRpb24gewogICAgcHVibGljIExpc3ROb2RlIGFkZFR3b051bWJlcnMoTGlzdE5vZGUgbDEsIExpc3ROb2RlIGwyKSB7CiAgICAgICAgCiAgICB9Cn0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgTGlzdE5vZGUgbm9kZTFBZGROb2RlMihMaXN0Tm9kZSBub2RlMSwgTGlzdE5vZGUgbm9kZTIpIHsKICAgICAgICAgICAgbm9kZTEubmV4dCA9IG5vZGUyOwogICAgICAgICAgICByZXR1cm4gbm9kZTI7CgogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgTGlzdE5vZGUgbm9kZTFBZGROb2RlMihMaXN0Tm9kZSBub2RlMSwgTGlzdE5vZGUgbm9kZTIpIHsKICAgICAgICAgICAgbm9kZTEubmV4dCA9IG5vZGUyOwogICAgICAgICAgICByZXR1cm4gbm9kZTI7CgogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

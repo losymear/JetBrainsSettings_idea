@@ -35,11 +35,11 @@
         <mark key="." line="140" column="59" />
         <mark key="^" line="140" column="59" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/service/miniapp/MiniAppService.java" timestamp="1556246954446">
-        <mark key="[" line="64" column="31" />
-        <mark key="]" line="64" column="81" />
-        <mark key="." line="64" column="81" />
-        <mark key="^" line="64" column="81" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/service/miniapp/MiniAppService.java" timestamp="1558441413472">
+        <mark key="[" line="65" column="52" />
+        <mark key="]" line="65" column="51" />
+        <mark key="." line="65" column="51" />
+        <mark key="^" line="65" column="51" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/configuration/wechatminiapp/WechatMiniappConfig.java" timestamp="1552553581431">
         <mark key="[" line="7" column="3" />
@@ -1668,11 +1668,10 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/cronjob/job/MiniAppTemplateMessageJob.java" timestamp="1557227924692">
-        <mark key="[" line="33" column="13" />
-        <mark key="]" line="33" column="12" />
-        <mark key="^" line="33" column="12" />
-        <mark key="." line="33" column="12" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/cronjob/job/MiniAppTemplateMessageJob.java" timestamp="1558441364236">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/src/main/java/com/zhiri/qumianshi/elasticdaemon/job/SkuAutoDenyJob.java" timestamp="1553584933739">
         <mark key="[" line="20" column="0" />
@@ -3532,13 +3531,6 @@
         <mark key="]" line="0" column="81" />
         <mark key="^" line="0" column="81" />
         <mark key="." line="0" column="81" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/component/YunxinClient.java" timestamp="1558436056863">
-        <mark key="q" line="200" column="43" />
-        <mark key="[" line="226" column="44" />
-        <mark key="]" line="226" column="43" />
-        <mark key="." line="226" column="43" />
-        <mark key="^" line="226" column="43" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Service/SystemService.java" timestamp="1543201810343">
         <mark key="[" line="10" column="0" />
@@ -5419,11 +5411,11 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/configuration/security/TokenCheckService.java" timestamp="1557301036145">
-        <mark key="[" line="50" column="13" />
-        <mark key="]" line="44" column="37" />
-        <mark key="^" line="44" column="37" />
-        <mark key="." line="44" column="37" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/configuration/security/TokenCheckService.java" timestamp="1558441074263">
+        <mark key="[" line="52" column="58" />
+        <mark key="]" line="52" column="57" />
+        <mark key="^" line="52" column="57" />
+        <mark key="." line="52" column="57" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/interviewer/BannerDO.java" timestamp="1550045676856">
         <mark key="[" line="21" column="0" />
@@ -7001,10 +6993,10 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>interviewService</text>
+        <text>&quot;通知员工{}写日志&quot; + userDOMap.get(userId).getName()</text>
       </register>
       <register name="-" type="4">
-        <text>interviewService</text>
+        <text>&quot;通知员工{}写日志&quot; + userDOMap.get(userId).getName()</text>
       </register>
       <register name="/" type="4">
         <text>refreshT</text>
@@ -7013,7 +7005,7 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByb3RlY3RlZCBZdW54aW5Nc2dSZWNvcmRSZXBvIHl1bnhpbk1zZ1JlY29yZFJlcG87Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSW50ZXJ2aWV3Qm9va2luZ1JlcG9zaXRvcnkgYm9va2luZ1JlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAxNTU5MDQ1MTg3MzUzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7078,28 +7070,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRmllbGRSZXBvc2l0b3J5IGZpZWxkUmVwb3NpdG9yeTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygi6YCa55+l5ZGY5bele33lhpnml6Xlv5ciICsgdXNlckRPTWFwLmdldCh1c2VySWQpLmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUGF5UmVwb3NpdG9yeSBwYXlSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSW50ZXJ2aWV3Qm9va2luZ1JlcG9zaXRvcnkgYm9va2luZ1JlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRmllbGRSZXBvc2l0b3J5IGZpZWxkUmVwb3NpdG9yeTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgV2VjaGF0UGF5U2VydmljZSB3ZWNoYXRQYXlTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUGF5UmVwb3NpdG9yeSBwYXlSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQWxpUGF5U2VydmljZSBhbGlQYXlTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgV2VjaGF0UGF5U2VydmljZSB3ZWNoYXRQYXlTZXJ2aWNlOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUGF5U2VydmljZSBwYXlTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQWxpUGF5U2VydmljZSBhbGlQYXlTZXJ2aWNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

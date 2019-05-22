@@ -7092,7 +7092,7 @@
         <text>toSiwiring</text>
       </register>
       <register name="/" type="4">
-        <text>refreshT</text>
+        <text encoding="base64">XDw7XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRGF0ZVRpbWVGb3JtYXR0ZXIgZGYgPSBEYXRlVGltZUZvcm1hdHRlci5vZlBhdHRlcm4oInl5eXktTU0tZGQiKTsK</text>
@@ -7191,9 +7191,9 @@
       </register>
     </registers>
     <search>
-      <last-search>refreshT</last-search>
+      <last-search encoding="base64">XDw7XD4=</last-search>
       <last-offset />
-      <last-pattern>refreshT</last-pattern>
+      <last-pattern encoding="base64">XDw7XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>refreshT</last-substitute>
       <last-dir>1</last-dir>
@@ -7201,7 +7201,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sku</entry>
         <entry>guava</entry>
         <entry>native</entry>
         <entry>fair</entry>
@@ -7221,6 +7220,7 @@
         <entry>elasticserach</entry>
         <entry>recordId</entry>
         <entry>refreshT</entry>
+        <entry encoding="base64">XDw7XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>next</entry>

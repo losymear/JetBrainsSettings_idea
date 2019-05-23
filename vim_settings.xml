@@ -827,6 +827,12 @@
         <mark key="^" line="302" column="27" />
         <mark key="." line="302" column="27" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q26/RemoveDuplicatesfromSortedArray.java" timestamp="1558632028725">
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="25" column="26" />
+        <mark key="." line="25" column="26" />
+        <mark key="^" line="25" column="26" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_v_7.96.wy.sql" timestamp="1550837601040">
         <mark key="[" line="0" column="62" />
         <mark key="]" line="0" column="74" />
@@ -1073,12 +1079,12 @@
         <mark key="^" line="15" column="121" />
         <mark key="." line="15" column="121" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/README.md" timestamp="1558537622294">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="25" />
-        <mark key="." line="19" column="25" />
-        <mark key="^" line="19" column="25" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/README.md" timestamp="1558632173889">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="22" column="34" />
+        <mark key="." line="22" column="34" />
+        <mark key="^" line="22" column="34" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/LoginSmsController.java" timestamp="1558500733943">
         <mark key="[" line="70" column="0" />
@@ -3125,7 +3131,6 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="20" column="38" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Stack.java" timestamp="1558526584225" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/repo2/src/main/java/domian/TmpDO.java" timestamp="1555467232237">
         <mark key="[" line="9" column="3" />
         <mark key="]" line="11" column="4" />
@@ -6826,7 +6831,6 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/Dockerfile-onlinetest" timestamp="1558431800523" />
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/Vector.java" timestamp="1558496672181">
         <mark key="[" line="74" column="7" />
         <mark key="]" line="74" column="6" />
@@ -7015,7 +7019,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1538" column="87" filename="$MAVEN_REPOSITORY$/fr/opensagres/xdocreport/fr.opensagres.poi.xwpf.converter.core/2.0.1/fr.opensagres.poi.xwpf.converter.core-2.0.1-sources.jar!/fr/opensagres/poi/xwpf/converter/core/styles/XWPFStylesDocument.java" />
       <jump line="399" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduEvaluationService.java" />
       <jump line="76" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/test/java/com/zhiri/qumianshi/service/WyTest.java" />
       <jump line="47" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/WyTestController.java" />
@@ -7115,25 +7118,26 @@
       <jump line="52" column="56" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/Bag.java" />
       <jump line="175" column="1" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/Bag.java" />
       <jump line="12" column="5" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/Bag.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IG51bUZvckNoZWNrID0gbnVtc1swXTsK</text>
       </register>
       <register name="-" type="4">
-        <text>generateListNode</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXN0Tm9kZSBuZXdMMSA9IGwxLm5leHQ7CiAgICAgICAgICAgICAgICAgICAgbGFzdC5uZXh0ID0gbDE7CiAgICAgICAgICAgICAgICAgICAgbGFzdCA9IGwxOwogICAgICAgICAgICAgICAgICAgIGwxID0gbmV3TDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc29sdXRpb24ucmVtb3ZlRHVwbGljYXRlcyhuZXcgaW50W117MCwgMCwgMSwgMSwgMSwgMiwgMiwgMywgMywgNH0pKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IG51bUZvckNoZWNrID0gbnVtc1swXTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7198,28 +7202,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvZgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaWYgKG51bXNbd2Fsa2VyXSA+IG51bUZvckNoZWNrKSB7Ci8vICAgICAgICAgICAgICAgICAgICBudW1zW2lkeFRvU2V0XSA9IG51bXNbd2Fsa2VyXTsKLy8gICAgICAgICAgICAgICAgICAgIG51bUZvckNoZWNrID0gbnVtc1t3YWxrZXJdOwovLyAgICAgICAgICAgICAgICAgICAgaWR4VG9TZXQrKzsKLy8gICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIExpc3ROb2RlIHsKCn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkeFRvU2V0Kys7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGwyID09IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaWR4VG9TZXQgPCBpKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGwyID09IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlcy5uZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaWR4VG9TZXQgPCBpKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChsMSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgbGFzdC5uZXh0ID0gbDI7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlcy5uZXh0OwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIGlmIChsMiA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgbGFzdC5uZXh0ID0gbDE7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlcy5uZXh0OwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCB2YWwgPSBudW1zW2ldOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlcy5uZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc29sdXRpb24ucmVtb3ZlRHVwbGljYXRlcyhuZXcgaW50W117MX0pKTsK</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

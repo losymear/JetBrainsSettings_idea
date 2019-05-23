@@ -652,6 +652,11 @@
         <mark key="^" line="24" column="13" />
         <mark key="." line="24" column="13" />
       </file>
+      <file name="/var/folders/_v/z535f7f145gg60r6t69df90w0000gn/T/leetcode-plugin/en/[20]Valid Parentheses.java" timestamp="1558594253567">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/MiniappApplication.java" timestamp="1551236658616">
         <mark key="[" line="20" column="29" />
         <mark key="]" line="23" column="47" />
@@ -2656,12 +2661,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q20/ValidParentheses.java" timestamp="1558593085975">
-        <mark key="'" line="54" column="47" />
-        <mark key="[" line="21" column="59" />
-        <mark key="]" line="21" column="58" />
-        <mark key="^" line="21" column="58" />
-        <mark key="." line="21" column="58" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q20/ValidParentheses.java" timestamp="1558594247264">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="84" column="1" />
+        <mark key="]" line="32" column="59" />
+        <mark key="^" line="32" column="59" />
+        <mark key="." line="32" column="59" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/interview/InterviewerBelongFieldRepository.java" timestamp="1545621512843">
         <mark key="[" line="16" column="79" />
@@ -5968,12 +5973,6 @@
         <mark key="^" line="95" column="52" />
         <mark key="." line="95" column="52" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduAbilityService.java" timestamp="1558515773376">
-        <mark key="[" line="28" column="21" />
-        <mark key="]" line="28" column="20" />
-        <mark key="^" line="28" column="20" />
-        <mark key="." line="28" column="20" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/order/InterviewerListingService.java" timestamp="1553327631193">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="39" column="8" />
@@ -6987,8 +6986,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/aliyun/CloudAuthManager.java" />
-      <jump line="136" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduEvaluationService.java" />
       <jump line="28" column="2" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/test/java/com/zhiri/qumianshi/service/WyTest.java" />
       <jump line="25" column="77" filename="$USER_HOME$/etc/losFiles/projects/perfect/demos/apachepoi/src/main/java/DocxFileWordReplace.java" />
       <jump line="0" column="40" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_15.02_wy.sql" />
@@ -7087,25 +7084,27 @@
       <jump line="515" column="31" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
       <jump line="0" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
       <jump line="43" column="47" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q20/ValidParentheses.java" />
+      <jump line="32" column="30" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q20/ValidParentheses.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q20/ValidParentheses.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSAnKSc6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoZm9ybWFsQ2hhciAhPSAnKCcpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnRTZXJ2aWNlLmFzc2VydFRydWUoc29sdXRpb24uaXNWYWxpZCgiKClbXXt9IikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7170,28 +7169,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgU29sdXRpb24gewogICAgcHVibGljIGJvb2xlYW4gaXNWYWxpZChTdHJpbmcgcykgewogICAgICAgIAogICAgfQp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigic3RhY2s6IiArIHN0YWNrKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaW5rZWRMaXN0Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc3RyaSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTb3VuZGJhbmvCqwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaW5rZWRMaXN0Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

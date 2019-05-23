@@ -1391,6 +1391,9 @@
         <mark key="^" line="59" column="64" />
         <mark key="." line="59" column="64" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" timestamp="1558583956524">
+        <mark key="'" line="1232" column="32" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/zhima/ZhimiController.java" timestamp="1551178190965">
         <mark key="[" line="19" column="34" />
         <mark key="]" line="20" column="26" />
@@ -1595,6 +1598,9 @@
         <mark key="]" line="79" column="55" />
         <mark key="." line="79" column="55" />
         <mark key="^" line="79" column="55" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/awt/Graphics2D.java" timestamp="1558342837912">
+        <mark key="'" line="789" column="25" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/student/ActiveValueTask.java" timestamp="1544422538529">
         <mark key="[" line="15" column="30" />
@@ -5314,9 +5320,9 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/Stack.java" timestamp="1558528520836">
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/Stack.java" timestamp="1558583912011">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="214" column="2" />
+        <mark key="[" line="58" column="0" />
         <mark key="]" line="214" column="1" />
         <mark key="^" line="214" column="1" />
         <mark key="." line="214" column="1" />
@@ -6968,8 +6974,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/aliyun/CloudAuthManager.java" />
-      <jump line="144" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduEvaluationService.java" />
       <jump line="34" column="37" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduEvaluationService.java" />
       <jump line="64" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduEvaluationController.java" />
       <jump line="106" column="24" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/aliyun/CloudAuthManager.java" />
@@ -7068,6 +7072,8 @@
       <jump line="26" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/Stack.java" />
       <jump line="195" column="1" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/ResizingArrayStack.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/ResizingArrayStack.java" />
+      <jump line="977" column="28" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
+      <jump line="1232" column="32" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

@@ -3332,11 +3332,11 @@
         <mark key="^" line="90" column="30" />
         <mark key="." line="90" column="30" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduBaomingAdminController.java" timestamp="1558704812462">
-        <mark key="[" line="198" column="31" />
-        <mark key="]" line="109" column="38" />
-        <mark key="^" line="109" column="38" />
-        <mark key="." line="109" column="38" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduBaomingAdminController.java" timestamp="1558706558741">
+        <mark key="[" line="220" column="98" />
+        <mark key="]" line="220" column="97" />
+        <mark key="^" line="220" column="97" />
+        <mark key="." line="220" column="97" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/daemon/ArrayBuilder2.java" timestamp="1544984166024">
         <mark key="[" line="15" column="27" />
@@ -7164,11 +7164,11 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>baomingId</text>
       </register>
       <register name="-" type="4">
-        <text>target</text>
+        <text>baomingId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -7177,7 +7177,7 @@
         <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiWzEsMyw1LDZdLCAwIOe7k+aenOS4ujoge30iLCBzb2x1dGlvbi5zZWFyY2hJbnNlcnQobmV3IGludFtdezEsIDMsIDUsIDZ9LCAwKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJiYW9taW5nSWQiKSBJbnRlZ2VyIGJhb21pbmdJZAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7242,28 +7242,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgaWYgKG51bXNbaV0gPiB0YXJnZXQpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gTWF0aC5tYXgoaSAsIDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgaWYgKG51bXNbaV0gPiB0YXJnZXQpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gTWF0aC5tYXgoaSAsIDApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzb2x1dGlvbi5zZWFyY2hJbnNlcnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcHAuCg==</text>
+        <text encoding="base64">ICAgICAgICBzb2x1dGlvbi5zZWFyY2hJbnNlcnQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGVudGl0eQogICAgICogQHJldHVybgogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHAuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIFRPRE8K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGVudGl0eQogICAgICogQHJldHVybgogICAgICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86Cg==</text>
+        <text encoding="base64">ICAgICAqIFRPRE8K</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

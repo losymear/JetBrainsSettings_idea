@@ -5595,12 +5595,12 @@
         <mark key="." line="10" column="26" />
         <mark key="^" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q53/MaximumSubarray.java" timestamp="1558777197290">
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q53/MaximumSubarray.java" timestamp="1558785135386">
         <mark key="'" line="0" column="25" />
-        <mark key="[" line="24" column="46" />
-        <mark key="]" line="24" column="45" />
-        <mark key="^" line="24" column="45" />
-        <mark key="." line="24" column="45" />
+        <mark key="[" line="28" column="57" />
+        <mark key="]" line="18" column="28" />
+        <mark key="^" line="18" column="28" />
+        <mark key="." line="18" column="28" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv10.1.wy.sql" timestamp="1552600704446">
         <mark key="[" line="14" column="1" />
@@ -7282,7 +7282,7 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChMaXN0cy5uZXdBcnJheUxpc3QoRGF5T2ZXZWVrLm9mKDYpLCBEYXlPZldlZWsub2YoNykpLmNvbnRhaW5zKHRvZGF5LmdldERheU9mV2VlaygpKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIuacquWunueOsCIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>currentSb</text>
@@ -7294,7 +7294,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChMaXN0cy5uZXdBcnJheUxpc3QoRGF5T2ZXZWVrLm9mKDYpLCBEYXlPZldlZWsub2YoNykpLmNvbnRhaW5zKHRvZGF5LmdldERheU9mV2VlaygpKSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIuacquWunueOsCIpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7359,28 +7359,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJ7feeahGxlbmd0aHt9IiwgY3VycmVudFNiLCBjdXJyZW50U2IubGVuZ3RoKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihiZWZvcmUubGVuZ3RoKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJ7feeahGxlbmd0aHt9IiwgY3VycmVudFNiLCBjdXJyZW50U2IubGVuZ3RoKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBjdXJyZW50Q2hhckNvdW50ID0gMTsKICAgICAgICAgICAgICAgIGZvciAoaW50IGlkeCA9IDE7IGlkeCA8IGJlZm9yZS5sZW5ndGgoKTsgaWR4KyspIHsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihiZWZvcmUubGVuZ3RoKCkpOwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBjdXJyZW50Q2hhckNvdW50ID0gMTsKICAgICAgICAgICAgICAgIGZvciAoaW50IGlkeCA9IDE7IGlkeCA8IGJlZm9yZS5sZW5ndGgoKTsgaWR4KyspIHsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihiZWZvcmUubGVuZ3RoKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2IudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoIjEiKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2IudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoJzEnKTsK</text>
+        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoIjEiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

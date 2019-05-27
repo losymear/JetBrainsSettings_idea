@@ -1965,6 +1965,13 @@
         <mark key="^" line="28" column="84" />
         <mark key="." line="28" column="84" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q83/RemoveDuplicatesFromSortedList.java" timestamp="1558978238232">
+        <mark key="'" line="18" column="103" />
+        <mark key="[" line="27" column="1" />
+        <mark key="]" line="18" column="89" />
+        <mark key="." line="18" column="89" />
+        <mark key="^" line="18" column="89" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/interviewer/IvInterviewController.java" timestamp="1546794798937">
         <mark key="[" line="124" column="49" />
         <mark key="]" line="113" column="23" />
@@ -4936,11 +4943,11 @@
         <mark key="^" line="21" column="4" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q70/ClimbingStairs.java" timestamp="1558976056948">
-        <mark key="[" line="47" column="1" />
-        <mark key="]" line="21" column="48" />
-        <mark key="." line="21" column="48" />
-        <mark key="^" line="21" column="48" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q70/ClimbingStairs.java" timestamp="1558977376581">
+        <mark key="[" line="31" column="20" />
+        <mark key="]" line="31" column="19" />
+        <mark key="." line="31" column="19" />
+        <mark key="^" line="31" column="19" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/SecurityConfiguration.java" timestamp="1550840010013">
         <mark key="[" line="12" column="0" />
@@ -7322,7 +7329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="789" column="25" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/awt/Graphics2D.java" />
       <jump line="10" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_15.05_wy.sql" />
       <jump line="234" column="20" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/StdIn.java" />
       <jump line="695" column="1" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/StdIn.java" />
@@ -7422,25 +7428,26 @@
       <jump line="35" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/CommonModuleAdminService.java" />
       <jump line="32" column="15" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/lossweight/LossWeightDO.java" />
       <jump line="20" column="1" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/xzb/lossweight/LossWeightController.java" />
+      <jump line="18" column="103" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q83/RemoveDuplicatesFromSortedList.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc29sdXRpb24uY2xpbWJTdGFpcnMoMykpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>1, 1, 2, 3</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>1, 1, 2, 3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXF1ZXN0TWFwcGluZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc29sdXRpb24uY2xpbWJTdGFpcnMoMykpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiMTEyM+e7k+aenOS4unt9Iiwgc29sdXRpb24uZGVsZXRlRHVwbGljYXRlcyhMaXN0Tm9kZS5nZW5lcmF0ZUxpc3ROb2RlKG5ldyBpbnRbXXsxLCAxLCAyLCAzfSkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc1stMV0rcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJyZW50Lgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7505,28 +7512,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoZWFkLmgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNsaW1iU3RhaXJzKG4gLSAxKSArIGNsaW1iU3RhaXJzKG4gLSAyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKCkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPEludGVnZXIsIEludGVnZXI+IG1hcCA9IG5ldyBIYXNoTWFwPD4oMTYpOwo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAKICoKICoKICoKICo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc1stMV0rcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNsaW1iU3RhaXJzKG4gLSAxKSArIGNsaW1iU3RhaXJzKG4gLSAyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IFtdCg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

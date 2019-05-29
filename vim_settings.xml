@@ -777,11 +777,8 @@
         <mark key="^" line="2" column="57" />
         <mark key="." line="2" column="57" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q110/BalancedBinaryTree.java" timestamp="1559146405688">
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="16" column="27" />
-        <mark key="." line="16" column="27" />
-        <mark key="^" line="16" column="27" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q110/BalancedBinaryTree.java" timestamp="1559151297249">
+        <mark key="'" line="66" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/interviewer/InterviewerAppController.java" timestamp="1555049476200">
         <mark key="[" line="63" column="30" />
@@ -2924,11 +2921,11 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q104/MaximumDepthOfBinaryTree.java" timestamp="1559035377052">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q104/MaximumDepthOfBinaryTree.java" timestamp="1559151290416">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="25" column="32" />
+        <mark key="." line="25" column="32" />
+        <mark key="^" line="25" column="32" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/resumediagnose/ResumeDiagnoseStudentController.java" timestamp="1555049902750">
         <mark key="[" line="78" column="11" />
@@ -7073,7 +7070,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="43" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/interview/IvInterviewController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/interview/IvInterviewController.java" />
       <jump line="44" column="24" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/xzb/ResumeImproveInterviewerController.java" />
       <jump line="88" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/xzb/ResumeImproveInterviewerController.java" />
@@ -7173,25 +7169,26 @@
       <jump line="46" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/structure/TreeNode.java" />
       <jump line="491" column="23" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Collections.java" />
       <jump line="47" column="49" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q108/ConvertSortedArrayToBinarySearchTree.java" />
+      <jump line="63" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q110/BalancedBinaryTree.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbGVhbiBpc0JhbGFuY2VkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxlZnRMZW5ndGggPT0gLTEpIHsKICAgICAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>leftNode</text>
+        <text>leftLength</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXF1ZXN0TWFwcGluZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygi6L6T5YWlJ1stMTAsLTMsMCw1LDldJ++8jOi+k+WHunt9Iiwgc29sdXRpb24uc29ydGVkQXJyYXlUb0JTVChuZXcgaW50W117LTEwLCAtMywgMCwgNSwgOX0pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxlZnRMZW5ndGggPT0gLTEpIHsKICAgICAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbGVhbiBpc0JhbGFuY2VkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxlZnRMZW5ndGggPT0gLTEpIHsKICAgICAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7256,28 +7253,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBsb2cuaW5mbygibGVmdCB7fSByaWdodCB7fSIsIGxlZnROdW1zLmxlbmd0aCwgcmlnaHROdW1zLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJpZ2h0TGVuZ3RoID09IC0xKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBsb2cuaW5mbygie30ge30ge30iLCBtaWRkbGVJZHgsIEFycmF5cy5jb3B5T2YobnVtcywgbWlkZGxlSWR4KSwgQXJyYXlzLmNvcHlPZlJhbmdlKG51bXMsIG1pZGRsZUlkeCArIDEsIG51bXMubGVuZ3RoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJvb3QgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbG9nLmluZm8oInt9IHt9IiwgQXJyYXlzLmNvcHlPZihyaWdodE51bXMsIHJpZ2h0TWlkZGxlSWR4KSwgQXJyYXlzLmNvcHlPZlJhbmdlKHJpZ2h0TnVtcywgcmlnaHRNaWRkbGVJZHggKyAxLCByaWdodE51bXMubGVuZ3RoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbG9nLmluZm8oImxlZnQge30ge30iLCBBcnJheXMuY29weU9mKGxlZnROdW1zLCBsZWZ0TWlkZGxlSWR4KSwgQXJyYXlzLmNvcHlPZlJhbmdlKGxlZnROdW1zLCBsZWZ0TWlkZGxlSWR4ICsgMSwgbGVmdE51bXMubGVuZ3RoKSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJsZWZ0IHt9IHt9IiwgQXJyYXlzLmNvcHlPZihsZWZ0TnVtcywgbGVmdE1pZGRsZUlkeCksIEFycmF5cy5jb3B5T2ZSYW5nZShsZWZ0TnVtcywgbGVmdE1pZGRsZUlkeCArIDEsIGxlZnROdW1zLmxlbmd0aCkpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJsZWZ0IHt9IHJpZ2h0IHt9IixsZWZ0Tm9kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoZWNrQmFsYW5jZUFuZEdldExlbmd0aChyb290KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxvZy5pbmZvKCLovpPlhaUnMSwyJ++8jOi+k+WHunt9Iiwgc29sdXRpb24uc29ydGVkQXJyYXlUb0JTVChuZXcgaW50W117MSwgMiwgM30pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

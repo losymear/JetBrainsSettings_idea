@@ -6091,6 +6091,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q111/MinimumDepthOfBinaryTree.java" timestamp="1559186354934">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="38" column="53" />
+        <mark key="^" line="38" column="53" />
+        <mark key="." line="38" column="53" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/deployed/create_vv_12.11_wy.sql" timestamp="1554698232819">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="17" column="11" />
@@ -7175,20 +7181,20 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxlZnRMZW5ndGggPT0gLTEpIHsKICAgICAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>1, null, 2</text>
       </register>
       <register name="-" type="4">
-        <text>leftLength</text>
+        <text>1, null, 2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXF1ZXN0TWFwcGluZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxlZnRMZW5ndGggPT0gLTEpIHsKICAgICAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiWzEsbnVsbCwyXemrmOW6puS4unt9Iiwgc29sdXRpb24ubWluRGVwdGgoCiAgICAgICAgICAgICAgICBUcmVlTm9kZS5nZW5lcmF0ZVRyZWVOb2RlKG5ldyBJbnRlZ2VyW117MSwgbnVsbCwgMn0pKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxlZnRMZW5ndGggPT0gLTEpIHsKICAgICAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiWzEsbnVsbCwyXemrmOW6puS4unt9Iiwgc29sdXRpb24ubWluRGVwdGgoCiAgICAgICAgICAgICAgICBUcmVlTm9kZS5nZW5lcmF0ZVRyZWVOb2RlKG5ldyBJbnRlZ2VyW117MSwgbnVsbCwgMn0pKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7253,28 +7259,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJpZ2h0TGVuZ3RoID09IC0xKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBzaXplID0gcXVldWUuc2l6ZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJvb3QgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoZWNrQmFsYW5jZUFuZEdldExlbmd0aChyb290KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmV4dFF1ZXVlLmFkZChub2RlLmxlZnQpOwogICAgICAgICAgICAgICAgICAgICAgICBuZXh0UXVldWUuYWRkKG5vZGUucmlnaHQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

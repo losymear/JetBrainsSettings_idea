@@ -1115,12 +1115,12 @@
         <mark key="^" line="15" column="121" />
         <mark key="." line="15" column="121" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/README.md" timestamp="1559308303067">
-        <mark key="'" line="6" column="19" />
-        <mark key="[" line="32" column="66" />
-        <mark key="]" line="32" column="65" />
-        <mark key="." line="32" column="65" />
-        <mark key="^" line="32" column="65" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/README.md" timestamp="1559320415936">
+        <mark key="'" line="11" column="31" />
+        <mark key="[" line="33" column="43" />
+        <mark key="]" line="33" column="105" />
+        <mark key="." line="33" column="105" />
+        <mark key="^" line="33" column="105" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/LoginSmsController.java" timestamp="1559199934353">
         <mark key="[" line="55" column="0" />
@@ -5499,11 +5499,12 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q155/MinStack.java" timestamp="1559316931878">
-        <mark key="[" line="36" column="9" />
-        <mark key="]" line="14" column="30" />
-        <mark key="." line="14" column="30" />
-        <mark key="^" line="14" column="30" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q155/MinStack.java" timestamp="1559320010294">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="9" column="49" />
+        <mark key="]" line="9" column="48" />
+        <mark key="." line="9" column="48" />
+        <mark key="^" line="9" column="48" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/test/java/com/zhiri/qumianshi/repository/kuakua/KuaCollegeRepoTest.java" timestamp="1552584497764">
         <mark key="[" line="23" column="24" />
@@ -7139,9 +7140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/interview/InterviewJudgeService.java" />
-      <jump line="315" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduEvaluationService.java" />
-      <jump line="0" column="90" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/deployed/create_vv_15.09_wy.sql" />
       <jump line="177" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduEvaluationService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/service/user/UserService.java" />
       <jump line="107" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/service/user/UserService.java" />
@@ -7239,13 +7237,16 @@
       <jump line="19" column="36" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q121/BestTimeToBuyAndSellStock.java" />
       <jump line="19" column="69" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q125/ValidPalindrome.java" />
       <jump line="6" column="19" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/README.md" />
+      <jump line="34" column="6" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q155/MinStack.java" />
+      <jump line="11" column="31" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/README.md" />
+      <jump line="37" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q155/MinStack.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>MIN_VALUE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
         <text>MIN_VALUE</text>
@@ -7257,7 +7258,7 @@
         <text encoding="base64">ICAgICAgICAgICAgTGlzdE5vZGUgcXVpY2sgPSBoZWFkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7322,28 +7323,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdE5vZGUgb2xkID0gaGVhZDsK</text>
+        <text encoding="base64">ICAgIGludCBtaW4gPSBJbnRlZ2VyLk1JTl9WQUxVRTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgIExpc3ROb2RlIGhlYWQgPSBudWxsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGNsYXNzIExpc3ROb2RlIHsKICAgICAgICBwdWJsaWMgaW50IHZhbDsKICAgICAgICBwdWJsaWMgTGlzdE5vZGUgbmV4dDsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdE5vZGUgb2xkID0gaGVhZDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKGhlYWQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgaWYgKG5vZGVzLmNvbnRhaW5zKGhlYWQpKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBub2Rlcy5hZGQoaGVhZCk7CiAgICAgICAgICAgICAgICBoZWFkID0gaGVhZC5uZXh0OwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

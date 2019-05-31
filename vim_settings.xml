@@ -386,6 +386,12 @@
         <mark key="^" line="72" column="43" />
         <mark key="." line="72" column="43" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q125/ValidPalindrome.java" timestamp="1559273053775">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="9" column="55" />
+        <mark key="." line="9" column="55" />
+        <mark key="^" line="9" column="55" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv10.10.93.wy.sql" timestamp="1552993444540">
         <mark key="[" line="1" column="167" />
         <mark key="]" line="1" column="167" />
@@ -1102,12 +1108,12 @@
         <mark key="^" line="15" column="121" />
         <mark key="." line="15" column="121" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/README.md" timestamp="1559212359447">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="17" />
-        <mark key="^" line="25" column="17" />
-        <mark key="." line="25" column="17" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/README.md" timestamp="1559273422147">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="32" column="7" />
+        <mark key="]" line="32" column="21" />
+        <mark key="." line="32" column="21" />
+        <mark key="^" line="32" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/LoginSmsController.java" timestamp="1559199934353">
         <mark key="[" line="55" column="0" />
@@ -7117,7 +7123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="507" column="24" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/interview/InterviewService.java" />
       <jump line="269" column="19" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/interview/IvInterviewService.java" />
       <jump line="127" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/interview/InterviewJudgeService.java" />
       <jump line="315" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduEvaluationService.java" />
@@ -7217,25 +7222,26 @@
       <jump line="125" column="64" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AiResumeExperienceComponent.java" />
       <jump line="6" column="19" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q118/PascalSTriangle.java" />
       <jump line="19" column="36" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q121/BestTimeToBuyAndSellStock.java" />
+      <jump line="19" column="69" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q125/ValidPalindrome.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>最大利润为 5-1+6-3=7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LSBbcTEyXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>最大利润为 5-1+6-3=7</text>
+        <text>beginPos</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXF1ZXN0TWFwcGluZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygi6L6T5YWlMSwyLDMsNCw1LCDovpPlh7oge30iLCBzb2x1dGlvbi5tYXhQcm9maXQobmV3IGludFtdezEsIDIsIDMsIDQsIDV9KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoQ2hhcmFjdGVyLmlzTGV0dGVyT3JEaWdpdChzLmNoYXJBdChiZWdpblBvcykpKXsK</text>
       </register>
-      <register name="1" type="4">
-        <text>[7,1,5,3,6,4]</text>
+      <register name="1" type="2">
+        <text encoding="base64">LSBbcTEyXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7300,28 +7306,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygi6L6T5YWlNywxLDUsMyw2LDTvvIzovpPlh7oge30iLCBzb2x1dGlvbi5tYXhQcm9maXQobmV3IGludFtdezcsIDEsIDUsIDMsIDYsIDR9KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoQ2hhcmFjdGVyLmlzQWxwaGFiZXRpYyhzLmNoYXJBdChlbmRQb3MpKSB8fCBDaGFyYWN0ZXIuaXNEaWdpdChzLmNoYXJBdChlbmRQb3MpKSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJyWzBdPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoQ2hhcmFjdGVyLmlzQWxwaGFiZXRpYyhzLmNoYXJBdChiZWdpblBvcykpIHx8IENoYXJhY3Rlci5pc0RpZ2l0KHMuY2hhckF0KGJlZ2luUG9zKSkpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBkaWZmID0gcy5jaGFyQXQoYmVnaW5Qb3MpIC0gcy5jaGFyQXQoZW5kUG9zKTsKICAgICAgICAgICAgICAgIGlmIChkaWZmICE9IDAgJiYgZGlmZiAhPSAzMiAmJiBkaWZmICE9IC0zMikgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiByZXMgKyBwcmljZXNbaSAtIDFdICsgcHJpY2VzW2ldOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiJzBQJ+aYr3BhbGluZHJvbWUge30iLCBzb2x1dGlvbi5pc1BhbGluZHJvbWUoIjBQIikpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGkgPT0gcHJpY2VzLmxlbmd0aCAtIDEpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlICgoYmVnaW5Qb3MgPCBlbmRQb3MpICYmICghQ2hhcmFjdGVyLmlzQWxwaGFiZXRpYyhzLmNoYXJBdChlbmRQb3MpKSkpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygi6L6T5YWlMSwyLDMsNCw1LCDovpPlh7oge30iLCBzb2x1dGlvbi5tYXhQcm9maXQobmV3IGludFtdezEsIDIsIDMsIDQsIDV9KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygiIHt9IHt9IiwgYmVnaW5Qb3MsIGVuZFBvcyk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXMgKyBsYXN0TWluOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

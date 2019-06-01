@@ -1115,12 +1115,12 @@
         <mark key="^" line="15" column="121" />
         <mark key="." line="15" column="121" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/README.md" timestamp="1559320415936">
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/README.md" timestamp="1559371228822">
         <mark key="'" line="11" column="31" />
-        <mark key="[" line="33" column="43" />
-        <mark key="]" line="33" column="105" />
-        <mark key="." line="33" column="105" />
-        <mark key="^" line="33" column="105" />
+        <mark key="[" line="43" column="35" />
+        <mark key="]" line="43" column="35" />
+        <mark key="." line="43" column="35" />
+        <mark key="^" line="43" column="35" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/LoginSmsController.java" timestamp="1559199934353">
         <mark key="[" line="55" column="0" />
@@ -2285,11 +2285,12 @@
         <mark key="^" line="174" column="0" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q168/ExcelSheetColumnTitle.java" timestamp="1559361679302">
-        <mark key="[" line="44" column="27" />
-        <mark key="]" line="44" column="26" />
-        <mark key="." line="44" column="26" />
-        <mark key="^" line="44" column="26" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q168/ExcelSheetColumnTitle.java" timestamp="1559371717235">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="36" column="7" />
+        <mark key="]" line="36" column="6" />
+        <mark key="." line="36" column="6" />
+        <mark key="^" line="36" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/helper/DigestCheckService.java" timestamp="1544150631441">
         <mark key="[" line="48" column="98" />
@@ -6820,6 +6821,12 @@
         <mark key="." line="13" column="28" />
         <mark key="^" line="13" column="28" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q1/TwoSum.java" timestamp="1559370849623">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/utils/dto/DecryptedOpenGid.java" timestamp="1552641909034">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="14" column="0" />
@@ -7152,15 +7159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduEvaluationService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/service/user/UserService.java" />
-      <jump line="107" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/service/user/UserService.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/pom.xml" />
-      <jump line="104" column="19" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/Stack.java" />
-      <jump line="178" column="14" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/Stack.java" />
-      <jump line="214" column="1" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/Stack.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/Stack.java" />
-      <jump line="195" column="1" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/ResizingArrayStack.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/ResizingArrayStack.java" />
       <jump line="977" column="28" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
       <jump line="1232" column="32" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
@@ -7252,25 +7250,34 @@
       <jump line="34" column="6" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q155/MinStack.java" />
       <jump line="11" column="31" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/README.md" />
       <jump line="37" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q155/MinStack.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q168/ExcelSheetColumnTitle.java" />
+      <jump line="56" column="37" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q168/ExcelSheetColumnTitle.java" />
+      <jump line="46" column="24" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q168/ExcelSheetColumnTitle.java" />
+      <jump line="28" column="13" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q168/ExcelSheetColumnTitle.java" />
+      <jump line="32" column="22" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q168/ExcelSheetColumnTitle.java" />
+      <jump line="70" column="3" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q168/ExcelSheetColumnTitle.java" />
+      <jump line="23" column="5" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q168/ExcelSheetColumnTitle.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q168/ExcelSheetColumnTitle.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q168/ExcelSheetColumnTitle.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiMjXnmoTnu5PmnpzkuLp7fSIsIHNvbHV0aW9uLmNvbnZlcnRUb1RpdGxlKDI1KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiNTLnmoTnu5PmnpzkuLp7fSIsIHNvbHV0aW9uLmNvbnZlcnRUb1RpdGxlKDUyKSk7CiAgICAgICAgbG9nLmluZm8oIjY3NueahOe7k+aenOS4unt9Iiwgc29sdXRpb24uY29udmVydFRvVGl0bGUoNjc2KSk7CiAgICAgICAgbG9nLmluZm8oIjcwMueahOe7k+aenOS4unt9Iiwgc29sdXRpb24uY29udmVydFRvVGl0bGUoNzAyKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>target</text>
+        <text>676</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXF1ZXN0TWFwcGluZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiMjbnmoTnu5PmnpzkuLp7fSIsIHNvbHV0aW9uLmNvbnZlcnRUb1RpdGxlKDI2KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiNjc255qE57uT5p6c5Li6e30iLCBzb2x1dGlvbi5jb252ZXJ0VG9UaXRsZSg2NzYpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiMjXnmoTnu5PmnpzkuLp7fSIsIHNvbHV0aW9uLmNvbnZlcnRUb1RpdGxlKDI1KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiNTLnmoTnu5PmnpzkuLp7fSIsIHNvbHV0aW9uLmNvbnZlcnRUb1RpdGxlKDUyKSk7CiAgICAgICAgbG9nLmluZm8oIjY3NueahOe7k+aenOS4unt9Iiwgc29sdXRpb24uY29udmVydFRvVGl0bGUoNjc2KSk7CiAgICAgICAgbG9nLmluZm8oIjcwMueahOe7k+aenOS4unt9Iiwgc29sdXRpb24uY29udmVydFRvVGl0bGUoNzAyKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7335,28 +7342,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbi0tOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNiLnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGFkZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKG4gPiAyNikgewogICAgICAgICAgICAgICAgYWRkID0gbiAlIDI2OwovLyAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWRkKTsKICAgICAgICAgICAgICAgIHNiLmluc2VydCgwLCBudW1iZXJUb0NoYXIoYWRkKSk7CiAgICAgICAgICAgICAgICBuIC89IDI2OwogICAgICAgICAgICB9CgogICAgICAgICAgICBzYi5pbnNlcnQoMCwgbnVtYmVyVG9DaGFyKHNiLmxlbmd0aCgpID4gMCAmJiBzYi5jaGFyQXQoMCkgPT0gJ1onID8gbiAtIDEgOiBuKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBzYiA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNiLmluCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlICgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgY2hhciBudW1iZXJUb0NoYXIoaW50IG51bSkgewogICAgICAgICAgICBpZiAobnVtID09IDAgfHwgbnVtID09IDI2KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJ1onOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiAoY2hhcikgKG51bSAtIDEgKyAnQScpOwoKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBbcTEyMSBpZi1lbHNl5LiO5oCd57u06YC76L6RXShodHRwczovL2xlZXRjb2RlLmNvbS9wcm9ibGVtcy9iZXN0LXRpbWUtdG8tYnV5LWFuZC1zZWxsLXN0b2NrLykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG4pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

@@ -1713,11 +1713,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/cronjob/job/MiniAppTemplateMessageJob.java" timestamp="1558778557476">
-        <mark key="[" line="72" column="41" />
-        <mark key="]" line="72" column="40" />
-        <mark key="." line="72" column="40" />
-        <mark key="^" line="72" column="40" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/cronjob/job/MiniAppTemplateMessageJob.java" timestamp="1559727242974">
+        <mark key="[" line="72" column="51" />
+        <mark key="]" line="72" column="50" />
+        <mark key="." line="72" column="50" />
+        <mark key="^" line="72" column="50" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/elastic-daemon/src/main/java/com/zhiri/qumianshi/elasticdaemon/job/SkuAutoDenyJob.java" timestamp="1553584933739">
         <mark key="[" line="20" column="0" />
@@ -1900,11 +1900,12 @@
         <mark key="^" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/controller/DailyController.java" timestamp="1557227806522">
-        <mark key="[" line="53" column="9" />
-        <mark key="]" line="53" column="8" />
-        <mark key="^" line="53" column="8" />
-        <mark key="." line="53" column="8" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/controller/DailyController.java" timestamp="1559728427777">
+        <mark key="'" line="28" column="13" />
+        <mark key="[" line="79" column="27" />
+        <mark key="]" line="79" column="27" />
+        <mark key="." line="79" column="27" />
+        <mark key="^" line="99" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AiResumeProjectExperienceDTO.java" timestamp="1556609488858">
         <mark key="[" line="16" column="0" />
@@ -2990,11 +2991,11 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/RibaoApplication.java" timestamp="1557027988604">
-        <mark key="[" line="26" column="1" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/RibaoApplication.java" timestamp="1559727680768">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/Dockerfile" timestamp="1557990598566">
         <mark key="[" line="0" column="0" />
@@ -6106,6 +6107,9 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/sql/deployed/create_vv_00.24_xfc.sql" timestamp="1559728177073">
+        <mark key="[" line="0" column="40" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/CheckInService.java" timestamp="1545723925380">
         <mark key="[" line="213" column="14" />
         <mark key="]" line="37" column="14" />
@@ -7190,10 +7194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="515" column="31" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
-      <jump line="0" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
-      <jump line="43" column="47" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q20/ValidParentheses.java" />
-      <jump line="32" column="30" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q20/ValidParentheses.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q20/ValidParentheses.java" />
       <jump line="52" column="56" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/Bag.java" />
       <jump line="175" column="1" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/Bag.java" />
@@ -7290,16 +7290,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/UF.java" />
       <jump line="226" column="1" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/UF.java" />
       <jump line="43" column="43" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/algs4/src/main/java/edu/princeton/cs/algs4/UF.java" />
+      <jump line="30" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/controller/DailyController.java" />
+      <jump line="75" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/controller/DailyController.java" />
+      <jump line="25" column="17" filename="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/controller/DailyController.java" />
+      <jump line="28" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/main/java/com/zhiri/ribao/controller/DailyController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>head</text>
+        <text>返回直接访问的url</text>
       </register>
       <register name="-" type="4">
-        <text>head</text>
+        <text>返回直接访问的url</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXF1ZXN0TWFwcGluZ1w+</text>
@@ -7308,7 +7312,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGhlYWQgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGhlYWQ7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGhlYWQgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGhlYWQ7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3VsdC5lcnJvcig0MDMsICLkuI3lhYHorrjorr/pl64iKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7373,28 +7377,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjdXIudmFsKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0Lm9rKHVybCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSb2xlVXNlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiNTLnmoTnu5PmnpzkuLp7fSIsIHNvbHV0aW9uLmNvbnZlcnRUb1RpdGxlKDUyKSk7CiAgICAgICAgbG9nLmluZm8oIjY3NueahOe7k+aenOS4unt9Iiwgc29sdXRpb24uY29udmVydFRvVGl0bGUoNjc2KSk7CiAgICAgICAgbG9nLmluZm8oIjcwMueahOe7k+aenOS4unt9Iiwgc29sdXRpb24uY29udmVydFRvVGl0bGUoNzAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0Lm9rKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYWlseVNlcnZpY2Uuc2F2ZURhaWx5QWZ0ZXJSZW1hcmsoZGFpbHlEdG8uZ2V0RGFpbHlJZCgpLCBkYWlseUR0by5nZXRDb250ZW50KCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGFkZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RCb2R5IERhaWx5U2F2ZUJ5SWREdG8gZGFpbHlEdG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKG4gPiAyNikgewogICAgICAgICAgICAgICAgYWRkID0gbiAlIDI2OwovLyAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWRkKTsKICAgICAgICAgICAgICAgIHNiLmluc2VydCgwLCBudW1iZXJUb0NoYXIoYWRkKSk7CiAgICAgICAgICAgICAgICBuIC89IDI2OwogICAgICAgICAgICB9CgogICAgICAgICAgICBzYi5pbnNlcnQoMCwgbnVtYmVyVG9DaGFyKHNiLmxlbmd0aCgpID4gMCAmJiBzYi5jaGFyQXQoMCkgPT0gJ1onID8gbiAtIDEgOiBuKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGhlYWQgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGhlYWQ7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

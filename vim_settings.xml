@@ -1232,11 +1232,11 @@
         <mark key="." line="171" column="33" />
         <mark key="^" line="171" column="33" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/daemon/BaiduNoHandleDaemon.java" timestamp="1560741555150">
-        <mark key="[" line="27" column="38" />
-        <mark key="]" line="27" column="37" />
-        <mark key="." line="27" column="37" />
-        <mark key="^" line="27" column="37" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/daemon/BaiduNoHandleDaemon.java" timestamp="1561872340831">
+        <mark key="[" line="37" column="29" />
+        <mark key="]" line="37" column="13" />
+        <mark key="." line="37" column="13" />
+        <mark key="^" line="37" column="13" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Controller/Interviewer/InterviewerController.java" timestamp="1543302898698">
         <mark key="[" line="68" column="15" />
@@ -5752,13 +5752,7 @@
         <mark key="^" line="21" column="14" />
         <mark key="." line="21" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduBaomingService.java" timestamp="1561802318450">
-        <mark key="'" line="141" column="18" />
-        <mark key="[" line="303" column="14" />
-        <mark key="]" line="303" column="13" />
-        <mark key="^" line="303" column="13" />
-        <mark key="." line="303" column="13" />
-      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduBaomingService.java" timestamp="1561802318450" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/student/StudentInfoRepo.java" timestamp="1552468071528">
         <mark key="[" line="18" column="53" />
         <mark key="]" line="18" column="52" />
@@ -6098,7 +6092,7 @@
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/xzb/user/StudentService.java" timestamp="1561802033481">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="151" column="127" />
+        <mark key="[" line="12" column="127" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/student/StudentActiveStateTodayRepo.java" timestamp="1544495749955">
         <mark key="[" line="16" column="104" />
@@ -6513,6 +6507,12 @@
         <mark key="]" line="31" column="42" />
         <mark key="^" line="31" column="42" />
         <mark key="." line="31" column="42" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/dingding/DingRobotManager.java" timestamp="1561872220659">
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="19" />
+        <mark key="^" line="44" column="19" />
+        <mark key="." line="44" column="19" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q119/PascalSTriangleV2.java" timestamp="1559206080164">
         <mark key="[" line="52" column="24" />
@@ -7478,8 +7478,8 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>res.getErrcode() == 0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoTGlzdHMubmV3QXJyYXlMaXN0KERheU9mV2Vlay5TQVRVUkRBWSwgRGF5T2ZXZWVrLlNVTkRBWSkuY29udGFpbnMobm93LmdldERheU9mV2VlaygpKSkgewo=</text>
       </register>
       <register name="-" type="4">
         <text>res.getErrcode() == 0</text>
@@ -7488,7 +7488,7 @@
         <text encoding="base64">XDxSZXF1ZXN0TWFwcGluZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlcy5nZXRFcnJjb2RlKCkgPT0gMCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoTGlzdHMubmV3QXJyYXlMaXN0KERheU9mV2Vlay5TQVRVUkRBWSwgRGF5T2ZXZWVrLlNVTkRBWSkuY29udGFpbnMobm93LmdldERheU9mV2VlaygpKSkgewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFN0cmluZyB1bmlvbmlkOwo=</text>

@@ -32,8 +32,8 @@
         <mark key="^" line="159" column="70" />
         <mark key="." line="159" column="70" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/resources/core.properties" timestamp="1560240730410">
-        <mark key="[" line="13" column="44" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/resources/core.properties" timestamp="1562739548644">
+        <mark key="[" line="38" column="0" />
         <mark key="]" line="13" column="43" />
         <mark key="^" line="13" column="43" />
         <mark key="." line="13" column="43" />
@@ -942,11 +942,11 @@
         <mark key="^" line="84" column="25" />
         <mark key="." line="84" column="25" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/resources/jdbc-dev.properties" timestamp="1555469935389">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="7" column="63" />
-        <mark key="^" line="7" column="47" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/resources/jdbc-dev.properties" timestamp="1562739481716">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="7" column="64" />
+        <mark key="^" line="7" column="64" />
+        <mark key="." line="7" column="64" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/resumediagnose/ResumeDiagnoseStudentServiceTest.java" timestamp="1552982929050">
         <mark key="[" line="14" column="47" />
@@ -5065,6 +5065,12 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/test/resources/application.properties" timestamp="1562739451996">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/InterviewRepo.java" timestamp="1550224246673">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="84" column="222" />
@@ -5378,11 +5384,6 @@
         <mark key="]" line="7" column="94" />
         <mark key="." line="7" column="94" />
         <mark key="^" line="7" column="94" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/dingding/retrofit/DingdingClient.java" timestamp="1561779929642">
-        <mark key="[" line="35" column="20" />
-        <mark key="]" line="35" column="20" />
-        <mark key="." line="35" column="20" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/retrofit/WechatPayApi.java" timestamp="1555743824609">
         <mark key="[" line="19" column="32" />
@@ -5872,11 +5873,11 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/resources/application.properties" timestamp="1552462595652">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="26" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/resources/application.properties" timestamp="1562739564005">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/wx-official-account/src/main/java/com/zhiri/controller/WechatConfigController.java" timestamp="1550838529121">
         <mark key="[" line="28" column="6" />

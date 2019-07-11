@@ -1216,12 +1216,12 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/springCloud/springcloud/eurekaclient/pom.xml" timestamp="1562830161588">
+      <file name="$USER_HOME$/etc/losFiles/projects/playground/springCloud/springcloud/eurekaclient/pom.xml" timestamp="1562832891702">
         <mark key="'" line="33" column="54" />
-        <mark key="[" line="57" column="21" />
-        <mark key="]" line="57" column="20" />
-        <mark key="." line="57" column="20" />
-        <mark key="^" line="57" column="20" />
+        <mark key="[" line="60" column="19" />
+        <mark key="]" line="60" column="18" />
+        <mark key="." line="60" column="18" />
+        <mark key="^" line="60" column="18" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Service/PayService.java" timestamp="1543578963725">
         <mark key="[" line="36" column="21" />
@@ -1930,6 +1930,7 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-server/2.1.0.RELEASE/spring-cloud-config-server-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/config/server/config/ConfigServerConfiguration.java" timestamp="1562833642718" />
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/concurrency/main/java/com/losymear/concurrency/ForkJoinTaskExample.java" timestamp="1552300451787">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="8" column="43" />
@@ -2438,6 +2439,9 @@
         <mark key="]" line="14" column="34" />
         <mark key="." line="14" column="34" />
         <mark key="^" line="14" column="34" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.1.0.RELEASE/spring-cloud-netflix-eureka-server-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerAutoConfiguration.java" timestamp="1562833350335">
+        <mark key="'" line="106" column="16" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/banner/BannerService.java" timestamp="1553085072438">
         <mark key="[" line="26" column="0" />
@@ -6924,6 +6928,9 @@
         <mark key="^" line="141" column="73" />
         <mark key="." line="141" column="73" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-server/2.1.0.RELEASE/spring-cloud-config-server-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/config/server/config/EnvironmentRepositoryConfiguration.java" timestamp="1562833744728">
+        <mark key="'" line="185" column="40" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q198/HouseRobber.java" timestamp="1560591633882">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="27" />
@@ -7604,8 +7611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="103" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q83/RemoveDuplicatesFromSortedList.java" />
-      <jump line="8" column="21" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/structure/TreeNode.java" />
       <jump line="10" column="1" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/structure/TreeNode.java" />
       <jump line="21" column="14" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q101/SymmetricTree.java" />
       <jump line="62" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/structure/TreeNode.java" />
@@ -7704,6 +7709,8 @@
       <jump line="34" column="60" filename="$USER_HOME$/etc/losFiles/projects/playground/springCloud/springcloud/eurekaclient/pom.xml" />
       <jump line="33" column="54" filename="$USER_HOME$/etc/losFiles/projects/playground/springCloud/springcloud/eurekaclient/pom.xml" />
       <jump line="10" column="11" filename="$USER_HOME$/etc/losFiles/projects/playground/springCloud/springcloud/config/src/main/resources/application.yml" />
+      <jump line="106" column="16" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.1.0.RELEASE/spring-cloud-netflix-eureka-server-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerAutoConfiguration.java" />
+      <jump line="185" column="40" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-server/2.1.0.RELEASE/spring-cloud-config-server-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/config/server/config/EnvironmentRepositoryConfiguration.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

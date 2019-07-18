@@ -436,6 +436,12 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="13" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/component/SwaggerConfig.java" timestamp="1563443251335">
+        <mark key="[" line="38" column="45" />
+        <mark key="]" line="38" column="44" />
+        <mark key="^" line="38" column="44" />
+        <mark key="." line="38" column="44" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/tiku/UserQuestionPraticeDO.java" timestamp="1545718844702">
         <mark key="[" line="17" column="28" />
         <mark key="]" line="15" column="6" />
@@ -2251,11 +2257,11 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/resumegenerator/retrofit/ResumeGeneratorRetrofitConfig.java" timestamp="1563441070908">
-        <mark key="[" line="34" column="42" />
-        <mark key="]" line="34" column="41" />
-        <mark key="^" line="34" column="41" />
-        <mark key="." line="34" column="41" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/resumegenerator/retrofit/ResumeGeneratorRetrofitConfig.java" timestamp="1563442619083">
+        <mark key="[" line="34" column="34" />
+        <mark key="]" line="34" column="33" />
+        <mark key="^" line="34" column="33" />
+        <mark key="." line="34" column="33" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/jpaauditor/UserIDAuditorBean.java" timestamp="1555494578827">
         <mark key="[" line="23" column="46" />
@@ -4658,8 +4664,8 @@
         <mark key="." line="26" column="49" />
         <mark key="^" line="26" column="49" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/resumegenerator/ResumeGeneratorController.java" timestamp="1563441652226">
-        <mark key="[" line="14" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/resumegenerator/ResumeGeneratorController.java" timestamp="1563442789034">
+        <mark key="[" line="18" column="40" />
         <mark key="]" line="17" column="38" />
         <mark key="^" line="18" column="36" />
         <mark key="." line="18" column="36" />
@@ -7722,17 +7728,17 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;/error&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>&quot;/error&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXF1ZXN0TWFwcGluZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QFNlcnZpY2UKQExvZzRqMgpAVHJhbnNhY3Rpb25hbChyb2xsYmFja0ZvciA9IEV4Y2VwdGlvbi5jbGFzcykKcHVibGljIGNsYXNzIFJlc3VtZUdlbmVyYXRvck1pbmlhcHBTZXJ2aWNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYXRocyhQcmVkaWNhdGVzLm5vdChQYXRoU2VsZWN0b3JzLnJlZ2V4KCIvZXJyb3IiKSkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

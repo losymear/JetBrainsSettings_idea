@@ -11,6 +11,11 @@
         <mark key="^" line="57" column="13" />
         <mark key="." line="57" column="13" />
       </file>
+      <file name="/a.dummy" timestamp="1563515386579">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/CommonModuleAdminController.java" timestamp="1563334938112">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -935,11 +940,11 @@
         <mark key="^" line="92" column="1" />
         <mark key="." line="92" column="1" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/resumegenerator/ResumeGeneratorQueryController.java" timestamp="1563515270516">
-        <mark key="[" line="34" column="43" />
-        <mark key="]" line="34" column="42" />
-        <mark key="." line="34" column="42" />
-        <mark key="^" line="34" column="42" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/resumegenerator/ResumeGeneratorQueryController.java" timestamp="1563515379782">
+        <mark key="[" line="26" column="37" />
+        <mark key="]" line="26" column="45" />
+        <mark key="." line="26" column="45" />
+        <mark key="^" line="26" column="45" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/test/java/com/zhiri/qumianshi/Service/DigestCheckServiceTest.java" timestamp="1543063212814">
         <mark key="[" line="15" column="68" />
@@ -1343,7 +1348,6 @@
         <mark key="^" line="41" column="8" />
         <mark key="." line="41" column="8" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Class.java" timestamp="1563279802413" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/MiniappService.java" timestamp="1555653210377">
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="126" />
@@ -3690,7 +3694,6 @@
         <mark key="." line="34" column="40" />
         <mark key="^" line="34" column="40" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/squareup/retrofit2/retrofit/2.4.0/retrofit-2.4.0-sources.jar!/retrofit2/Call.java" timestamp="1563441455927" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/repo2/src/main/java/configuration/RepoConfiguration.java" timestamp="1555471787925">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -5317,7 +5320,6 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/2.0.6.RELEASE/spring-boot-actuator-2.0.6.RELEASE-sources.jar!/org/springframework/boot/actuate/redis/RedisReactiveHealthIndicator.java" timestamp="1563352151867" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/freelychat/FreelyChatCatalogDO.java" timestamp="1552583935698">
         <mark key="[" line="37" column="19" />
         <mark key="]" line="43" column="0" />
@@ -5828,7 +5830,6 @@
         <mark key="^" line="15" column="5" />
         <mark key="." line="15" column="5" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/netty/netty-transport/4.1.29.Final/netty-transport-4.1.29.Final-sources.jar!/io/netty/channel/DefaultChannelPipeline.java" timestamp="1563352373882" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/test/java/com/zhiri/qumianshi/Service/AppointmentServiceTest.java" timestamp="1543201039742">
         <mark key="[" line="47" column="1" />
         <mark key="]" line="47" column="16" />
@@ -7766,11 +7767,11 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRDb252ZXJ0ZXJGYWN0b3J5KEphY2tzb25Db252ZXJ0ZXJGYWN0b3J5LmNyZWF0ZSgpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>query</text>
       </register>
       <register name="-" type="4">
-        <text>objectMapper</text>
+        <text>query</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXF1ZXN0TWFwcGluZ1w+</text>

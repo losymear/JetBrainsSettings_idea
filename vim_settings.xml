@@ -11,11 +11,6 @@
         <mark key="^" line="57" column="13" />
         <mark key="." line="57" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1563529456377">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/CommonModuleAdminController.java" timestamp="1563334938112">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -1380,6 +1375,12 @@
         <mark key="]" line="1" column="4" />
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/dto/tutor/TutorBaomingInfo.java" timestamp="1563611414726">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+        <mark key="^" line="17" column="19" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/qiniu/QiniuAdminManager.java" timestamp="1556592793017">
         <mark key="[" line="50" column="13" />
@@ -6292,11 +6293,6 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/resumegenerator/ResumeGeneratorBasicInfoManager.java" timestamp="1563529453891">
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/stream/src/main/java/com/losymear/stream/basic/Sub.java" timestamp="1553260558390">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="15" />
@@ -6558,6 +6554,12 @@
         <mark key="]" line="13" column="1" />
         <mark key="^" line="13" column="1" />
         <mark key="." line="13" column="1" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/tutor/TutorAdminController.java" timestamp="1563611422051">
+        <mark key="[" line="74" column="27" />
+        <mark key="]" line="74" column="26" />
+        <mark key="^" line="74" column="26" />
+        <mark key="." line="74" column="26" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/student/CheckInService.java" timestamp="1545723925380">
         <mark key="[" line="213" column="14" />
@@ -7076,6 +7078,12 @@
         <mark key="]" line="8" column="4" />
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="4" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/tutor/TutorAdminService.java" timestamp="1563611388531">
+        <mark key="[" line="152" column="92" />
+        <mark key="]" line="152" column="91" />
+        <mark key="^" line="152" column="91" />
+        <mark key="." line="152" column="91" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q198/HouseRobber.java" timestamp="1560591633882">
         <mark key="[" line="8" column="28" />
@@ -7889,10 +7897,10 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLmmLXnp7AiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrZXl3b3JkXD4=</text>
@@ -7901,7 +7909,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCLnmbvlvZXpqozor4HnoIHmnKrpgJrov4fvvJsg5omL5py65Y+3Ont9OyDor7fmsYLpqozor4HnoIHvvJp7fe+8myByZWRpc+WAvO+8mnt9IiwgcGhvbmUsIGNvZGUsIHZlcmlmeUNvZGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLmmLXnp7AiKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7966,28 +7974,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXMK</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLmmLXnp7AiKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbGRhdGV0aQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUubm93KCkuZGF5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIHRpbWVNaWxscyA9IExvY2FsRGF0ZS5wYXJzZSgiMjAxOS0wNS0yNSIpLmF0U3RhcnRPZkRheSgpLnRvRXBvY2hTZWNvbmQoT2Zmc2V0RGF0ZVRpbWUubm93KCkuZ2V0T2Zmc2V0KCkpKjEwMDA7CiAgICAgICAgTWFwPFN0cmluZywgSW50ZWdlcj4gbWFwID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIEJhaWR1QmFvbWluZ0RPLlN0YXR1cy5saXN0KCkuc3RyZWFtKCkuZm9yRWFjaCgKICAgICAgICAgICAgICAgIHN0YXR1cyAtPiBtYXAucHV0KHN0YXR1cy50b1N0cmluZygpLCBiYWlkdUJhb21pbmdSZXBvLmZpbmRCeVN0YXR1c0FuZENyZWF0ZVRpbWVHcmVhdGVyVGhhbihzdGF0dXMsIHRpbWVNaWxscykuc2l6ZSgpKQogICAgICAgICk7CiAgICAgICAgcmV0dXJuIG1hcDsK</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbGRhdGV0aQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUubm93KCkuZGF5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

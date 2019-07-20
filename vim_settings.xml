@@ -1324,6 +1324,13 @@
         <mark key="^" line="35" column="14" />
         <mark key="." line="35" column="14" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/common/IpService.java" timestamp="1563282216885">
+        <mark key="'" line="23" column="6" />
+        <mark key="[" line="29" column="41" />
+        <mark key="]" line="29" column="40" />
+        <mark key="." line="29" column="40" />
+        <mark key="^" line="29" column="40" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/pickscore/PlainWellScoreDO.java" timestamp="1549956711324">
         <mark key="[" line="19" column="21" />
         <mark key="]" line="28" column="0" />
@@ -7176,6 +7183,13 @@
         <mark key="." line="16" column="22" />
         <mark key="^" line="16" column="22" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/baidu/BaiduBaomingRepo.java" timestamp="1563590990406">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="36" column="69" />
+        <mark key="]" line="36" column="68" />
+        <mark key="^" line="36" column="68" />
+        <mark key="." line="36" column="68" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/RefundEntity.java" timestamp="1544296761289">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="17" />
@@ -7772,7 +7786,6 @@
       <jump line="340" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduEvaluationService.java" />
       <jump line="133" column="118" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduEvaluationController.java" />
       <jump line="9" column="55" filename="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q191/NumberOf1Bits.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/baidu/BaiduBaomingRepo.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduBaomingService.java" />
       <jump line="229" column="65" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduBaomingService.java" />
       <jump line="37" column="69" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/daemon/BaiduNoHandleDaemon.java" />
@@ -7849,16 +7862,17 @@
       <jump line="178" column="53" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/resumegenerator/ResumeGeneratorBasicInfoService.java" />
       <jump line="42" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_17.01_wy.sql" />
       <jump line="159" column="19" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/resumegenerator/ResumeGeneratorBasicInfoService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/baidu/BaiduBaomingRepo.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>createTime</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>createTime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrZXl3b3JkXD4=</text>

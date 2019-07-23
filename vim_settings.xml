@@ -1167,11 +1167,11 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/configuration/security/role/RoleAdmin.java" timestamp="1556614663053">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="11" column="1" />
-        <mark key="^" line="11" column="1" />
-        <mark key="." line="11" column="1" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/configuration/security/role/RoleAdmin.java" timestamp="1563849986270">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="10" column="25" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/baidu/TutorDO.java" timestamp="1558696952649">
         <mark key="[" line="13" column="7" />
@@ -1463,6 +1463,7 @@
         <mark key="^" line="62" column="27" />
         <mark key="." line="62" column="27" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.9.RELEASE/spring-security-core-5.0.9.RELEASE-sources.jar!/org/springframework/security/access/prepost/PreAuthorize.java" timestamp="1563849818187" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/pay/InterviewerIncomeRepository.java" timestamp="1544452754684">
         <mark key="[" line="17" column="3" />
         <mark key="]" line="13" column="10" />
@@ -3633,12 +3634,12 @@
         <mark key="^" line="90" column="30" />
         <mark key="." line="90" column="30" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduBaomingAdminController.java" timestamp="1563793564976">
-        <mark key="'" line="309" column="58" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="42" column="27" />
-        <mark key="^" line="32" column="25" />
-        <mark key="." line="32" column="25" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduBaomingAdminController.java" timestamp="1563850158501">
+        <mark key="'" line="310" column="58" />
+        <mark key="[" line="34" column="1" />
+        <mark key="]" line="34" column="16" />
+        <mark key="^" line="34" column="16" />
+        <mark key="." line="34" column="16" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/daemon/ArrayBuilder2.java" timestamp="1544984166024">
         <mark key="[" line="15" column="27" />
@@ -4102,6 +4103,12 @@
         <mark key="]" line="128" column="29" />
         <mark key="." line="128" column="29" />
         <mark key="^" line="128" column="29" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/configuration/security/role/RoleTest1OrAdmin.java" timestamp="1563850127123">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="58" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/dto/AiResumeInternshipExperienceDTO.java" timestamp="1559197714851">
         <mark key="[" line="20" column="14" />
@@ -5543,9 +5550,9 @@
         <mark key="^" line="9" column="33" />
         <mark key="." line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/configuration/security/role/RoleAnyUser.java" timestamp="1557134645391">
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="9" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/configuration/security/role/RoleAnyUser.java" timestamp="1563850020502">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="101" />
         <mark key="^" line="9" column="9" />
         <mark key="." line="9" column="9" />
       </file>
@@ -8001,19 +8008,19 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>wangyin</text>
+        <text>RoleAdmin</text>
       </register>
       <register name="-" type="4">
-        <text>wangyin</text>
+        <text>RoleAdmin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrZXl3b3JkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoYmFpZHVFdmFsdWF0aW5nU2NoZWR1bGVBZG1pblNlcnZpY2UuZ2V0U2NoZWR1bGVMaXN0KHR1dG9ySWQsIHRyYW5zVGltZShub3cucGx1c0hvdXJzKDMpKSwgdHJhbnNUaW1lKG5vdy5wbHVzSG91cnMoNCkpKS5zaXplKCksIDMpOwo=</text>
+        <text encoding="base64">QFByZUF1dGhvcml6ZSgiaGFzUm9sZSgnUk9MRV9VU0VSJykgb3IgaGFzUm9sZSgnUk9MRV9JTlRFUlZJRVdFUicpIG9yIGhhc1JvbGUoJ1JPTEVfTUlOSUFQUF9MT0dJTicpIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBJZ25vcmUK</text>
+        <text encoding="base64">QFByZUF1dGhvcml6ZSgiaGFzUm9sZSgnUk9MRV9VU0VSJykgb3IgaGFzUm9sZSgnUk9MRV9JTlRFUlZJRVdFUicpIG9yIGhhc1JvbGUoJ1JPTEVfTUlOSUFQUF9MT0dJTicpIikK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8078,28 +8085,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoYmFpZHVFdmFsdWF0aW5nU2NoZWR1bGVBZG1pblNlcnZpY2UuZ2V0U2NoZWR1bGVMaXN0KHR1dG9ySWQsIHRyYW5zVGltZShub3cpLCB0cmFuc1RpbWUobm93LnBsdXNIb3VycygzKSkpLnNpemUoKSwgMSk7Cg==</text>
+        <text encoding="base64">ICAgIEBJZ25vcmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoYmFpZHVFdmFsdWF0aW5nU2NoZWR1bGVBZG1pblNlcnZpY2UuZ2V0U2NoZWR1bGVMaXN0KHR1dG9ySWQsIHRyYW5zVGltZShub3cucGx1c01pbnV0ZXMoMzEpKSwgdHJhbnNUaW1lKG5vdy5wbHVzSG91cnMoMykpKS5zaXplKCksIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoYmFpZHVFdmFsdWF0aW5nU2NoZWR1bGVBZG1pblNlcnZpY2UuZ2V0U2NoZWR1bGVMaXN0KHR1dG9ySWQsIHRyYW5zVGltZShub3cpLCB0cmFuc1RpbWUobm93LnBsdXNIb3VycygzKSkpLnNpemUoKSwgMSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiYWlkdUV2YWx1YXRpbmdTY2hlZHVsZUFkbWluU2VydmljZS5hZGRTY2hlZHVsZSh0dXRvcklkLCAtNTcwLCBub3cucGx1c0hvdXJzKDQpLnBsdXNNaW51dGVzKDMwKS5hdFpvbmUoWm9uZUlkLnN5c3RlbURlZmF1bHQoKSkudG9JbnN0YW50KCkudG9FcG9jaE1pbGxpKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoYmFpZHVFdmFsdWF0aW5nU2NoZWR1bGVBZG1pblNlcnZpY2UuZ2V0U2NoZWR1bGVMaXN0KHR1dG9ySWQsIHRyYW5zVGltZShub3cucGx1c01pbnV0ZXMoMzEpKSwgdHJhbnNUaW1lKG5vdy5wbHVzSG91cnMoMykpKS5zaXplKCksIDEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiYWlkdUV2YWx1YXRpbmdTY2hlZHVsZUFkbWluU2VydmljZS5hZGRTY2hlZHVsZSh0dXRvcklkLCAtNTcxLCBub3cucGx1c0hvdXJzKDQpLmF0Wm9uZShab25lSWQuc3lzdGVtRGVmYXVsdCgpKS50b0luc3RhbnQoKS50b0Vwb2NoTWlsbGkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWlkdUV2YWx1YXRpbmdTY2hlZHVsZUFkbWluU2VydmljZS5hZGRTY2hlZHVsZSh0dXRvcklkLCAtNTcwLCBub3cucGx1c0hvdXJzKDQpLnBsdXNNaW51dGVzKDMwKS5hdFpvbmUoWm9uZUlkLnN5c3RlbURlZmF1bHQoKSkudG9JbnN0YW50KCkudG9FcG9jaE1pbGxpKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiYWlkdUV2YWx1YXRpbmdTY2hlZHVsZUFkbWluU2VydmljZS5hZGRTY2hlZHVsZSh0dXRvcklkLCAtNTcyLCBub3cucGx1c0hvdXJzKDMpLnBsdXNNaW51dGVzKDMwKS5hdFpvbmUoWm9uZUlkLnN5c3RlbURlZmF1bHQoKSkudG9JbnN0YW50KCkudG9FcG9jaE1pbGxpKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBiYWlkdUV2YWx1YXRpbmdTY2hlZHVsZUFkbWluU2VydmljZS5hZGRTY2hlZHVsZSh0dXRvcklkLCAtNTcxLCBub3cucGx1c0hvdXJzKDQpLmF0Wm9uZShab25lSWQuc3lzdGVtRGVmYXVsdCgpKS50b0luc3RhbnQoKS50b0Vwb2NoTWlsbGkoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBub3cucGx1Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWlkdUV2YWx1YXRpbmdTY2hlZHVsZUFkbWluU2VydmljZS5hZGRTY2hlZHVsZSh0dXRvcklkLCAtNTcyLCBub3cucGx1c0hvdXJzKDMpLnBsdXNNaW51dGVzKDMwKS5hdFpvbmUoWm9uZUlkLnN5c3RlbURlZmF1bHQoKSkudG9JbnN0YW50KCkudG9FcG9jaE1pbGxpKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0Lm9rKAo=</text>
+        <text encoding="base64">ICAgICAgICBub3cucGx1Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgidHV0b3JJZCIpIEludGVnZXIgdHV0b3JJZCwKICAgICAgICAgICAgQEFwaVBhcmFtKCLmjpLmnJ/ml7bpl7TkuIvpmZAiKSBAUmVxdWVzdFBhcmFtKCJtaW5TY2hlZHVsZVRpbWUiKSBMb25nIG1pblNjaGVkdWxlVGltZSwKICAgICAgICAgICAgQEFwaVBhcmFtKCLmjpLmnJ/ml7bpl7TkuIrpmZAiKSBAUmVxdWVzdFBhcmFtKCJtYXhTY2hlZHVsZVRpbWUiKSBMb25nIG1heFNjaGVkdWxlVGltZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0Lm9rKAo=</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

@@ -20,11 +20,11 @@
       <file name="/a.dummy" timestamp="1563787006864">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/resources/core.properties" timestamp="1562739548644">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="13" column="43" />
-        <mark key="^" line="13" column="43" />
-        <mark key="." line="13" column="43" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/resources/core.properties" timestamp="1564386376725">
+        <mark key="[" line="71" column="25" />
+        <mark key="]" line="64" column="64" />
+        <mark key="^" line="64" column="64" />
+        <mark key="." line="64" column="64" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/java/com/zhiri/qumianshi/service/retrofit/MiniAppApiClient.java" timestamp="1552636708872">
         <mark key="[" line="27" column="0" />
@@ -750,12 +750,6 @@
         <mark key="]" line="18" column="25" />
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="25" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduEvaluationService.java" timestamp="1564045685406">
-        <mark key="[" line="396" column="44" />
-        <mark key="]" line="396" column="43" />
-        <mark key="^" line="396" column="43" />
-        <mark key="." line="396" column="43" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/miniapp/src/main/test/com/zhiri/qumianshi/service/retrofit/MiniAppApiClientTest.java" timestamp="1553072908337">
         <mark key="[" line="18" column="0" />
@@ -2112,8 +2106,8 @@
         <mark key="." line="7" column="2" />
         <mark key="^" line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/resources/core-prod.properties" timestamp="1563603097373">
-        <mark key="[" line="0" column="7" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/resources/core-prod.properties" timestamp="1564386470889">
+        <mark key="[" line="7" column="0" />
         <mark key="]" line="9" column="67" />
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="28" />
@@ -2124,11 +2118,11 @@
         <mark key="^" line="1" column="44" />
         <mark key="." line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/README.md" timestamp="1555309391070">
-        <mark key="[" line="34" column="7" />
-        <mark key="]" line="35" column="20" />
-        <mark key="^" line="35" column="20" />
-        <mark key="." line="35" column="20" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/README.md" timestamp="1564386602156">
+        <mark key="[" line="30" column="44" />
+        <mark key="]" line="30" column="43" />
+        <mark key="^" line="30" column="43" />
+        <mark key="." line="30" column="43" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_v8.2_wy.sql" timestamp="1551236936908">
         <mark key="[" line="0" column="30" />
@@ -2611,12 +2605,12 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/pom.xml" timestamp="1563779943774">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="150" column="27" />
-        <mark key="]" line="150" column="26" />
-        <mark key="." line="150" column="26" />
-        <mark key="^" line="150" column="26" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/pom.xml" timestamp="1564386768051">
+        <mark key="'" line="42" column="24" />
+        <mark key="[" line="357" column="8" />
+        <mark key="]" line="357" column="7" />
+        <mark key="." line="357" column="7" />
+        <mark key="^" line="357" column="7" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Repository/UserSecretRepository.java" timestamp="1542857338612">
         <mark key="[" line="35" column="55" />
@@ -3963,6 +3957,7 @@
         <mark key="^" line="143" column="47" />
         <mark key="." line="143" column="47" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-cloudauth/1.3.0/aliyun-java-sdk-cloudauth-1.3.0-sources.jar!/com/aliyuncs/cloudauth/model/v20180916/GetVerifyTokenRequest.java" timestamp="1564386844980" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/elasticjob/SkuAutoDenyJob.java" timestamp="1552013646582">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -7112,6 +7107,12 @@
         <mark key="^" line="31" column="42" />
         <mark key="." line="31" column="42" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/dingding/DingRobotManager.java" timestamp="1564386220488">
+        <mark key="[" line="35" column="86" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q119/PascalSTriangleV2.java" timestamp="1559206080164">
         <mark key="[" line="52" column="24" />
         <mark key="]" line="52" column="23" />
@@ -7693,8 +7694,12 @@
         <mark key="^" line="29" column="26" />
         <mark key="." line="29" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/aliyun/CloudAuthManager.java" timestamp="1563968397365">
-        <mark key="[" line="124" column="20" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/aliyun/CloudAuthManager.java" timestamp="1564386809788">
+        <mark key="'" line="85" column="56" />
+        <mark key="[" line="108" column="32" />
+        <mark key="]" line="108" column="31" />
+        <mark key="^" line="108" column="31" />
+        <mark key="." line="108" column="31" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/FieldRepository.java" timestamp="1548157186042">
         <mark key="[" line="21" column="42" />
@@ -8059,13 +8064,9 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="47" filename="$USER_HOME$/etc/losFiles/projects/playground/springCloud/springcloud/eurekaclient/src/main/resources/bootstrap.yml" />
-      <jump line="34" column="60" filename="$USER_HOME$/etc/losFiles/projects/playground/springCloud/springcloud/eurekaclient/pom.xml" />
-      <jump line="33" column="54" filename="$USER_HOME$/etc/losFiles/projects/playground/springCloud/springcloud/eurekaclient/pom.xml" />
       <jump line="10" column="11" filename="$USER_HOME$/etc/losFiles/projects/playground/springCloud/springcloud/config/src/main/resources/application.yml" />
       <jump line="106" column="16" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.1.0.RELEASE/spring-cloud-netflix-eureka-server-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerAutoConfiguration.java" />
       <jump line="185" column="40" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-server/2.1.0.RELEASE/spring-cloud-config-server-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/config/server/config/EnvironmentRepositoryConfiguration.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/pom.xml" />
       <jump line="17" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/common/IpService.java" />
       <jump line="22" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/adminconfigurable/OperatorConfigDO.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_17.01_wy.sql" />
@@ -8159,6 +8160,10 @@
       <jump line="31" column="17" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/xzb/tutorapply/TutorApplyTutorController.java" />
       <jump line="52" column="84" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/xzb/tutorapply/TutorApplyManager.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduEvaluatingScheduleAdminService.java" />
+      <jump line="85" column="56" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/aliyun/CloudAuthManager.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/pom.xml" />
+      <jump line="42" column="24" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/pom.xml" />
+      <jump line="241" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduEvaluationService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

@@ -3243,12 +3243,12 @@
         <mark key="^" line="15" column="124" />
         <mark key="." line="15" column="124" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_18.00_wy.sql" timestamp="1567417251171">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_18.00_wy.sql" timestamp="1567427775747">
         <mark key="'" line="180" column="0" />
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="191" column="44" />
-        <mark key="^" line="184" column="0" />
-        <mark key="." line="184" column="0" />
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="22" />
+        <mark key="^" line="13" column="22" />
+        <mark key="." line="13" column="22" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/freelychat/TestWithResumeDiagnose.java" timestamp="1552963065422">
         <mark key="[" line="19" column="34" />
@@ -8237,10 +8237,10 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>getDirection</text>
+        <text>varchar(255)</text>
       </register>
       <register name="-" type="4">
-        <text>getDirection</text>
+        <text>varchar(255)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>

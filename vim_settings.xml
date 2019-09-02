@@ -2389,11 +2389,11 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/retrofit/MiniAppApiRetrofitConfig.java" timestamp="1564803681248">
-        <mark key="[" line="2" column="68" />
-        <mark key="]" line="2" column="79" />
-        <mark key="^" line="2" column="79" />
-        <mark key="." line="2" column="79" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/retrofit/MiniAppApiRetrofitConfig.java" timestamp="1567424709692">
+        <mark key="[" line="40" column="68" />
+        <mark key="]" line="40" column="79" />
+        <mark key="." line="40" column="79" />
+        <mark key="^" line="40" column="79" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/common/PlatformRnConfigRepo.java" timestamp="1553515076865">
         <mark key="[" line="19" column="0" />
@@ -2809,7 +2809,7 @@
         <mark key="^" line="23" column="11" />
         <mark key="." line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/miniapp/MiniappController.java" timestamp="1567424234258">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/miniapp/MiniappController.java" timestamp="1567424305821">
         <mark key="[" line="52" column="43" />
         <mark key="]" line="52" column="42" />
         <mark key="^" line="52" column="42" />
@@ -6813,11 +6813,11 @@
         <mark key="^" line="360" column="4" />
         <mark key="." line="360" column="4" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/configuration/ScheduleConfig.java" timestamp="1555901823198">
-        <mark key="[" line="20" column="1" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/configuration/ScheduleConfig.java" timestamp="1567424668860">
+        <mark key="[" line="5" column="62" />
+        <mark key="]" line="5" column="61" />
+        <mark key="^" line="5" column="61" />
+        <mark key="." line="5" column="61" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/yunxin/YunxinRobotRepo.java" timestamp="1558349788878">
         <mark key="[" line="17" column="27" />
@@ -7985,11 +7985,11 @@
         <mark key="." line="41" column="73" />
         <mark key="^" line="41" column="73" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/retrofit/MiniAppApiClient.java" timestamp="1563440525523">
-        <mark key="[" line="78" column="16" />
-        <mark key="]" line="78" column="15" />
-        <mark key="^" line="78" column="15" />
-        <mark key="." line="78" column="15" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/retrofit/MiniAppApiClient.java" timestamp="1567424632841">
+        <mark key="[" line="50" column="19" />
+        <mark key="]" line="50" column="18" />
+        <mark key="^" line="50" column="18" />
+        <mark key="." line="50" column="18" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/algo/leetcode-exercise/src/main/java/leetcode/easy/q189/RotateArray.java" timestamp="1560258623205">
         <mark key="[" line="17" column="35" />
@@ -8249,20 +8249,20 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">TWFwPFN0cmluZywgTGlzdDxTdHJpbmc+Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">TWFwPFN0cmluZywgTGlzdDxTdHJpbmc+Pg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBcGlPcGVyYXRpb25cPg==</text>
+        <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByb3RlY3RlZCBMaWV5aW5nUGxhbkNvbGxlZ2VSZXBvIGxpZXlpbmdQbGFuQ29sbGVnZVJlcG87Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYGxvZ29gICAgICAgICB2YXJjaGFyKDI1NSkgREVGQVVMVCBOVUxMLAogICAgYGNyZWF0ZXRpbWVgICBiaWdpbnQoMjApICAgREVGQVVMVCBOVUxMLAogICAgYHVwZGF0ZXRpbWVgICBiaWdpbnQoMjApICAgREVGQVVMVCBOVUxMLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8327,37 +8327,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYGxvZ29gICAgICAgICB2YXJjaGFyKDI1NSkgREVGQVVMVCBOVUxMLAogICAgYGNyZWF0ZXRpbWVgICBiaWdpbnQoMjApICAgREVGQVVMVCBOVUxMLAogICAgYHVwZGF0ZXRpbWVgICBiaWdpbnQoMjApICAgREVGQVVMVCBOVUxMLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGBkZXNjcmlwdGlvbmAgdGV4dCwK</text>
+        <text encoding="base64">ICAgIFN0cmluZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYG5hbWVgICAgICAgICB2YXJjaGFyKDI1NSkgREVGQVVMVCBOVUxMLAo=</text>
+        <text encoding="base64">ICAgIGBkZXNjcmlwdGlvbmAgdGV4dCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGBjb2xsZWdlYCAgICAgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCBDT01NRU5UICflpKflrablkI3np7AnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYG5hbWVgICAgICAgICB2YXJjaGFyKDI1NSkgREVGQVVMVCBOVUxMLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogLwo=</text>
+        <text encoding="base64">ICAgIGBjb2xsZWdlYCAgICAgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCBDT01NRU5UICflpKflrablkI3np7AnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIExpZXlpbmdQbGFuQXBwbHlETyB7Cg==</text>
+        <text encoding="base64">ICogLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFVwZGF0ZUJ5UXVlcnlBY3Rpb24K</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIExpZXlpbmdQbGFuQXBwbHlETyB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5qcGEucmVwb3NpdG9yeS5KcGFSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">ICAgIFVwZGF0ZUJ5UXVlcnlBY3Rpb24K</text>
       </register>
       <register name=":" type="4">
         <text>next</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBcGlPcGVyYXRpb25cPg==</last-search>
+      <last-search encoding="base64">XDwoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBcGlPcGVyYXRpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDwoXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>refreshT</last-substitute>
       <last-dir>-1</last-dir>
@@ -8365,7 +8365,6 @@
     </search>
     <history>
       <history-search>
-        <entry>statuslist</entry>
         <entry>statusList</entry>
         <entry>hashmap</entry>
         <entry>HashMap</entry>
@@ -8385,6 +8384,7 @@
         <entry>settutor</entry>
         <entry>setTutor</entry>
         <entry encoding="base64">XDxBcGlPcGVyYXRpb25cPg==</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>next</entry>

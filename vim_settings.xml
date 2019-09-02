@@ -3954,12 +3954,11 @@
         <mark key="." line="26" column="14" />
         <mark key="^" line="26" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/lieying/LieyingPlanService.java" timestamp="1567417455572">
-        <mark key="'" line="29" column="13" />
-        <mark key="[" line="99" column="74" />
-        <mark key="]" line="100" column="65" />
-        <mark key="." line="100" column="65" />
-        <mark key="^" line="100" column="65" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/lieying/LieyingPlanService.java" timestamp="1567426764210">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="68" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/Dockerfile-release" timestamp="1551943771481">
         <mark key="[" line="1" column="4" />
@@ -5747,12 +5746,6 @@
         <mark key="^" line="32" column="38" />
         <mark key="." line="32" column="38" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/test/java/com/zhiri/qumianshi/service/WyTest.java" timestamp="1564991324331">
-        <mark key="[" line="37" column="50" />
-        <mark key="]" line="37" column="49" />
-        <mark key="^" line="37" column="49" />
-        <mark key="." line="37" column="49" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/xzb/lesson/LessonManager.java" timestamp="1564112963951">
         <mark key="[" line="25" column="8" />
         <mark key="]" line="25" column="7" />
@@ -6516,13 +6509,7 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="49" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/lieying/LieyingController.java" timestamp="1567424184224">
-        <mark key="'" line="126" column="5" />
-        <mark key="[" line="103" column="34" />
-        <mark key="]" line="103" column="33" />
-        <mark key="." line="103" column="33" />
-        <mark key="^" line="103" column="33" />
-      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/lieying/LieyingController.java" timestamp="1567426696591" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_v_7.94.wy.sql" timestamp="1550667418726">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="0" column="88" />
@@ -7078,12 +7065,12 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/WechatMiniAppService.java" timestamp="1567406684719">
-        <mark key="'" line="140" column="35" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="^" line="143" column="0" />
-        <mark key="." line="143" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/WechatMiniAppService.java" timestamp="1567425690369">
+        <mark key="'" line="284" column="68" />
+        <mark key="[" line="387" column="104" />
+        <mark key="]" line="284" column="67" />
+        <mark key="^" line="284" column="67" />
+        <mark key="." line="284" column="67" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/playground/springCloud/springcloud/.gitignore" timestamp="1562744681256">
         <mark key="[" line="0" column="6" />
@@ -8144,11 +8131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/resumegenerator/ResumeGeneratorBasicInfoService.java" />
-      <jump line="62" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/resumegenerator/ResumeGeneratorUserDO.java" />
-      <jump line="178" column="53" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/resumegenerator/ResumeGeneratorBasicInfoService.java" />
-      <jump line="42" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_17.01_wy.sql" />
-      <jump line="159" column="19" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/resumegenerator/ResumeGeneratorBasicInfoService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/baidu/BaiduBaomingRepo.java" />
       <jump line="466" column="50" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduBaomingAdminService.java" />
       <jump line="309" column="58" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/baidu/BaiduBaomingAdminController.java" />
@@ -8244,25 +8226,30 @@
       <jump line="31" column="15" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/lieying/LieyingPlanCommunityDO.java" />
       <jump line="119" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/lieying/LieyingController.java" />
       <jump line="125" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/lieying/LieyingController.java" />
+      <jump line="143" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/WechatMiniAppService.java" />
+      <jump line="90" column="200" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/test/java/com/zhiri/qumianshi/service/WyTest.java" />
+      <jump line="132" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/test/java/com/zhiri/qumianshi/service/WyTest.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/test/java/com/zhiri/qumianshi/service/WyTest.java" />
+      <jump line="284" column="68" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/WechatMiniAppService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getDirection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TWFwPFN0cmluZywgTGlzdDxTdHJpbmc+Pg==</text>
+        <text>getDirection</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByb3RlY3RlZCBMaWV5aW5nUGxhbkNvbGxlZ2VSZXBvIGxpZXlpbmdQbGFuQ29sbGVnZVJlcG87Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmQuc2V0U3RhdHVzKExpZXlpbmdQbGFuQXBwbHlETy5MaWV5aW5nUGxhblN0YXR1cy7lt7Lmj5DkuqTnlLPor7cpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVjb3JkLmdldFN0YXR1cygpICE9IG51bGwpIHsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8327,28 +8314,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYGxvZ29gICAgICAgICB2YXJjaGFyKDI1NSkgREVGQVVMVCBOVUxMLAogICAgYGNyZWF0ZXRpbWVgICBiaWdpbnQoMjApICAgREVGQVVMVCBOVUxMLAogICAgYHVwZGF0ZXRpbWVgICBiaWdpbnQoMjApICAgREVGQVVMVCBOVUxMLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHx8IHJlY29yZC5nZXRWaWRlb1VybCgpID09IG51bGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHx8IHJlY29yZC5nZXRSZXN1bWVVcmwoKSA9PSBudWxsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGBkZXNjcmlwdGlvbmAgdGV4dCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHx8IHJlY29yZC5nZXRWaWRlb1VybCgpID09IG51bGwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYG5hbWVgICAgICAgICB2YXJjaGFyKDI1NSkgREVGQVVMVCBOVUxMLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHx8IHJlY29yZC5nZXRSZXN1bWVVcmwoKSA9PSBudWxsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGBjb2xsZWdlYCAgICAgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCBDT01NRU5UICflpKflrablkI3np7AnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLkVOVFJZX01BUktFUmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIExpZXlpbmdQbGFuQXBwbHlETyB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFVwZGF0ZUJ5UXVlcnlBY3Rpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

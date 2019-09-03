@@ -3039,12 +3039,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/lieying/LieYingAdminService.java" timestamp="1567498999268">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/lieying/LieYingAdminService.java" timestamp="1567512001499">
         <mark key="'" line="45" column="51" />
-        <mark key="[" line="178" column="33" />
-        <mark key="]" line="178" column="32" />
-        <mark key="." line="178" column="32" />
-        <mark key="^" line="178" column="32" />
+        <mark key="[" line="140" column="68" />
+        <mark key="]" line="140" column="67" />
+        <mark key="." line="140" column="67" />
+        <mark key="^" line="140" column="67" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/interview/InterviewerBelongFieldRepository.java" timestamp="1545621512843">
         <mark key="[" line="16" column="79" />
@@ -5118,8 +5118,12 @@
         <mark key="." line="43" column="31" />
         <mark key="^" line="43" column="31" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/lieying/LieYingAdminController.java" timestamp="1567499027211">
-        <mark key="'" line="49" column="3" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/lieying/LieYingAdminController.java" timestamp="1567511655348">
+        <mark key="'" line="60" column="9" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="^" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/interviewer/InterviewerController.java" timestamp="1554897817506">
         <mark key="[" line="75" column="5" />
@@ -8150,7 +8154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduFuwuService.java" />
       <jump line="272" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduFuwuService.java" />
       <jump line="266" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduFuwuService.java" />
       <jump line="155" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/BaiduFuwuService.java" />
@@ -8250,16 +8253,17 @@
       <jump line="174" column="37" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/lieying/LieYingAdminService.java" />
       <jump line="45" column="51" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/lieying/LieYingAdminService.java" />
       <jump line="97" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/lieying/LieyingPlanApplyDO.java" />
+      <jump line="60" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/lieying/LieYingAdminController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0已提交申请；1通过初筛；2淘汰</text>
+        <text encoding="base64">IHx8IGJlZm9yZVN0YXR1cyA9PSBMaWV5aW5nUGxhbkFwcGx5RE8uTGlleWluZ1BsYW5TdGF0dXMu5YWl5Zu0KQ==</text>
       </register>
       <register name="-" type="4">
-        <text>0已提交申请；1通过初筛；2淘汰</text>
+        <text encoding="base64">IHx8IGJlZm9yZVN0YXR1cyA9PSBMaWV5aW5nUGxhbkFwcGx5RE8uTGlleWluZ1BsYW5TdGF0dXMu5YWl5Zu0KQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXlsb2FkXD4=</text>

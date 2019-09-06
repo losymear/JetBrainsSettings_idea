@@ -1546,11 +1546,11 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/sql/create_vv_00.13_wy.sql" timestamp="1567741505971">
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-        <mark key="." line="1" column="31" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/sql/create_vv_00.13_wy.sql" timestamp="1567753542507">
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="3" column="45" />
+        <mark key="^" line="3" column="45" />
+        <mark key="." line="3" column="45" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_13.04_xfc.sql" timestamp="1556024559175">
         <mark key="[" line="0" column="32" />
@@ -3812,12 +3812,12 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/user/UserService.java" timestamp="1567751303447">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/user/UserService.java" timestamp="1567753595831">
         <mark key="'" line="33" column="3" />
-        <mark key="[" line="43" column="14" />
-        <mark key="]" line="43" column="13" />
-        <mark key="." line="43" column="13" />
-        <mark key="^" line="43" column="13" />
+        <mark key="[" line="58" column="74" />
+        <mark key="]" line="58" column="73" />
+        <mark key="." line="58" column="73" />
+        <mark key="^" line="58" column="73" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/resumefake/WorkExpsRepo.java" timestamp="1556087781899">
         <mark key="[" line="15" column="74" />
@@ -7407,7 +7407,7 @@
         <mark key="^" line="351" column="14" />
         <mark key="." line="351" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/MiniappSecurityManager.java" timestamp="1567751828220">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/MiniappSecurityManager.java" timestamp="1567753205051">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="25" column="45" />
         <mark key="^" line="37" column="5" />
@@ -8217,16 +8217,16 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>JioRuntimeException</text>
+        <text>getAvatarUrl</text>
       </register>
       <register name="-" type="4">
-        <text>JioRuntimeException</text>
+        <text>getAvatarUrl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXlsb2FkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QFNlcnZpY2UKQExvZzRqMgpAVHJhbnNhY3Rpb25hbChyb2xsYmFja0ZvciA9IEV4Y2VwdGlvbi5jbGFzcykK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYXZhdGFyID0gZGVjcnlwdGVkRGF0YS5nZXRBdmF0YXJVcmwoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyAKICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eSh1bmlvbklkKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgU2hvZVJ1bnRpbWVFeGNlcHRpb24oInVuaW9uSWTkuI3lrZjlnKgiLCBNeUVycm9yQ29kZUVudW0uTk9URVhJU1RfUkVTT1VSQ0UpOwogICAgICAgIH0K</text>

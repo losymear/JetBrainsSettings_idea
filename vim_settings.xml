@@ -652,12 +652,12 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/web/src/main/java/com/zhiri/jio/controller/common/CommonController.java" timestamp="1567767573428">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/web/src/main/java/com/zhiri/jio/controller/common/CommonController.java" timestamp="1567776160760">
         <mark key="'" line="30" column="29" />
-        <mark key="[" line="64" column="1" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="43" column="16" />
+        <mark key="^" line="43" column="16" />
+        <mark key="." line="43" column="16" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/demos/concurrency/pom.xml" timestamp="1552494501636">
         <mark key="[" line="43" column="0" />
@@ -1935,10 +1935,10 @@
         <mark key="." line="0" column="88" />
         <mark key="^" line="0" column="88" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/user/dto/MiniLoginReqDTO.java" timestamp="1567737225744">
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/user/dto/MiniLoginReqDTO.java" timestamp="1567775648257">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/README.md" timestamp="1551962456516">
@@ -4422,11 +4422,11 @@
         <mark key="." line="187" column="20" />
         <mark key="^" line="187" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/retrofit/miniapp/MiniAppApiClient.java" timestamp="1567760269759">
-        <mark key="[" line="34" column="1" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/retrofit/miniapp/MiniAppApiClient.java" timestamp="1567775977380">
+        <mark key="[" line="23" column="48" />
+        <mark key="]" line="23" column="79" />
+        <mark key="." line="23" column="79" />
+        <mark key="^" line="23" column="79" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/interviewer/ScheduleTemplateService.java" timestamp="1545103471929">
         <mark key="[" line="18" column="76" />
@@ -7250,6 +7250,13 @@
         <mark key="." line="59" column="129" />
         <mark key="^" line="59" column="129" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/web/src/main/java/com/zhiri/jio/config/security/ShoeAuthenticationFilter.java" timestamp="1567776500460">
+        <mark key="'" line="100" column="22" />
+        <mark key="[" line="100" column="23" />
+        <mark key="]" line="100" column="22" />
+        <mark key="^" line="100" column="22" />
+        <mark key="." line="100" column="22" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/test/com/zhiri/qumianshi/service/OperationAccountServiceTest.java" timestamp="1550472782151">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="17" column="14" />
@@ -8442,7 +8449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/xzb/TutorApplyServiceTest.java" />
       <jump line="37" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/xzb/TutorApplyServiceTest.java" />
       <jump line="380" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/xzb/tutorapply/TutorApplyService.java" />
       <jump line="31" column="17" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/xzb/tutorapply/TutorApplyTutorController.java" />
@@ -8542,16 +8548,17 @@
       <jump line="2" column="35" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/java/com/zhiri/jio/repo/region/TownRepo.java" />
       <jump line="32" column="20" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/web/src/main/java/com/zhiri/jio/controller/common/CommonController.java" />
       <jump line="29" column="29" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/web/src/main/java/com/zhiri/jio/controller/common/CommonController.java" />
+      <jump line="100" column="22" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/web/src/main/java/com/zhiri/jio/config/security/ShoeAuthenticationFilter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiByZW1vdGVzL29yaWdpbi9tYXN0ZXIK</text>
+      <register name="&quot;" type="4">
+        <text>59d473bc0100a82881452639001492c6</text>
       </register>
       <register name="-" type="4">
-        <text>cityId</text>
+        <text>59d473bc0100a82881452639001492c6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXlsb2FkXD4=</text>
@@ -8560,7 +8567,7 @@
         <text encoding="base64">cGFja2FnZSBjb20uemhpcmkuamlvLmNvbnRyb2xsZXIuY29tbW9uOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiByZW1vdGVzL29yaWdpbi9tYXN0ZXIK</text>
+        <text encoding="base64">ICAgIFN0cmluZyB0eXBlOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8625,28 +8632,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBTdHJpbmcgY291bnRyeUlkOwogICAgU3RyaW5nIG5hbWU7CiAgICBTdHJpbmcgY2l0eUlkOwo9PT09PT09Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Pj4+Pj4+PiByZW1vdGVzL29yaWdpbi9tYXN0ZXIK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBTdHJpbmcgY291bnRyeUlkOwogICAgU3RyaW5nIG5hbWU7CiAgICBTdHJpbmcgY2l0eUlkOwo9PT09PT09Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiByZW1vdGVzL29yaWdpbi9tYXN0ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiByZW1vdGVzL29yaWdpbi9tYXN0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

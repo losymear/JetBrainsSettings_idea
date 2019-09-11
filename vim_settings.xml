@@ -2508,6 +2508,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="92" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/web/src/main/java/com/zhiri/jio/controller/reward/RewardController.java" timestamp="1568203459396">
+        <mark key="'" line="33" column="41" />
+        <mark key="[" line="55" column="1" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/dingding/dto/RobotMessageRequest.java" timestamp="1555743904162">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="8" column="23" />
@@ -3164,18 +3171,18 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/reward/RewardService.java" timestamp="1568189979760">
-        <mark key="'" line="39" column="39" />
-        <mark key="[" line="107" column="26" />
-        <mark key="]" line="107" column="27" />
-        <mark key="." line="107" column="27" />
-        <mark key="^" line="107" column="27" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/reward/RewardService.java" timestamp="1568203469608">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/java/com/zhiri/jio/repo/reward/RewardTicketRepo.java" timestamp="1568186590896">
-        <mark key="[" line="25" column="68" />
-        <mark key="]" line="25" column="67" />
-        <mark key="^" line="25" column="67" />
-        <mark key="." line="25" column="67" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/java/com/zhiri/jio/repo/reward/RewardTicketRepo.java" timestamp="1568203157865">
+        <mark key="'" line="17" column="17" />
+        <mark key="[" line="27" column="86" />
+        <mark key="]" line="27" column="85" />
+        <mark key="^" line="27" column="85" />
+        <mark key="." line="27" column="85" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/domain/AnswerRecordEntityTest.java" timestamp="1544298745771">
         <mark key="[" line="29" column="0" />
@@ -7379,7 +7386,7 @@
         <mark key="^" line="74" column="41" />
         <mark key="." line="74" column="41" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/java/com/zhiri/jio/domain/reward/RewardTicketDO.java" timestamp="1568183633247">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/java/com/zhiri/jio/domain/reward/RewardTicketDO.java" timestamp="1568203217367">
         <mark key="[" line="50" column="21" />
         <mark key="]" line="50" column="20" />
         <mark key="^" line="50" column="20" />
@@ -8667,8 +8674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/lieying/LieyingPlanService.java" />
-      <jump line="41" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/lieying/LieyingPlanService.java" />
       <jump line="21" column="52" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_18.00_wy.sql" />
       <jump line="27" column="48" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_18.00_wy.sql" />
       <jump line="8" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/lieying/LieyingPlanCollegeDO.java" />
@@ -8767,25 +8772,27 @@
       <jump line="39" column="28" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/test/java/com/zhiri/jio/service/reward/RewardServiceTest.java" />
       <jump line="71" column="51" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/test/java/com/zhiri/jio/service/reward/RewardServiceTest.java" />
       <jump line="53" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/test/java/com/zhiri/jio/service/reward/RewardServiceTest.java" />
+      <jump line="17" column="17" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/java/com/zhiri/jio/repo/reward/RewardTicketRepo.java" />
+      <jump line="33" column="41" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/web/src/main/java/com/zhiri/jio/controller/reward/RewardController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>getMajor</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>getMajor</text>
+        <text>tickerId</text>
       </register>
       <register name="/" type="4">
         <text>gender</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZWNvcmQuc2V0TWFqb3IocGF5bG9hZC5nZXRNYWpvcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEN1cnJlbnRVc2VyIFVzZXJETyB1c2VyRE8sCiAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0oInJld2FyZElkIikgSW50ZWdlciByZXdhcmRJZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8850,7 +8857,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSZXdhcmRUaWNrZXRETyBuZXdUaWNrZXQgPSBuZXcgUmV3YXJkVGlja2V0RE8oKTsKICAgICAgICBuZXdUaWNrZXQuc2V0VGlja2V0TnVtYmVyKHRpY2tldCk7CiAgICAgICAgbmV3VGlja2V0LnNldFJld2FyZElkKHJld2FyZElkKTsKICAgICAgICByZXdhcmRUaWNrZXRSZXBvLnNhdmUobmV3VGlja2V0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -8859,19 +8866,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCDmtYvor5XnlJ/miJB0aWNrZXQoKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJld2FyZFNlcnZpY2UuZ2VuZXJhdGVUaWNrZXQoMSkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXdhcmRTZXJ2aWNlLmdlbmVyYXRlVGlja2V0KDEpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmV3YXJkU2VydmljZS5nZW5lcmF0ZVRpY2tldCgxKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJld2FyZFNlcnZpY2UuZ2VuZXJhdGVUaWNrZXQoMSkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXdhcmRTZXJ2aWNlLmdlbmVyYXRlVGlja2V0KDEpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmV3YXJkU2VydmljZS5nZW5lcmF0ZVRpY2tldCgyKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJld2FyZFNlcnZpY2UuZ2VuZXJhdGVUaWNrZXQoMikpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXdhcmRTZXJ2aWNlLmdlbmVyYXRlVGlja2V0KDIpKTsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXdhcmRUaWNrZXRETyB0aWNrZXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXdhcmRETwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXdhcmRETy5zZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBMaXN0PFJld2FyZERPPiByZXdhcmRET0xpc3QgPSBMaXN0cy5uZXdBcnJheUxpc3QoCiAgICAgICAgICAgICAgICBuZXcgUmV3YXJkRE8oInRlc3QiLCA1LCBGdW5jdGlvbi5nZXRTdGFydE9mVGhlRGF5KExvY2FsRGF0ZS5wYXJzZSgiMjAxOS0wOS0wNiIpKSwgRnVuY3Rpb24uZ2V0RW5kT2ZUaGVEYXkoTG9jYWxEYXRlLnBhcnNlKCIyMDE5LTA5LTA4IikpKSwKICAgICAgICAgICAgICAgIG5ldyBSZXdhcmRETygidGVzdCIsIDUsIEZ1bmN0aW9uLmdldFN0YXJ0T2ZUaGVEYXkoTG9jYWxEYXRlLnBhcnNlKCIyMDE5LTA5LTEzIikpLCBGdW5jdGlvbi5nZXRFbmRPZlRoZURheShMb2NhbERhdGUucGFyc2UoIjIwMTktMDktMTUiKSkpCiAgICAgICAgKTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBSZXdhcmRUaWNrZXRETyBuZXdUaWNrZXQgPSBuZXcgUmV3YXJkVGlja2V0RE8oKTsKICAgICAgICBuZXdUaWNrZXQuc2V0VGlja2V0TnVtYmVyKHRpY2tldCk7CiAgICAgICAgbmV3VGlja2V0LnNldFJld2FyZElkKHJld2FyZElkKTsKICAgICAgICByZXdhcmRUaWNrZXRSZXBvLnNhdmUobmV3VGlja2V0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZW5kRGF0ZSA9ICIyMDE5LTA5LTE0IjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

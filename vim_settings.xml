@@ -1578,11 +1578,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/WechatQrcode.java" timestamp="1568115797445">
-        <mark key="[" line="65" column="36" />
-        <mark key="]" line="65" column="35" />
-        <mark key="^" line="65" column="35" />
-        <mark key="." line="65" column="35" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/WechatQrcode.java" timestamp="1568171952888">
+        <mark key="'" line="68" column="8" />
+        <mark key="[" line="30" column="39" />
+        <mark key="]" line="30" column="38" />
+        <mark key="^" line="30" column="38" />
+        <mark key="." line="30" column="38" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/UserController.java" timestamp="1560913005890">
         <mark key="[" line="66" column="16" />
@@ -8627,7 +8628,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/component/SwaggerConfig.java" />
       <jump line="27" column="51" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/component/SwaggerConfig.java" />
       <jump line="64" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/lieying/LieyingPlanApplyDO.java" />
       <jump line="33" column="41" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/lieying/LieyingController.java" />
@@ -8727,6 +8727,7 @@
       <jump line="40" column="17" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/test/java/com/zhiri/jio/service/user/UserServiceTest.java" />
       <jump line="52" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/order/OrderService.java" />
       <jump line="196" column="40" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/user/UserService.java" />
+      <jump line="68" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/WechatQrcode.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

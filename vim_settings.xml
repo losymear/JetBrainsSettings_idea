@@ -513,7 +513,6 @@
         <mark key="^" line="37" column="38" />
         <mark key="." line="37" column="38" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/CouponAdminController.java" timestamp="1568168428380" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/baidu/LibreOffice.java" timestamp="1566878573664">
         <mark key="[" line="22" column="79" />
         <mark key="]" line="22" column="78" />
@@ -1959,8 +1958,8 @@
         <mark key="." line="0" column="88" />
         <mark key="^" line="0" column="88" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/user/dto/MiniLoginReqDTO.java" timestamp="1568115730026">
-        <mark key="[" line="20" column="31" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/user/dto/MiniLoginReqDTO.java" timestamp="1568182836093">
+        <mark key="[" line="23" column="21" />
         <mark key="]" line="20" column="30" />
         <mark key="." line="20" column="30" />
         <mark key="^" line="20" column="30" />
@@ -3169,11 +3168,18 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/java/com/zhiri/jio/repo/reward/RewardTicketRepo.java" timestamp="1568107422545">
-        <mark key="[" line="13" column="7" />
-        <mark key="]" line="13" column="15" />
-        <mark key="^" line="13" column="15" />
-        <mark key="." line="13" column="15" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/reward/RewardService.java" timestamp="1568189979760">
+        <mark key="'" line="39" column="39" />
+        <mark key="[" line="107" column="26" />
+        <mark key="]" line="107" column="27" />
+        <mark key="." line="107" column="27" />
+        <mark key="^" line="107" column="27" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/java/com/zhiri/jio/repo/reward/RewardTicketRepo.java" timestamp="1568186590896">
+        <mark key="[" line="25" column="68" />
+        <mark key="]" line="25" column="67" />
+        <mark key="^" line="25" column="67" />
+        <mark key="." line="25" column="67" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/domain/AnswerRecordEntityTest.java" timestamp="1544298745771">
         <mark key="[" line="29" column="0" />
@@ -4077,12 +4083,12 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/user/UserService.java" timestamp="1568173977056">
-        <mark key="'" line="196" column="40" />
-        <mark key="[" line="161" column="7" />
-        <mark key="]" line="161" column="6" />
-        <mark key="." line="161" column="6" />
-        <mark key="^" line="161" column="6" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/user/UserService.java" timestamp="1568188855646">
+        <mark key="'" line="212" column="22" />
+        <mark key="[" line="187" column="28" />
+        <mark key="]" line="187" column="27" />
+        <mark key="^" line="187" column="27" />
+        <mark key="." line="187" column="27" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/resumefake/WorkExpsRepo.java" timestamp="1556087781899">
         <mark key="[" line="15" column="74" />
@@ -4107,6 +4113,13 @@
         <mark key="]" line="37" column="17" />
         <mark key="^" line="37" column="17" />
         <mark key="." line="37" column="17" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/test/java/com/zhiri/jio/service/reward/RewardServiceTest.java" timestamp="1568189971773">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="84" column="81" />
+        <mark key="]" line="84" column="80" />
+        <mark key="^" line="84" column="80" />
+        <mark key="." line="84" column="80" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/umentpush/ios/IOSUnicast.java" timestamp="1545397546806">
         <mark key="[" line="21" column="0" />
@@ -4144,12 +4157,12 @@
         <mark key="." line="34" column="40" />
         <mark key="^" line="34" column="40" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/BaseService.java" timestamp="1567836632710">
-        <mark key="'" line="28" column="18" />
-        <mark key="[" line="37" column="20" />
-        <mark key="]" line="37" column="19" />
-        <mark key="." line="37" column="19" />
-        <mark key="^" line="37" column="19" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/BaseService.java" timestamp="1568187768234">
+        <mark key="'" line="30" column="18" />
+        <mark key="[" line="44" column="14" />
+        <mark key="]" line="44" column="13" />
+        <mark key="." line="44" column="13" />
+        <mark key="^" line="44" column="13" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/repo2/src/main/java/configuration/RepoConfiguration.java" timestamp="1555471787925">
         <mark key="[" line="40" column="0" />
@@ -4266,6 +4279,12 @@
         <mark key="]" line="143" column="47" />
         <mark key="^" line="143" column="47" />
         <mark key="." line="143" column="47" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/test/java/com/zhiri/jio/service/user/UserServiceTest.java" timestamp="1568187481689">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="73" />
+        <mark key="^" line="41" column="70" />
+        <mark key="." line="41" column="70" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/elasticjob/SkuAutoDenyJob.java" timestamp="1552013646582">
         <mark key="[" line="20" column="0" />
@@ -5563,11 +5582,11 @@
         <mark key="^" line="20" column="14" />
         <mark key="." line="20" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/test/java/com/zhiri/jio/service/CoreTestBaseService.java" timestamp="1568031961638">
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="29" column="31" />
-        <mark key="^" line="29" column="31" />
-        <mark key="." line="29" column="31" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/test/java/com/zhiri/jio/service/CoreTestBaseService.java" timestamp="1568187758456">
+        <mark key="[" line="44" column="1" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/miniapp/MiniappServiceTest.java" timestamp="1553496960002">
         <mark key="[" line="17" column="9" />
@@ -5779,12 +5798,12 @@
         <mark key="^" line="29" column="23" />
         <mark key="." line="29" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/web/src/main/java/com/zhiri/jio/controller/user/UserController.java" timestamp="1568173700829">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/web/src/main/java/com/zhiri/jio/controller/user/UserController.java" timestamp="1568182863904">
         <mark key="'" line="120" column="0" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="95" column="24" />
+        <mark key="[" line="42" column="151" />
+        <mark key="]" line="42" column="150" />
+        <mark key="." line="42" column="150" />
+        <mark key="^" line="42" column="150" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/test/java/com/zhiri/qumianshi/Retrofit/WechatPayApiTest.java" timestamp="1543199969116">
         <mark key="[" line="39" column="30" />
@@ -5989,6 +6008,12 @@
         <mark key="]" line="14" column="1" />
         <mark key="^" line="14" column="1" />
         <mark key="." line="14" column="1" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/test/java/com/zhiri/jio/PlaygroundTest.java" timestamp="1568184663931">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-backend/src/main/java/com/zhiri/qumianshi/Service/InterviewService.java" timestamp="1543200145153">
         <mark key="[" line="88" column="12" />
@@ -7371,11 +7396,11 @@
         <mark key="^" line="74" column="41" />
         <mark key="." line="74" column="41" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/java/com/zhiri/jio/domain/reward/RewardTicketDO.java" timestamp="1568108666501">
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="10" />
-        <mark key="^" line="23" column="10" />
-        <mark key="." line="23" column="10" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/java/com/zhiri/jio/domain/reward/RewardTicketDO.java" timestamp="1568183633247">
+        <mark key="[" line="50" column="21" />
+        <mark key="]" line="50" column="20" />
+        <mark key="^" line="50" column="20" />
+        <mark key="." line="50" column="20" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/student/PromotionRule.java" timestamp="1544410645861">
         <mark key="[" line="15" column="21" />
@@ -7623,11 +7648,11 @@
       <file name="/fragment.java" timestamp="1568009149778">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/java/com/zhiri/jio/repo/reward/RewardRepo.java" timestamp="1568107662283">
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/java/com/zhiri/jio/repo/reward/RewardRepo.java" timestamp="1568184706354">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/UserQuestionReadHistoryRepository.java" timestamp="1544170330784">
         <mark key="[" line="31" column="4" />
@@ -8344,6 +8369,12 @@
         <mark key="." line="1" column="93" />
         <mark key="^" line="1" column="93" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/resources/core-dev.properties" timestamp="1568186028558">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/web/pom.xml" timestamp="1555472511954">
         <mark key="[" line="44" column="30" />
         <mark key="]" line="44" column="29" />
@@ -8653,11 +8684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/lieying/LieyingPlanApplyDO.java" />
-      <jump line="33" column="41" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/lieying/LieyingController.java" />
-      <jump line="99" column="57" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/lieying/LieyingController.java" />
-      <jump line="45" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/lieying/LieyingController.java" />
-      <jump line="39" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/lieying/LieyingPlanService.java" />
       <jump line="40" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/lieying/LieyingPlanService.java" />
       <jump line="41" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/lieying/LieyingPlanService.java" />
       <jump line="21" column="52" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_18.00_wy.sql" />
@@ -8753,25 +8779,30 @@
       <jump line="196" column="40" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/user/UserService.java" />
       <jump line="68" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/WechatQrcode.java" />
       <jump line="44" column="17" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/lieying/LieyingPlanApplyDO.java" />
+      <jump line="187" column="22" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/user/UserService.java" />
+      <jump line="36" column="39" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/reward/RewardService.java" />
+      <jump line="39" column="28" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/test/java/com/zhiri/jio/service/reward/RewardServiceTest.java" />
+      <jump line="71" column="51" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/test/java/com/zhiri/jio/service/reward/RewardServiceTest.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/test/java/com/zhiri/jio/service/reward/RewardServiceTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>void</text>
+        <text>111113</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>111113</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXlsb2FkXD4=</text>
+        <text>gender</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmlzRW1wdHkocmVzdW1lTmFtZSkpIHsKICAgICAgICAgICAgcHJlZGljYXRlID0gcHJlZGljYXRlLmFuZChxTGlleWluZ1BsYW5BcHBseURPLnJlc3VtZU5hbWUubGlrZSgiJSIgKyByZXN1bWVOYW1lICsgIiUiKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMocmV3YXJkVGlja2V0UmVwby5maW5kQWxsKCkuZ2V0KDEpLmdldFRpY2tldE51bWJlcigpLCAiMTExMTEyIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8836,45 +8867,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2F2ZWQuCg==</text>
+        <text encoding="base64">ICAgICAgICBSZXdhcmRUaWNrZXRETyBuZXdUaWNrZXQgPSBuZXcgUmV3YXJkVGlja2V0RE8oKTsKICAgICAgICBuZXdUaWNrZXQuc2V0VGlja2V0TnVtYmVyKHRpY2tldCk7CiAgICAgICAgbmV3VGlja2V0LnNldFJld2FyZElkKHJld2FyZElkKTsKICAgICAgICByZXdhcmRUaWNrZXRSZXBvLnNhdmUobmV3VGlja2V0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICAgIFRPRE86IOaUueS4ukVudW0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICDlt7Llj5bmtogK</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCDmtYvor5XnlJ/miJB0aWNrZXQoKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJld2FyZFNlcnZpY2UuZ2VuZXJhdGVUaWNrZXQoMSkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXdhcmRTZXJ2aWNlLmdlbmVyYXRlVGlja2V0KDEpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmV3YXJkU2VydmljZS5nZW5lcmF0ZVRpY2tldCgxKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJld2FyZFNlcnZpY2UuZ2VuZXJhdGVUaWNrZXQoMSkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXdhcmRTZXJ2aWNlLmdlbmVyYXRlVGlja2V0KDEpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmV3YXJkU2VydmljZS5nZW5lcmF0ZVRpY2tldCgyKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJld2FyZFNlcnZpY2UuZ2VuZXJhdGVUaWNrZXQoMikpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXdhcmRTZXJ2aWNlLmdlbmVyYXRlVGlja2V0KDIpKTsKCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICDlt7Lmir3lpZYsCg==</text>
+        <text encoding="base64">ICAgICAgICByZXdhcmRETwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGByZXdhcmRJZGAgICAgICAgaW50KDExKSAgICAgIERFRkFVTFQgTlVMTCwKICAgIGB1c2VySWRgICAgICAgICAgaW50KDExKSAgICAgIERFRkFVTFQgTlVMTCwKICAgIGBpbnZpdGVkX3VzZXJJZGAgaW50KDExKSAgICAgIERFRkFVTFQgTlVMTCBDT01NRU5UICfooqvpgoDor7fkurppZCcsCiAgICAgICAgICAgIGB0aWNrZXROdW1iZXJgICAgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCwKICAgIGBjcmVhdGVUaW1lYCAgICAgYmlnaW50KDIwKSAgIERFRkFVTFQgTlVMTCwKICAgIGB1cGRhdGVUaW1lYCAgICAgYmlnaW50KDIwKSAgIERFRkFVTFQgTlVMTCwKICAgIGBzdGF0dXNgICAgICAgICAgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCBDT01NRU5UICfooqvpgoDor7fkurrmmK/lkKborqTor4HnirbmgIEnLAoK</text>
+        <text encoding="base64">ICAgICAgICByZXdhcmRETy5zZXQK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBMaXN0PFJld2FyZERPPiByZXdhcmRET0xpc3QgPSBMaXN0cy5uZXdBcnJheUxpc3QoCiAgICAgICAgICAgICAgICBuZXcgUmV3YXJkRE8oInRlc3QiLCA1LCBGdW5jdGlvbi5nZXRTdGFydE9mVGhlRGF5KExvY2FsRGF0ZS5wYXJzZSgiMjAxOS0wOS0wNiIpKSwgRnVuY3Rpb24uZ2V0RW5kT2ZUaGVEYXkoTG9jYWxEYXRlLnBhcnNlKCIyMDE5LTA5LTA4IikpKSwKICAgICAgICAgICAgICAgIG5ldyBSZXdhcmRETygidGVzdCIsIDUsIEZ1bmN0aW9uLmdldFN0YXJ0T2ZUaGVEYXkoTG9jYWxEYXRlLnBhcnNlKCIyMDE5LTA5LTEzIikpLCBGdW5jdGlvbi5nZXRFbmRPZlRoZURheShMb2NhbERhdGUucGFyc2UoIjIwMTktMDktMTUiKSkpCiAgICAgICAgKTs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBgaWRgICAgICAgICAgICAgIGJpZ2ludCgyMCkgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZW5kRGF0ZSA9ICIyMDE5LTA5LTE0IjsK</text>
       </register>
       <register name=":" type="4">
         <text>next</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXlsb2FkXD4=</last-search>
+      <last-search>gender</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXlsb2FkXD4=</last-pattern>
+      <last-pattern>gender</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>refreshT</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hashmap</entry>
         <entry>HashMap</entry>
         <entry>refreshToken</entry>
         <entry>student</entry>
@@ -8894,6 +8924,7 @@
         <entry encoding="base64">XDxBcGlPcGVyYXRpb25cPg==</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxwYXlsb2FkXD4=</entry>
+        <entry>gender</entry>
       </history-search>
       <history-cmd>
         <entry>next</entry>

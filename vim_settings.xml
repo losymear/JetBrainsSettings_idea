@@ -2258,6 +2258,12 @@
         <mark key="." line="15" column="5" />
         <mark key="^" line="15" column="5" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/web/src/main/java/com/zhiri/jio/controller/order/OrderController.java" timestamp="1568279902453">
+        <mark key="[" line="40" column="43" />
+        <mark key="]" line="40" column="42" />
+        <mark key="^" line="40" column="42" />
+        <mark key="." line="40" column="42" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/baidu/BaiduStudentInfoDO.java" timestamp="1561801983463">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="15" column="24" />
@@ -3408,11 +3414,11 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/java/com/zhiri/jio/repo/order/BillRepo.java" timestamp="1568268790470">
-        <mark key="[" line="19" column="72" />
-        <mark key="]" line="19" column="83" />
-        <mark key="^" line="19" column="83" />
-        <mark key="." line="19" column="83" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/java/com/zhiri/jio/repo/order/BillRepo.java" timestamp="1568279996389">
+        <mark key="[" line="21" column="1" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/kuakua/KuaCollegeRepo.java" timestamp="1552984096842">
         <mark key="[" line="18" column="65" />
@@ -6339,6 +6345,12 @@
         <mark key="^" line="27" column="8" />
         <mark key="." line="27" column="8" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/order/OrderService.java" timestamp="1568279938638">
+        <mark key="[" line="85" column="9" />
+        <mark key="]" line="63" column="68" />
+        <mark key="." line="63" column="68" />
+        <mark key="^" line="63" column="68" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/resumediagnose/ResumeDiagnoseController.java" timestamp="1552906669029">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="22" />
@@ -8077,6 +8089,12 @@
         <mark key="^" line="0" column="80" />
         <mark key="." line="0" column="80" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/java/com/zhiri/jio/repo/order/OrderRepo.java" timestamp="1568279927565">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="33" />
+        <mark key="." line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_v9.2.wy.sql" timestamp="1552289331231">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="0" column="115" />
@@ -8431,16 +8449,16 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>findAllByUserId</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>findAllByUserId</text>
       </register>
       <register name="/" type="4">
         <text>gender</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBNaW5pQXBwQXBpQ2xpZW50KEBBdXRvd2lyZWQgTWluaUFwcEFwaSBtaW5pQXBwQXBpKSB7Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8T3JkZXJETz4gZmluZEFsbEJ5VXNlcklkKEludGVnZXIgdXNlcklkKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0aWNrZXRzLnNvcnQoCiAgICAgICAgICAgICAgICA7Cg==</text>

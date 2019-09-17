@@ -1268,8 +1268,10 @@
         <mark key="^" line="45" column="41" />
         <mark key="." line="45" column="41" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/order/dto/OrderDTO.java" timestamp="1568702581469">
-        <mark key="^" line="22" column="22" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/order/dto/OrderDTO.java" timestamp="1568708775966">
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/LoginSmsController.java" timestamp="1563603648937">
         <mark key="[" line="159" column="48" />
@@ -6422,12 +6424,6 @@
         <mark key="^" line="27" column="8" />
         <mark key="." line="27" column="8" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/order/OrderService.java" timestamp="1568702724163">
-        <mark key="[" line="111" column="115" />
-        <mark key="]" line="111" column="114" />
-        <mark key="." line="111" column="114" />
-        <mark key="^" line="111" column="114" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/resumediagnose/ResumeDiagnoseController.java" timestamp="1552906669029">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="22" />
@@ -7208,7 +7204,7 @@
         <mark key="^" line="74" column="41" />
         <mark key="." line="74" column="41" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/java/com/zhiri/jio/domain/reward/RewardTicketDO.java" timestamp="1568708060143">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/java/com/zhiri/jio/domain/reward/RewardTicketDO.java" timestamp="1568708714198">
         <mark key="[" line="28" column="25" />
         <mark key="]" line="42" column="4" />
         <mark key="." line="42" column="4" />
@@ -8561,7 +8557,7 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">RlJPTSBhcm1hbjE3MDgvamRrOC1saWJyZW9mZmljZTpsYXRlc3QK</text>
+        <text encoding="base64">ICAgIEludGVnZXIgcGF5ZWQ7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>管理后天签约学生</text>
@@ -8573,7 +8569,7 @@
         <text encoding="base64">QFJvbGVVc2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RlJPTSBhcm1hbjE3MDgvamRrOC1saWJyZW9mZmljZTpsYXRlc3QK</text>
+        <text encoding="base64">ICAgIEludGVnZXIgcGF5ZWQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8644,22 +8640,22 @@
         <text encoding="base64">RlJPTSBhcm1hbjE3MDgvamRrOC1saWJyZW9mZmljZTpsYXRlc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHRvLnNldE51bWJlcihiaWxsLmdldE51bWJlcigpKTsK</text>
+        <text encoding="base64">RlJPTSBhcm1hbjE3MDgvamRrOC1saWJyZW9mZmljZTpsYXRlc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMocmV3YXJkVGlja2V0UmVwby5jb3VudEFsbEJ5VXNlcklkQW5kUmV3YXJkSWRBbmRTdGF0dXModXNlckEuZ2V0SWQoKSwgcmV3YXJkRE8uZ2V0SWQoKSwgUmV3YXJkVGlja2V0RE8uSW52aXRlZFN0YXR1cy7lt7Lmv4DmtLspLmludFZhbHVlKCksIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHRvLnNldE51bWJlcihiaWxsLmdldE51bWJlcigpKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMocmV3YXJkVGlja2V0UmVwby5jb3VudEFsbEJ5VXNlcklkQW5kUmV3YXJkSWRBbmRTdGF0dXModXNlckEuZ2V0SWQoKSwgcmV3YXJkRE8uZ2V0SWQoKSwgUmV3YXJkVGlja2V0RE8uSW52aXRlZFN0YXR1cy7lt7Lmv4DmtLspLmludFZhbHVlKCksIDEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMocmV3YXJkVGlja2V0UmVwby5maW5kQWxsQnlVc2VySWRBbmRSZXdhcmRJZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMocmV3YXJkVGlja2V0UmVwby5jb3VudEFsbEJ5VXNlcklkQW5kUmV3YXJkSWRBbmRTdGF0dXModXNlckEuZ2V0SWQoKSwgcmV3YXJkRE8uZ2V0SWQoKSwgUmV3YXJkVGlja2V0RE8uSW52aXRlZFN0YXR1cy7lt7Lmv4DmtLspLmludFZhbHVlKCksIDEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmV3YXJkVGlja2V0UmVwby5maW5kQWxsQnlVc2VySWRBbmRSZXdhcmRJZChpbnZpdGVkQnlBXzEuZ2V0SWQoKSxyZXdhcmRETy5nZXRJZCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMocmV3YXJkVGlja2V0UmVwby5maW5kQWxsQnlVc2VySWRBbmRSZXdhcmRJZCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqCiAgICAgICAgYXNzZXJ0RXF1YWxzKHJld2FyZFRpY2tldFJlcG8uZmluZEFsbCgpLnNpemUoKSwgMyk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKHJld2FyZFRpY2tldFJlcG8uZmluZEFsbCgpLmdldCgwKS5nZXRJbnZpdGVkVXNlcklkKCksIGludml0ZWRCeUFfMS5nZXRJZCgpKTsKICAgICAgICBhc3NlcnRFcXVhbHMocmV3YXJkVGlja2V0UmVwby5maW5kQWxsKCkuZ2V0KDApLmdldFRpY2tldE51bWJlcigpLCAiMTExMTExMTEiKTsKICAgICAgICBhc3NlcnRFcXVhbHMocmV3YXJkVGlja2V0UmVwby5maW5kQWxsKCkuZ2V0KDEpLmdldFRpY2tldE51bWJlcigpLCAiMTExMTExMTIiKTsKICAgICAgICBhc3NlcnRFcXVhbHMocmV3YXJkVGlja2V0UmVwby5maW5kQWxsKCkuZ2V0KDIpLmdldFRpY2tldE51bWJlcigpLCAiMTExMTExMTMiKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmV3YXJkVGlja2V0UmVwby5maW5kQWxsQnlVc2VySWRBbmRSZXdhcmRJZChpbnZpdGVkQnlBXzEuZ2V0SWQoKSxyZXdhcmRETy5nZXRJZCgpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

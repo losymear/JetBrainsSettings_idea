@@ -2317,11 +2317,11 @@
         <mark key="." line="15" column="5" />
         <mark key="^" line="15" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/web/src/main/java/com/zhiri/jio/controller/order/OrderController.java" timestamp="1568777580519">
-        <mark key="[" line="94" column="35" />
-        <mark key="]" line="94" column="34" />
-        <mark key="^" line="94" column="34" />
-        <mark key="." line="94" column="34" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/web/src/main/java/com/zhiri/jio/controller/order/OrderController.java" timestamp="1568862190899">
+        <mark key="[" line="74" column="22" />
+        <mark key="]" line="78" column="53" />
+        <mark key="^" line="78" column="53" />
+        <mark key="." line="78" column="53" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/baidu/BaiduStudentInfoDO.java" timestamp="1561801983463">
         <mark key="[" line="20" column="0" />
@@ -5797,11 +5797,11 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/web/src/main/java/com/zhiri/jio/JioApplication.java" timestamp="1567751243650">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/web/src/main/java/com/zhiri/jio/JioApplication.java" timestamp="1568861691703">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/pom.xml" timestamp="1568008511376">
         <mark key="[" line="61" column="37" />
@@ -6489,12 +6489,11 @@
         <mark key="^" line="27" column="8" />
         <mark key="." line="27" column="8" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/order/OrderService.java" timestamp="1568789387771">
-        <mark key="'" line="323" column="12" />
-        <mark key="[" line="287" column="13" />
-        <mark key="]" line="287" column="12" />
-        <mark key="^" line="287" column="12" />
-        <mark key="." line="287" column="12" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/order/OrderService.java" timestamp="1568862104145">
+        <mark key="[" line="326" column="51" />
+        <mark key="]" line="326" column="50" />
+        <mark key="." line="326" column="50" />
+        <mark key="^" line="326" column="50" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/resumediagnose/ResumeDiagnoseController.java" timestamp="1552906669029">
         <mark key="[" line="4" column="16" />
@@ -8657,10 +8656,10 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>setInstallmentLimit</text>
+        <text>getTotalBillInfo</text>
       </register>
       <register name="-" type="4">
-        <text>setInstallmentLimit</text>
+        <text>getTotalBillInfo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3VudFw+</text>
@@ -8669,7 +8668,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXNlckRPLnNldEluc3RhbGxtZW50TGltaXQoQmlnRGVjaW1hbC52YWx1ZU9mKDUwMDApKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZgo=</text>
+        <text encoding="base64">ICAgICAgICByZXMuc2V0UHJpY2VJbnRlcmVzdChwcmljZUludGVyZXN0KTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8734,28 +8733,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXMuc2V0Rm9yZmVpdChmb3JmZWl0KTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhLm5ldC5Qcm94eSBwcm94eSA9IG5ldyBQcm94eShQcm94eS5UeXBlLkhUVFAsIG5ldyBJbmV0U29ja2V0QWRkcmVzcygiMTI3LjAuMC4xIiwgODg4OCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhLm5ldC5Qcm94eSBwcm94eSA9IG5ldyBQcm94eShQcm94eS5UeXBlLkhUVFAsIG5ldyBJbmV0U29ja2V0QWRkcmVzcygiMTI3LjAuMC4xIiwgODg4OCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsIHRvdGFsID0gbGVmdC5hZGQocGF5ZWQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY2xpZW50KG9raHR0cENsaWVudC5idWlsZCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJpbGxETy5nZXRTdGF0dXMoKSA9PSBCaWxsRE8uQmlsbFN0YXR1cy7lt7Lku5ggfHwgYmlsbERPLmdldFN0YXR1cygpID09IEJpbGxETy5CaWxsU3RhdHVzLumAvuacn+W3suS7mCkgewogICAgICAgICAgICAgICAgcGF5ZWQgPSBwYXllZC5hZGQoYmlsbERPLmdldEFtb3VudCgpKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGxlZnQgPSBsZWZ0LmFkZChiaWxsRE8uZ2V0QW1vdW50KCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsIHBheWVkID0gQmlnRGVjaW1hbC52YWx1ZU9mKDApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsIGxlZnQgPSBCaWdEZWNpbWFsLnZhbHVlT2YoMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmFkZENvbnZlcnRlckZhY3RvcnkoSmFja3NvbkNvbnZlcnRlckZhY3RvcnkuY3JlYXRlKG9iamVjdE1hcHBlcikpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXMuc2V0UGF5ZWQocGF5ZWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>next</text>

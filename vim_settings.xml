@@ -3080,17 +3080,18 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/reward/RewardService.java" timestamp="1569047878009">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
-        <mark key="^" line="163" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/reward/RewardService.java" timestamp="1569050027661">
+        <mark key="'" line="163" column="0" />
+        <mark key="[" line="153" column="57" />
+        <mark key="]" line="153" column="118" />
+        <mark key="." line="153" column="118" />
+        <mark key="^" line="153" column="118" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/java/com/zhiri/jio/repo/reward/RewardTicketRepo.java" timestamp="1568949673243">
-        <mark key="[" line="19" column="70" />
-        <mark key="]" line="19" column="69" />
-        <mark key="." line="19" column="69" />
-        <mark key="^" line="19" column="69" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/java/com/zhiri/jio/repo/reward/RewardTicketRepo.java" timestamp="1569050022032">
+        <mark key="[" line="31" column="49" />
+        <mark key="]" line="31" column="48" />
+        <mark key="." line="31" column="48" />
+        <mark key="^" line="31" column="71" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/domain/AnswerRecordEntityTest.java" timestamp="1544298745771">
         <mark key="[" line="29" column="0" />
@@ -8693,8 +8694,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/lieying/LieyingPlanApplyDO.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/service/lieying/LieYingAdminService.java" />
       <jump line="46" column="41" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/lieying/LieYingAdminController.java" />
       <jump line="86" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/lieying/LieYingAdminController.java" />
       <jump line="35" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/lieying/LieYingAdminController.java" />
@@ -8793,16 +8792,18 @@
       <jump line="134" column="8" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/test/java/com/zhiri/jio/service/reward/RewardServiceTest.java" />
       <jump line="41" column="27" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/test/java/com/zhiri/jio/service/reward/RewardServiceTest.java" />
       <jump line="14" column="16" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/test/java/com/zhiri/jio/service/reward/RewardServiceTest.java" />
+      <jump line="176" column="48" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/reward/RewardService.java" />
+      <jump line="163" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/reward/RewardService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlckRPLnNldEFkZHJlc3NQaG9uZShhZGRyZXNzRE8uZ2V0UGhvbmUoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>findFirstByRewardIdOrderByCreateTimeDesc</text>
       </register>
       <register name="-" type="4">
-        <text>addressPhone</text>
+        <text>findFirstByRewardIdOrderByCreateTimeDesc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3VudFw+</text>

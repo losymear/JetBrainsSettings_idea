@@ -5641,11 +5641,12 @@
         <mark key="^" line="22" column="34" />
         <mark key="." line="22" column="34" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_19.00_wy.sql" timestamp="1569220280547">
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="14" column="27" />
-        <mark key="^" line="14" column="27" />
-        <mark key="." line="14" column="27" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_19.00_wy.sql" timestamp="1569224298082">
+        <mark key="'" line="64" column="27" />
+        <mark key="[" line="64" column="28" />
+        <mark key="]" line="78" column="27" />
+        <mark key="^" line="78" column="27" />
+        <mark key="." line="78" column="27" />
       </file>
       <file name="/var/folders/_v/z535f7f145gg60r6t69df90w0000gn/T/leetcode-plugin/en/[2]Add Two Numbers.java" timestamp="1558408053186">
         <mark key="[" line="47" column="1" />
@@ -8711,9 +8712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="41" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/lieying/LieYingAdminController.java" />
-      <jump line="86" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/lieying/LieYingAdminController.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/lieying/LieYingAdminController.java" />
       <jump line="68" column="43" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/lieying/LieyingPlanApplyDO.java" />
       <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_18.00_wy.sql" />
       <jump line="374" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_18.00_wy.sql" />
@@ -8811,13 +8809,16 @@
       <jump line="176" column="48" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/reward/RewardService.java" />
       <jump line="163" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/reward/RewardService.java" />
       <jump line="196" column="41" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/user/UserService.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_19.00_wy.sql" />
+      <jump line="49" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_19.00_wy.sql" />
+      <jump line="64" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_19.00_wy.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>邀请券</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIGB0b3V0aWFvX21pbmdxaV9pdGVtYAooCiAgICBgaWRgICAgICAgICAgaW50KDExKSBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCwKICAgIGBjcmVhdGVUaW1lYCBiaWdpbnQoMjApICAgREVGQVVMVCBOVUxMLAogICAgYHVwZGF0ZVRpbWVgIGJpZ2ludCgyMCkgICBERUZBVUxUIE5VTEwsCiAgICBgdGl0bGVgICAgICAgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCBDT01NRU5UICfkvIHkuJrlkI3np7AnLAogICAgYGxvZ29VcmxgICAgIHZhcmNoYXIoMjU1KSBERUZBVUxUIE5VTEwgQ09NTUVOVCAnbG9nb+WcsOWdgCcsCiAgICBgbG9jYXRpb25gICAgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCBDT01NRU5UICfkvY3nva4g5aaC5p2t5beeJywKICAgIGB0eXBlYCAgICAgICB2YXJjaGFyKDI1NSkgREVGQVVMVCBOVUxMIENPTU1FTlQgJ+exu+Wei++8jOWmguS4iuW4guWFrOWPuCcsCiAgICBgc2NhbGVgICAgICAgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCBDT01NRU5UICfop4TmqKHvvIwg5aaCMjAwMOS6uuS7peS4iicsCiAgICBgc3RhcmAgICAgICAgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCBDT01NRU5UICflhazlj7jor4TmmJ8nLAogICAgUFJJTUFSWSBLRVkgKGBpZGApCikgRU5HSU5FID0gSW5ub0RCCiAgREVGQVVMVCBDSEFSU0VUID0gdXRmOG1iNDsK</text>
       </register>
       <register name="-" type="4">
         <text>邀请券</text>
@@ -8829,7 +8830,7 @@
         <text encoding="base64">ICAgIExpc3Q8UmV3YXJkVGlja2V0RE8+IGZpbmRCeVJld2FyZElkKEludGVnZXIgcmV3YXJkSWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExpc3Q8UmV3YXJkVGlja2V0RE8+IGZpbmRCeVJld2FyZElkQW5kU3RhdHVzKEludGVnZXIgcmV3YXJkSWQsIFJld2FyZFRpY2tldERPLkludml0ZWRTdGF0dXMgc3RhdHVzKTsK</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIGB0b3V0aWFvX21pbmdxaV9pdGVtYAooCiAgICBgaWRgICAgICAgICAgaW50KDExKSBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCwKICAgIGBjcmVhdGVUaW1lYCBiaWdpbnQoMjApICAgREVGQVVMVCBOVUxMLAogICAgYHVwZGF0ZVRpbWVgIGJpZ2ludCgyMCkgICBERUZBVUxUIE5VTEwsCiAgICBgdGl0bGVgICAgICAgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCBDT01NRU5UICfkvIHkuJrlkI3np7AnLAogICAgYGxvZ29VcmxgICAgIHZhcmNoYXIoMjU1KSBERUZBVUxUIE5VTEwgQ09NTUVOVCAnbG9nb+WcsOWdgCcsCiAgICBgbG9jYXRpb25gICAgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCBDT01NRU5UICfkvY3nva4g5aaC5p2t5beeJywKICAgIGB0eXBlYCAgICAgICB2YXJjaGFyKDI1NSkgREVGQVVMVCBOVUxMIENPTU1FTlQgJ+exu+Wei++8jOWmguS4iuW4guWFrOWPuCcsCiAgICBgc2NhbGVgICAgICAgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCBDT01NRU5UICfop4TmqKHvvIwg5aaCMjAwMOS6uuS7peS4iicsCiAgICBgc3RhcmAgICAgICAgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCBDT01NRU5UICflhazlj7jor4TmmJ8nLAogICAgUFJJTUFSWSBLRVkgKGBpZGApCikgRU5HSU5FID0gSW5ub0RCCiAgREVGQVVMVCBDSEFSU0VUID0gdXRmOG1iNDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8894,28 +8895,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlckRPLnNldEFkZHJlc3NQaG9uZShhZGRyZXNzRE8uZ2V0UGhvbmUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8UmV3YXJkVGlja2V0RE8+IGZpbmRCeVJld2FyZElkQW5kU3RhdHVzKEludGVnZXIgcmV3YXJkSWQsIFJld2FyZFRpY2tldERPLkludml0ZWRTdGF0dXMgc3RhdHVzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBhZGRyZXNzUGhvbmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmRlckRPLnNldEFkZHJlc3NQaG9uZShhZGRyZXNzRE8uZ2V0UGhvbmUoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEFkZHJlc3NETyBhZGRyZXNzRE87Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBhZGRyZXNzUGhvbmU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlckRPLnNldEFkZHJlc3NJbmZvKGFkZHJlc3NETy5nZXREZXRhaWwoKSk7Cg==</text>
+        <text encoding="base64">ICAgIEFkZHJlc3NETyBhZGRyZXNzRE87Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0U3B1UHJpY2UoKSB7CgogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBvcmRlckRPLnNldEFkZHJlc3NJbmZvKGFkZHJlc3NETy5nZXREZXRhaWwoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0U3B1UHJpY2UoKSB7CgogICAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuZ2V0UHJpY2VPcmlnaW5hbCgpLnN1YnRyYWN0KGFkZGl0aW9uYWxQcmljZSkuc2V0U2NhbGUoMiwgQmlnRGVjaW1hbC5ST1VORF9IQUxGX1VQKS50b1N0cmluZygpOwogICAgICAgIHJldHVybiByZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXMuc2V0U3B1UHJpY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAuZ2V0UHJpY2VPcmlnaW5hbCgpLnN1YnRyYWN0KGFkZGl0aW9uYWxQcmljZSkuc2V0U2NhbGUoMiwgQmlnRGVjaW1hbC5ST1VORF9IQUxGX1VQKS50b1N0cmluZygpOwogICAgICAgIHJldHVybiByZXM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

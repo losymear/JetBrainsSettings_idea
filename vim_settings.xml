@@ -5641,12 +5641,12 @@
         <mark key="^" line="22" column="34" />
         <mark key="." line="22" column="34" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_19.00_wy.sql" timestamp="1569229733306">
-        <mark key="'" line="64" column="27" />
-        <mark key="[" line="71" column="44" />
-        <mark key="]" line="71" column="43" />
-        <mark key="^" line="71" column="43" />
-        <mark key="." line="71" column="43" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_19.00_wy.sql" timestamp="1569292097525">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="97" column="28" />
+        <mark key="]" line="97" column="27" />
+        <mark key="^" line="97" column="27" />
+        <mark key="." line="97" column="27" />
       </file>
       <file name="/var/folders/_v/z535f7f145gg60r6t69df90w0000gn/T/leetcode-plugin/en/[2]Add Two Numbers.java" timestamp="1558408053186">
         <mark key="[" line="47" column="1" />
@@ -8712,7 +8712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="43" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/lieying/LieyingPlanApplyDO.java" />
       <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_18.00_wy.sql" />
       <jump line="374" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_18.00_wy.sql" />
       <jump line="35" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/lieying/LieyingPlanApplyDO.java" />
@@ -8812,16 +8811,17 @@
       <jump line="15" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_19.00_wy.sql" />
       <jump line="49" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_19.00_wy.sql" />
       <jump line="64" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_19.00_wy.sql" />
+      <jump line="18" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_19.00_wy.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGB0b3V0aWFvX21pbmdxaV9pdGVtYAooCiAgICBgaWRgICAgICAgICAgaW50KDExKSBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCwKICAgIGBjcmVhdGVUaW1lYCBiaWdpbnQoMjApICAgREVGQVVMVCBOVUxMLAogICAgYHVwZGF0ZVRpbWVgIGJpZ2ludCgyMCkgICBERUZBVUxUIE5VTEwsCiAgICBgdGl0bGVgICAgICAgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCBDT01NRU5UICfkvIHkuJrlkI3np7AnLAogICAgYGxvZ29VcmxgICAgIHZhcmNoYXIoMjU1KSBERUZBVUxUIE5VTEwgQ09NTUVOVCAnbG9nb+WcsOWdgCcsCiAgICBgbG9jYXRpb25gICAgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCBDT01NRU5UICfkvY3nva4g5aaC5p2t5beeJywKICAgIGB0eXBlYCAgICAgICB2YXJjaGFyKDI1NSkgREVGQVVMVCBOVUxMIENPTU1FTlQgJ+exu+Wei++8jOWmguS4iuW4guWFrOWPuCcsCiAgICBgc2NhbGVgICAgICAgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCBDT01NRU5UICfop4TmqKHvvIwg5aaCMjAwMOS6uuS7peS4iicsCiAgICBgc3RhcmAgICAgICAgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCBDT01NRU5UICflhazlj7jor4TmmJ8nLAogICAgUFJJTUFSWSBLRVkgKGBpZGApCikgRU5HSU5FID0gSW5ub0RCCiAgREVGQVVMVCBDSEFSU0VUID0gdXRmOG1iNDsK</text>
+      <register name="&quot;" type="4">
+        <text>255</text>
       </register>
       <register name="-" type="4">
-        <text>邀请券</text>
+        <text>255</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3VudFw+</text>

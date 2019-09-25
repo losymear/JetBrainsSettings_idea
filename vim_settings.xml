@@ -1971,11 +1971,12 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/ToutiaoNewsController.java" timestamp="1569410638460">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/ToutiaoNewsController.java" timestamp="1569412072574">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="31" column="25" />
+        <mark key="]" line="31" column="24" />
+        <mark key="^" line="31" column="24" />
+        <mark key="." line="31" column="24" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/oa-ribao/src/test/java/com/zhiri/ribao/service/miniapp/MiniappServiceManagerTest.java" timestamp="1557023574432">
         <mark key="[" line="37" column="48" />
@@ -8874,8 +8875,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/lieying/LieyingPlanApplyDO.java" />
-      <jump line="60" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/lieying/LieYingAdminController.java" />
       <jump line="192" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_18.00_wy.sql" />
       <jump line="18" column="18" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/sql/deploy/create_vv_00.00_xfc.sql" />
       <jump line="5" column="45" filename="$USER_HOME$/etc/losFiles/projects/sbtask/jio/sql/deploy/create_vv_00.00_xfc.sql" />
@@ -8974,24 +8973,26 @@
       <jump line="42" column="54" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/toutiao/ToutiaoUserService.java" />
       <jump line="40" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/toutiao/ToutiaoUserService.java" />
       <jump line="27" column="48" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/ToutiaoUserController.java" />
+      <jump line="31" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/ToutiaoNewsController.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/ToutiaoNewsController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>block/news</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3VudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFFtc1BhZ2VSZXMub2YodG91dGlhb0NvcnBOZXdzUmVwby5maW5kQWxsKFBhZ2VSZXF1ZXN0Lm9mKDAsIDEsIFNvcnQuRGlyZWN0aW9uLkRFU0MpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcSwK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
@@ -9057,28 +9058,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUW1zUnVudGltZUV4Y2VwdGlvbigi5pyq5a6e546wIiwgMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUW1zUnVudGltZUV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUW1zUnVudGltZUV4Y2VwdGlvbigi5pyq5a6e546wIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEJhZENyZWRlbnRpYWxzRXhjZXB0aW9uKCLnmbvlvZXlt7Lov4fmnJ8iKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUW1zUnVudGltZUV4Y2VwdGlvbigi5pyq5a6e546wIiwgMSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEJhZENyZWRlbnRpYWxzRXhjZXB0aW9uKCLml6DnlKjmiLfkv6Hmga8iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

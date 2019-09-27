@@ -2558,12 +2558,12 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/toutiao/ToutiaoXiaozhaoServiceTest.java" timestamp="1569569631419">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/test/java/com/zhiri/qumianshi/service/toutiao/ToutiaoXiaozhaoServiceTest.java" timestamp="1569570682309">
         <mark key="'" line="19" column="49" />
-        <mark key="[" line="34" column="30" />
-        <mark key="]" line="34" column="18" />
-        <mark key="^" line="34" column="18" />
-        <mark key="." line="34" column="18" />
+        <mark key="[" line="34" column="84" />
+        <mark key="]" line="34" column="83" />
+        <mark key="." line="34" column="83" />
+        <mark key="^" line="34" column="83" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/common/PlatformRnConfigRepo.java" timestamp="1553515076865">
         <mark key="[" line="19" column="0" />
@@ -3883,11 +3883,11 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoXiaozhaoChangguanRepo.java" timestamp="1569569722466">
-        <mark key="[" line="23" column="90" />
-        <mark key="]" line="23" column="93" />
-        <mark key="^" line="23" column="93" />
-        <mark key="." line="23" column="93" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoXiaozhaoChangguanRepo.java" timestamp="1569570597422">
+        <mark key="[" line="26" column="1" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv11.6_wy.sql" timestamp="1553568454361">
         <mark key="[" line="9" column="30" />
@@ -7954,11 +7954,11 @@
         <mark key="^" line="52" column="23" />
         <mark key="." line="52" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/toutiao/ToutiaoXiaozhaoService.java" timestamp="1569569635926">
-        <mark key="[" line="38" column="92" />
-        <mark key="]" line="32" column="23" />
-        <mark key="." line="32" column="23" />
-        <mark key="^" line="32" column="23" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/toutiao/ToutiaoXiaozhaoService.java" timestamp="1569570626662">
+        <mark key="[" line="43" column="1" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="43" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/airesume/StudentResumeSkillRepo.java" timestamp="1556522499314">
         <mark key="[" line="17" column="133" />
@@ -9130,19 +9130,19 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>province</text>
+        <text>bad</text>
       </register>
       <register name="-" type="4">
-        <text>province</text>
+        <text>bad</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3VudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBRdWVyeSh2YWx1ZSA9ICJzZWxlY3QgKiBmcm9tIHRvdXRpYW9feGlhb3poYW9fY2hhbmdndWFuIGdyb3VwIGJ5IHByb3ZpbmNlIiwgbmF0aXZlUXVlcnkgPSB0cnVlKQogICAgTGlzdDxUb3V0aWFvWGlhb3poYW9DaGFuZ2d1YW5ETz4gZ3JvdXBCeVByb3ZpbmNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHModG91dGlhb1hpYW96aGFvU2VydmljZS5nZXRDaGFuZ2d1YW5MaXN0KCLmtZnmsZ/nnIEiLCAiYmFkIikuc2l6ZSgpLCAwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCDmtYvor5VjaXR5TGlzdCgpIHsKICAgICAgICDmt7vliqDlnLrppoYoIua1meaxn+ecgSIsICLmna3lt57luIIiLCAi5p2t5beeMSIpOwogICAgICAgIOa3u+WKoOWcuummhigi5rWZ5rGf55yBIiwgIua4qeW3nuW4giIsICLmuKnlt54xIik7CiAgICAgICAg5re75Yqg5Zy66aaGKCLmuZbljJfnnIEiLCAi5q2m5rGJ5biCIiwgIuatpuaxiTEiKTsKICAgICAgICDmt7vliqDlnLrppoYoIua5luWMl+ecgSIsICLmrabmsYnluIIiLCAi5q2m5rGJMiIpOwoKCiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -9207,7 +9207,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGB0b3V0aWFvX3hpYW96aGFvX2NoYW5nZ3VhbmAKKAogICAgYGlkYCAgICAgICAgaW50KDExKSBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCwKICAgIGBwcm92aW5jZWAgIHZhcmNoYXIoMjU1KSBERUZBVUxUIE5VTEwsCiAgICBgY2l0eWAgICAgICB2YXJjaGFyKDI1NSkgREVGQVVMVCBOVUxMLAogICAgYGNoYW5nZ3VhbmAgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCwKICAgIFBSSU1BUlkgS0VZIChgaWRgKSwKICAgIEtFWSBgaWR4X2NpdHlgIChgY2l0eWApLAogICAgS0VZIGBpZHhfcHJvdmluY2VfY2l0eWAgKGBwcm92aW5jZWAsIGBjaXR5YCkKKSBFTkdJTkUgPSBJbm5vREIKICBERUZBVUxUIENIQVJTRVQgPSB1dGY4bWI0Owo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHModG91dGlhb1hpYW96aGFvU2VydmljZS5nZXRDaXR5TGlzdCgi5rWZ5rGf55yBIikuc2l6ZSgpLCAyKTsKICAgICAgICBhc3NlcnRFcXVhbHModG91dGlhb1hpYW96aGFvU2VydmljZS5nZXRDaXR5TGlzdCgi5rmW5YyX55yBIikuc2l6ZSgpLCAxKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -9216,19 +9216,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odG91dGlhb1hpYW96aGFvU2VydmljZS5nZXQoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBERUZBVUxUIENIQVJTRVQgPSB1dGY4bWI0Owo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGB0b3V0aXhhb194aWFvemhhb19jaGFuZ2d1YW5gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFuZ2d1YW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFuZ2dhdW4ucwo=</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIGB0b3V0aWFvX3hpYW96aGFvX2NoYW5nZ3VhbmAKKAogICAgYGlkYCAgICAgICAgaW50KDExKSBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCwKICAgIGBwcm92aW5jZWAgIHZhcmNoYXIoMjU1KSBERUZBVUxUIE5VTEwsCiAgICBgY2l0eWAgICAgICB2YXJjaGFyKDI1NSkgREVGQVVMVCBOVUxMLAogICAgYGNoYW5nZ3VhbmAgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCwKICAgIFBSSU1BUlkgS0VZIChgaWRgKSwKICAgIEtFWSBgaWR4X2NpdHlgIChgY2l0eWApLAogICAgS0VZIGBpZHhfcHJvdmluY2VfY2l0eWAgKGBwcm92aW5jZWAsIGBjaXR5YCkKKSBFTkdJTkUgPSBJbm5vREIKICBERUZBVUxUIENIQVJTRVQgPSB1dGY4bWI0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

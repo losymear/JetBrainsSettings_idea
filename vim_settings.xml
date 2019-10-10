@@ -264,11 +264,11 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoUserNoticeDO.java" timestamp="1570711707741">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoUserNoticeDO.java" timestamp="1570712379469">
         <mark key="[" line="26" column="17" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+        <mark key="]" line="16" column="32" />
+        <mark key="^" line="16" column="32" />
+        <mark key="." line="16" column="32" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoXuanjiangItemRepo.java" timestamp="1570678100826">
         <mark key="[" line="16" column="82" />
@@ -352,6 +352,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/BranchPrediction.java" timestamp="1570712365328">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/retrofit/xuexin/XuexinClient.java" timestamp="1568800636970">
         <mark key="'" line="44" column="52" />
@@ -805,8 +811,8 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>来源</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIEJyYW5jaFByZWRpY3Rpb24gewoKfQo=</text>
       </register>
       <register name="-" type="4">
         <text>来源</text>
@@ -818,7 +824,7 @@
         <text encoding="base64">ICAgIGBzb3VyY2VgICAgICB2YXJjaGFyKDI1NSkgREVGQVVMVCBOVUxMIENPTU1FTlQgJ+adpea6kCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dG91dGlhb19uZXdzIOWUr+S4gOagh+ekuiBvcmlnaW4gdGl0bGUgb3JpZ2luYWxUaW1lCg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEJyYW5jaFByZWRpY3Rpb24gewoKfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -883,28 +889,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dG91dGlhb19uZXdzIOWUr+S4gOagh+ekuiBvcmlnaW4gdGl0bGUgb3JpZ2luYWxUaW1lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgicGFnZSIpIEludGVnZXIgcGFnZSwKICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJ0eXBlIiwgcmVxdWlyZWQgPSBmYWxzZSkgU3RyaW5nIHR5cGUsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgVE9ETzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgicGFnZSIpIEludGVnZXIgcGFnZSwKICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJ0eXBlIiwgcmVxdWlyZWQgPSBmYWxzZSkgU3RyaW5nIHR5cGUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcSwK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgVE9ETzoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJ0YWIiLCByZXF1aXJlZCA9IGZhbHNlKSBTdHJpbmcgdGFiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUb3V0aWFvVXNlckRPIHVzZXIgPSB0b3V0aWFvVXNlclNlcnZpY2UuZ2V0VG91dGlhb1VzZXJPck51bGwocmVxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJ0YWIiLCByZXF1aXJlZCA9IGZhbHNlKSBTdHJpbmcgdGFiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgicGFnZSIpIEludGVnZXIgcGFnZSwK</text>
+        <text encoding="base64">ICAgICAgICBUb3V0aWFvVXNlckRPIHVzZXIgPSB0b3V0aWFvVXNlclNlcnZpY2UuZ2V0VG91dGlhb1VzZXJPck51bGwocmVxKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbmFsPFRvdXRpYW9Db3JwQmlqaW5nRE8+IGNvdQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgicGFnZSIpIEludGVnZXIgcGFnZSwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

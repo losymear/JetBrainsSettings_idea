@@ -220,7 +220,7 @@
         <mark key="^" line="13" column="13" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoUserDO.java" timestamp="1570676503355">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoUserDO.java" timestamp="1570711414424">
         <mark key="[" line="24" column="5" />
         <mark key="]" line="24" column="4" />
         <mark key="." line="24" column="4" />
@@ -264,11 +264,11 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoUserNoticeDO.java" timestamp="1570675524698">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoUserNoticeDO.java" timestamp="1570711707741">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoXuanjiangItemRepo.java" timestamp="1570678100826">
         <mark key="[" line="16" column="82" />
@@ -478,7 +478,7 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoUserRepo.java" timestamp="1570524754183">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoUserRepo.java" timestamp="1570711508388">
         <mark key="[" line="18" column="52" />
         <mark key="]" line="19" column="51" />
         <mark key="." line="19" column="51" />
@@ -585,11 +585,11 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_19.07_wy.sql" timestamp="1570699375907">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="7" column="35" />
-        <mark key="." line="7" column="35" />
-        <mark key="^" line="7" column="35" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_19.07_wy.sql" timestamp="1570711737005">
+        <mark key="[" line="32" column="28" />
+        <mark key="]" line="25" column="53" />
+        <mark key="." line="25" column="53" />
+        <mark key="^" line="25" column="53" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/sms/YunpianSmsService.java" timestamp="1570537533945">
         <mark key="'" line="146" column="0" />
@@ -806,16 +806,16 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>detail</text>
+        <text>来源</text>
       </register>
       <register name="-" type="4">
-        <text>detail</text>
+        <text>来源</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3VudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgdG91dGlhb194aWFvemhhb19jaGFuZ2d1YW4KICAgIEFERCBVTklRVUUga3Vfb3JpZ2luX3RpdGxlX29yaWdpbmFsVGltZSAoYHByb3ZpbmNlYCwgYGNpdHlgLCBgY2hhbmdndWFuYCk7Cg==</text>
+        <text encoding="base64">ICAgIGBzb3VyY2VgICAgICB2YXJjaGFyKDI1NSkgREVGQVVMVCBOVUxMIENPTU1FTlQgJ+adpea6kCcsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dG91dGlhb19uZXdzIOWUr+S4gOagh+ekuiBvcmlnaW4gdGl0bGUgb3JpZ2luYWxUaW1lCg==</text>

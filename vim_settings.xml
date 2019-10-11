@@ -24,6 +24,9 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="20" column="38" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoUserNoticeRepo.java" timestamp="1570766088354">
+        <mark key="[" line="22" column="82" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/order/OrderService.java" timestamp="1569399162829">
         <mark key="'" line="8" column="49" />
         <mark key="[" line="52" column="5" />
@@ -154,12 +157,12 @@
         <mark key="." line="19" column="11" />
         <mark key="^" line="19" column="11" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/ToutiaoUserController.java" timestamp="1570676672971">
-        <mark key="'" line="165" column="7" />
-        <mark key="[" line="191" column="90" />
-        <mark key="]" line="192" column="26" />
-        <mark key="." line="192" column="26" />
-        <mark key="^" line="192" column="26" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/ToutiaoUserController.java" timestamp="1570766066023">
+        <mark key="'" line="176" column="7" />
+        <mark key="[" line="149" column="77" />
+        <mark key="]" line="149" column="77" />
+        <mark key="." line="149" column="77" />
+        <mark key="^" line="149" column="58" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoSearchRecordDO.java" timestamp="1570688540499">
         <mark key="[" line="18" column="14" />
@@ -318,12 +321,11 @@
         <mark key="^" line="24" column="88" />
         <mark key="." line="24" column="88" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/toutiao/ToutiaoUserService.java" timestamp="1570690729437">
-        <mark key="'" line="113" column="0" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-        <mark key="^" line="113" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/toutiao/ToutiaoUserService.java" timestamp="1570766118083">
+        <mark key="[" line="138" column="54" />
+        <mark key="]" line="139" column="68" />
+        <mark key="." line="139" column="68" />
+        <mark key="^" line="139" column="68" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/test/java/com/zhiri/jio/PlaygroundTest.java" timestamp="1568626978345">
         <mark key="'" line="263" column="45" />
@@ -391,11 +393,8 @@
         <mark key="^" line="43" column="25" />
         <mark key="." line="43" column="25" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/pom.xml" timestamp="1570765690023">
-        <mark key="[" line="72" column="8" />
-        <mark key="]" line="72" column="7" />
-        <mark key="^" line="72" column="7" />
-        <mark key="." line="72" column="7" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/pom.xml" timestamp="1570766678814">
+        <mark key="[" line="65" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/appender/LoghubAppender.java" timestamp="1570676723012">
         <mark key="[" line="23" column="26" />
@@ -678,6 +677,12 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/pom.xml" timestamp="1570766686172">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="153" column="20" />
+        <mark key="^" line="153" column="20" />
+        <mark key="." line="153" column="20" />
+      </file>
       <file name="/Dummy.txt" timestamp="1570765494417">
         <mark key="[" line="0" column="0" />
       </file>
@@ -833,20 +838,20 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>tab</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldFVucmVhZE5vdGljZUNvdW50KEludGVnZXIgdXNlcklkKSB7CiAgICB9Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>tab</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3VudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGBzb3VyY2VgICAgICB2YXJjaGFyKDI1NSkgREVGQVVMVCBOVUxMIENPTU1FTlQgJ+adpea6kCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBUb3V0aWFvVXNlckRPIHVzZXIgPSB0b3V0aWFvVXNlclNlcnZpY2UuZ2V0VG91dGlhb1VzZXJPclRocm93KHJlcSk7CiAgICAgICAgcmV0dXJuIFJlc3VsdC5vayh0b3V0aWFvVXNlclNlcnZpY2UuZ2V0Tm90aWNlTGlzdCh1c2VyLmdldElkKCksIHBhZ2UpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJ0YWIiLCByZXF1aXJlZCA9IGZhbHNlKSBTdHJpbmcgdGFiCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldFVucmVhZE5vdGljZUNvdW50KEludGVnZXIgdXNlcklkKSB7CiAgICB9Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -911,28 +916,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCJsaXN0IikK</text>
+        <text encoding="base64">ICAgICAgICBIdHRwU2VydmxldFJlcXVlc3QgcmVxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEJyYW5jaFByZWRpY3Rpb24gewoKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJ0YWIiLCByZXF1aXJlZCA9IGZhbHNlKSBTdHJpbmcgdGFiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dG91dGlhb19uZXdzIOWUr+S4gOagh+ekuiBvcmlnaW4gdGl0bGUgb3JpZ2luYWxUaW1lCg==</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCJsaXN0IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEJyYW5jaFByZWRpY3Rpb24gewoKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgicGFnZSIpIEludGVnZXIgcGFnZSwKICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJ0eXBlIiwgcmVxdWlyZWQgPSBmYWxzZSkgU3RyaW5nIHR5cGUsCg==</text>
+        <text encoding="base64">dG91dGlhb19uZXdzIOWUr+S4gOagh+ekuiBvcmlnaW4gdGl0bGUgb3JpZ2luYWxUaW1lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgVE9ETzoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgicGFnZSIpIEludGVnZXIgcGFnZSwKICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJ0eXBlIiwgcmVxdWlyZWQgPSBmYWxzZSkgU3RyaW5nIHR5cGUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJ0YWIiLCByZXF1aXJlZCA9IGZhbHNlKSBTdHJpbmcgdGFiCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgVE9ETzoK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

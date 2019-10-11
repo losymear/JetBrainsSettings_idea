@@ -274,11 +274,11 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoKanzhunCorpRepo.java" timestamp="1570787343098">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="20" column="7" />
-        <mark key="." line="20" column="7" />
-        <mark key="^" line="20" column="7" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoKanzhunCorpRepo.java" timestamp="1570793618533">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="20" column="25" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoUserNoticeDO.java" timestamp="1570712379469">
         <mark key="[" line="26" column="17" />
@@ -485,11 +485,11 @@
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="17" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/toutiao/ToutiaoRunSqlService.java" timestamp="1570792139660">
-        <mark key="[" line="29" column="108" />
-        <mark key="]" line="29" column="107" />
-        <mark key="^" line="29" column="107" />
-        <mark key="." line="29" column="107" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/toutiao/ToutiaoRunSqlService.java" timestamp="1570794364569">
+        <mark key="[" line="33" column="68" />
+        <mark key="]" line="33" column="67" />
+        <mark key="^" line="33" column="67" />
+        <mark key="." line="33" column="67" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoXiaozhaoChangguanDO.java" timestamp="1569572998916">
         <mark key="[" line="15" column="40" />
@@ -570,11 +570,11 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoKanzhunCorpDO.java" timestamp="1570787763746">
-        <mark key="[" line="32" column="11" />
-        <mark key="]" line="32" column="11" />
-        <mark key="." line="32" column="11" />
-        <mark key="^" line="32" column="13" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoKanzhunCorpDO.java" timestamp="1570793600311">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="19" />
+        <mark key="." line="26" column="19" />
+        <mark key="^" line="26" column="19" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/test/java/com/zhiri/jio/service/reward/RewardServiceTest.java" timestamp="1569485143872">
         <mark key="'" line="14" column="16" />
@@ -696,12 +696,12 @@
         <mark key="^" line="25" column="90" />
         <mark key="." line="25" column="90" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoCorpItemRepo.java" timestamp="1570786492269">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoCorpItemRepo.java" timestamp="1570793805815">
         <mark key="'" line="2" column="6" />
-        <mark key="[" line="22" column="70" />
-        <mark key="]" line="22" column="31" />
-        <mark key="^" line="22" column="31" />
-        <mark key="." line="22" column="31" />
+        <mark key="[" line="24" column="86" />
+        <mark key="]" line="24" column="85" />
+        <mark key="^" line="24" column="85" />
+        <mark key="." line="24" column="85" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/pom.xml" timestamp="1570766686172">
         <mark key="[" line="148" column="0" />
@@ -864,11 +864,11 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2Fuemh1bkNvcnBMaXN0ID0gdG91dGlhb0thbnpodW5Db3JwUmVwby5maW5kQnlVcGRhdGVUaW1lQWZ0ZXJPcmRlckJ5VXBkYXRlVGltZUFzYyhsYXRlc3RIYW5kbGVkVGltZSwgUGFnZVJlcXVlc3Qub2YoMCwgMTAwKSkuZ2V0Q29udGVudCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>findByTitle</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>findByTitle</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>

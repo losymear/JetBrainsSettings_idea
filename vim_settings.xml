@@ -38,12 +38,12 @@
         <mark key="^" line="43" column="4" />
         <mark key="." line="43" column="4" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoCorpJobDO.java" timestamp="1570890655201">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoCorpJobDO.java" timestamp="1571040401340">
         <mark key="'" line="6" column="22" />
-        <mark key="[" line="33" column="19" />
-        <mark key="]" line="21" column="14" />
-        <mark key="." line="21" column="14" />
-        <mark key="^" line="21" column="14" />
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+        <mark key="^" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/resources/jdbc-dev.properties" timestamp="1569485482766">
         <mark key="'" line="6" column="0" />
@@ -608,6 +608,13 @@
         <mark key="^" line="21" column="40" />
         <mark key="." line="21" column="40" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_0.0_wy.sql" timestamp="1571040514932">
+        <mark key="'" line="23" column="39" />
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/toutiao/ToutiaoCommonService.java" timestamp="1570785127940">
         <mark key="'" line="30" column="36" />
         <mark key="[" line="25" column="0" />
@@ -782,7 +789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_19.02_wy.sql" />
       <jump line="46" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/BaseManager.java" />
       <jump line="19" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoNewsDO.java" />
       <jump line="28" column="19" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoXiaozhaoFollowDO.java" />
@@ -882,6 +888,7 @@
       <jump line="4" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoKanzhunDianpingDO.java" />
       <jump line="182" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/BaseManager.java" />
       <jump line="75" column="81" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/toutiao/ToutiaoRunSqlService.java" />
+      <jump line="22" column="39" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_0.0_wy.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">

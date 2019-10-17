@@ -404,12 +404,11 @@
         <mark key="." line="38" column="15" />
         <mark key="^" line="38" column="15" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/spread/SpreadTaskServiceTest.java" timestamp="1571301375577">
-        <mark key="'" line="25" column="46" />
-        <mark key="[" line="38" column="12" />
-        <mark key="]" line="38" column="7" />
-        <mark key="." line="38" column="7" />
-        <mark key="^" line="38" column="7" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/spread/SpreadTaskServiceTest.java" timestamp="1571303774655">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoKanzhunCorpRepo.java" timestamp="1570863407470">
         <mark key="[" line="20" column="0" />
@@ -608,13 +607,13 @@
         <mark key="^" line="19" column="54" />
         <mark key="." line="19" column="54" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" timestamp="1571299910513">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" timestamp="1571303792721">
         <mark key="a" line="42" column="97" />
-        <mark key="'" line="163" column="47" />
-        <mark key="[" line="161" column="50" />
-        <mark key="]" line="161" column="49" />
-        <mark key="." line="161" column="49" />
-        <mark key="^" line="161" column="49" />
+        <mark key="'" line="162" column="47" />
+        <mark key="[" line="67" column="1" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="67" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/ToutiaoController.java" timestamp="1570604961867">
         <mark key="[" line="4" column="58" />
@@ -738,11 +737,11 @@
         <mark key="^" line="22" column="76" />
         <mark key="." line="22" column="76" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadRecordHistoryDO.java" timestamp="1571229597520">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadRecordHistoryDO.java" timestamp="1571303725337">
         <mark key="'" line="20" column="32" />
-        <mark key="[" line="22" column="1" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/user/UserService.java" timestamp="1569063532015">
@@ -1055,7 +1054,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/ToutiaoCommonController.java" />
       <jump line="125" column="78" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/ToutiaoCommonController.java" />
       <jump line="49" column="44" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/ToutiaoCommonController.java" />
       <jump line="129" column="81" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/ToutiaoCommonController.java" />
@@ -1155,6 +1153,7 @@
       <jump line="28" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/spread/TestWithSpread.java" />
       <jump line="4" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_0.8_wy.sql" />
       <jump line="23" column="46" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/spread/SpreadTaskServiceTest.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/spread/SpreadTaskServiceTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1164,13 +1163,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>spreadBrandRepo.findal</text>
+        <text>getFormalStatus</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzcHJlYWRUYXNrU2VydmljZS5jaG9vc2VNYXRlcmlhbCh1c2VyQS5nZXRJZCgpLCBtYXRlcmlhbDEuZ2V0SWQoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKHNwcmVhZFJlY29yZFJlcG8uZmluZEJ5VXNlcklkQW5kVGFza0lkKHVzZXJBLmdldElkKCksIHRhc2suZ2V0SWQoKSkuZ2V0KCkuZ2V0TWF0ZXJpYWxJZCgpLCBtYXRlcmlhbDEuZ2V0SWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoc3ByZWFkUmVjb3JkSGlzdG9yeVJlcG8uZmluZEFsbCgpLmdldCgwKS5nZXRGb3JtYWxTdGF0dXMoKSwgU3ByZWFkUmVjb3JkRE8uU3RhdHVzLuW+heWujOaIkCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1238,28 +1237,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoc3ByZWFkUmVjb3JkSGlzdG9yeVJlcG8uZmluZEFsbCgpLmdldCgwKS5nZXRGb3JtYWxTdGF0dXMoKSwgU3ByZWFkUmVjb3JkRE8uU3RhdHVzLuW+heWujOaIkCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNgYGBgCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoc3ByZWFkUmVjb3JkSGlzdG9yeVJlcG8uZmluZEFsbCgpLmdldCgwKS5nZXR1KCksIFNwcmVhZFJlY29yZERPLlN0YXR1cy7lvoXlrozmiJApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">ICAgIFNwcmVhZFJlY29yZERPLlN0YXR1cyBzdGF0dXM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGBgCg==</text>
+        <text encoding="base64">ICAgICAgICBTcHJlYWRSZWNvcmRETyByZWNvcmQgPSBzcHJlYWRSZWNvcmRSZXBvLmZpbmRCeVVzZXJJZEFuZFRhc2tJZCh1c2VyQS5nZXRJZCgpLCB0YXNrLmdldElkKCkpLm9yRWxzZVRocm93KCgpIC0+IG5ldyBBZFJ1bnRpbWVFeGNlcHRpb24oKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGBgCg==</text>
+        <text encoding="base64">ICAgICAgICBTcHJlYWRSZWNvcmRETyByZWNvcmQgPSBzcHJlYWRSZWNvcmRSZXBvLmZpbmRCeVVzZXJJZEFuZFRhc2tJZCh1c2VyQS5nZXRJZCgpLCB0YXNrLmdldElkKCkpLm9yRWxzZVRocm93KCgpIC0+IG5ldyBBZFJ1bnRpbWVFeGNlcHRpb24oKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTcHJlYWRSZWNvcmRETyByZWNvcmQgPSBzcHJlYWRSZWNvcmRSZXBvLmZpbmRCeVVzZXJJZEFuZFRhc2tJZCh1c2VyQS5nZXRJZCgpLCB0YXNrLmdldElkKCkpLm9yRWxzZVRocm93KCgpIC0+IG5ldyBBZFJ1bnRpbWVFeGNlcHRpb24oKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTcHJlYWRSZWNvcmRETyByZWNvcmQgPSBzcHJlYWRSZWNvcmRSZXBvLmZpbmRCeVVzZXJJZEFuZFRhc2tJZCh1c2VyQS5nZXRJZCgpLCApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrLnNldAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAg5pu05o2i57Sg5p2QCiAgICAgICAgc3ByZWFkVGFza1NlcnZpY2UuY2hvb3NlTWF0ZXJpYWwodXNlckEuZ2V0SWQoKSwgbWF0ZXJpYWwyLmdldElkKCkpOwogICAgICAgIGFzc2VydEVxdWFscyhzcHJlYWRSZWNvcmRSZXBvLmZpbmRCeVVzZXJJZEFuZFRhc2tJZCh1c2VyQS5nZXRJZCgpLCB0YXNrLmdldElkKCkpLmdldCgpLmdldE1hdGVyaWFsSWQoKSwgbWF0ZXJpYWwyLmdldElkKCkpOwogICAgICAgIC8vICAgICAgICDmn6XnnIticmFuZAogICAgICAgIC8vICAgICAgICDmn6XnnIticmFuZAogICAgICAgIGFzc2VydEVxdWFscyhzcHJlYWRUYXNrU2VydmljZS52aWV3QnJhbmQoYnJhbmQuZ2V0SWQoKSkuZ2V0Q29udGVudCgpLCBicmFuZC5nZXRDb250ZW50KCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

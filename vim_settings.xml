@@ -87,12 +87,12 @@
         <mark key="^" line="56" column="34" />
         <mark key="." line="56" column="34" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadTaskDO.java" timestamp="1571388354710">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadTaskDO.java" timestamp="1571391876586">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="30" column="16" />
-        <mark key="]" line="31" column="20" />
-        <mark key="^" line="31" column="20" />
-        <mark key="." line="31" column="20" />
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="15" />
+        <mark key="^" line="29" column="15" />
+        <mark key="." line="29" column="15" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_0.92_wy.sql" timestamp="1571365874578">
         <mark key="[" line="5" column="55" />
@@ -828,11 +828,11 @@
         <mark key="^" line="23" column="18" />
         <mark key="." line="23" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/SpreadTaskController.java" timestamp="1571207943963">
-        <mark key="'" line="57" column="21" />
-        <mark key="[" line="60" column="67" />
-        <mark key="]" line="60" column="91" />
-        <mark key="." line="60" column="91" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/SpreadTaskController.java" timestamp="1571392069716">
+        <mark key="'" line="58" column="31" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="13" />
+        <mark key="." line="74" column="0" />
         <mark key="^" line="60" column="91" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoCorpJobRepo.java" timestamp="1570860433614">
@@ -926,7 +926,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/toutiao/ToutiaoUserService.java" />
       <jump line="54" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/ToutiaoNewsController.java" />
       <jump line="2" column="42" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoSearchRecordRepo.java" />
       <jump line="14" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_19.07_wy.sql" />
@@ -1026,22 +1025,23 @@
       <jump line="1" column="44" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/resources/core-prod.properties" />
       <jump line="50" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/sms/LoginSmsService.java" />
       <jump line="42" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/encryt/MiniappEncryptService.java" />
+      <jump line="58" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/SpreadTaskController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSb2xlVXNlcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>QmsRuntimeException</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QExvZzRqMgpAU2VydmljZQpAVHJhbnNhY3Rpb25hbChyb2xsYmFja0ZvciA9IEV4Y2VwdGlvbi5jbGFzcykK</text>
+        <text encoding="base64">ICAgIEBSb2xlVXNlcgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

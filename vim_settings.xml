@@ -5,13 +5,15 @@
       <mark key="C" line="36" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/CouponAdminController.java" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="/a.dummy" timestamp="1571311530983">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/resources/core.properties" timestamp="1571311145560">
         <mark key="[" line="71" column="1" />
         <mark key="]" line="71" column="0" />
         <mark key="^" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/wechat/WechatPayApi.java" timestamp="1571312118647" />
       <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/order/OrderService.java" timestamp="1569399162829">
         <mark key="'" line="8" column="49" />
         <mark key="[" line="52" column="5" />
@@ -26,7 +28,8 @@
         <mark key="^" line="39" column="10" />
         <mark key="." line="39" column="10" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/WechatPayManager.java" timestamp="1571312977114">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/WechatPayManager.java" timestamp="1571365714578">
+        <mark key="'" line="13" column="2" />
         <mark key="[" line="13" column="3" />
         <mark key="]" line="13" column="2" />
         <mark key="." line="13" column="2" />
@@ -46,6 +49,9 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/component/WechatMiniappPayClient.java" timestamp="1571365938892">
+        <mark key="[" line="20" column="1" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/LoginSmsService.java" timestamp="1570524192821">
         <mark key="'" line="309" column="11" />
         <mark key="[" line="92" column="0" />
@@ -60,9 +66,9 @@
         <mark key="^" line="184" column="67" />
         <mark key="." line="184" column="67" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/UserServiceTest.java" timestamp="1571291528191">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="38" column="45" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/UserServiceTest.java" timestamp="1571367079700">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="43" column="45" />
         <mark key="^" line="34" column="11" />
         <mark key="." line="34" column="11" />
       </file>
@@ -114,6 +120,12 @@
         <mark key="^" line="2" column="37" />
         <mark key="." line="2" column="37" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/config/MyErrorCodeEnum.java" timestamp="1571366379072">
+        <mark key="[" line="38" column="10" />
+        <mark key="]" line="38" column="10" />
+        <mark key="." line="38" column="10" />
+        <mark key="^" line="38" column="8" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/aliyun/VerifyService.java" timestamp="1569058261687">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="113" column="167" />
@@ -134,16 +146,22 @@
         <mark key="." line="19" column="11" />
         <mark key="^" line="19" column="11" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/ToutiaoUserController.java" timestamp="1570862788297">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/ToutiaoUserController.java" timestamp="1571366627162">
         <mark key="'" line="176" column="7" />
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="19" />
         <mark key="." line="203" column="0" />
         <mark key="^" line="202" column="25" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_0.8_wy.sql" timestamp="1571304795681">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/miniapp/pay/config/WechatMiniappPayServiceTest.java" timestamp="1571367460269">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+        <mark key="^" line="25" column="23" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_0.8_wy.sql" timestamp="1571365809976">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="8" column="0" />
+        <mark key="[" line="0" column="16" />
         <mark key="]" line="9" column="59" />
         <mark key="." line="9" column="59" />
         <mark key="^" line="9" column="59" />
@@ -171,12 +189,25 @@
         <mark key="." line="15" column="26" />
         <mark key="^" line="15" column="26" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/WechatMiniappPayService.java" timestamp="1571367814881">
+        <mark key="'" line="35" column="12" />
+        <mark key="[" line="55" column="30" />
+        <mark key="]" line="56" column="34" />
+        <mark key="^" line="56" column="34" />
+        <mark key="." line="56" column="34" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadTaskDO.java" timestamp="1571304813662">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="29" column="20" />
         <mark key="]" line="30" column="15" />
         <mark key="^" line="30" column="15" />
         <mark key="." line="30" column="15" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_0.92_wy.sql" timestamp="1571365874578">
+        <mark key="[" line="5" column="55" />
+        <mark key="]" line="5" column="54" />
+        <mark key="^" line="5" column="54" />
+        <mark key="." line="5" column="54" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/airesume/StudentResumeSkillDO.java" timestamp="1571044742259">
         <mark key="[" line="45" column="5" />
@@ -206,19 +237,19 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/resources/core.properties" timestamp="1569052986124">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/resources/core.properties" timestamp="1571368000464">
         <mark key="'" line="0" column="9" />
-        <mark key="[" line="11" column="3" />
-        <mark key="]" line="18" column="16" />
-        <mark key="^" line="18" column="16" />
-        <mark key="." line="18" column="16" />
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskPersonalRecordDTO.java" timestamp="1571292264536">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskPersonalRecordDTO.java" timestamp="1571365709153">
         <mark key="'" line="21" column="13" />
-        <mark key="[" line="37" column="19" />
-        <mark key="]" line="38" column="15" />
-        <mark key="." line="38" column="15" />
-        <mark key="^" line="38" column="15" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="16" />
+        <mark key="." line="39" column="19" />
+        <mark key="^" line="39" column="19" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoKanzhunCorpRepo.java" timestamp="1570863407470">
         <mark key="[" line="20" column="0" />
@@ -231,6 +262,10 @@
         <mark key="]" line="16" column="32" />
         <mark key="^" line="16" column="32" />
         <mark key="." line="16" column="32" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AiResumeClient.java" timestamp="1571366389288">
+        <mark key="[" line="51" column="9" />
+        <mark key="]" line="43" column="80" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/lieying/LieyingController.java" timestamp="1570676364736">
         <mark key="'" line="140" column="51" />
@@ -338,6 +373,14 @@
         <mark key="^" line="19" column="54" />
         <mark key="." line="19" column="54" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" timestamp="1571366463005">
+        <mark key="a" line="42" column="97" />
+        <mark key="'" line="163" column="51" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="29" column="7" />
+        <mark key="." line="163" column="37" />
+        <mark key="^" line="163" column="41" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/spread/SpreadTagRepo.java" timestamp="1571128992377">
         <mark key="[" line="17" column="46" />
         <mark key="]" line="17" column="54" />
@@ -427,12 +470,24 @@
         <mark key="." line="46" column="32" />
         <mark key="^" line="46" column="32" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/WechatMiniappPayClient.java" timestamp="1571367032259">
+        <mark key="[" line="31" column="71" />
+        <mark key="]" line="31" column="70" />
+        <mark key="." line="31" column="70" />
+        <mark key="^" line="31" column="70" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/toutiao/ToutiaoNewsService.java" timestamp="1571109060295">
         <mark key="'" line="76" column="18" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="26" column="7" />
         <mark key="." line="37" column="5" />
         <mark key="^" line="37" column="5" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/miniapp/HaoMiniappConfig.java" timestamp="1571366933262">
+        <mark key="[" line="67" column="18" />
+        <mark key="]" line="67" column="61" />
+        <mark key="^" line="67" column="61" />
+        <mark key="." line="67" column="61" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoOriginBlockRepo.java" timestamp="1569745683304">
         <mark key="'" line="2" column="42" />
@@ -459,6 +514,10 @@
         <mark key="]" line="2" column="6" />
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/test/java/com/zhiri/jio/ResourceTest.java" timestamp="1571367574759">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="19" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/dto/wechat/UnifiedOrderResponse.java" timestamp="1571311677201">
         <mark key="[" line="5" column="0" />
@@ -581,6 +640,10 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/UserService.java" timestamp="1571297011581">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="112" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/daemon/BaiduStatisticDaemon.java" timestamp="1570604664447">
         <mark key="[" line="91" column="33" />
         <mark key="]" line="91" column="32" />
@@ -610,6 +673,15 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1571367047823">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/pay/WechatMiniappPayService.java" timestamp="1571366874810">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="137" column="33" />
+        <mark key="^" line="137" column="25" />
+        <mark key="." line="137" column="25" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoCorpJobRepo.java" timestamp="1570591341442">
         <mark key="[" line="16" column="108" />
@@ -662,11 +734,11 @@
         <mark key="^" line="37" column="85" />
         <mark key="." line="37" column="85" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadRecordDO.java" timestamp="1571292254508">
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="26" column="15" />
-        <mark key="^" line="26" column="15" />
-        <mark key="." line="26" column="15" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadRecordDO.java" timestamp="1571365737180">
+        <mark key="[" line="26" column="16" />
+        <mark key="]" line="27" column="20" />
+        <mark key="^" line="27" column="20" />
+        <mark key="." line="27" column="20" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/repo/src/main/java/com/zhiri/jio/domain/user/UserDO.java" timestamp="1568987570292">
         <mark key="'" line="22" column="13" />
@@ -707,9 +779,6 @@
         <mark key="." line="24" column="45" />
         <mark key="^" line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/WechatMiniappPayRetrofigConfig.java" timestamp="1571312495052">
-        <mark key="'" line="40" column="6" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/user/UserDO.java" timestamp="1571043999188">
         <mark key="[" line="48" column="3" />
         <mark key="]" line="27" column="12" />
@@ -730,9 +799,9 @@
         <mark key="." line="58" column="20" />
         <mark key="^" line="58" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/WechatMiniappPayApi.java" timestamp="1571312721443">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/WechatMiniappPayApi.java" timestamp="1571365901409">
         <mark key="'" line="6" column="26" />
-        <mark key="[" line="26" column="22" />
+        <mark key="[" line="15" column="0" />
         <mark key="]" line="26" column="21" />
         <mark key="^" line="26" column="21" />
         <mark key="." line="26" column="21" />
@@ -778,11 +847,15 @@
         <mark key="." line="156" column="40" />
         <mark key="^" line="156" column="40" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadTaskMaterialDO.java" timestamp="1571292245810">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/jio/core/src/main/java/com/zhiri/jio/service/wechat/dto/WechatPayConfig.java" timestamp="1571367580690">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="32" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadTaskMaterialDO.java" timestamp="1571365768589">
         <mark key="[" line="30" column="16" />
-        <mark key="]" line="30" column="15" />
-        <mark key="." line="30" column="15" />
-        <mark key="^" line="30" column="15" />
+        <mark key="]" line="31" column="20" />
+        <mark key="." line="31" column="20" />
+        <mark key="^" line="31" column="20" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/sql/create_vv_19.04_wy.sql" timestamp="1569746530631">
         <mark key="'" line="10" column="0" />
@@ -905,9 +978,9 @@
         <mark key="^" line="43" column="25" />
         <mark key="." line="43" column="25" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/dto/PayToWalletRequest.java" timestamp="1571312426472">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/dto/PayToWalletRequest.java" timestamp="1571367810167">
         <mark key="'" line="34" column="11" />
-        <mark key="[" line="53" column="83" />
+        <mark key="[" line="40" column="2" />
         <mark key="]" line="53" column="82" />
         <mark key="^" line="53" column="82" />
         <mark key="." line="53" column="82" />
@@ -1002,14 +1075,13 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/spread/TestWithSpread.java" timestamp="1571298084110">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/spread/TestWithSpread.java" timestamp="1571365781330">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="38" column="32" />
-        <mark key="]" line="38" column="32" />
-        <mark key="." line="38" column="32" />
-        <mark key="^" line="34" column="30" />
+        <mark key="[" line="45" column="35" />
+        <mark key="]" line="46" column="34" />
+        <mark key="." line="46" column="34" />
+        <mark key="^" line="46" column="34" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/AdApplication.java" timestamp="1571312741233" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadRecordHistoryDO.java" timestamp="1571303725337">
         <mark key="'" line="20" column="32" />
         <mark key="[" line="27" column="0" />
@@ -1056,8 +1128,9 @@
         <mark key="." line="59" column="4" />
         <mark key="^" line="59" column="4" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_0.91_wy.sql" timestamp="1571304890820">
-        <mark key="[" line="1" column="59" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_0.91_wy.sql" timestamp="1571365794863">
+        <mark key="'" line="0" column="38" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="58" />
         <mark key="." line="1" column="58" />
         <mark key="^" line="1" column="58" />
@@ -1114,11 +1187,11 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/resources/core.properties" timestamp="1571311165232">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="76" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/resources/core.properties" timestamp="1571367979606">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="5" column="34" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadRecordHistoryRepo.java" timestamp="1571130909431">
         <mark key="[" line="13" column="41" />
@@ -1175,13 +1248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/toutiao/ToutiaoUserService.java" />
-      <jump line="30" column="46" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/toutiao/ToutiaoUserService.java" />
-      <jump line="48" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/BaseManager.java" />
-      <jump line="76" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/ToutiaoUserController.java" />
-      <jump line="131" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/ToutiaoUserController.java" />
-      <jump line="140" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/ToutiaoUserController.java" />
-      <jump line="107" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/toutiao/ToutiaoUserService.java" />
       <jump line="163" column="34" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/ToutiaoUserController.java" />
       <jump line="148" column="17" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/toutiao/ToutiaoUserController.java" />
       <jump line="132" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/toutiao/ToutiaoUserService.java" />
@@ -1275,25 +1341,32 @@
       <jump line="34" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/dto/PayToWalletRequest.java" />
       <jump line="40" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/WechatMiniappPayRetrofigConfig.java" />
       <jump line="9" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/WechatMiniappPayApi.java" />
+      <jump line="13" column="2" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/WechatPayManager.java" />
+      <jump line="0" column="38" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_0.91_wy.sql" />
+      <jump line="163" column="51" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" />
+      <jump line="22" column="36" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/WechatMiniappPayService.java" />
+      <jump line="23" column="15" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/WechatMiniappPayService.java" />
+      <jump line="31" column="100" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/WechatMiniappPayService.java" />
+      <jump line="32" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/WechatMiniappPayService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFdlY2hhdFBheU1hbmFnZXIgewoKfQo=</text>
+      <register name="&quot;" type="4">
+        <text>1527341581</text>
       </register>
       <register name="-" type="4">
-        <text>RefundResponse</text>
+        <text>1527341581</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBFbGVtZW50KHJlcXVpcmVkID0gZmFsc2UpCiAgICBwcml2YXRlIFN0cmluZyBwYXltZW50X25vOwo=</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtwYXkud2VjaGF0LmtleX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgd2VjaGF0UGF5S2V5Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFdlY2hhdFBheU1hbmFnZXIgewoKfQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1358,28 +1431,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHByZXBheV9pZDsvL+mihOaUr+S7mOS6pOaYk+S8muivneagh+ivhjrlvq7kv6HnlJ/miJDnmoTpooTmlK/ku5jlm57or53moIfor4bvvIznlKjkuo7lkI7nu63mjqXlj6PosIPnlKjkuK3kvb/nlKjvvIzor6XlgLzmnInmlYjmnJ/kuLoy5bCP5pe2Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXEuc2V0Tm9uY2Vfc3RyKCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRyYWRlX3R5cGU7Ly/kuqTmmJPnsbvlnos66LCD55So5o6l5Y+j5o+Q5Lqk55qE5Lqk5piT57G75Z6L77yM5Y+W5YC85aaC5LiL77yaSlNBUEnvvIxOQVRJVkXvvIxBUFDvvIzor6bnu4bor7TmmI7op4Hlj4LmlbDop4TlrpoK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtzcHJpbmcucHJvZmlsZXMuYWN0aXZlOnByb2R9IikKICAgIFN0cmluZyBwcm9maWxlOwogICAgCiAgICAKICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBXZWNoYXRNaW5pYXBwUGF5U2VydmljZSB3ZWNoYXRNaW5pYXBwUGF5U2VydmljZTsKCiAgICBwdWJsaWMgdm9pZCBwYXlUb1dhbGxldChpbnQgYW1vdW50LFN0cmluZyBkZXNjLFN0cmluZyBtaW5pYXBwQXBwaWQpIHsKICAgICAgICBQYXlUb1dhbGxldFJlcXVlc3QgcmVxID0gbmV3IFBheVRvV2FsbGV0UmVxdWVzdCgpOwogICAgICAgIHJlcS5zZXRBbW91bnQoYW1vdW50KTsKICAgICAgICByZXEuc2V0RGVzYyhkZXNjKTsKICAgICAgICByZXEuc2V0TWNoX2FwcGlkKG1pbmlhcHBBcHBpZCk7CiAgICAgICAgcmVxLnNldE1jaGlkKCk7CgogICAgfQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">QERhdGEKQEphY2tzb25YbWxSb290RWxlbWVudChsb2NhbE5hbWUgPSAieG1sIikKQEpzb25JZ25vcmVQcm9wZXJ0aWVzKGlnbm9yZVVua25vd24gPSB0cnVlKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtzcHJpbmcucHJvZmlsZXMuYWN0aXZlOnByb2R9IikKICAgIFN0cmluZyBwcm9maWxlOwogICAgCiAgICAKICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBXZWNoYXRNaW5pYXBwUGF5U2VydmljZSB3ZWNoYXRNaW5pYXBwUGF5U2VydmljZTsKCiAgICBwdWJsaWMgdm9pZCBwYXlUb1dhbGxldChpbnQgYW1vdW50LFN0cmluZyBkZXNjLFN0cmluZyBtaW5pYXBwQXBwaWQpIHsKICAgICAgICBQYXlUb1dhbGxldFJlcXVlc3QgcmVxID0gbmV3IFBheVRvV2FsbGV0UmVxdWVzdCgpOwogICAgICAgIHJlcS5zZXRBbW91bnQoYW1vdW50KTsKICAgICAgICByZXEuc2V0RGVzYyhkZXNjKTsKICAgICAgICByZXEuc2V0TWNoX2FwcGlkKG1pbmlhcHBBcHBpZCk7CiAgICAgICAgcmVxLnNldE1jaGlkKCk7CgogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFJvb3QobmFtZSA9ICJ4bWwiKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QERhdGEK</text>
+        <text encoding="base64">ICAgICAgICByZXEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFJlZnVuZFJlc3BvbnNlIHsKCn0K</text>
+        <text encoding="base64">ICAgICAgICByZXEuc2V0QW1vdW50KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgUmVmdW5kUmVxdWVzdCBnZXRPbmUoV2VjaGF0UGF5Q29uZmlnIHdlY2hhdFBheUNvbmZpZykgewogICAgICAgIFJlZnVuZFJlcXVlc3QgcmVmdW5kUmVxdWVzdCA9IG5ldyBSZWZ1bmRSZXF1ZXN0KCk7CgogICAgICAgIHJlZnVuZFJlcXVlc3QuYXBwaWQgPSB3ZWNoYXRQYXlDb25maWcuZ2V0V2VjaGF0UGF5QXBwSWQoKTsKICAgICAgICByZWZ1bmRSZXF1ZXN0Lm1jaF9pZCA9IHdlY2hhdFBheUNvbmZpZy5nZXRXZWNoYXRQYXlNY2hJZCgpOwogICAgICAgIHJlZnVuZFJlcXVlc3Qubm90aWZ5X3VybCA9IHdlY2hhdFBheUNvbmZpZy5nZXRXZWNoYXROb3RpZnlVcmwoKTsKICAgICAgICByZWZ1bmRSZXF1ZXN0Lm5vbmNlX3N0ciA9IFVuaXF1ZUlkLmdldE5ld1JlcGxhY2VVbmlxdWUoKTsKCiAgICAgICAgcmV0dXJuIHJlZnVuZFJlcXVlc3Q7CiAgICB9CgoKICAgIHB1YmxpYyBzdGF0aWMgUmVmdW5kUmVxdWVzdCBnZXRUd28oSGFvTWluaWFwcENvbmZpZyBoYW9NaW5pYXBwQ29uZmlnKSB7CiAgICAgICAgUmVmdW5kUmVxdWVzdCByZWZ1bmRSZXF1ZXN0ID0gbmV3IFJlZnVuZFJlcXVlc3QoKTsKCiAgICAgICAgcmVmdW5kUmVxdWVzdC5hcHBpZCA9IGhhb01pbmlhcHBDb25maWcuZ2V0UGF5QXBwSWQoKTsKICAgICAgICByZWZ1bmRSZXF1ZXN0Lm1jaF9pZCA9IGhhb01pbmlhcHBDb25maWcuZ2V0UGF5TWNoSWQoKTsKICAgICAgICByZWZ1bmRSZXF1ZXN0Lm5vdGlmeV91cmwgPSBoYW9NaW5pYXBwQ29uZmlnLmdldFBheU5vdGlmeVVybCgpOwogICAgICAgIHJlZnVuZFJlcXVlc3Qubm9uY2Vfc3RyID0gVW5pcXVlSWQuZ2V0TmV3UmVwbGFjZVVuaXF1ZSgpOwoKICAgICAgICByZXR1cm4gcmVmdW5kUmVxdWVzdDsKICAgIH0K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gYW1vdW50CiAgICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFJlZnVuZFJlcXVlc3QgewoKfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

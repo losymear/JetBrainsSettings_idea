@@ -134,6 +134,13 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="28" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskPersonalRecordDTO.java" timestamp="1571456968463">
+        <mark key="'" line="21" column="13" />
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="21" column="31" />
+        <mark key="." line="21" column="31" />
+        <mark key="^" line="21" column="31" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoKanzhunCorpRepo.java" timestamp="1570863407470">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="109" />
@@ -230,13 +237,13 @@
         <mark key="^" line="19" column="54" />
         <mark key="." line="19" column="54" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" timestamp="1571399905479">
-        <mark key="a" line="42" column="97" />
-        <mark key="'" line="165" column="51" />
-        <mark key="[" line="121" column="42" />
-        <mark key="]" line="121" column="41" />
-        <mark key="." line="121" column="41" />
-        <mark key="^" line="121" column="41" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" timestamp="1571457676505">
+        <mark key="a" line="40" column="97" />
+        <mark key="'" line="178" column="51" />
+        <mark key="[" line="89" column="56" />
+        <mark key="]" line="90" column="47" />
+        <mark key="." line="90" column="47" />
+        <mark key="^" line="90" column="47" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/spread/SpreadTagRepo.java" timestamp="1571128992377">
         <mark key="[" line="17" column="46" />
@@ -837,12 +844,12 @@
         <mark key="^" line="23" column="18" />
         <mark key="." line="23" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/SpreadTaskController.java" timestamp="1571399842144">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/SpreadTaskController.java" timestamp="1571457701630">
         <mark key="'" line="58" column="31" />
-        <mark key="[" line="61" column="104" />
-        <mark key="]" line="61" column="103" />
-        <mark key="." line="61" column="103" />
-        <mark key="^" line="61" column="103" />
+        <mark key="[" line="85" column="19" />
+        <mark key="]" line="85" column="26" />
+        <mark key="." line="85" column="26" />
+        <mark key="^" line="85" column="26" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoCorpJobRepo.java" timestamp="1570860433614">
         <mark key="[" line="18" column="136" />
@@ -1037,11 +1044,11 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgYGFkdmVydGlzaW5nYC5gc3ByZWFkX3JlY29yZGAKICAgIGFkZCBjb2x1bW4gYGNoZWNrSW1hZ2VzYCB0ZXh0IGRlZmF1bHQgbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text>分页获取任务记录历史</text>
       </register>
       <register name="-" type="4">
-        <text>package</text>
+        <text>分页获取任务记录历史</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -1050,7 +1057,7 @@
         <text encoding="base64">YWx0ZXIgdGFibGUgYGFkdmVydGlzaW5nYC5gc3ByZWFkX3JlY29yZGAKICAgIGFkZCBjb2x1bW4gYGNoZWNrSW1hZ2VzYCB0ZXh0IGRlZmF1bHQgbnVsbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBjaGVja0ltYWdlczsK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdGF0dXMKICAgICAqIEBwYXJhbSByZWplY3RSZWFzb24K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1114,19 +1121,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">U3ByZWFkUmVjb3JkRE8uU3RhdHVzIHN0YXR1cywgU3RyaW5nIHJlamVjdFJlYXNvbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb25nIGNoZWNrVGltZSwgTG9uZyBjaGVja1ZlcmlmeVRpbWUsIA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIHBheWxvYWQKICAgICAqIEByZXR1cm4g5omL5py65Y+3CiAgICAgKi8KICAgIHB1YmxpYyBNaW5pYXBwUGhvbmVEZXNjeXB0ZWREYXRhIGRlY3J5cHRQaG9uZShNaW5pUmVnaXN0ZXJFbmNyeXB0RFRPIHBheWxvYWQpIHsKICAgICAgICBKc2NvZGUyU2Vzc2lvbkRUTyBqc2NvZGUyU2Vzc2lvbkRUTyA9IG1pbmlBcHBBcGlDbGllbnQuanNjb2RlMnNlc3Npb24ocGF5bG9hZC5nZXRDb2RlKCkpOwogICAgICAgIGxvZy5pbmZvKCJqc2NvZGUyc2Vzc2lvbue7k+aenOS4unt9IiwganNjb2RlMlNlc3Npb25EVE8pOwogICAgICAgIE1pbmlhcHBQaG9uZURlc2N5cHRlZERhdGEgbWluaWFwcFBob25lRGVzY3lwdGVkRGF0YSA9IHdlY2hhdE1pbmlBcHBTZXJ2aWNlLuino+WvhuaJi+acuuaVsOaNrihwYXlsb2FkLmdldEVuY3J5cHRlZERhdGEoKSwgcGF5bG9hZC5nZXRJdigpLCBqc2NvZGUyU2Vzc2lvbkRUTy5nZXRTZXNzaW9uX2tleSgpKTsKICAgICAgICAvLyDop6Plr4bmlbDmja4KICAgICAgICByZXR1cm4gbWluaWFwcFBob25lRGVzY3lwdGVkRGF0YTsKICAgIH0K</text>
+      <register name="3" type="4">
+        <text>record.getStatus(), record.getRejectReason(), record.getCheckTime(), record.getCheckVerifyTime(),
+                    tags</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBjaGVja0ltYWdlczsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIHBheWxvYWQKICAgICAqIEByZXR1cm4g5omL5py65Y+3CiAgICAgKi8KICAgIHB1YmxpYyBNaW5pYXBwUGhvbmVEZXNjeXB0ZWREYXRhIGRlY3J5cHRQaG9uZShNaW5pUmVnaXN0ZXJFbmNyeXB0RFRPIHBheWxvYWQpIHsKICAgICAgICBKc2NvZGUyU2Vzc2lvbkRUTyBqc2NvZGUyU2Vzc2lvbkRUTyA9IG1pbmlBcHBBcGlDbGllbnQuanNjb2RlMnNlc3Npb24ocGF5bG9hZC5nZXRDb2RlKCkpOwogICAgICAgIGxvZy5pbmZvKCJqc2NvZGUyc2Vzc2lvbue7k+aenOS4unt9IiwganNjb2RlMlNlc3Npb25EVE8pOwogICAgICAgIE1pbmlhcHBQaG9uZURlc2N5cHRlZERhdGEgbWluaWFwcFBob25lRGVzY3lwdGVkRGF0YSA9IHdlY2hhdE1pbmlBcHBTZXJ2aWNlLuino+WvhuaJi+acuuaVsOaNrihwYXlsb2FkLmdldEVuY3J5cHRlZERhdGEoKSwgcGF5bG9hZC5nZXRJdigpLCBqc2NvZGUyU2Vzc2lvbkRUTy5nZXRTZXNzaW9uX2tleSgpKTsKICAgICAgICAvLyDop6Plr4bmlbDmja4KICAgICAgICByZXR1cm4gbWluaWFwcFBob25lRGVzY3lwdGVkRGF0YTsKICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>//        String decrypt;
 //        try {
 //
@@ -1144,15 +1161,6 @@
 //            throw new QmsRuntimeException(&quot;解密数据序列化失败&quot;);
 //        }
 //        return miniAppDecryptedData;</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFBLQ1M3RW5jb2RlciB7Cgp9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFd4Q3J5cHRVdGlscyB7Cgp9Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE1pbmlhcHBBcGkgewoKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

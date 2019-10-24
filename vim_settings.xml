@@ -299,6 +299,13 @@
         <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/AuthService.java" timestamp="1571895889618" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/pom.xml" timestamp="1571920274252">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" timestamp="1571907075028">
         <mark key="[" line="137" column="110" />
         <mark key="]" line="137" column="111" />
@@ -633,6 +640,7 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/lmax/disruptor/3.4.0/disruptor-3.4.0-sources.jar!/com/lmax/disruptor/RingBuffer.java" timestamp="1571921358339" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/Jenkinsfile-onlinetest" timestamp="1571041500156">
         <mark key="[" line="37" column="86" />
         <mark key="]" line="37" column="85" />
@@ -929,9 +937,6 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/manager/helper/MailService.java" timestamp="1571895480321">
-        <mark key="[" line="34" column="18" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadTagDO.java" timestamp="1571810825538">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="24" column="15" />
@@ -1015,6 +1020,12 @@
         <mark key="]" line="88" column="59" />
         <mark key="^" line="88" column="59" />
         <mark key="." line="88" column="59" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/sms/YunpianSmsService.java" timestamp="1571920613415">
+        <mark key="[" line="103" column="105" />
+        <mark key="]" line="103" column="104" />
+        <mark key="^" line="103" column="104" />
+        <mark key="." line="103" column="104" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanClient.java" timestamp="1571902412782">
         <mark key="'" line="172" column="24" />
@@ -1180,7 +1191,6 @@
       <jump line="27" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/spread/SpreadTaskServiceTest.java" />
       <jump line="76" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/RetrofigConfig.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/pom.xml" />
       <jump line="18" column="55" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/dto/PayToWalletRequest.java" />
       <jump line="34" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/dto/PayToWalletRequest.java" />
       <jump line="40" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/WechatMiniappPayRetrofigConfig.java" />
@@ -1243,6 +1253,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/spread/SpreadTagRepo.java" />
       <jump line="97" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/controller/SpreadManageAdminController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/controller/SpreadManageAdminController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">

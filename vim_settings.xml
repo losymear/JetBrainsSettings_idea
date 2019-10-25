@@ -644,11 +644,11 @@
         <mark key="^" line="37" column="85" />
         <mark key="." line="37" column="85" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadRecordDO.java" timestamp="1571972255067">
-        <mark key="[" line="114" column="19" />
-        <mark key="]" line="74" column="13" />
-        <mark key="." line="74" column="13" />
-        <mark key="^" line="74" column="13" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadRecordDO.java" timestamp="1571989451626">
+        <mark key="[" line="78" column="25" />
+        <mark key="]" line="78" column="24" />
+        <mark key="." line="78" column="24" />
+        <mark key="^" line="78" column="24" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/LoginSmsController.java" timestamp="1570524503591">
         <mark key="[" line="166" column="5" />
@@ -868,6 +868,7 @@
         <mark key="." line="229" column="95" />
         <mark key="^" line="229" column="95" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/youzan/cloud/open-sdk-gen/1.0.5.201909261802-RELEASE/open-sdk-gen-1.0.5.201909261802-RELEASE-sources.jar!/com/youzan/cloud/open/sdk/gen/v3_0_0/model/YouzanItemsOnsaleGetResult.java" timestamp="1571990130139" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/dingding/dto/DingRes.java" timestamp="1571647269896">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="16" column="0" />
@@ -886,12 +887,12 @@
         <mark key="^" line="29" column="50" />
         <mark key="." line="29" column="50" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/youzan/YouzanClientTest.java" timestamp="1571977907918">
-        <mark key="'" line="44" column="4" />
-        <mark key="[" line="53" column="26" />
-        <mark key="]" line="53" column="25" />
-        <mark key="^" line="53" column="25" />
-        <mark key="." line="53" column="25" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/youzan/YouzanClientTest.java" timestamp="1571991470160">
+        <mark key="'" line="63" column="9" />
+        <mark key="[" line="94" column="34" />
+        <mark key="]" line="94" column="33" />
+        <mark key="^" line="94" column="33" />
+        <mark key="." line="94" column="33" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/sms/dto/PhoneWithQq007.java" timestamp="1571383974088">
         <mark key="[" line="4" column="0" />
@@ -1034,12 +1035,12 @@
         <mark key="^" line="103" column="104" />
         <mark key="." line="103" column="104" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanClient.java" timestamp="1571985029304">
-        <mark key="'" line="267" column="66" />
-        <mark key="[" line="267" column="67" />
-        <mark key="]" line="267" column="66" />
-        <mark key="." line="267" column="66" />
-        <mark key="^" line="267" column="66" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanClient.java" timestamp="1571991723793">
+        <mark key="'" line="274" column="0" />
+        <mark key="[" line="280" column="14" />
+        <mark key="]" line="276" column="14" />
+        <mark key="." line="276" column="14" />
+        <mark key="^" line="276" column="14" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoXuanjiangSchoolRepo.java" timestamp="1569741222555">
         <mark key="[" line="21" column="0" />
@@ -1158,10 +1159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="100" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" />
-      <jump line="34" column="15" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/BaseService.java" />
-      <jump line="21" column="32" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadRecordHistoryDO.java" />
-      <jump line="111" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_0.0_wy.sql" />
       <jump line="30" column="60" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_0.0_wy.sql" />
       <jump line="65" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_0.0_wy.sql" />
       <jump line="35" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_0.0_wy.sql" />
@@ -1258,25 +1255,29 @@
       <jump line="180" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanClient.java" />
       <jump line="43" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/youzan/YouzanClientTest.java" />
       <jump line="267" column="66" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanClient.java" />
+      <jump line="261" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanClient.java" />
+      <jump line="50" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/youzan/YouzanClientTest.java" />
+      <jump line="63" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/youzan/YouzanClientTest.java" />
+      <jump line="276" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanClient.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>错</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbV9hbGlhcz0nJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>错</text>
+        <text>15558088180</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygie33mmK/nlKjmiLd7fSIsIHBob25lLCB5b3V6YW5DbGllbnQuY2hlY2tBY2NvdW50KHBob25lKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygibGluazEge30iLCBsaW5rMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbV9hbGlhcz0nJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1341,28 +1342,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBZb3V6YW5JdGVtc09uc2FsZUdldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyh5b3V6YW5DbGllbnQuY2hlY2tBY2NvdW50KHBob25lKSk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBwaG9uZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeW91emFuQ2xpZW50LmNyZWF0ZUN1c3RvbWVyKHBob25lLCAid3nlsI/lj7ciKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcGlQYXJhbXMuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

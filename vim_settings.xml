@@ -437,9 +437,6 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/spread/SpreadTaskRepo.java" timestamp="1572337365683">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/sms/Tx007Service.java" timestamp="1572254954397">
         <mark key="[" line="84" column="43" />
         <mark key="]" line="84" column="42" />
@@ -747,6 +744,11 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/user/UserDO.java" timestamp="1572349552328">
+        <mark key="'" line="39" column="18" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="17" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/FreelyChatSkuDO.java" timestamp="1571809376290">
         <mark key="[" line="87" column="26" />
         <mark key="]" line="87" column="25" />
@@ -965,6 +967,11 @@
         <mark key="]" line="29" column="50" />
         <mark key="^" line="29" column="50" />
         <mark key="." line="29" column="50" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/proxy/dto/UserSeenByProxy.java" timestamp="1572349553841">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="17" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/sms/dto/PhoneWithQq007.java" timestamp="1571383974088">
         <mark key="[" line="4" column="0" />
@@ -1384,8 +1391,8 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>public</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBwaG9uZTsK</text>
       </register>
       <register name="-" type="4">
         <text>public</text>
@@ -1394,7 +1401,7 @@
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFQUF9LRVkgPSAiREs0UE1XZTRUWjlTRU9Wb0prVjRnbXM4eVVmNTUzRnUiOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBwaG9uZTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0Lm9rKAo=</text>

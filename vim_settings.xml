@@ -779,11 +779,11 @@
         <mark key="^" line="18" column="42" />
         <mark key="." line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/dingding/DingdingClient.java" timestamp="1572340824548">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="7" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/dingding/DingdingClient.java" timestamp="1572345916407">
+        <mark key="[" line="21" column="7" />
+        <mark key="]" line="21" column="6" />
+        <mark key="." line="21" column="6" />
+        <mark key="^" line="21" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/repo/RobotFriendRepo.java" timestamp="1572251211607">
         <mark key="[" line="17" column="50" />
@@ -827,11 +827,11 @@
         <mark key="^" line="13" column="13" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/proxy/ProxyService.java" timestamp="1572267659180">
-        <mark key="[" line="54" column="108" />
-        <mark key="]" line="54" column="107" />
-        <mark key="^" line="54" column="107" />
-        <mark key="." line="54" column="107" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/proxy/ProxyService.java" timestamp="1572346151034">
+        <mark key="[" line="77" column="22" />
+        <mark key="]" line="77" column="40" />
+        <mark key="." line="77" column="40" />
+        <mark key="^" line="77" column="40" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/sms/SmsRecordService.java" timestamp="1572251386405">
         <mark key="[" line="22" column="17" />
@@ -1032,11 +1032,11 @@
         <mark key="^" line="24" column="39" />
         <mark key="." line="24" column="39" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/controller/ProxyController.java" timestamp="1572318387704">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="68" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/controller/ProxyController.java" timestamp="1572346097543">
+        <mark key="[" line="113" column="39" />
+        <mark key="]" line="113" column="38" />
+        <mark key="." line="113" column="38" />
+        <mark key="^" line="113" column="38" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/AdApplication.java" timestamp="1571383335364">
         <mark key="[" line="13" column="0" />
@@ -1221,12 +1221,6 @@
         <mark key="^" line="24" column="18" />
         <mark key="." line="24" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/controller/SpreadManageAdminController.java" timestamp="1572266340123">
-        <mark key="[" line="73" column="30" />
-        <mark key="]" line="73" column="29" />
-        <mark key="^" line="73" column="29" />
-        <mark key="." line="73" column="29" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/retrofit/checkserver/CheckRetrofitConfig.java" timestamp="1572080435609">
         <mark key="[" line="39" column="50" />
         <mark key="]" line="39" column="50" />
@@ -1390,10 +1384,10 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Y</text>
+        <text>addNewProxy</text>
       </register>
       <register name="-" type="4">
-        <text>Y</text>
+        <text>addNewProxy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -1401,8 +1395,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFQUF9LRVkgPSAiREs0UE1XZTRUWjlTRU9Wb0prVjRnbXM4eVVmNTUzRnUiOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">QERhdGEK</text>
+      <register name="1" type="4">
+        <text encoding="base64">cHVibGljIFVzZXJTZWVuQnlQcm94eSB2aWV3RGV0YWlsKFN0cmluZyB1dWlkLCBTdHJpbmcgdG9rZW4sIFN0cmluZyB1c2VyVXVpZCkgewogICAgICAgIFByb3h5RE8gcHJveHkgPSBnZXRQcm94eU9yTnVsbCh1dWlkLCB0b2tlbik7CiAgICAgICAgaWYgKHByb3h5ID09IG51bGwpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEJhZENyZWRlbnRpYWxzRXhjZXB0aW9uKCLmnKrnmbvlvZUiKTsKICAgICAgICB9CiAgICAgICAgVXNlckRPIHVzZXIgPSB1c2VyUmVwby5maW5kQnlVdWlkKHVzZXJVdWlkKS5vckVsc2VUaHJvdygoKSAtPiBuZXcgQWRSdW50aW1lRXhjZXB0aW9uKCLnlKjmiLfkuI3lrZjlnKgiLCBNeUVycm9yQ29kZUVudW0uTk9UQUxMT1dfUkVTT1VSQ0UpKTsKICAgICAgICBpZiAodXNlci5nZXRQcm94eQ==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1467,28 +1461,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBPYmplY3Qgdmlld0RldGFpbChTdHJpbmcgdXVpZCwgU3RyaW5nIHRva2VuLCBTdHJpbmcgdXNlclV1aWQpIHsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgic3RhdHVzIikgTGlzdDxTdHJpbmc+IHN0YXR1cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGFnZTxTcHJlYWRUYXNrRFRPPiByZXNQYWdlID0gdGFza3MubWFwKHRhc2sgLT4gewogICAgICAgICAgICAgICAgTGlzdDxMb25nPiB0YWdJZHMgPSBzcHJlYWRUYXNrVGFnUmVwby5maW5kQWxsQnlUYXNrSWQodGFzay5nZXRJZCgpKS5zdHJlYW0oKS5tYXAoU3ByZWFkVGFza1RhZ0RPOjpnZXRUYWdJZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICAgICAgICAgIExpc3Q8U3RyaW5nPiB0YWdzID0gc3ByZWFkVGFnUmVwby5maW5kQWxsQnlJZEluKHRhZ0lkcykuc3RyZWFtKCkubWFwKFNwcmVhZFRhZ0RPOjpnZXRUYWcpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gZ2VucmVhdGVTcHJlYWRUYXNrRFRPKHRhc2ssIHRhZ3MsIHNwcmVhZFRhc2tNYXRlcmlhbFJlcG8uZmluZEFsbEJ5VGFza0lkQW5kRW5hYmxlZCh0YXNrLmdldElkKCksIDEpLCBudWxsKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIHJldHVybiBRbXNQYWdlUmVzLm9mKHJlc1BhZ2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nPEludGVnZXI+IHRhc2tJZHMgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nPD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGFnZTxTcHJlYWRUYXNrRFRPPiByZXNQYWdlID0gdGFza3MubWFwKHRhc2sgLT4gewogICAgICAgICAgICAgICAgTGlzdDxMb25nPiB0YWdJZHMgPSBzcHJlYWRUYXNrVGFnUmVwby5maW5kQWxsQnlUYXNrSWQodGFzay5nZXRJZCgpKS5zdHJlYW0oKS5tYXAoU3ByZWFkVGFza1RhZ0RPOjpnZXRUYWdJZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICAgICAgICAgIExpc3Q8U3RyaW5nPiB0YWdzID0gc3ByZWFkVGFnUmVwby5maW5kQWxsQnlJZEluKHRhZ0lkcykuc3RyZWFtKCkubWFwKFNwcmVhZFRhZ0RPOjpnZXRUYWcpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gZ2VucmVhdGVTcHJlYWRUYXNrRFRPKHRhc2ssIHRhZ3MsIHNwcmVhZFRhc2tNYXRlcmlhbFJlcG8uZmluZEFsbEJ5VGFza0lkQW5kRW5hYmxlZCh0YXNrLmdldElkKCksIDEpLCBudWxsKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIHJldHVybiBRbXNQYWdlUmVzLm9mKHJlc1BhZ2UpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

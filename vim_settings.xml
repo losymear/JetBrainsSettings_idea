@@ -319,12 +319,12 @@
         <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/CouponAdminController.java" timestamp="1572432774676" />
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/controller/ProxyAdminController.java" timestamp="1572434418189">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/controller/ProxyAdminController.java" timestamp="1572504913257">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="67" column="57" />
-        <mark key="]" line="67" column="56" />
-        <mark key="^" line="67" column="56" />
-        <mark key="." line="67" column="56" />
+        <mark key="[" line="60" column="38" />
+        <mark key="]" line="60" column="37" />
+        <mark key="^" line="60" column="37" />
+        <mark key="." line="60" column="37" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/pom.xml" timestamp="1571887729564">
         <mark key="[" line="44" column="0" />
@@ -1368,11 +1368,12 @@
         <mark key="." line="1" column="48" />
         <mark key="^" line="1" column="48" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/pom.xml" timestamp="1571896027730">
-        <mark key="[" line="81" column="26" />
-        <mark key="]" line="81" column="25" />
-        <mark key="." line="81" column="25" />
-        <mark key="^" line="81" column="25" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/pom.xml" timestamp="1572504903169">
+        <mark key="'" line="1" column="70" />
+        <mark key="[" line="88" column="21" />
+        <mark key="]" line="98" column="22" />
+        <mark key="." line="98" column="22" />
+        <mark key="^" line="98" column="22" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoCorpMianijingRepo.java" timestamp="1570877457555">
         <mark key="[" line="17" column="0" />
@@ -1395,7 +1396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="44" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/resources/core-prod.properties" />
       <jump line="50" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/sms/LoginSmsService.java" />
       <jump line="42" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/encryt/MiniappEncryptService.java" />
       <jump line="58" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/SpreadTaskController.java" />
@@ -1495,6 +1495,7 @@
       <jump line="20" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/CommonService.java" />
       <jump line="54" column="47" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/CommonService.java" />
       <jump line="22" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/CommonService.java" />
+      <jump line="1" column="70" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">

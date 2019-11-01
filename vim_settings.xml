@@ -490,6 +490,12 @@
         <mark key="^" line="30" column="94" />
         <mark key="." line="30" column="94" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/spread/SpreadTaskRepo.java" timestamp="1572575159421">
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="35" column="7" />
+        <mark key="." line="35" column="7" />
+        <mark key="^" line="35" column="7" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/sms/Tx007Service.java" timestamp="1572254954397">
         <mark key="[" line="84" column="43" />
         <mark key="]" line="84" column="42" />
@@ -1032,12 +1038,12 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/spread/SpreadManageAdminService.java" timestamp="1572440021347">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/spread/SpreadManageAdminService.java" timestamp="1572575206445">
         <mark key="'" line="43" column="37" />
-        <mark key="[" line="259" column="13" />
-        <mark key="]" line="259" column="12" />
-        <mark key="^" line="259" column="12" />
-        <mark key="." line="259" column="12" />
+        <mark key="[" line="80" column="22" />
+        <mark key="]" line="80" column="21" />
+        <mark key="." line="80" column="21" />
+        <mark key="^" line="80" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/dingding/dto/DingRes.java" timestamp="1571647269896">
         <mark key="[" line="16" column="1" />
@@ -1338,12 +1344,12 @@
         <mark key="^" line="24" column="18" />
         <mark key="." line="24" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/controller/SpreadManageAdminController.java" timestamp="1572428959443">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/controller/SpreadManageAdminController.java" timestamp="1572575227316">
         <mark key="'" line="93" column="6" />
-        <mark key="[" line="93" column="7" />
-        <mark key="]" line="93" column="6" />
-        <mark key="." line="93" column="6" />
-        <mark key="^" line="93" column="6" />
+        <mark key="[" line="101" column="22" />
+        <mark key="]" line="101" column="21" />
+        <mark key="." line="101" column="21" />
+        <mark key="^" line="101" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/retrofit/checkserver/CheckRetrofitConfig.java" timestamp="1572080435609">
         <mark key="[" line="39" column="50" />
@@ -1520,20 +1526,20 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzLnNldFByb3h5SW5mbyhwcm94eVJlcG8uZmluZEJ5SWQoYm9udXMuZ2V0UHJveHlJZCgpKS5vckVsc2VUaHJvdygoKSAtPiBuZXcgQWRSdW50aW1lRXhjZXB0aW9uKCLku6PnkIbkuI3lrZjlnKgiLCBNeUVycm9yQ29kZUVudW0uTk9URVhJU1RfUkVTT1VSQ0UpKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>QmsPageRes</text>
       </register>
       <register name="-" type="4">
-        <text>yonjin</text>
+        <text>QmsPageRes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByb3RlY3RlZCBQcm94eVlvbmdqaW5SZXBvIHByb3h5WW9uZ2ppblJlcG87Cg==</text>
+        <text encoding="base64">ICAgIFBhZ2U8U3ByZWFkVGFza0RPPiBmaW5kQWxsQnlTdGF0dXNJbihMaXN0PFNwcmVhZFRhc2tETy5UYXNrU3RhdHVzPiBzdGF0dXNlcywgUGFnZWFibGUgcGFnZWFibGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzLnNldFByb3h5SW5mbyhwcm94eVJlcG8uZmluZEJ5SWQoYm9udXMuZ2V0UHJveHlJZCgpKS5vckVsc2VUaHJvdygoKSAtPiBuZXcgQWRSdW50aW1lRXhjZXB0aW9uKCLku6PnkIbkuI3lrZjlnKgiLCBNeUVycm9yQ29kZUVudW0uTk9URVhJU1RfUkVTT1VSQ0UpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUW1zUGFnZVJlcy5vZihyZXNQYWdlKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1598,28 +1604,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzLih5b25qaW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXNQYWdlcmVzQWxsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzLnNldFByb3h5SW5mbyhwcm94eVJlcG8uZmluZEJ5SWQoYm9udXMuZ2V0UHJveHlJZCgpKS5vckVsc2VUaHJvdygoKSAtPiBuZXcgQWRSdW50aW1lRXhjZXB0aW9uKCLku6PnkIbkuI3lrZjlnKgiLCBNeUVycm9yQ29kZUVudW0uTk9URVhJU1RfUkVTT1VSQ0UpKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgQWRSdW50aW1lRXhjZXB0aW9uKCLmnKrlrp7njrAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzLih5b25qaW4pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExvbmcgcmVjb3JkSWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgQWRSdW50aW1lRXhjZXB0aW9uKCLmnKrlrp7njrAiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExvbmcgcmVjb3JkSWQ7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgQWRSdW50aW1lRXhjZXB0aW9uKCLmnKrlrp7njrAiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

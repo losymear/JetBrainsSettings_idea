@@ -264,9 +264,6 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/WyTestController.java" timestamp="1572935885395">
-        <mark key="[" line="141" column="3" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoXiaozhaoFollowRepo.java" timestamp="1570623776072">
         <mark key="[" line="26" column="90" />
         <mark key="]" line="25" column="89" />
@@ -537,9 +534,6 @@
         <mark key="]" line="23" column="36" />
         <mark key="." line="23" column="36" />
         <mark key="^" line="23" column="36" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/summary/SummaryController.java" timestamp="1572936341759">
-        <mark key="[" line="35" column="56" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/dto/miniapp/HaoMiniappConfig.java" timestamp="1571468455102">
         <mark key="[" line="92" column="43" />
@@ -971,8 +965,8 @@
         <mark key="^" line="17" column="38" />
         <mark key="." line="17" column="38" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadTaskMaterialDO.java" timestamp="1572676818664">
-        <mark key="[" line="37" column="4" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadTaskMaterialDO.java" timestamp="1572957810184">
+        <mark key="[" line="67" column="13" />
         <mark key="]" line="37" column="4" />
         <mark key="." line="37" column="4" />
         <mark key="^" line="37" column="6" />
@@ -1059,10 +1053,10 @@
         <mark key="^" line="16" column="41" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/spread/SpreadTaskServiceTest.java" timestamp="1572954256731">
-        <mark key="[" line="57" column="54" />
-        <mark key="]" line="57" column="45" />
-        <mark key="^" line="57" column="45" />
-        <mark key="." line="57" column="45" />
+        <mark key="[" line="40" column="54" />
+        <mark key="]" line="40" column="45" />
+        <mark key="^" line="40" column="45" />
+        <mark key="." line="40" column="45" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoXuanjiangItemRepo.java" timestamp="1570848928304">
         <mark key="[" line="16" column="94" />
@@ -1081,9 +1075,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/target/generated-sources/java/com/zhiri/ad/domain/QDoubleCardDO.java" timestamp="1572868684289">
-        <mark key="[" line="17" column="61" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/resources/jdbc-prod.properties" timestamp="1569576451913">
         <mark key="[" line="0" column="1" />
@@ -1139,6 +1130,12 @@
         <mark key="]" line="7" column="24" />
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/spread/SpreadManageAdminService.java" timestamp="1572958115362">
+        <mark key="[" line="278" column="18" />
+        <mark key="]" line="278" column="17" />
+        <mark key="^" line="278" column="17" />
+        <mark key="." line="278" column="17" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/dingding/dto/DingRes.java" timestamp="1571647269896">
         <mark key="[" line="16" column="1" />
@@ -1332,12 +1329,6 @@
         <mark key="]" line="21" column="12" />
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanManage.java" timestamp="1572954122063">
-        <mark key="[" line="92" column="8" />
-        <mark key="]" line="92" column="7" />
-        <mark key="." line="92" column="7" />
-        <mark key="^" line="92" column="7" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/user/UserTagRepo.java" timestamp="1571811986678">
         <mark key="[" line="20" column="44" />
@@ -1675,19 +1666,19 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgdHJhbnNmb3JtVGV4dChTdHJpbmcgb3JnaW5hbFRleHQsIFN0cmluZyBwaG9uZSwgTG9uZyB1c2VySWQpIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getContent</text>
+        <text>getLinkDesc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgdHJhbnNmb3JtVGV4dChTdHJpbmcgb3JnaW5hbFRleHQsIFN0cmluZyBwaG9uZSwgTG9uZyB1c2VySWQsIExvbmcgbWF0ZXJpYWxJZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBPYmplY3RzLmVxdWFscyhtYXRlcmlhbC5nZXRMaW5rRGVzYygpLCBwYXlsb2FkLmdldExpbmtEZXNjKCkpICYmCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgdHJhbnNmb3JtVGV4dChTdHJpbmcgb3JnaW5hbFRleHQsIFN0cmluZyBwaG9uZSwgTG9uZyB1c2VySWQpIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1752,28 +1743,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJlY29yZC5zZXRDb21tZW50KG1hdGVyaWFsLmdldENvbW1lbnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJlY29yZC5zZXRDb250ZW50KG1hdGVyaWFsLmdldENvbnRlbnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VySQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgQWRSdW50aW1lRXhjZXB0aW9uKCLntKDmnZDlt7LooqvnlKjmiLfkuIvovb3vvIzkuI3lj6/lho3mm7TmlLkiLCBNeUVycm9yQ29kZUVudW0uTk9UQUxMT1dfUkVTT1VSQ0UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyRE8gdXNlciB1cwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgdHJhbnNmb3JtVGV4dChTdHJpbmcgb3JnaW5hbFRleHQsIFN0cmluZyBwaG9uZSwgTG9uZyB1c2VySWQpIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyRE8gdXNlciB1cwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHJlY29yZC5zZXRDb21tZW50KG1hdGVyaWFsLmdldENvbW1lbnQoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VySQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHJlY29yZC5zZXRDb250ZW50KG1hdGVyaWFsLmdldENvbnRlbnQoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyRE8gdXNlciB1cwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VySQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIGlkID0gcHJveHlSZXBvLmZpbmRCeVV1aWQodXVpZCkubWFwKFByb3h5RE86OmdldElkKS5vckVsc2UobnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBVc2VyRE8gdXNlciB1cwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

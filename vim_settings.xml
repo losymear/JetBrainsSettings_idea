@@ -23,11 +23,11 @@
         <mark key="^" line="4" column="39" />
         <mark key="." line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/config/security/AdAuthenticationFilter.java" timestamp="1572935783731">
-        <mark key="[" line="134" column="34" />
-        <mark key="]" line="134" column="33" />
-        <mark key="^" line="134" column="33" />
-        <mark key="." line="134" column="33" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/config/security/AdAuthenticationFilter.java" timestamp="1572947252155">
+        <mark key="[" line="131" column="29" />
+        <mark key="]" line="131" column="35" />
+        <mark key="^" line="131" column="35" />
+        <mark key="." line="131" column="35" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/resources/core.properties" timestamp="1571311145560">
         <mark key="[" line="71" column="1" />
@@ -1327,13 +1327,6 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanManage.java" timestamp="1572942003409">
-        <mark key="'" line="34" column="25" />
-        <mark key="[" line="84" column="55" />
-        <mark key="]" line="84" column="54" />
-        <mark key="." line="84" column="54" />
-        <mark key="^" line="84" column="54" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/user/UserTagRepo.java" timestamp="1571811986678">
         <mark key="[" line="20" column="44" />
         <mark key="]" line="21" column="49" />
@@ -1351,13 +1344,6 @@
         <mark key="]" line="88" column="59" />
         <mark key="^" line="88" column="59" />
         <mark key="." line="88" column="59" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/CommonService.java" timestamp="1572942788240">
-        <mark key="'" line="121" column="23" />
-        <mark key="[" line="132" column="92" />
-        <mark key="]" line="132" column="91" />
-        <mark key="." line="132" column="91" />
-        <mark key="^" line="132" column="91" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/sms/YunpianSmsService.java" timestamp="1572251397817">
         <mark key="[" line="33" column="14" />
@@ -1676,17 +1662,17 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgc2F2ZVlvdXphblRyYW5zVXJsKCkgewoKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>proxy</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>proxy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgdHJhbnNmb3JtVGV4dChTdHJpbmcgb3JnaW5hbFRleHQsIFN0cmluZyBwaG9uZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiYWQvdXNlci9wcm94eSIsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgc2F2ZVlvdXphblRyYW5zVXJsKCkgewoKICAgIH0K</text>

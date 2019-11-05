@@ -376,17 +376,17 @@
         <mark key="." line="3" column="48" />
         <mark key="^" line="3" column="48" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/checkSql.sh" timestamp="1572867227466">
-        <mark key="[" line="0" column="63" />
-        <mark key="]" line="0" column="62" />
-        <mark key="^" line="0" column="62" />
-        <mark key="." line="0" column="62" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/checkSql.sh" timestamp="1572921639761">
+        <mark key="[" line="0" column="75" />
+        <mark key="]" line="0" column="74" />
+        <mark key="^" line="0" column="74" />
+        <mark key="." line="0" column="74" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" timestamp="1572858805660">
-        <mark key="[" line="348" column="5" />
-        <mark key="]" line="348" column="4" />
-        <mark key="^" line="348" column="4" />
-        <mark key="." line="348" column="4" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" timestamp="1572920589449">
+        <mark key="[" line="183" column="67" />
+        <mark key="]" line="183" column="66" />
+        <mark key="^" line="183" column="66" />
+        <mark key="." line="183" column="66" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/deploy/create_vv_01.06_xfc.sql" timestamp="1572846299660">
         <mark key="[" line="0" column="0" />
@@ -1543,11 +1543,11 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByb3RlY3RlZCBEYXRhRGFpbHlSZXBvIGRhdGFEYWlseVJlcG87Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Must be root to run script</text>
       </register>
       <register name="-" type="4">
-        <text>message</text>
+        <text>Must be root to run script</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>

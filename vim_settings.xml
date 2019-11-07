@@ -1169,12 +1169,12 @@
         <mark key="^" line="29" column="50" />
         <mark key="." line="29" column="50" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/youzan/YouzanClientTest.java" timestamp="1573007673152">
-        <mark key="'" line="94" column="36" />
-        <mark key="[" line="87" column="24" />
-        <mark key="]" line="87" column="29" />
-        <mark key="^" line="87" column="29" />
-        <mark key="." line="87" column="29" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/youzan/YouzanClientTest.java" timestamp="1573099290619">
+        <mark key="'" line="104" column="95" />
+        <mark key="[" line="104" column="127" />
+        <mark key="]" line="104" column="126" />
+        <mark key="." line="104" column="126" />
+        <mark key="^" line="104" column="126" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/sms/dto/PhoneWithQq007.java" timestamp="1571383974088">
         <mark key="[" line="4" column="0" />
@@ -1388,11 +1388,12 @@
         <mark key="^" line="103" column="104" />
         <mark key="." line="103" column="104" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanClient.java" timestamp="1573095843127">
-        <mark key="[" line="332" column="84" />
-        <mark key="]" line="332" column="96" />
-        <mark key="^" line="332" column="96" />
-        <mark key="." line="332" column="96" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanClient.java" timestamp="1573098897250">
+        <mark key="'" line="347" column="17" />
+        <mark key="[" line="390" column="47" />
+        <mark key="]" line="390" column="46" />
+        <mark key="." line="390" column="46" />
+        <mark key="^" line="390" column="46" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoXuanjiangSchoolRepo.java" timestamp="1569741222555">
         <mark key="[" line="21" column="0" />
@@ -1605,13 +1606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="27" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/yunzhanghu/client/YunzhanghuApi.java" />
-      <jump line="29" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/yunzhanghu/YunzhanghuUtilTest.java" />
-      <jump line="23" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/yunzhanghu/client/YunzhanghuClient.java" />
-      <jump line="54" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/yunzhanghu/client/YunzhanghuClient.java" />
-      <jump line="55" column="53" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/yunzhanghu/client/YunzhanghuClient.java" />
-      <jump line="68" column="48" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/yunzhanghu/YunzhanghuUtil.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/yunzhanghu/YunzhanghuUtilTest.java" />
       <jump line="30" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/yunzhanghu/client/YunzhanghuClient.java" />
       <jump line="66" column="42" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/yunzhanghu/client/YunzhanghuClient.java" />
       <jump line="25" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/common/yunzhanghu/client/YunzhanghuClientTest.java" />
@@ -1705,25 +1699,32 @@
       <jump line="47" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/common/CommonController.java" />
       <jump line="186" column="36" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/common/CommonController.java" />
       <jump line="50" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/common/CommonController.java" />
+      <jump line="74" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanClient.java" />
+      <jump line="313" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanClient.java" />
+      <jump line="44" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/youzan/YouzanClientTest.java" />
+      <jump line="105" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/youzan/YouzanClientTest.java" />
+      <jump line="24" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/youzan/YouzanClientTest.java" />
+      <jump line="347" column="17" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanClient.java" />
+      <jump line="104" column="95" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/youzan/YouzanClientTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAhT2JqZWN0cy5lcXVhbHMobWF0ZXJpYWwuZ2V0UmVnaXN0ZXJlZCgpLCBwYXlsb2FkLmdldFJlZ2lzdGVyZWQoKSkgfHwK</text>
+      <register name="&quot;" type="4">
+        <text>E20191106082759097000001</text>
       </register>
       <register name="-" type="4">
-        <text>setRegisterStatus</text>
+        <text>E20191106082759097000001</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF5bG9hZC5zZXRSZWdpc3RlclN0YXR1cyhtYXRlcmlhbC5nZXRSZWdpc3RlclN0YXR1cygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygi5pWw6YePe30iLGRhdGEuZ2V0VHJhZGVzKCkuZ2V0KDApLmdldE9yZGVyTm8oKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAhT2JqZWN0cy5lcXVhbHMobWF0ZXJpYWwuZ2V0UmVnaXN0ZXJlZCgpLCBwYXlsb2FkLmdldFJlZ2lzdGVyZWQoKSkgfHwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBBZFJ1bnRpbWVFeGNlcHRpb24oU3RyaW5nLmZvcm1hdCgi6I635Y+W5ZWG5ZOB5YiX6KGo5aSx6LSlICAlcyIsIHJlc3VsdC5nZXRNZXNzYWdlKCkpKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1788,28 +1789,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICFPYmplY3RzLmVxdWFscyhtYXRlcmlhbC5nZXRMb2NrZWQoKSwgcGF5bG9hZC5nZXRMb2NrZWQoKSkgfHwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdG51Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmVhblV0aWxzLmNvcHlQcm9wZXJ0aWVzKHBheWxvYWQsICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcGlQYXJhbXMuc2V0TW9iaWxlKHBob25lKTsKICAgICAgICBhcGlQYXJhbXMuc2V0U3RhcnRUaW1lKHN0YXJ0VGltZSk7CiAgICAgICAgYXBpUGFyYW1zLnNldEVuZFRpbWUoZW5kVGltZSk7CiAgICAgICAgYXBpUGFyYW1zLnNldFBhZ2VObyhwYWdlKTsKICAgICAgICBhcGlQYXJhbXMuc2V0UGFnZVNpemUoMTAwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygi5pWw6YePe30iLCBkYXRhLmdldFRyYWRlcygpLmdldCgwKS5nZXRPcmRlck5vKCkpOwogICAgICAgIGxvZy5pbmZvKCLmlbDph497fSIsIGRhdGEuZ2V0VHJhZGVzKCkuZ2V0KDApLmdldEl0ZW1zKCkpOwogICAgICAgIGxvZy5pbmZvKG9iamVjdE1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcoZGF0YS5nZXRUcmFkZXMoKS5nZXQoMCkuZ2V0SXRlbXMoKSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExvbmcgY291bnREaXN0aW5jdElwQnlVdWlkSW4oTGlzdDxTdHJpbmc+IHV1aWRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAhT2JqZWN0cy5lcXVhbHMobWF0ZXJpYWwuZ2V0UmVnaXN0ZXJlZCgpLCBwYXlsb2FkLmdldFJlZ2lzdGVyZWQoKSkgfHwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3ByaW5nLnNob3ctc3FsPXRydWUK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICFPYmplY3RzLmVxdWFscyhtYXRlcmlhbC5nZXRMb2NrZWQoKSwgcGF5bG9hZC5nZXRMb2NrZWQoKSkgfHwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3ByaW5nLnNob3ctc3FsPXRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmVhblV0aWxzLmNvcHlQcm9wZXJ0aWVzKHBheWxvYWQsICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

@@ -1390,11 +1390,11 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanManage.java" timestamp="1573181772562">
-        <mark key="[" line="119" column="7" />
-        <mark key="]" line="119" column="6" />
-        <mark key="^" line="119" column="6" />
-        <mark key="." line="119" column="6" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanManage.java" timestamp="1573184178063">
+        <mark key="[" line="168" column="43" />
+        <mark key="]" line="168" column="42" />
+        <mark key="^" line="168" column="42" />
+        <mark key="." line="168" column="42" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/user/UserTagRepo.java" timestamp="1571811986678">
         <mark key="[" line="20" column="44" />
@@ -1427,12 +1427,12 @@
         <mark key="^" line="103" column="104" />
         <mark key="." line="103" column="104" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanClient.java" timestamp="1573112648457">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanClient.java" timestamp="1573183690856">
         <mark key="'" line="383" column="0" />
-        <mark key="[" line="383" column="0" />
-        <mark key="]" line="370" column="56" />
-        <mark key="^" line="370" column="56" />
-        <mark key="." line="370" column="56" />
+        <mark key="[" line="346" column="24" />
+        <mark key="]" line="346" column="3" />
+        <mark key="^" line="346" column="3" />
+        <mark key="." line="346" column="3" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoXuanjiangSchoolRepo.java" timestamp="1569741222555">
         <mark key="[" line="21" column="0" />
@@ -1759,19 +1759,19 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL3ZlcmlmeS9jYWxsYmFjayIpCiAgICBAQXBpT3BlcmF0aW9uKCLoh6rliqjlrqHmoLjnu5Pmnpzlm57osIMiKQogICAgcHVibGljIFJlc3VsdDxWb2lkPiB2ZXJpZnlDYWxsYmFjaygKICAgICAgICAgICAgQFJlcXVlc3RCb2R5IFZlcmlmeVRhc2tSZXMgdmVyaWZ5VGFza1JlcwogICAgKSB7CiAgICAgICAgc3ByZWFkTWFuYWdlLuWkhOeQhuWuoeaguOWbnuiwgyh2ZXJpZnlUYXNrUmVzKTsKICAgICAgICByZXR1cm4gUmVzdWx0Lm9rKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5lcnJvcigi6L2s5YyWdXJs5Ye66ZSZe30iLCBvcmdpbmFsVGV4dCwgZSk7CiAgICAgICAgICAgICAgICByZXR1cm4gb3JnaW5hbFRleHQ7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>countByUserIdAndNumIdIn</text>
+        <text>realOriginalUrl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExpc3Q8VXNlckRPPiBmaW5kQnlTdGF0dXNBbmRSb2JvdEFkZGVkQW5kSWROb3RJbihVc2VyRE8uU3RhdHVzIHN0YXR1cywgSW50ZWdlciByb2JvdEFkZGVkLCBJdGVyYWJsZTxMb25nPiB1c2VySWRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5lcnJvcigi6L2s5YyWdXJs5Ye66ZSZe30iLCBvcmdpbmFsVGV4dCwgZSk7CiAgICAgICAgICAgICAgICByZXR1cm4gb3JnaW5hbFRleHQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL3ZlcmlmeS9jYWxsYmFjayIpCiAgICBAQXBpT3BlcmF0aW9uKCLoh6rliqjlrqHmoLjnu5Pmnpzlm57osIMiKQogICAgcHVibGljIFJlc3VsdDxWb2lkPiB2ZXJpZnlDYWxsYmFjaygKICAgICAgICAgICAgQFJlcXVlc3RCb2R5IFZlcmlmeVRhc2tSZXMgdmVyaWZ5VGFza1JlcwogICAgKSB7CiAgICAgICAgc3ByZWFkTWFuYWdlLuWkhOeQhuWuoeaguOWbnuiwgyh2ZXJpZnlUYXNrUmVzKTsKICAgICAgICByZXR1cm4gUmVzdWx0Lm9rKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAqIOeUn+aIkOaciei1nuWIhumUgHVybOWvueW6lOeahOefremTvu+8jOi/lOWbnuiHquWumuS5iemTvuaOpQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1836,16 +1836,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExpc3Q8U3ByZWFkVGFza01hdGVyaWFsRE8+IGZpbmRCeUxpbmtMaWtlKFN0cmluZyBwYXRoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL3ZlcmlmeS9jYWxsYmFjayIpCiAgICBAQXBpT3BlcmF0aW9uKCLoh6rliqjlrqHmoLjnu5Pmnpzlm57osIMiKQogICAgcHVibGljIFJlc3VsdDxWb2lkPiB2ZXJpZnlDYWxsYmFjaygKICAgICAgICAgICAgQFJlcXVlc3RCb2R5IFZlcmlmeVRhc2tSZXMgdmVyaWZ5VGFza1JlcwogICAgKSB7CiAgICAgICAgc3ByZWFkTWFuYWdlLuWkhOeQhuWuoeaguOWbnuiwgyh2ZXJpZnlUYXNrUmVzKTsKICAgICAgICByZXR1cm4gUmVzdWx0Lm9rKCk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFVzZXJETz4gZmluZEJ5U3RhdHVzQW5kUm9ib3RBZGRlZEFuZElkTm90SW4gKFVzZXJETy5TdGF0dXMgc3RhdHVzLCBJbnRlZ2VyCiAgICAgICAgcm9ib3RBZGRlZCwgSXRlcmFibGUgPCBMb25nID4gdXNlcklkcyk7Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8U3ByZWFkVGFza01hdGVyaWFsRE8+IGZpbmRCeUxpbmtMaWtlKFN0cmluZyBwYXRoKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1854,7 +1854,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFVzZXJETz4gZmluZEJ5U3RhdHVzQW5kUm9ib3RBZGRlZEFuZElkTm90SW4gKFVzZXJETy5TdGF0dXMgc3RhdHVzLCBJbnRlZ2VyCiAgICAgICAgcm9ib3RBZGRlZCwgSXRlcmFibGUgPCBMb25nID4gdXNlcklkcyk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

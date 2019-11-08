@@ -1156,6 +1156,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="68" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/SpreadTaskTextService.java" timestamp="1573192590301">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="32" />
+        <mark key="^" line="20" column="32" />
+        <mark key="." line="20" column="32" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoCorpMianijingDO.java" timestamp="1570887749061">
         <mark key="[" line="28" column="22" />
         <mark key="]" line="19" column="11" />
@@ -1390,9 +1396,10 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanManage.java" timestamp="1573185071269">
-        <mark key="[" line="150" column="13" />
-        <mark key="]" line="150" column="12" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanManage.java" timestamp="1573192421992">
+        <mark key="'" line="150" column="12" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="35" column="7" />
         <mark key="^" line="150" column="12" />
         <mark key="." line="150" column="12" />
       </file>
@@ -1653,7 +1660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="3" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/CommonService.java" />
       <jump line="21" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/CommonService.java" />
       <jump line="51" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/CommonService.java" />
       <jump line="73" column="34" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/BaseService.java" />
@@ -1753,13 +1759,14 @@
       <jump line="223" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanManage.java" />
       <jump line="122" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/youzan/YouzanClientTest.java" />
       <jump line="132" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/youzan/YouzanClientTest.java" />
+      <jump line="150" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanManage.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5lcnJvcigi6L2s5YyWdXJs5Ye66ZSZe30iLCBvcmdpbmFsVGV4dCwgZSk7CiAgICAgICAgICAgICAgICByZXR1cm4gb3JnaW5hbFRleHQ7Cg==</text>
+        <text encoding="base64">QFNlcnZpY2UKQFRyYW5zYWN0aW9uYWwocm9sbGJhY2tGb3IgPSBFeGNlcHRpb24uY2xhc3MpCkBMb2c0ajIK</text>
       </register>
       <register name="-" type="4">
         <text>realOriginalUrl</text>
@@ -1768,7 +1775,7 @@
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5lcnJvcigi6L2s5YyWdXJs5Ye66ZSZe30iLCBvcmdpbmFsVGV4dCwgZSk7CiAgICAgICAgICAgICAgICByZXR1cm4gb3JnaW5hbFRleHQ7Cg==</text>
+        <text encoding="base64">QFNlcnZpY2UKQFRyYW5zYWN0aW9uYWwocm9sbGJhY2tGb3IgPSBFeGNlcHRpb24uY2xhc3MpCkBMb2c0ajIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqIOeUn+aIkOaciei1nuWIhumUgHVybOWvueW6lOeahOefremTvu+8jOi/lOWbnuiHquWumuS5iemTvuaOpQo=</text>

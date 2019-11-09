@@ -128,13 +128,6 @@
         <mark key="^" line="112" column="45" />
         <mark key="." line="112" column="45" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/youzan/YouzanManageTest.java" timestamp="1573118882255">
-        <mark key="'" line="26" column="73" />
-        <mark key="[" line="25" column="70" />
-        <mark key="]" line="25" column="69" />
-        <mark key="." line="25" column="69" />
-        <mark key="^" line="25" column="69" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/retrofit/WechatMiniappPayApi.java" timestamp="1571311766931">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="8" column="26" />
@@ -164,6 +157,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/youzan/YouzanOrderRepo.java" timestamp="1573119522814">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/user/spread/SpreadManageAdminServiceTest.java" timestamp="1571821020054">
         <mark key="[" line="17" column="0" />
@@ -559,6 +555,9 @@
         <mark key="^" line="37" column="75" />
         <mark key="." line="37" column="75" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/spread/SpreadRecordRepo.java" timestamp="1573298938911">
+        <mark key="'" line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/sms/Tx007Service.java" timestamp="1572254954397">
         <mark key="[" line="84" column="43" />
         <mark key="]" line="84" column="42" />
@@ -583,6 +582,7 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
       </file>
+      <file name="/SpreadRecordRepo.java" timestamp="1573298934098" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/DoubleCardDO.java" timestamp="1572847708349">
         <mark key="[" line="23" column="1" />
         <mark key="]" line="20" column="23" />
@@ -830,6 +830,9 @@
         <mark key="^" line="15" column="139" />
         <mark key="." line="15" column="139" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/spread/SpreadTaskMaterialRepo.java" timestamp="1573196818720">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/configuration/WechatMiniappPayRetrofitConfig.java" timestamp="1571311287567">
         <mark key="[" line="22" column="2" />
         <mark key="]" line="68" column="62" />
@@ -1014,6 +1017,9 @@
         <mark key="^" line="161" column="42" />
         <mark key="." line="165" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/controller/CommonController.java" timestamp="1572937890099">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/toutiao/dto/ToutiaoXuanjiangItemDTO.java" timestamp="1569757267034">
         <mark key="[" line="15" column="24" />
         <mark key="]" line="17" column="1" />
@@ -1115,13 +1121,6 @@
         <mark key="]" line="9" column="64" />
         <mark key="^" line="9" column="64" />
         <mark key="." line="9" column="64" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_03.01_wy.sql" timestamp="1573116296155">
-        <mark key="'" line="4" column="42" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="16" column="31" />
-        <mark key="^" line="16" column="31" />
-        <mark key="." line="16" column="31" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/daemon/src/main/java/com/zhiri/ad/daemon/YouzanDaemon.java" timestamp="1573212659204">
         <mark key="[" line="78" column="25" />
@@ -1434,25 +1433,11 @@
         <mark key="^" line="103" column="104" />
         <mark key="." line="103" column="104" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanClient.java" timestamp="1573183690856">
-        <mark key="'" line="383" column="0" />
-        <mark key="[" line="346" column="24" />
-        <mark key="]" line="346" column="3" />
-        <mark key="^" line="346" column="3" />
-        <mark key="." line="346" column="3" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoXuanjiangSchoolRepo.java" timestamp="1569741222555">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="64" />
         <mark key="^" line="24" column="32" />
         <mark key="." line="24" column="32" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/ServiceTest.java" timestamp="1573270219262">
-        <mark key="'" line="54" column="40" />
-        <mark key="[" line="77" column="87" />
-        <mark key="]" line="77" column="86" />
-        <mark key="." line="77" column="86" />
-        <mark key="^" line="77" column="86" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/sms/SmsRecordDO.java" timestamp="1571382918973">
         <mark key="[" line="23" column="19" />
@@ -1477,13 +1462,6 @@
         <mark key="]" line="18" column="143" />
         <mark key="." line="18" column="143" />
         <mark key="^" line="18" column="143" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/shorturl/ShortUrlMapDO.java" timestamp="1573028384554">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-        <mark key="^" line="9" column="3" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/qiniu/QiniuPrivateUrlSerializer.java" timestamp="1571477242858">
         <mark key="[" line="60" column="0" />
@@ -1657,7 +1635,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/daemon/src/main/java/com/zhiri/ad/daemon/PackageCheckDaemon.java" />
       <jump line="38" column="3" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/daemon/src/main/java/com/zhiri/ad/daemon/PackageCheckDaemon.java" />
       <jump line="19" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanManage.java" />
       <jump line="13" column="2" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanManage.java" />
@@ -1757,6 +1734,7 @@
       <jump line="0" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanManage.java" />
       <jump line="52" column="40" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/ServiceTest.java" />
       <jump line="46" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/CommonService.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/spread/SpreadRecordRepo.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

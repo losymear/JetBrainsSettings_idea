@@ -544,12 +544,12 @@
         <mark key="^" line="37" column="75" />
         <mark key="." line="37" column="75" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/spread/SpreadRecordRepo.java" timestamp="1573285392753">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/spread/SpreadRecordRepo.java" timestamp="1573288916714">
         <mark key="'" line="22" column="25" />
-        <mark key="[" line="57" column="53" />
-        <mark key="]" line="57" column="52" />
-        <mark key="." line="57" column="52" />
-        <mark key="^" line="57" column="52" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="56" column="52" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/sms/Tx007Service.java" timestamp="1572254954397">
         <mark key="[" line="84" column="43" />
@@ -1382,11 +1382,11 @@
         <mark key="^" line="14" column="2" />
         <mark key="." line="14" column="2" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/service/MaterialEffectAdminService.java" timestamp="1573285725484">
-        <mark key="[" line="51" column="14" />
-        <mark key="]" line="51" column="13" />
-        <mark key="." line="51" column="13" />
-        <mark key="^" line="51" column="13" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/service/MaterialEffectAdminService.java" timestamp="1573288844593">
+        <mark key="[" line="48" column="7" />
+        <mark key="]" line="48" column="6" />
+        <mark key="." line="48" column="6" />
+        <mark key="^" line="48" column="6" />
       </file>
       <file name="/SpreadTaskService.java" timestamp="1573124835152" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/proxy/ProxyDO.java" timestamp="1572433947244">
@@ -1417,12 +1417,11 @@
         <mark key="^" line="88" column="59" />
         <mark key="." line="88" column="59" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/CommonService.java" timestamp="1573286804752">
-        <mark key="'" line="46" column="10" />
-        <mark key="[" line="183" column="27" />
-        <mark key="]" line="183" column="26" />
-        <mark key="^" line="183" column="26" />
-        <mark key="." line="183" column="26" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/CommonService.java" timestamp="1573288577184">
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="174" column="1" />
+        <mark key="^" line="174" column="1" />
+        <mark key="." line="174" column="1" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/sms/YunpianSmsService.java" timestamp="1572251397817">
         <mark key="[" line="33" column="14" />
@@ -1752,8 +1751,8 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>recordDO.getLink()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIE9wdGlvbmFsPFNwcmVhZFJlY29yZERPPiBmaW5kQnlVc2VySWRBbmRNYXRlcmlhbElkKExvbmcgdXNlcklkLCBMb25nIG1hdGVyaWFsSWQpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>recordDO.getLink()</text>
@@ -1765,7 +1764,7 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgcHJlZml4ID0gInByb2QiLmVxdWFscyhhY3RpdmUpID8gImh0dHBzOi8vYS4xN3Ftcy5jb20vYWQvY29tbW9uL2dlbmVyYWxTZXJ2aWNlL2p1bXAvIiA6ICJodHRwczovL2EuNjZodWlzaG91LmNvbS9hZC9jb21tb24vZ2VuZXJhbFNlcnZpY2UvanVtcC8iOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPFNwcmVhZFJlY29yZERPPiBmaW5kQnlVc2VySWRBbmRNYXRlcmlhbElkKExvbmcgdXNlcklkLCBMb25nIG1hdGVyaWFsSWQpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1836,22 +1835,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

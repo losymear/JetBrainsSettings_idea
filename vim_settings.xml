@@ -353,6 +353,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/CouponAdminController.java" timestamp="1573456989081" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/pom.xml" timestamp="1571887729564">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -1388,12 +1389,12 @@
         <mark key="^" line="103" column="104" />
         <mark key="." line="103" column="104" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/weixinpage/WeixinPageRenderClient.java" timestamp="1573456647456">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/weixinpage/WeixinPageRenderClient.java" timestamp="1573457227639">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="59" column="72" />
-        <mark key="]" line="59" column="71" />
-        <mark key="." line="59" column="71" />
-        <mark key="^" line="59" column="71" />
+        <mark key="[" line="59" column="71" />
+        <mark key="]" line="59" column="90" />
+        <mark key="." line="59" column="90" />
+        <mark key="^" line="59" column="90" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoXuanjiangSchoolRepo.java" timestamp="1569741222555">
         <mark key="[" line="21" column="0" />
@@ -1527,8 +1528,8 @@
         <mark key="^" line="97" column="82" />
         <mark key="." line="97" column="82" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/weixinpage/WeixinPageRenderApi.java" timestamp="1573456534545">
-        <mark key="[" line="29" column="28" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/weixinpage/WeixinPageRenderApi.java" timestamp="1573457210578">
+        <mark key="[" line="29" column="9" />
         <mark key="]" line="29" column="27" />
         <mark key="^" line="29" column="27" />
         <mark key="." line="29" column="27" />
@@ -1706,11 +1707,11 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBsaW5rSWNvbjsKICAgIFN0cmluZyBsaW5rUHJldmlldzsK</text>
+      <register name="&quot;" type="4">
+        <text>renderPdf</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>renderPdf</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>

@@ -1430,11 +1430,12 @@
         <mark key="^" line="140" column="31" />
         <mark key="." line="140" column="31" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanManage.java" timestamp="1573637580723">
-        <mark key="[" line="69" column="48" />
-        <mark key="]" line="69" column="47" />
-        <mark key="^" line="69" column="47" />
-        <mark key="." line="69" column="47" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanManage.java" timestamp="1573638285391">
+        <mark key="'" line="73" column="40" />
+        <mark key="[" line="296" column="1" />
+        <mark key="]" line="296" column="0" />
+        <mark key="^" line="296" column="0" />
+        <mark key="." line="296" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/user/UserTagRepo.java" timestamp="1571811986678">
         <mark key="[" line="20" column="44" />
@@ -1686,7 +1687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/CommonService.java" />
       <jump line="108" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/CommonService.java" />
       <jump line="145" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/common/CommonController.java" />
       <jump line="146" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/common/CommonController.java" />
@@ -1786,13 +1786,14 @@
       <jump line="541" column="37" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/UserService.java" />
       <jump line="269" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/user/UserController.java" />
       <jump line="84" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/ServiceTest.java" />
+      <jump line="73" column="40" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanManage.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpdmF0ZSBjbGFzcyBEYXRlVGltZVNlcmlhbGl6ZXIgaW1wbGVtZW50cyBKc29uU2VyaWFsaXplcjxEYXRlVGltZT4gewogICAgcHVibGljIEpzb25FbGVtZW50IHNlcmlhbGl6ZShEYXRlVGltZSBzcmMsIFR5cGUgdHlwZU9mU3JjLCBKc29uU2VyaWFsaXphdGlvbkNvbnRleHQgY29udGV4dCkgewogICAgICAgIHJldHVybiBuZXcgSnNvblByaW1pdGl2ZShzcmMudG9TdHJpbmcoKSk7CiAgICB9Cn0K</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -1804,7 +1805,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZGluZ01hbmFnZS5zZW5kTWVzc2FnZSgi6L2s5o2i55So5oi3IiArIHBob25lICsgIuS4uuWIhumUgOWRmOWHuumUmTsgIiArIGUuZ2V0TWVzc2FnZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">cHJpdmF0ZSBjbGFzcyBEYXRlVGltZVNlcmlhbGl6ZXIgaW1wbGVtZW50cyBKc29uU2VyaWFsaXplcjxEYXRlVGltZT4gewogICAgcHVibGljIEpzb25FbGVtZW50IHNlcmlhbGl6ZShEYXRlVGltZSBzcmMsIFR5cGUgdHlwZU9mU3JjLCBKc29uU2VyaWFsaXphdGlvbkNvbnRleHQgY29udGV4dCkgewogICAgICAgIHJldHVybiBuZXcgSnNvblByaW1pdGl2ZShzcmMudG9TdHJpbmcoKSk7CiAgICB9Cn0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1869,25 +1870,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHlvdXphbkNsaWVudC5hZGRTYWxlTWFuKHBob25lKTsKICAgICAgICAgICAgICAgIHVzZXJETy5zZXRJc1NhbGVNYW4oMSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdGVyaWFsLnNldExpbmtQcmV2aWV3KHBheWxvYWQuZ2V0TGlua1ByZXZpZXcoKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlcy5nZXREYXRhKCkuZ2V0KCJwaWNVcmwiKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHlvdXphbkNsaWVudC5hZGRTYWxlTWFuKHBob25lKTsKICAgICAgICAgICAgICAgIHVzZXJETy5zZXRJc1NhbGVNYW4oMSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdGVyaWFsLnNldExpbmtQcmV2aWV3KHBheWxvYWQuZ2V0TGlua1ByZXZpZXcoKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlcy5nZXREYXRhKCkuZ2V0KCJwaWNVcmwiKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF0ZXJpYWwgPSBzcHJlYWRUYXNrTWF0ZXJpYWxSZXBvLnNhdmUocGF5bG9hZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbWF0ZXJpYWwgPSBzcHJlYWRUYXNrTWF0ZXJpYWxSZXBvLnNhdmUocGF5bG9hZCk7Cg==</text>

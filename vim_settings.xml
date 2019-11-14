@@ -982,11 +982,11 @@
         <mark key="^" line="87" column="25" />
         <mark key="." line="87" column="25" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/user/UserDO.java" timestamp="1573712752094">
-        <mark key="[" line="96" column="23" />
-        <mark key="]" line="96" column="22" />
-        <mark key="^" line="96" column="22" />
-        <mark key="." line="96" column="22" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/user/UserDO.java" timestamp="1573714498494">
+        <mark key="[" line="92" column="15" />
+        <mark key="]" line="92" column="14" />
+        <mark key="^" line="92" column="14" />
+        <mark key="." line="92" column="14" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/qiniu/QiniuPrivateUrlSerializer.java" timestamp="1572850287796">
         <mark key="[" line="62" column="32" />
@@ -999,12 +999,6 @@
         <mark key="]" line="23" column="45" />
         <mark key="^" line="23" column="45" />
         <mark key="." line="23" column="45" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/service/ManageService.java" timestamp="1573700319153">
-        <mark key="[" line="141" column="49" />
-        <mark key="]" line="141" column="48" />
-        <mark key="^" line="141" column="48" />
-        <mark key="." line="141" column="48" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/dto/AiResumeDTO.java" timestamp="1573455694652">
         <mark key="[" line="12" column="0" />
@@ -1243,6 +1237,12 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/DoubleController.java" timestamp="1573714993635">
+        <mark key="[" line="67" column="19" />
+        <mark key="]" line="67" column="18" />
+        <mark key="^" line="67" column="18" />
+        <mark key="." line="67" column="18" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/dingding/dto/DingRes.java" timestamp="1571647269896">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="16" column="0" />
@@ -1452,6 +1452,12 @@
         <mark key="^" line="38" column="52" />
         <mark key="." line="38" column="52" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/dto/UserInfoDTO.java" timestamp="1573714437160">
+        <mark key="[" line="18" column="2" />
+        <mark key="]" line="18" column="1" />
+        <mark key="." line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/utils/PKCS7Encoder.java" timestamp="1571386146695">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="14" column="2" />
@@ -1507,13 +1513,6 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
         <mark key="^" line="73" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanClient.java" timestamp="1573635654419">
-        <mark key="t" line="91" column="49" />
-        <mark key="[" line="362" column="27" />
-        <mark key="]" line="177" column="54" />
-        <mark key="^" line="177" column="54" />
-        <mark key="." line="177" column="54" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoXuanjiangSchoolRepo.java" timestamp="1569741222555">
         <mark key="[" line="21" column="0" />
@@ -1827,10 +1826,10 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>friendNumber, friendNumber</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>friendNumber, friendNumber</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>

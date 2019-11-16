@@ -11,9 +11,6 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1573555995317">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/deploy/create_vv_0.92_wy.sql" timestamp="1573453640648">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="5" column="59" />
@@ -69,8 +66,11 @@
         <mark key="^" line="21" column="6" />
         <mark key="." line="21" column="6" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/deploy/create_vv_03.27_wy.sql" timestamp="1573885561585">
-        <mark key="[" line="0" column="1" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/deploy/create_vv_03.27_wy.sql" timestamp="1573887775132">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="7" column="57" />
+        <mark key="^" line="7" column="57" />
+        <mark key="." line="7" column="57" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/config/RepoConfiguration.java" timestamp="1571473586072">
         <mark key="[" line="11" column="67" />
@@ -307,9 +307,6 @@
         <mark key="^" line="16" column="32" />
         <mark key="." line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/AiResumeClient.java" timestamp="1573456236533">
-        <mark key="[" line="25" column="14" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5-sources.jar!/com/google/gson/InstanceCreator.java" timestamp="1573645607630" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/qiniu/QiniuKeys.java" timestamp="1571477198765">
         <mark key="[" line="7" column="3" />
@@ -502,11 +499,11 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" timestamp="1573886385968">
-        <mark key="[" line="520" column="9" />
-        <mark key="]" line="520" column="8" />
-        <mark key="." line="520" column="8" />
-        <mark key="^" line="520" column="8" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" timestamp="1573888763350">
+        <mark key="[" line="438" column="89" />
+        <mark key="]" line="438" column="88" />
+        <mark key="." line="438" column="88" />
+        <mark key="^" line="438" column="88" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/dto/FriendCirclePostDTO.java" timestamp="1573804910861">
         <mark key="[" line="12" column="17" />
@@ -763,9 +760,6 @@
         <mark key="^" line="6" column="42" />
         <mark key="." line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/weixinpage/WeixinPageRenderrRetrofitConfig.java" timestamp="1573456133607">
-        <mark key="[" line="22" column="41" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/toutiao/ToutiaoXuanjiangService.java" timestamp="1570867064084">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="113" />
@@ -819,9 +813,6 @@
         <mark key="]" line="46" column="8" />
         <mark key="." line="46" column="8" />
         <mark key="^" line="46" column="8" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1573805612861">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/SpreadTaskDO.java" timestamp="1571130979874">
         <mark key="[" line="21" column="7" />
@@ -887,8 +878,8 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/user/UserInfoDO.java" timestamp="1572858839478">
-        <mark key="[" line="29" column="55" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/user/UserInfoDO.java" timestamp="1573888998599">
+        <mark key="[" line="29" column="17" />
         <mark key="]" line="29" column="54" />
         <mark key="^" line="29" column="54" />
         <mark key="." line="29" column="54" />
@@ -1069,10 +1060,10 @@
         <mark key="." line="100" column="80" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/daemon/src/main/java/com/zhiri/ad/daemon/PackageCheckDaemon.java" timestamp="1573886394231">
-        <mark key="[" line="92" column="33" />
-        <mark key="]" line="92" column="32" />
-        <mark key="^" line="92" column="32" />
-        <mark key="." line="92" column="32" />
+        <mark key="[" line="104" column="33" />
+        <mark key="]" line="104" column="32" />
+        <mark key="^" line="104" column="32" />
+        <mark key="." line="104" column="32" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/qiniu/QiniuPrivateUrlSerializer.java" timestamp="1572850287796">
         <mark key="[" line="62" column="32" />
@@ -1086,9 +1077,9 @@
         <mark key="^" line="23" column="45" />
         <mark key="." line="23" column="45" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/service/ManageService.java" timestamp="1573805081463">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/service/ManageService.java" timestamp="1573886835539">
         <mark key="[" line="69" column="0" />
-        <mark key="]" line="70" column="41" />
+        <mark key="]" line="69" column="75" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/airesume/dto/AiResumeDTO.java" timestamp="1573455694652">
         <mark key="[" line="12" column="0" />
@@ -1133,11 +1124,11 @@
         <mark key="^" line="161" column="42" />
         <mark key="." line="165" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadTaskMaterialDO.java" timestamp="1573884268350">
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="15" />
-        <mark key="^" line="31" column="15" />
-        <mark key="." line="31" column="15" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadTaskMaterialDO.java" timestamp="1573888025493">
+        <mark key="[" line="45" column="5" />
+        <mark key="]" line="47" column="31" />
+        <mark key="." line="47" column="31" />
+        <mark key="^" line="47" column="31" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/toutiao/dto/ToutiaoXuanjiangItemDTO.java" timestamp="1569757267034">
         <mark key="[" line="15" column="24" />
@@ -1252,11 +1243,11 @@
         <mark key="^" line="78" column="24" />
         <mark key="." line="78" column="24" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/controller/MaterialEffectAdminController.java" timestamp="1573884287879">
-        <mark key="[" line="28" column="20" />
-        <mark key="]" line="28" column="19" />
-        <mark key="^" line="28" column="19" />
-        <mark key="." line="28" column="19" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/controller/MaterialEffectAdminController.java" timestamp="1573889544309">
+        <mark key="[" line="47" column="1" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/JacksonXmlConverterFactory.java" timestamp="1571311505387">
         <mark key="[" line="21" column="3" />
@@ -1287,9 +1278,6 @@
         <mark key="]" line="93" column="101" />
         <mark key="." line="93" column="101" />
         <mark key="^" line="93" column="101" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_03.05_wy.sql" timestamp="1573469442777">
-        <mark key="[" line="13" column="1" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoCorpMianijingDO.java" timestamp="1570887749061">
         <mark key="[" line="28" column="22" />
@@ -1329,11 +1317,11 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/spread/SpreadManageAdminService.java" timestamp="1573633682190">
-        <mark key="[" line="318" column="40" />
-        <mark key="]" line="318" column="39" />
-        <mark key="^" line="318" column="39" />
-        <mark key="." line="318" column="39" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/spread/SpreadManageAdminService.java" timestamp="1573887878115">
+        <mark key="[" line="327" column="50" />
+        <mark key="]" line="327" column="67" />
+        <mark key="^" line="327" column="67" />
+        <mark key="." line="327" column="67" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/dto/QuestionResultDTO.java" timestamp="1573550598285">
         <mark key="[" line="12" column="14" />
@@ -1584,11 +1572,11 @@
         <mark key="^" line="14" column="2" />
         <mark key="." line="14" column="2" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/service/MaterialEffectAdminService.java" timestamp="1573885866957">
-        <mark key="[" line="156" column="22" />
-        <mark key="]" line="135" column="41" />
-        <mark key="^" line="135" column="41" />
-        <mark key="." line="135" column="41" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/service/MaterialEffectAdminService.java" timestamp="1573889505224">
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="0" />
+        <mark key="." line="190" column="0" />
+        <mark key="^" line="235" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/DistributionTaskController.java" timestamp="1573735064870">
         <mark key="[" line="67" column="46" />
@@ -1621,12 +1609,12 @@
         <mark key="^" line="88" column="59" />
         <mark key="." line="88" column="59" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/CommonService.java" timestamp="1573801275103">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/CommonService.java" timestamp="1573888128202">
         <mark key="'" line="62" column="4" />
-        <mark key="[" line="98" column="60" />
-        <mark key="]" line="98" column="59" />
-        <mark key="^" line="98" column="59" />
-        <mark key="." line="98" column="59" />
+        <mark key="[" line="289" column="46" />
+        <mark key="]" line="289" column="31" />
+        <mark key="^" line="289" column="31" />
+        <mark key="." line="289" column="31" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/yunxin/src/main/java/com/zhiri/qumianshi/service/YunxinCallbackService.java" timestamp="1573550174158">
         <mark key="[" line="57" column="28" />
@@ -1984,20 +1972,20 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>更新统计</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgicGFnZSIpIEludGVnZXIgcGFnZSwK</text>
       </register>
       <register name="-" type="4">
-        <text>更新统计</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExpc3Q8U2hvcnRVcmxNYXBETz4gZmluZEFsbEJ5VXNlcklkKExvbmcgdXNlcklkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjb3JkRE8uc2V0Q29tbWVudCh5b3V6YW5NYW5hZ2UudHJhbnNmb3JtVGV4dChyZWNvcmRETy5nZXRDb21tZW50KCksIHVzZXIuZ2V0UGhvbmUoKSwgdXNlci5nZXRJZCgpLCByZWNvcmRETy5nZXRNYXRlcmlhbElkKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgicGFnZSIpIEludGVnZXIgcGFnZSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2062,28 +2050,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PFN0cmluZz4gdXVpZHMgPSBzaG9ydFVybE1hcFJlcG8uZmluZEFsbEJ5VXNlcklkKHJlY29yZC5nZXR1KS5zdHJlYW0oKS5tYXAoU2hvcnRVcmxNYXBETzo6Z2V0VXVpZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKLy8gICAgICAgICAgICByZXMuc2V0UHYoc2hvcnRVcmxWaXNpdFJlcG8uY291bnRCeVV1aWRJbih1dWlkcykpOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBwYWdlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBncm91cFNoYXJlVXJsOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUW1zUGFnZVJlcy5vZihyZWNvcmREVE9QYWdlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBZb3V6YW5FYml6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmREVE9QYWdlcmVkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmQuc2V0Q29tbWVudChtYXRlcmlhbC5nZXRDb21tZW50KCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1Ygo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBncm91cFNoYXJlVXJsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBncm91cFNoYXJlVXJsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBBIHsKICAgICAgICBwdWJsaWMgU3RyaW5nIGE7CgogICAgICAgIGNsYXNzIEIgewoKICAgICAgICAgICAgcHVibGljIFN0cmluZyBiOwoKICAgICAgICAgICAgcHVibGljIEIoKSB7CiAgICAgICAgICAgICAgICAvLyBObyBhcmdzIGNvbnN0cnVjdG9yIGZvciBCCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBQYWdlPFNwcmVhZFJlY29yZERPPiByZWNvcmRzID0gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

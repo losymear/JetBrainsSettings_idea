@@ -142,8 +142,8 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/spread/MergedImgRepo.java" timestamp="1574151798335">
-        <mark key="[" line="20" column="102" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/spread/MergedImgRepo.java" timestamp="1574154050204">
+        <mark key="[" line="18" column="52" />
         <mark key="]" line="20" column="105" />
         <mark key="." line="20" column="105" />
         <mark key="^" line="20" column="105" />
@@ -420,6 +420,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/admin/src/main/java/com/zhiri/qumianshi/controller/CouponAdminController.java" timestamp="1574153854972" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/pom.xml" timestamp="1573893372481">
         <mark key="[" line="254" column="21" />
         <mark key="]" line="225" column="17" />
@@ -509,12 +510,6 @@
         <mark key="]" line="0" column="41" />
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" timestamp="1574146905151">
-        <mark key="[" line="376" column="33" />
-        <mark key="]" line="376" column="32" />
-        <mark key="." line="376" column="32" />
-        <mark key="^" line="376" column="32" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/dto/FriendCirclePostDTO.java" timestamp="1573804910861">
         <mark key="[" line="12" column="17" />
@@ -1034,12 +1029,6 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadRecordDO.java" timestamp="1574143664387">
-        <mark key="[" line="90" column="10" />
-        <mark key="]" line="90" column="9" />
-        <mark key="." line="90" column="9" />
-        <mark key="^" line="90" column="9" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/web/src/main/java/com/zhiri/qumianshi/controller/LoginSmsController.java" timestamp="1570524503591">
         <mark key="[" line="166" column="5" />
         <mark key="]" line="56" column="19" />
@@ -1076,6 +1065,13 @@
         <mark key="^" line="36" column="46" />
         <mark key="." line="36" column="46" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/QrcodeService.java" timestamp="1574154386469">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="84" column="5" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="88" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/config/MoneySerializer.java" timestamp="1574065232348">
         <mark key="[" line="16" column="30" />
         <mark key="]" line="11" column="0" />
@@ -1087,13 +1083,6 @@
         <mark key="]" line="44" column="109" />
         <mark key="^" line="44" column="109" />
         <mark key="." line="44" column="109" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/QrcodeService.java" timestamp="1574152861415">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="84" column="1" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="84" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/ordersystem/FreelyChatSkuDO.java" timestamp="1571809376290">
         <mark key="[" line="87" column="26" />
@@ -1552,12 +1541,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/MergedImgDO.java" timestamp="1574152190744">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/MergedImgDO.java" timestamp="1574154605657">
         <mark key="'" line="32" column="16" />
-        <mark key="[" line="29" column="13" />
-        <mark key="]" line="21" column="17" />
-        <mark key="." line="21" column="17" />
-        <mark key="^" line="34" column="0" />
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="17" />
+        <mark key="." line="20" column="17" />
+        <mark key="^" line="29" column="11" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/deploy/create_vv_02.10_wy.sql" timestamp="1572663329156">
         <mark key="[" line="3" column="27" />
@@ -2050,16 +2039,16 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>payload</text>
+        <text>ImgUrl</text>
       </register>
       <register name="-" type="4">
-        <text>payload</text>
+        <text>ImgUrl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldHRpbmdDaGFuZ2VkKExpc3Q8TWF0ZXJpYWxRcmNvZGVTZXR0aW5nRE8+IHNldHRpbmdzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgVE9ETzogQHd5IOWkhOeQhgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>

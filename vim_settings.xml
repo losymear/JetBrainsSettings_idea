@@ -64,12 +64,12 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/spread/MaterialQrcodeSettingRepo.java" timestamp="1574162588417">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/spread/MaterialQrcodeSettingRepo.java" timestamp="1574233074121">
         <mark key="'" line="22" column="34" />
-        <mark key="[" line="26" column="48" />
-        <mark key="]" line="26" column="46" />
-        <mark key="^" line="26" column="46" />
-        <mark key="." line="26" column="46" />
+        <mark key="[" line="30" column="1" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/dingding/dto/RobotMessageRequest.java" timestamp="1571647246620">
         <mark key="[" line="27" column="1" />
@@ -307,6 +307,10 @@
         <mark key="." line="22" column="50" />
         <mark key="^" line="22" column="50" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/daemon/src/main/java/com/zhiri/ad/daemon/RobotDaemon.java" timestamp="1574230158986">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="34" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/qiniu.conf" timestamp="1570604146110">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -512,6 +516,12 @@
         <mark key="]" line="0" column="41" />
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" timestamp="1574233776114">
+        <mark key="[" line="497" column="30" />
+        <mark key="]" line="497" column="29" />
+        <mark key="^" line="497" column="29" />
+        <mark key="." line="497" column="29" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/dto/FriendCirclePostDTO.java" timestamp="1573804910861">
         <mark key="[" line="12" column="17" />
@@ -877,11 +887,11 @@
         <mark key="." line="36" column="17" />
         <mark key="^" line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/ImageServiceTest.java" timestamp="1574223048046">
-        <mark key="[" line="27" column="103" />
-        <mark key="]" line="27" column="102" />
-        <mark key="." line="27" column="102" />
-        <mark key="^" line="27" column="102" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/ImageServiceTest.java" timestamp="1574229184031">
+        <mark key="[" line="28" column="53" />
+        <mark key="]" line="28" column="52" />
+        <mark key="." line="28" column="52" />
+        <mark key="^" line="28" column="52" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/retrofit/checkserver/CheckApi.java" timestamp="1572244974134">
         <mark key="[" line="21" column="11" />
@@ -1067,12 +1077,12 @@
         <mark key="^" line="36" column="46" />
         <mark key="." line="36" column="46" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/QrcodeService.java" timestamp="1574219193669">
-        <mark key="'" line="37" column="52" />
-        <mark key="[" line="50" column="27" />
-        <mark key="]" line="50" column="28" />
-        <mark key="." line="50" column="28" />
-        <mark key="^" line="50" column="28" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/QrcodeService.java" timestamp="1574233440505">
+        <mark key="'" line="144" column="17" />
+        <mark key="[" line="209" column="24" />
+        <mark key="]" line="209" column="23" />
+        <mark key="." line="209" column="23" />
+        <mark key="^" line="209" column="23" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/config/MoneySerializer.java" timestamp="1574065232348">
         <mark key="[" line="16" column="30" />
@@ -1283,6 +1293,12 @@
         <mark key="^" line="9" column="64" />
         <mark key="." line="9" column="64" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/daemon/src/main/java/com/zhiri/ad/daemon/DynamicQrCodeDaemon.java" timestamp="1574233674728">
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="28" />
+        <mark key="." line="25" column="28" />
+        <mark key="^" line="25" column="28" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/daemon/src/main/java/com/zhiri/ad/daemon/YouzanDaemon.java" timestamp="1573212659204">
         <mark key="[" line="78" column="25" />
         <mark key="]" line="78" column="24" />
@@ -1319,12 +1335,12 @@
         <mark key="." line="29" column="12" />
         <mark key="^" line="29" column="12" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/ImageService.java" timestamp="1574223087047">
-        <mark key="'" line="150" column="150" />
-        <mark key="[" line="168" column="84" />
-        <mark key="]" line="168" column="84" />
-        <mark key="." line="168" column="84" />
-        <mark key="^" line="169" column="87" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/ImageService.java" timestamp="1574229154107">
+        <mark key="'" line="146" column="150" />
+        <mark key="[" line="215" column="16" />
+        <mark key="]" line="215" column="15" />
+        <mark key="^" line="215" column="15" />
+        <mark key="." line="215" column="15" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoCorpMianijingDO.java" timestamp="1570887749061">
         <mark key="[" line="28" column="22" />
@@ -1363,12 +1379,12 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/spread/SpreadManageAdminService.java" timestamp="1574219315357">
-        <mark key="'" line="57" column="13" />
-        <mark key="[" line="492" column="40" />
-        <mark key="]" line="492" column="39" />
-        <mark key="." line="492" column="39" />
-        <mark key="^" line="492" column="39" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/spread/SpreadManageAdminService.java" timestamp="1574233082763">
+        <mark key="'" line="455" column="54" />
+        <mark key="[" line="465" column="0" />
+        <mark key="]" line="465" column="158" />
+        <mark key="." line="508" column="52" />
+        <mark key="^" line="508" column="52" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/dto/QuestionResultDTO.java" timestamp="1573550598285">
         <mark key="[" line="12" column="14" />
@@ -1529,9 +1545,9 @@
         <mark key="." line="135" column="13" />
         <mark key="^" line="135" column="13" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadManage.java" timestamp="1574049486122">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadManage.java" timestamp="1574229464226">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="113" />
         <mark key="^" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
@@ -1949,14 +1965,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/weixinpage/WeixinPageRenderClient.java" />
-      <jump line="300" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/spread/SpreadManageAdminService.java" />
-      <jump line="336" column="50" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/spread/SpreadManageAdminService.java" />
-      <jump line="153" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/controller/SpreadManageAdminController.java" />
-      <jump line="151" column="58" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/controller/SpreadManageAdminController.java" />
-      <jump line="145" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/controller/SpreadManageAdminController.java" />
-      <jump line="63" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/ServiceTest.java" />
-      <jump line="61" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/service/ManageService.java" />
       <jump line="287" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/service/ManageService.java" />
       <jump line="65" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/service/MaterialEffectAdminService.java" />
       <jump line="112" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/service/MaterialEffectAdminService.java" />
@@ -2049,25 +2057,33 @@
       <jump line="149" column="150" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/ImageService.java" />
       <jump line="496" column="24" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/spread/SpreadManageAdminService.java" />
       <jump line="57" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/spread/SpreadManageAdminService.java" />
+      <jump line="126" column="52" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/QrcodeService.java" />
+      <jump line="54" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/QrcodeService.java" />
+      <jump line="453" column="54" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/spread/SpreadManageAdminService.java" />
+      <jump line="150" column="94" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/QrcodeService.java" />
+      <jump line="41" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/QrcodeService.java" />
+      <jump line="215" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/QrcodeService.java" />
+      <jump line="144" column="17" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/QrcodeService.java" />
+      <jump line="346" column="42" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>material.getImages()</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>material.getImages()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZy5zZXRDb2xvcihjb2xvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGluZ01hbmFnZS5zZW5kTWVzc2FnZSgi55Sf5oiQ55So5oi35Yqo5oCB5LqM57u056CB5Ye66ZSZ77yM55So5oi3aWQ6IiArIHVzZXJJZCwgRGluZ01hbmFnZS5BQ0NFU1NfVE9LRU5fU0hFTkhFKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2132,28 +2148,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g55S75Zu+77yM5L+d5a2YYWxwaGHpgJrpgZMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaW5nTWFuYWdlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICogQHBhcmFtIHFyQ29kZUNvbnRhaW5lcldpZHRoIOeUqOadpeWunueOsOS6jOe7tOeggeeahGJvcmRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgICAgICAgICAgICAgICAgLy8gICAgICogQHBhcmFtIHFyQ29kZUNvbnRhaW5lcldpZHRoIOeUqOadpeWunueOsOS6jOe7tOeggeeahGJvcmRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdGVyaWFsUXJjb2RlU2V0dGluZ1JlcG8uZmluZEFsbEJ5TWF0ZXJpYWxJZEFuZEltZ1VybE5vdEluKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgVE9ETzogQHd5IOinpuWPkeabtOaWsAo=</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPE1hdGVyaWFsUXJjb2RlU2V0dGluZ0RPPiBmaW5kQnlNYXRlcmlhbElkQW5kSW1nVXJsKExvbmcgbWF0ZXJpYWxJZCwgU3RyaW5nIGltZ1VybCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

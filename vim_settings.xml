@@ -877,11 +877,11 @@
         <mark key="." line="36" column="17" />
         <mark key="^" line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/ImageServiceTest.java" timestamp="1574220397372">
-        <mark key="[" line="28" column="32" />
-        <mark key="]" line="28" column="31" />
-        <mark key="." line="28" column="31" />
-        <mark key="^" line="28" column="31" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/ImageServiceTest.java" timestamp="1574223048046">
+        <mark key="[" line="27" column="103" />
+        <mark key="]" line="27" column="102" />
+        <mark key="." line="27" column="102" />
+        <mark key="^" line="27" column="102" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/retrofit/checkserver/CheckApi.java" timestamp="1572244974134">
         <mark key="[" line="21" column="11" />
@@ -1319,12 +1319,12 @@
         <mark key="." line="29" column="12" />
         <mark key="^" line="29" column="12" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/ImageService.java" timestamp="1574220576944">
-        <mark key="'" line="149" column="150" />
-        <mark key="[" line="198" column="1" />
-        <mark key="]" line="198" column="0" />
-        <mark key="." line="198" column="0" />
-        <mark key="^" line="198" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/ImageService.java" timestamp="1574223087047">
+        <mark key="'" line="150" column="150" />
+        <mark key="[" line="168" column="84" />
+        <mark key="]" line="168" column="84" />
+        <mark key="." line="168" column="84" />
+        <mark key="^" line="169" column="87" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoCorpMianijingDO.java" timestamp="1570887749061">
         <mark key="[" line="28" column="22" />
@@ -2054,20 +2054,20 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uCg==</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>paint both images, preserving the alpha channels</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBxckNvZGVDb250YWluZXJXaWR0aCDnlKjmnaXlrp7njrDkuoznu7TnoIHnmoRib3JkZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZy5zZXRDb2xvcihjb2xvcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2132,28 +2132,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g55S75Zu+77yM5L+d5a2YYWxwaGHpgJrpgZMK</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g55S75Zu+77yM5L+d5a2YYWxwaGHpgJrpgZMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICogQHBhcmFtIHFyQ29kZUNvbnRhaW5lcldpZHRoIOeUqOadpeWunueOsOS6jOe7tOeggeeahGJvcmRlcgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgICAgICAgICAgICAgICAgLy8gICAgICogQHBhcmFtIHFyQ29kZUNvbnRhaW5lcldpZHRoIOeUqOadpeWunueOsOS6jOe7tOeggeeahGJvcmRlcgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICogQHBhcmFtIHFyQ29kZUNvbnRhaW5lcldpZHRoIOeUqOadpeWunueOsOS6jOe7tOeggeeahGJvcmRlcgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqICAgICAgICAgICAgICAgICAgICAgLy8gICAgICogQHBhcmFtIHFyQ29kZUNvbnRhaW5lcldpZHRoIOeUqOadpeWunueOsOS6jOe7tOeggeeahGJvcmRlcgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgVE9ETzogQHd5IOinpuWPkeabtOaWsAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgVE9ETzogQHd5IOinpuWPkeabtOaWsAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

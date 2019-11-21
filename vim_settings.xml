@@ -1080,9 +1080,9 @@
         <mark key="^" line="87" column="25" />
         <mark key="." line="87" column="25" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/user/UserDO.java" timestamp="1574248693205">
-        <mark key="[" line="100" column="41" />
-        <mark key="]" line="100" column="80" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/user/UserDO.java" timestamp="1574311295742">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="18" />
         <mark key="^" line="100" column="80" />
         <mark key="." line="100" column="80" />
       </file>
@@ -1429,6 +1429,12 @@
         <mark key="]" line="27" column="19" />
         <mark key="^" line="27" column="19" />
         <mark key="." line="27" column="19" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/proxy/dto/UserSeenByProxy.java" timestamp="1574311302663">
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="16" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/sms/dto/PhoneWithQq007.java" timestamp="1571383974088">
         <mark key="[" line="4" column="0" />
@@ -2049,8 +2055,8 @@
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFN0YXR1cyBzdGF0dXM7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ID0=</text>
@@ -2059,7 +2065,7 @@
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW51bVN0YXR1cyA9IGVudW1TdGF0dXMuYWRkKFVzZXJETy5TdGF0dXMu5b6F6L2s5q2jLCBVc2VyRE8uU3RhdHVzLuivleeUqOacnyk7Cg==</text>
+        <text encoding="base64">ICAgIFN0YXR1cyBzdGF0dXM7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmcgYXJnc1tdKXsKICAgICAgICAgICAgRmlyc3QgZj1uZXcgRmlyc3QoKTsKICAgICAgICB9fQo=</text>

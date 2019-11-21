@@ -66,6 +66,9 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/javax/imageio/spi/ImageWriterSpi.java" timestamp="1574333538650">
+        <mark key="'" line="75" column="31" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/common/yunzhanghu/client/YunzhanghuRetrofitConfig.java" timestamp="1572419578176">
         <mark key="[" line="29" column="5" />
         <mark key="]" line="21" column="6" />
@@ -866,12 +869,12 @@
         <mark key="." line="36" column="17" />
         <mark key="^" line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/ImageServiceTest.java" timestamp="1574321733440">
-        <mark key="'" line="15" column="21" />
-        <mark key="[" line="32" column="9" />
-        <mark key="]" line="32" column="8" />
-        <mark key="." line="32" column="8" />
-        <mark key="^" line="32" column="8" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/ImageServiceTest.java" timestamp="1574333811982">
+        <mark key="'" line="13" column="6" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
+        <mark key="^" line="13" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/retrofit/checkserver/CheckApi.java" timestamp="1572244974134">
         <mark key="[" line="21" column="11" />
@@ -1315,6 +1318,12 @@
         <mark key="." line="29" column="12" />
         <mark key="^" line="29" column="12" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/ImageService.java" timestamp="1574334159562">
+        <mark key="[" line="99" column="18" />
+        <mark key="]" line="99" column="17" />
+        <mark key="^" line="99" column="17" />
+        <mark key="." line="99" column="17" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoCorpMianijingDO.java" timestamp="1570887749061">
         <mark key="[" line="28" column="22" />
         <mark key="]" line="19" column="11" />
@@ -1371,6 +1380,9 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/jai-imageio/jai-imageio-core/1.3.1/jai-imageio-core-1.3.1-sources.jar!/com/github/jaiimageio/impl/plugins/jpeg/CLibJPEGMetadata.java" timestamp="1574333580848">
+        <mark key="'" line="282" column="39" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/dingding/dto/DingRes.java" timestamp="1571647269896">
         <mark key="[" line="16" column="1" />
@@ -1922,13 +1934,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="32" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/ServiceTest.java" />
-      <jump line="124" column="79" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/ServiceTest.java" />
-      <jump line="143" column="59" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/ServiceTest.java" />
-      <jump line="541" column="37" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/UserService.java" />
-      <jump line="269" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/user/UserController.java" />
-      <jump line="84" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/ServiceTest.java" />
-      <jump line="73" column="40" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanManage.java" />
       <jump line="446" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" />
       <jump line="137" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/config/security/AdAuthenticationFilter.java" />
       <jump line="41" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/config/security/AuthInfoInRequest.java" />
@@ -2013,7 +2018,6 @@
       <jump line="36" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/ImageServiceTest.java" />
       <jump line="92" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/ImageService.java" />
       <jump line="33" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/ImageService.java" />
-      <jump line="13" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/ImageServiceTest.java" />
       <jump line="83" column="2" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/ImageService.java" />
       <jump line="221" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/javax/swing/JLabel.java" />
       <jump line="31" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/MaterialQrcodeSettingDO.java" />
@@ -2022,25 +2026,33 @@
       <jump line="186" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/QrcodeService.java" />
       <jump line="135" column="49" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/QrcodeService.java" />
       <jump line="448" column="28" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" />
+      <jump line="435" column="20" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/javax/imageio/spi/ImageWriterSpi.java" />
+      <jump line="1" column="75" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/javax/imageio/spi/ImageWriterSpi.java" />
+      <jump line="439" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/javax/imageio/spi/ImageWriterSpi.java" />
+      <jump line="75" column="31" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/javax/imageio/spi/ImageWriterSpi.java" />
+      <jump line="282" column="39" filename="$MAVEN_REPOSITORY$/com/github/jai-imageio/jai-imageio-core/1.3.1/jai-imageio-core-1.3.1-sources.jar!/com/github/jaiimageio/impl/plugins/jpeg/CLibJPEGMetadata.java" />
+      <jump line="21" column="54" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/ImageServiceTest.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/ImageServiceTest.java" />
+      <jump line="13" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/ImageServiceTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>yypf3;,r4f3;r4</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVkaXNTZXJ2aWNlLnNhdmUodXNlcklkICsgIl9tYXRlcmlhbF9xcmNvZGVfIiArIG1hdGVyaWFsSWQsICIxIiwgMUwsIFRpbWVVbml0Lk1JTlVURVMsIGNvZGVjKTsK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEFkUnVudGltZUV4Y2VwdGlvbigi5q2j5Zyo55Sf5oiQ5LiT5bGe57Sg5p2Q5Zu+77yM6K+356iN5YCZ6YeN6K+VIiwgTXlFcnJvckNvZGVFbnVtLk5PVEFMTE9XX1JFU09VUkNFKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW1hZ2VJTy5nZXRSZWFkZXJGb3JtYXROYW1lcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVkaXNTZXJ2aWNlLnNhdmUodXNlcklkICsgIl9tYXRlcmlhbF9xcmNvZGVfIiArIG1hdGVyaWFsSWQsICIxIiwgMUwsIFRpbWVVbml0Lk1JTlVURVMsIGNvZGVjKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGludCBhID0gIDExLzM3LjYgKiAxMjsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2105,28 +2117,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVkaXNTZXJ2aWNlLnNhdmUodXNlcklkICsgIl9tYXRlcmlhbF9xcmNvZGVfIiArIG1hdGVyaWFsSWQsICIxIiwgMUwsIFRpbWVVbml0Lk1JTlVURVMsIGNvZGVjKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgTk9USUNFOiDnlJ/miJDliqjmgIHkuoznu7TnoIHlubbkuIrkvKAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXJjb2RlU2VydmljZS5tYXBNYXRlcmlhbFN0cmluZ3NBc3luYyh1c2VySWQsIG1hdGVyaWFsSWQpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgTk9USUNFOiDnlJ/miJDliqjmgIHkuoznu7TnoIHlubbkuIrkvKAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcXJjb2RlU2VydmljZS5tYXBNYXRlcmlhbFN0cmluZ3NBc3luYyh1c2VySWQsIG1hdGVyaWFsSWQpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVkaXNTZXJ2aWNlLmV4aXN0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVkaXNTZXJ2aWNlLmV4aXN0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hcE1hdGVyaWFsU3RyaW5nc0FzeW5jKCl7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

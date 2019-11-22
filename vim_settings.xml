@@ -332,10 +332,6 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/deploy/create_vv_01.00_xfc.sql" timestamp="1574409767244">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="70" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoXiaozhaoFollowRepo.java" timestamp="1570623776072">
         <mark key="[" line="26" column="90" />
         <mark key="]" line="25" column="89" />
@@ -850,6 +846,7 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/deploy/create_vv_03.45_wy.sql" timestamp="1574428452039" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/core/src/main/java/com/zhiri/qumianshi/service/miniapp/WechatMiniAppService.java" timestamp="1571468587553">
         <mark key="[" line="296" column="15" />
         <mark key="]" line="294" column="59" />
@@ -904,11 +901,11 @@
         <mark key="^" line="29" column="54" />
         <mark key="." line="29" column="54" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/UserService.java" timestamp="1574406506146">
-        <mark key="[" line="782" column="1" />
-        <mark key="]" line="782" column="0" />
-        <mark key="." line="782" column="0" />
-        <mark key="^" line="782" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/UserService.java" timestamp="1574428515395">
+        <mark key="[" line="777" column="11" />
+        <mark key="]" line="777" column="10" />
+        <mark key="." line="777" column="10" />
+        <mark key="^" line="777" column="10" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/daemon/src/main/java/com/zhiri/qumianshi/daemon/BaiduStatisticDaemon.java" timestamp="1570604664447">
         <mark key="[" line="91" column="33" />
@@ -1062,6 +1059,7 @@
         <mark key="." line="24" column="45" />
         <mark key="^" line="24" column="45" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/deploy/create_vv_03.35_wy.sql" timestamp="1574428475547" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/miniapp/pay/config/WechatMiniappPayRetrofigConfig.java" timestamp="1573625307723">
         <mark key="[" line="66" column="20" />
         <mark key="]" line="66" column="19" />
@@ -1093,11 +1091,11 @@
         <mark key="^" line="87" column="25" />
         <mark key="." line="87" column="25" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/user/UserDO.java" timestamp="1574427400845">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="81" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/user/UserDO.java" timestamp="1574428822133">
+        <mark key="[" line="173" column="27" />
+        <mark key="]" line="173" column="27" />
+        <mark key="." line="173" column="27" />
+        <mark key="^" line="173" column="27" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/daemon/src/main/java/com/zhiri/ad/daemon/PackageCheckDaemon.java" timestamp="1573886394231">
         <mark key="[" line="92" column="33" />
@@ -1851,10 +1849,6 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/deploy/create_vv_0.2_xfc.sql" timestamp="1574405809818">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="71" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/SpreadRecordHistoryRepo.java" timestamp="1571130909431">
         <mark key="[" line="13" column="41" />
         <mark key="]" line="13" column="89" />
@@ -1964,6 +1958,7 @@
         <mark key="^" line="14" column="118" />
         <mark key="." line="14" column="118" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/deploy/create_vv_04.01_xfc.sql" timestamp="1574428729647" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/DistributionService.java" />

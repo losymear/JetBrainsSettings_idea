@@ -1285,6 +1285,9 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/awt/Graphics.java" timestamp="1574488721391">
+        <mark key="'" line="1064" column="69" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/resources/jdbc-prod.properties" timestamp="1569576451913">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="9" column="64" />
@@ -1339,11 +1342,11 @@
         <mark key="." line="29" column="12" />
         <mark key="^" line="29" column="12" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/ImageService.java" timestamp="1574393244342">
-        <mark key="[" line="99" column="18" />
-        <mark key="]" line="99" column="17" />
-        <mark key="^" line="99" column="17" />
-        <mark key="." line="99" column="17" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/ImageService.java" timestamp="1574489285948">
+        <mark key="[" line="162" column="23" />
+        <mark key="]" line="162" column="22" />
+        <mark key="^" line="162" column="22" />
+        <mark key="." line="162" column="22" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoCorpMianijingDO.java" timestamp="1570887749061">
         <mark key="[" line="28" column="22" />
@@ -1498,6 +1501,9 @@
         <mark key="]" line="15" column="77" />
         <mark key="." line="15" column="77" />
         <mark key="^" line="15" column="77" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/awt/Component.java" timestamp="1574488764529">
+        <mark key="'" line="3034" column="23" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_01.09_wy.sql" timestamp="1572083714217">
         <mark key="[" line="9" column="36" />
@@ -1967,9 +1973,6 @@
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/deploy/create_vv_04.01_xfc.sql" timestamp="1574428729647" />
     </filemarks>
     <jumps>
-      <jump line="60" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/service/DistributionTaskService.java" />
-      <jump line="117" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/ServiceTest.java" />
-      <jump line="112" column="28" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/ServiceTest.java" />
       <jump line="133" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/ServiceTest.java" />
       <jump line="136" column="24" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/ServiceTest.java" />
       <jump line="134" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/ServiceTest.java" />
@@ -2067,6 +2070,9 @@
       <jump line="247" column="99" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/service/ManageService.java" />
       <jump line="524" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/service/ManageService.java" />
       <jump line="280" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/service/ManageService.java" />
+      <jump line="3208" column="5" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/awt/Component.java" />
+      <jump line="1064" column="69" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/awt/Graphics.java" />
+      <jump line="3034" column="23" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/awt/Component.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

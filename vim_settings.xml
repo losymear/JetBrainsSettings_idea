@@ -402,12 +402,12 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/user/UserController.java" timestamp="1574740696271">
-        <mark key="'" line="48" column="35" />
-        <mark key="[" line="369" column="26" />
-        <mark key="]" line="369" column="30" />
-        <mark key="^" line="369" column="30" />
-        <mark key="." line="369" column="30" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/user/UserController.java" timestamp="1574755717902">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoCorpBijingDO.java" timestamp="1570591899156">
         <mark key="[" line="21" column="0" />
@@ -2068,7 +2068,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/ImageService.java" />
       <jump line="20" column="57" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/ImageServiceTest.java" />
       <jump line="19" column="24" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/ImageServiceTest.java" />
       <jump line="34" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/ImageService.java" />
@@ -2166,8 +2165,9 @@
       <jump line="875" column="53" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/UserService.java" />
       <jump line="22" column="37" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/user/UserInfoService.java" />
       <jump line="67" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/BaseService.java" />
-      <jump line="371" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/user/UserController.java" />
       <jump line="48" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/user/UserController.java" />
+      <jump line="371" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/user/UserController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad/src/main/java/com/zhiri/ad/controller/user/UserController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

@@ -12,6 +12,9 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1574736246359">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/deploy/create_vv_0.92_wy.sql" timestamp="1573453640648">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="5" column="59" />
@@ -48,7 +51,7 @@
         <mark key="^" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/dingding/DingdingRetrofitConfig.java" timestamp="1572340629028">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/dingding/DingdingRetrofitConfig.java" timestamp="1574736367402">
         <mark key="[" line="31" column="5" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -278,6 +281,12 @@
         <mark key="]" line="45" column="4" />
         <mark key="^" line="45" column="4" />
         <mark key="." line="45" column="4" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/lbs/TencentLbsAPI.java" timestamp="1574736216932">
+        <mark key="[" line="15" column="120" />
+        <mark key="]" line="15" column="120" />
+        <mark key="." line="15" column="120" />
+        <mark key="^" line="15" column="120" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_03.45_wy.sql" timestamp="1574412011873">
         <mark key="[" line="1" column="28" />
@@ -894,9 +903,9 @@
         <mark key="." line="36" column="17" />
         <mark key="^" line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/retrofit/checkserver/CheckApi.java" timestamp="1572244974134">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="26" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/retrofit/checkserver/CheckApi.java" timestamp="1574735990985">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="31" />
         <mark key="^" line="21" column="26" />
         <mark key="." line="21" column="26" />
       </file>
@@ -1172,11 +1181,11 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/dingding/DingdingClient.java" timestamp="1572345916407">
-        <mark key="[" line="21" column="7" />
-        <mark key="]" line="21" column="6" />
-        <mark key="." line="21" column="6" />
-        <mark key="^" line="21" column="6" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/dingding/DingdingClient.java" timestamp="1574736461102">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/repo/RobotFriendRepo.java" timestamp="1572251211607">
         <mark key="[" line="17" column="50" />
@@ -1298,9 +1307,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/awt/Graphics.java" timestamp="1574488721391">
-        <mark key="'" line="1064" column="69" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/resources/jdbc-prod.properties" timestamp="1569576451913">
         <mark key="[" line="0" column="1" />
@@ -1512,9 +1518,6 @@
         <mark key="." line="15" column="77" />
         <mark key="^" line="15" column="77" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/awt/Component.java" timestamp="1574488764529">
-        <mark key="'" line="3034" column="23" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_01.09_wy.sql" timestamp="1572083714217">
         <mark key="[" line="9" column="36" />
         <mark key="]" line="9" column="47" />
@@ -1709,9 +1712,6 @@
         <mark key="^" line="21" column="49" />
         <mark key="." line="21" column="49" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/awt/image/BufferedImage.java" timestamp="1574422264612">
-        <mark key="'" line="1435" column="53" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/sms/SmsRecord.java" timestamp="1571384062855">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="23" column="50" />
@@ -1836,7 +1836,7 @@
         <mark key="^" line="23" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadRecordService.java" timestamp="1574674936158">
-        <mark key="'" line="243" column="3" />
+        <mark key="'" line="244" column="3" />
         <mark key="[" line="155" column="13" />
         <mark key="]" line="155" column="12" />
         <mark key="^" line="155" column="12" />
@@ -1933,9 +1933,9 @@
         <mark key="." line="18" column="58" />
         <mark key="^" line="18" column="58" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/retrofit/checkserver/CheckRetrofitConfig.java" timestamp="1572080435609">
-        <mark key="[" line="39" column="50" />
-        <mark key="]" line="39" column="50" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/retrofit/checkserver/CheckRetrofitConfig.java" timestamp="1574736332986">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="30" />
         <mark key="^" line="26" column="59" />
         <mark key="." line="39" column="50" />
       </file>
@@ -1950,6 +1950,12 @@
         <mark key="]" line="8" column="7" />
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/lbs/TencentLbsRetrofitConfig.java" timestamp="1574736434118">
+        <mark key="[" line="26" column="49" />
+        <mark key="]" line="26" column="48" />
+        <mark key="." line="26" column="48" />
+        <mark key="^" line="26" column="48" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/domain/toutiao/ToutiaoWordBlockDO.java" timestamp="1569747693842">
         <mark key="[" line="23" column="15" />
@@ -2108,19 +2114,19 @@
         <text>yypf3;,r4f3;r4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>https://oapi.dingtalk.com</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>https://oapi.dingtalk.com</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBKc29uU2VyaWFsaXplKHVzaW5nID0gTW9uZXlTZXJpYWxpemVyLmNsYXNzKQogICAgQmlnRGVjaW1hbCBleHBlY3RlZEVhcm5pbmc7Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIE9iamVjdE1hcHBlciBvYmplY3RNYXBwZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVnZXIgY3VycmVudFBoYXNlTWF4ID0gdXNlclBhY2thZ2VETy5nZXRDdXJyZW50UGhhc2UoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2185,19 +2191,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVnZXIgY3VycmVudFBoYXNlTWF4ID0gdXNlclBhY2thZ2VETy5nZXRDdXJyZW50UGhhc2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIG1heENvdW50ID0gdXNlclBhY2thZ2VETy5nZXRUYXNrUGVyUGhhc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIG1heENvdW50ID0gdXNlclBhY2thZ2VETy5nZXRUYXNrUGVyUGhhc2UoKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -2206,7 +2212,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFBhY2thZ2VUYXNrTWFwRE8+IHVuQ29tcGVsZXRlVGFzayA9IHBhY2thZ2VUYXNrTWFwRE8uc3RyZWFtKCkuZmlsdGVyKHBhY2thZ2VUYXNrIC0+IE9iamVjdHMuZXF1YWxzKHBhY2thZ2VUYXNrLmdldElzQ29tcGxldGUoKSwgMCkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

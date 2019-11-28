@@ -1819,11 +1819,12 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanClient.java" timestamp="1573884160544">
-        <mark key="[" line="417" column="0" />
-        <mark key="]" line="417" column="0" />
-        <mark key="^" line="417" column="0" />
-        <mark key="." line="417" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanClient.java" timestamp="1574932798588">
+        <mark key="'" line="40" column="62" />
+        <mark key="[" line="387" column="17" />
+        <mark key="]" line="387" column="16" />
+        <mark key="^" line="387" column="16" />
+        <mark key="." line="387" column="16" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoXuanjiangSchoolRepo.java" timestamp="1569741222555">
         <mark key="[" line="21" column="0" />
@@ -2089,7 +2090,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_03.35_wy.sql" />
       <jump line="16" column="43" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_03.35_wy.sql" />
       <jump line="32" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/MergedImgDO.java" />
       <jump line="131" column="64" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/BaseService.java" />
@@ -2189,6 +2189,7 @@
       <jump line="139" column="40" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" />
       <jump line="190" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" />
       <jump line="193" column="54" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" />
+      <jump line="40" column="62" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanClient.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

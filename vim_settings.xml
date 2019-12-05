@@ -1486,6 +1486,12 @@
         <mark key="." line="153" column="22" />
         <mark key="^" line="153" column="22" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/movie/repo/src/main/java/com/zhiri/movie/repo/user/UserRoleRepo.java" timestamp="1575516636331">
+        <mark key="'" line="13" column="2" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qumianshi-back/repo/src/main/java/com/zhiri/qumianshi/repository/toutiao/ToutiaoSearchCountRepo.java" timestamp="1570787230365">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="124" />
@@ -2147,7 +2153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/domain/spread/MergedImgDO.java" />
       <jump line="131" column="64" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/BaseService.java" />
       <jump line="53" column="51" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/user/UserRepo.java" />
       <jump line="59" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/QrcodeService.java" />
@@ -2247,6 +2252,7 @@
       <jump line="193" column="54" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/spread/SpreadTaskService.java" />
       <jump line="40" column="62" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/youzan/YouzanClient.java" />
       <jump line="15" column="15" filename="$USER_HOME$/etc/losFiles/projects/sbtask/movie/core/pom.xml" />
+      <jump line="13" column="2" filename="$USER_HOME$/etc/losFiles/projects/sbtask/movie/repo/src/main/java/com/zhiri/movie/repo/user/UserRoleRepo.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

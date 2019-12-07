@@ -364,11 +364,11 @@
         <mark key="^" line="26" column="32" />
         <mark key="." line="26" column="32" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/movie/movie-web/src/main/java/com/zhiri/movie/controller/FilmController.java" timestamp="1575619415699">
-        <mark key="[" line="72" column="109" />
-        <mark key="]" line="72" column="108" />
-        <mark key="." line="72" column="108" />
-        <mark key="^" line="72" column="108" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/movie/movie-web/src/main/java/com/zhiri/movie/controller/FilmController.java" timestamp="1575709715823">
+        <mark key="[" line="54" column="23" />
+        <mark key="]" line="54" column="22" />
+        <mark key="." line="54" column="22" />
+        <mark key="^" line="54" column="22" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/test/java/com/zhiri/ad/service/sms/LoginSmsServiceTest.java" timestamp="1571384232554">
         <mark key="[" line="21" column="0" />
@@ -1844,12 +1844,12 @@
         <mark key="^" line="45" column="17" />
         <mark key="." line="45" column="17" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/movie/core/src/main/java/com/zhiri/movie/film/FilmService.java" timestamp="1575621077034">
-        <mark key="'" line="144" column="78" />
-        <mark key="[" line="184" column="21" />
-        <mark key="]" line="184" column="20" />
-        <mark key="." line="184" column="20" />
-        <mark key="^" line="184" column="20" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/movie/core/src/main/java/com/zhiri/movie/film/FilmService.java" timestamp="1575709740806">
+        <mark key="'" line="126" column="44" />
+        <mark key="[" line="129" column="9" />
+        <mark key="]" line="129" column="8" />
+        <mark key="." line="129" column="8" />
+        <mark key="^" line="129" column="8" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/ad-back/sql/create_vv_01.12_wy.sql" timestamp="1572083724518">
         <mark key="[" line="6" column="0" />
@@ -2291,7 +2291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/core/src/main/java/com/zhiri/ad/service/ImageService.java" />
       <jump line="22" column="34" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/repo/src/main/java/com/zhiri/ad/repo/spread/MaterialQrcodeSettingRepo.java" />
       <jump line="406" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/service/ManageService.java" />
       <jump line="57" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/ad-back/ad-admin/src/main/java/com/zhiri/ad/service/ManageService.java" />
@@ -2391,6 +2390,7 @@
       <jump line="136" column="78" filename="$USER_HOME$/etc/losFiles/projects/sbtask/movie/core/src/main/java/com/zhiri/movie/film/FilmService.java" />
       <jump line="38" column="91" filename="$USER_HOME$/etc/losFiles/projects/sbtask/movie/repo/src/main/java/com/zhiri/movie/repo/film/FilmShowRepo.java" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/movie/repo/src/main/java/com/zhiri/movie/repo/cinema/HallRepo.java" />
+      <jump line="126" column="44" filename="$USER_HOME$/etc/losFiles/projects/sbtask/movie/core/src/main/java/com/zhiri/movie/film/FilmService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">

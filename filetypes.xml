@@ -1,20 +1,18 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="分层领域模型规范" type="Markdown" />
-      <mapping pattern="Changelog" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_libreoffice" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile-release" type="PLAIN_TEXT" />
       <mapping pattern="OrderStatusEnum.java" type="PLAIN_TEXT" />
       <mapping pattern="分层领域模型规范.md" type="PLAIN_TEXT" />
-      <mapping ext="cde" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile-release" type="PLAIN_TEXT" />
+      <mapping pattern="Changelog" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="cde" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="beans" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />

@@ -16,6 +16,6 @@
     <pattern pattern="\btodo\b.*" />
     <pattern case-sensitive="true" pattern="\bfixme\b.*" />
     <pattern pattern="\bnotice\b.*" />
-    <pattern case-sensitive="true" pattern="\checked\b.*" />
+    <pattern pattern="\needCheck\b.*" />
   </component>
 </application>

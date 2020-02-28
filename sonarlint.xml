@@ -372,6 +372,7 @@
       <list>
         <option value="**/*.html" />
         <option value="**/*.js" />
+        <option value="**/*.xml" />
       </list>
     </option>
     <option name="sonarQubeServers">

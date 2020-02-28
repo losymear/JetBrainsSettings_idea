@@ -374,5 +374,16 @@
         <option value="**/*.js" />
       </list>
     </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonarqube.17qms.com/" />
+          <option name="name" value="17qms" />
+          <option name="login" value="admin" />
+          <password>dfcedfcfdfc7dfc5</password>
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
   </component>
 </application>

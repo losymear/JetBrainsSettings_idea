@@ -373,7 +373,7 @@
         <option value="**/*.html" />
         <option value="**/*.js" />
         <option value="**/*.xml" />
-        <option value="**/.mvn/**" />
+        <option value="**/MavenWrapperDownloader.java" />
       </list>
     </option>
     <option name="sonarQubeServers">

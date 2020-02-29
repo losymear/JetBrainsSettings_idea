@@ -373,6 +373,7 @@
         <option value="**/*.html" />
         <option value="**/*.js" />
         <option value="**/*.xml" />
+        <option value="**/.mvn/**" />
       </list>
     </option>
     <option name="sonarQubeServers">

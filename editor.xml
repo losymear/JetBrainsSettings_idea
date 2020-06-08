@@ -19,5 +19,6 @@
     <pattern case-sensitive="true" pattern="\bfixme\b.*" />
     <pattern pattern="\bnotice\b.*" />
     <pattern pattern="\needCheck\b.*" />
+    <pattern case-sensitive="true" pattern="\n* -tag: .*" />
   </component>
 </application>

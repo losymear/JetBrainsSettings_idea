@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="分层领域模型规范" type="Markdown" />
       <mapping pattern="Jenkinsfile-release" type="PLAIN_TEXT" />
       <mapping pattern="OrderStatusEnum.java" type="PLAIN_TEXT" />

@@ -1,374 +1,5 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="excludedRules">
-      <set>
-        <option value="Web:AvoidCommentedOutCodeCheck" />
-        <option value="Web:BoldAndItalicTagsCheck" />
-        <option value="Web:DoctypePresenceCheck" />
-        <option value="Web:FieldsetWithoutLegendCheck" />
-        <option value="Web:FlashUsesBothObjectAndEmbedCheck" />
-        <option value="Web:FrameWithoutTitleCheck" />
-        <option value="Web:ImgWithoutAltCheck" />
-        <option value="Web:ItemTagNotWithinContainerTagCheck" />
-        <option value="Web:LinkToImageCheck" />
-        <option value="Web:MetaRefreshCheck" />
-        <option value="Web:PageWithoutTitleCheck" />
-        <option value="Web:S1134" />
-        <option value="Web:S1135" />
-        <option value="Web:S1827" />
-        <option value="Web:S4084" />
-        <option value="Web:S4645" />
-        <option value="Web:S5148" />
-        <option value="Web:S5254" />
-        <option value="Web:S5255" />
-        <option value="Web:S5256" />
-        <option value="Web:S5257" />
-        <option value="Web:S5258" />
-        <option value="Web:S5260" />
-        <option value="Web:S5264" />
-        <option value="Web:ServerSideImageMapsCheck" />
-        <option value="Web:TableHeaderHasIdOrScopeCheck" />
-        <option value="Web:TableWithoutCaptionCheck" />
-        <option value="Web:UnsupportedTagsInHtml5Check" />
-        <option value="javascript:BitwiseOperators" />
-        <option value="javascript:DuplicateFunctionArgument" />
-        <option value="javascript:DuplicatePropertyName" />
-        <option value="javascript:FunctionDefinitionInsideLoop" />
-        <option value="javascript:FutureReservedWords" />
-        <option value="javascript:NonEmptyCaseWithoutBreak" />
-        <option value="javascript:OctalNumber" />
-        <option value="javascript:S108" />
-        <option value="javascript:S1110" />
-        <option value="javascript:S1116" />
-        <option value="javascript:S1117" />
-        <option value="javascript:S1119" />
-        <option value="javascript:S1126" />
-        <option value="javascript:S1128" />
-        <option value="javascript:S1143" />
-        <option value="javascript:S1219" />
-        <option value="javascript:S1264" />
-        <option value="javascript:S1301" />
-        <option value="javascript:S1442" />
-        <option value="javascript:S1472" />
-        <option value="javascript:S1479" />
-        <option value="javascript:S1516" />
-        <option value="javascript:S1525" />
-        <option value="javascript:S1533" />
-        <option value="javascript:S1656" />
-        <option value="javascript:S1751" />
-        <option value="javascript:S1764" />
-        <option value="javascript:S1788" />
-        <option value="javascript:S1854" />
-        <option value="javascript:S1862" />
-        <option value="javascript:S1871" />
-        <option value="javascript:S1940" />
-        <option value="javascript:S2123" />
-        <option value="javascript:S2137" />
-        <option value="javascript:S2189" />
-        <option value="javascript:S2201" />
-        <option value="javascript:S2251" />
-        <option value="javascript:S2259" />
-        <option value="javascript:S2432" />
-        <option value="javascript:S2583" />
-        <option value="javascript:S2589" />
-        <option value="javascript:S2681" />
-        <option value="javascript:S2688" />
-        <option value="javascript:S2692" />
-        <option value="javascript:S2703" />
-        <option value="javascript:S2737" />
-        <option value="javascript:S2757" />
-        <option value="javascript:S2814" />
-        <option value="javascript:S2870" />
-        <option value="javascript:S2873" />
-        <option value="javascript:S2990" />
-        <option value="javascript:S2999" />
-        <option value="javascript:S3001" />
-        <option value="javascript:S3002" />
-        <option value="javascript:S3317" />
-        <option value="javascript:S3403" />
-        <option value="javascript:S3500" />
-        <option value="javascript:S3516" />
-        <option value="javascript:S3531" />
-        <option value="javascript:S3579" />
-        <option value="javascript:S3616" />
-        <option value="javascript:S3686" />
-        <option value="javascript:S3699" />
-        <option value="javascript:S3782" />
-        <option value="javascript:S3785" />
-        <option value="javascript:S3796" />
-        <option value="javascript:S3799" />
-        <option value="javascript:S3812" />
-        <option value="javascript:S3834" />
-        <option value="javascript:S3854" />
-        <option value="javascript:S3923" />
-        <option value="javascript:S3972" />
-        <option value="javascript:S3973" />
-        <option value="javascript:S3981" />
-        <option value="javascript:S3984" />
-        <option value="javascript:S4030" />
-        <option value="javascript:S4043" />
-        <option value="javascript:S4140" />
-        <option value="javascript:S4143" />
-        <option value="javascript:S4158" />
-        <option value="javascript:S4165" />
-        <option value="javascript:S4275" />
-        <option value="javascript:S4524" />
-        <option value="javascript:S878" />
-        <option value="javascript:S888" />
-        <option value="javascript:S905" />
-        <option value="javascript:S930" />
-        <option value="javascript:UnreachableCode" />
-        <option value="javascript:UnusedVariable" />
-        <option value="javascript:WithStatement" />
-        <option value="kotlin:S100" />
-        <option value="kotlin:S101" />
-        <option value="kotlin:S1066" />
-        <option value="kotlin:S107" />
-        <option value="kotlin:S108" />
-        <option value="kotlin:S1110" />
-        <option value="kotlin:S1125" />
-        <option value="kotlin:S1134" />
-        <option value="kotlin:S1135" />
-        <option value="kotlin:S1144" />
-        <option value="kotlin:S1145" />
-        <option value="kotlin:S117" />
-        <option value="kotlin:S1172" />
-        <option value="kotlin:S1186" />
-        <option value="kotlin:S1192" />
-        <option value="kotlin:S125" />
-        <option value="kotlin:S1479" />
-        <option value="kotlin:S1481" />
-        <option value="kotlin:S1656" />
-        <option value="kotlin:S1763" />
-        <option value="kotlin:S1764" />
-        <option value="kotlin:S1862" />
-        <option value="kotlin:S1871" />
-        <option value="kotlin:S1940" />
-        <option value="kotlin:S2068" />
-        <option value="kotlin:S2757" />
-        <option value="kotlin:S3776" />
-        <option value="kotlin:S3923" />
-        <option value="kotlin:S4144" />
-        <option value="kotlin:S4663" />
-        <option value="php:S101" />
-        <option value="php:S1066" />
-        <option value="php:S1068" />
-        <option value="php:S107" />
-        <option value="php:S1075" />
-        <option value="php:S108" />
-        <option value="php:S1109" />
-        <option value="php:S1110" />
-        <option value="php:S1116" />
-        <option value="php:S1117" />
-        <option value="php:S112" />
-        <option value="php:S1125" />
-        <option value="php:S1126" />
-        <option value="php:S1134" />
-        <option value="php:S1135" />
-        <option value="php:S114" />
-        <option value="php:S1142" />
-        <option value="php:S1144" />
-        <option value="php:S1145" />
-        <option value="php:S115" />
-        <option value="php:S1172" />
-        <option value="php:S1185" />
-        <option value="php:S1192" />
-        <option value="php:S121" />
-        <option value="php:S125" />
-        <option value="php:S1264" />
-        <option value="php:S127" />
-        <option value="php:S1301" />
-        <option value="php:S131" />
-        <option value="php:S138" />
-        <option value="php:S1448" />
-        <option value="php:S1479" />
-        <option value="php:S1481" />
-        <option value="php:S1488" />
-        <option value="php:S1536" />
-        <option value="php:S1599" />
-        <option value="php:S1600" />
-        <option value="php:S1603" />
-        <option value="php:S1605" />
-        <option value="php:S1656" />
-        <option value="php:S1697" />
-        <option value="php:S1751" />
-        <option value="php:S1763" />
-        <option value="php:S1764" />
-        <option value="php:S1788" />
-        <option value="php:S1848" />
-        <option value="php:S1854" />
-        <option value="php:S1862" />
-        <option value="php:S1871" />
-        <option value="php:S1998" />
-        <option value="php:S2004" />
-        <option value="php:S2010" />
-        <option value="php:S2014" />
-        <option value="php:S2041" />
-        <option value="php:S2053" />
-        <option value="php:S2115" />
-        <option value="php:S2123" />
-        <option value="php:S2201" />
-        <option value="php:S2251" />
-        <option value="php:S2681" />
-        <option value="php:S2737" />
-        <option value="php:S2757" />
-        <option value="php:S3358" />
-        <option value="php:S3626" />
-        <option value="php:S3699" />
-        <option value="php:S3776" />
-        <option value="php:S3801" />
-        <option value="php:S3923" />
-        <option value="php:S3972" />
-        <option value="php:S3973" />
-        <option value="php:S3981" />
-        <option value="php:S3984" />
-        <option value="php:S4144" />
-        <option value="php:S4423" />
-        <option value="php:S4426" />
-        <option value="php:S4433" />
-        <option value="php:S4524" />
-        <option value="php:S4830" />
-        <option value="php:S836" />
-        <option value="php:S905" />
-        <option value="php:S907" />
-        <option value="python:BackticksUsage" />
-        <option value="python:ExecStatementUsage" />
-        <option value="python:InequalityUsage" />
-        <option value="python:PreIncrementDecrement" />
-        <option value="python:PrintStatementUsage" />
-        <option value="python:S100" />
-        <option value="python:S101" />
-        <option value="python:S1066" />
-        <option value="python:S107" />
-        <option value="python:S108" />
-        <option value="python:S1110" />
-        <option value="python:S1134" />
-        <option value="python:S116" />
-        <option value="python:S117" />
-        <option value="python:S1186" />
-        <option value="python:S1192" />
-        <option value="python:S1226" />
-        <option value="python:S125" />
-        <option value="python:S1481" />
-        <option value="python:S1542" />
-        <option value="python:S1656" />
-        <option value="python:S1700" />
-        <option value="python:S1716" />
-        <option value="python:S1751" />
-        <option value="python:S1763" />
-        <option value="python:S1764" />
-        <option value="python:S1845" />
-        <option value="python:S1854" />
-        <option value="python:S1862" />
-        <option value="python:S1871" />
-        <option value="python:S2190" />
-        <option value="python:S2711" />
-        <option value="python:S2733" />
-        <option value="python:S2734" />
-        <option value="python:S2737" />
-        <option value="python:S2757" />
-        <option value="python:S2772" />
-        <option value="python:S3358" />
-        <option value="python:S3516" />
-        <option value="python:S3626" />
-        <option value="python:S3776" />
-        <option value="python:S3827" />
-        <option value="python:S3923" />
-        <option value="python:S3981" />
-        <option value="python:S4143" />
-        <option value="python:S4144" />
-        <option value="python:S4423" />
-        <option value="python:S4426" />
-        <option value="python:S5439" />
-        <option value="python:S5445" />
-        <option value="python:S5603" />
-        <option value="ruby:ParsingError" />
-        <option value="ruby:S100" />
-        <option value="ruby:S101" />
-        <option value="ruby:S1066" />
-        <option value="ruby:S107" />
-        <option value="ruby:S108" />
-        <option value="ruby:S1110" />
-        <option value="ruby:S1134" />
-        <option value="ruby:S1135" />
-        <option value="ruby:S1145" />
-        <option value="ruby:S117" />
-        <option value="ruby:S1172" />
-        <option value="ruby:S1186" />
-        <option value="ruby:S1192" />
-        <option value="ruby:S131" />
-        <option value="ruby:S1479" />
-        <option value="ruby:S1481" />
-        <option value="ruby:S1656" />
-        <option value="ruby:S1763" />
-        <option value="ruby:S1764" />
-        <option value="ruby:S1862" />
-        <option value="ruby:S1871" />
-        <option value="ruby:S1940" />
-        <option value="ruby:S2068" />
-        <option value="ruby:S2757" />
-        <option value="ruby:S3776" />
-        <option value="ruby:S3923" />
-        <option value="ruby:S4144" />
-        <option value="ruby:S4663" />
-        <option value="squid:S4684" />
-        <option value="typescript:S108" />
-        <option value="typescript:S1110" />
-        <option value="typescript:S1116" />
-        <option value="typescript:S1117" />
-        <option value="typescript:S1143" />
-        <option value="typescript:S1264" />
-        <option value="typescript:S1301" />
-        <option value="typescript:S1479" />
-        <option value="typescript:S1516" />
-        <option value="typescript:S1525" />
-        <option value="typescript:S1533" />
-        <option value="typescript:S1656" />
-        <option value="typescript:S1751" />
-        <option value="typescript:S1764" />
-        <option value="typescript:S1854" />
-        <option value="typescript:S1862" />
-        <option value="typescript:S1871" />
-        <option value="typescript:S1940" />
-        <option value="typescript:S2123" />
-        <option value="typescript:S2201" />
-        <option value="typescript:S2589" />
-        <option value="typescript:S2681" />
-        <option value="typescript:S2688" />
-        <option value="typescript:S2737" />
-        <option value="typescript:S2757" />
-        <option value="typescript:S2814" />
-        <option value="typescript:S2870" />
-        <option value="typescript:S2871" />
-        <option value="typescript:S3516" />
-        <option value="typescript:S3616" />
-        <option value="typescript:S3699" />
-        <option value="typescript:S3799" />
-        <option value="typescript:S3854" />
-        <option value="typescript:S3923" />
-        <option value="typescript:S3972" />
-        <option value="typescript:S3981" />
-        <option value="typescript:S3984" />
-        <option value="typescript:S4030" />
-        <option value="typescript:S4043" />
-        <option value="typescript:S4123" />
-        <option value="typescript:S4124" />
-        <option value="typescript:S4140" />
-        <option value="typescript:S4143" />
-        <option value="typescript:S4158" />
-        <option value="typescript:S4275" />
-        <option value="typescript:S4325" />
-        <option value="typescript:S4335" />
-        <option value="typescript:S4524" />
-        <option value="typescript:S4619" />
-        <option value="typescript:S4621" />
-        <option value="typescript:S4623" />
-        <option value="typescript:S4782" />
-        <option value="typescript:S4822" />
-        <option value="typescript:S878" />
-        <option value="typescript:S905" />
-      </set>
-    </option>
     <option name="fileExclusions">
       <list>
         <option value="**/*.html" />
@@ -388,5 +19,372 @@
         </SonarQubeServer>
       </list>
     </option>
+    <rules>
+      <Rule active="false" key="javascript:S3785" />
+      <Rule active="false" key="javascript:S3782" />
+      <Rule active="false" key="kotlin:S1764" />
+      <Rule active="false" key="javascript:S2692" />
+      <Rule active="false" key="typescript:S905" />
+      <Rule active="false" key="kotlin:S1763" />
+      <Rule active="false" key="python:S3827" />
+      <Rule active="false" key="ruby:S101" />
+      <Rule active="false" key="python:S2737" />
+      <Rule active="false" key="ruby:S100" />
+      <Rule active="false" key="javascript:S1128" />
+      <Rule active="false" key="Web:PageWithoutTitleCheck" />
+      <Rule active="false" key="javascript:S1126" />
+      <Rule active="false" key="python:S2734" />
+      <Rule active="false" key="python:S2733" />
+      <Rule active="false" key="python:S5445" />
+      <Rule active="false" key="python:S1763" />
+      <Rule active="false" key="python:S1764" />
+      <Rule active="false" key="php:S1656" />
+      <Rule active="false" key="ruby:S2068" />
+      <Rule active="false" key="javascript:DuplicateFunctionArgument" />
+      <Rule active="false" key="ruby:S1656" />
+      <Rule active="false" key="php:S1536" />
+      <Rule active="false" key="javascript:S2201" />
+      <Rule active="false" key="javascript:S3531" />
+      <Rule active="false" key="kotlin:S1871" />
+      <Rule active="false" key="javascript:S1472" />
+      <Rule active="false" key="javascript:S1110" />
+      <Rule active="false" key="Web:ItemTagNotWithinContainerTagCheck" />
+      <Rule active="false" key="typescript:S4524" />
+      <Rule active="false" key="javascript:S2681" />
+      <Rule active="false" key="typescript:S2589" />
+      <Rule active="false" key="typescript:S3799" />
+      <Rule active="false" key="javascript:BitwiseOperators" />
+      <Rule active="false" key="javascript:S1119" />
+      <Rule active="false" key="kotlin:S1192" />
+      <Rule active="false" key="javascript:S1117" />
+      <Rule active="false" key="javascript:S2688" />
+      <Rule active="false" key="javascript:S1116" />
+      <Rule active="false" key="javascript:S1479" />
+      <Rule active="false" key="python:S1656" />
+      <Rule active="false" key="Web:FlashUsesBothObjectAndEmbedCheck" />
+      <Rule active="false" key="php:S1788" />
+      <Rule active="false" key="ruby:S108" />
+      <Rule active="false" key="php:S1301" />
+      <Rule active="false" key="ruby:S107" />
+      <Rule active="false" key="ruby:S1763" />
+      <Rule active="false" key="ruby:S1764" />
+      <Rule active="false" key="typescript:S1143" />
+      <Rule active="false" key="typescript:S1264" />
+      <Rule active="false" key="kotlin:S3923" />
+      <Rule active="false" key="Web:AvoidCommentedOutCodeCheck" />
+      <Rule active="false" key="php:S2757" />
+      <Rule active="false" key="typescript:S108" />
+      <Rule active="false" key="javascript:FunctionDefinitionInsideLoop" />
+      <Rule active="false" key="javascript:S878" />
+      <Rule active="false" key="javascript:S2432" />
+      <Rule active="false" key="python:S1542" />
+      <Rule active="false" key="kotlin:S1186" />
+      <Rule active="false" key="kotlin:S1066" />
+      <Rule active="false" key="typescript:S1940" />
+      <Rule active="false" key="kotlin:S1862" />
+      <Rule active="false" key="php:S1075" />
+      <Rule active="false" key="php:S2041" />
+      <Rule active="false" key="python:S2757" />
+      <Rule active="false" key="Web:ImgWithoutAltCheck" />
+      <Rule active="false" key="Web:TableWithoutCaptionCheck" />
+      <Rule active="false" key="javascript:S3403" />
+      <Rule active="false" key="php:S1192" />
+      <Rule active="false" key="ruby:S4144" />
+      <Rule active="false" key="php:S1871" />
+      <Rule active="false" key="php:S1751" />
+      <Rule active="false" key="typescript:S2123" />
+      <Rule active="false" key="python:S2190" />
+      <Rule active="false" key="php:S1998" />
+      <Rule active="false" key="typescript:S4782" />
+      <Rule active="false" key="javascript:S888" />
+      <Rule active="false" key="typescript:S3699" />
+      <Rule active="false" key="javascript:S4165" />
+      <Rule active="false" key="javascript:S4043" />
+      <Rule active="false" key="javascript:S1219" />
+      <Rule active="false" key="python:S4143" />
+      <Rule active="false" key="javascript:S3516" />
+      <Rule active="false" key="python:S4144" />
+      <Rule active="false" key="php:S2053" />
+      <Rule active="false" key="kotlin:S1172" />
+      <Rule active="false" key="Web:UnsupportedTagsInHtml5Check" />
+      <Rule active="false" key="php:S1763" />
+      <Rule active="false" key="php:S1764" />
+      <Rule active="false" key="ruby:S2757" />
+      <Rule active="false" key="php:S2737" />
+      <Rule active="false" key="javascript:S1442" />
+      <Rule active="false" key="javascript:S4158" />
+      <Rule active="false" key="javascript:S3981" />
+      <Rule active="false" key="python:S107" />
+      <Rule active="false" key="python:S2772" />
+      <Rule active="false" key="javascript:S930" />
+      <Rule active="false" key="python:S3981" />
+      <Rule active="false" key="typescript:S2814" />
+      <Rule active="false" key="javascript:S4275" />
+      <Rule active="false" key="python:S108" />
+      <Rule active="false" key="ruby:ParsingError" />
+      <Rule active="false" key="php:S1172" />
+      <Rule active="false" key="python:S3626" />
+      <Rule active="false" key="ruby:S1172" />
+      <Rule active="false" key="Web:ServerSideImageMapsCheck" />
+      <Rule active="false" key="javascript:S3500" />
+      <Rule active="false" key="javascript:S3984" />
+      <Rule active="false" key="javascript:DuplicatePropertyName" />
+      <Rule active="false" key="php:S1854" />
+      <Rule active="false" key="php:S3358" />
+      <Rule active="false" key="python:PreIncrementDecrement" />
+      <Rule active="false" key="javascript:S3972" />
+      <Rule active="false" key="typescript:S1854" />
+      <Rule active="false" key="python:BackticksUsage" />
+      <Rule active="false" key="javascript:S4143" />
+      <Rule active="false" key="typescript:S4325" />
+      <Rule active="false" key="php:S1185" />
+      <Rule active="false" key="php:S836" />
+      <Rule active="false" key="javascript:S3616" />
+      <Rule active="false" key="python:S3516" />
+      <Rule active="false" key="kotlin:S4144" />
+      <Rule active="false" key="javascript:S3854" />
+      <Rule active="false" key="javascript:S3973" />
+      <Rule active="false" key="php:S3801" />
+      <Rule active="false" key="php:S1862" />
+      <Rule active="false" key="php:S1068" />
+      <Rule active="false" key="php:S1066" />
+      <Rule active="false" key="javascript:S4030" />
+      <Rule active="false" key="typescript:S4335" />
+      <Rule active="false" key="kotlin:S2757" />
+      <Rule active="false" key="python:S101" />
+      <Rule active="false" key="python:S100" />
+      <Rule active="false" key="php:S3923" />
+      <Rule active="false" key="typescript:S3923" />
+      <Rule active="false" key="javascript:S2990" />
+      <Rule active="false" key="javascript:S2870" />
+      <Rule active="false" key="typescript:S1862" />
+      <Rule active="false" key="javascript:S1788" />
+      <Rule active="false" key="javascript:S2757" />
+      <Rule active="false" key="javascript:S2999" />
+      <Rule active="false" key="python:PrintStatementUsage" />
+      <Rule active="false" key="python:S1226" />
+      <Rule active="false" key="javascript:S2873" />
+      <Rule active="false" key="ruby:S1192" />
+      <Rule active="false" key="javascript:S1301" />
+      <Rule active="false" key="php:S4426" />
+      <Rule active="false" key="squid:S4684" />
+      <Rule active="false" key="php:S3699" />
+      <Rule active="false" key="ruby:S117" />
+      <Rule active="false" key="php:S2004" />
+      <Rule active="false" key="php:S4423" />
+      <Rule active="false" key="ruby:S1871" />
+      <Rule active="false" key="php:S2123" />
+      <Rule active="false" key="javascript:S4140" />
+      <Rule active="false" key="kotlin:S1656" />
+      <Rule active="false" key="typescript:S1871" />
+      <Rule active="false" key="javascript:S2189" />
+      <Rule active="false" key="kotlin:S2068" />
+      <Rule active="false" key="python:S116" />
+      <Rule active="false" key="python:S1110" />
+      <Rule active="false" key="python:S117" />
+      <Rule active="false" key="typescript:S1516" />
+      <Rule active="false" key="typescript:S1751" />
+      <Rule active="false" key="php:S2010" />
+      <Rule active="false" key="javascript:S1656" />
+      <Rule active="false" key="javascript:S3834" />
+      <Rule active="false" key="php:S2251" />
+      <Rule active="false" key="ruby:S131" />
+      <Rule active="false" key="javascript:S1533" />
+      <Rule active="false" key="python:S3776" />
+      <Rule active="false" key="php:S1600" />
+      <Rule active="false" key="ruby:S1066" />
+      <Rule active="false" key="ruby:S1186" />
+      <Rule active="false" key="php:S2014" />
+      <Rule active="false" key="ruby:S1862" />
+      <Rule active="false" key="javascript:FutureReservedWords" />
+      <Rule active="false" key="php:S4433" />
+      <Rule active="false" key="ruby:S3923" />
+      <Rule active="false" key="php:S1848" />
+      <Rule active="false" key="php:S1605" />
+      <Rule active="false" key="python:S125" />
+      <Rule active="false" key="php:S1603" />
+      <Rule active="false" key="python:S5603" />
+      <Rule active="false" key="typescript:S1525" />
+      <Rule active="false" key="php:S101" />
+      <Rule active="false" key="typescript:S2737" />
+      <Rule active="false" key="php:S107" />
+      <Rule active="false" key="javascript:UnreachableCode" />
+      <Rule active="false" key="typescript:S1764" />
+      <Rule active="false" key="kotlin:S1125" />
+      <Rule active="false" key="python:S1481" />
+      <Rule active="false" key="javascript:S2737" />
+      <Rule active="false" key="php:S108" />
+      <Rule active="false" key="javascript:S1525" />
+      <Rule active="false" key="javascript:S1764" />
+      <Rule active="false" key="kotlin:S1481" />
+      <Rule active="false" key="javascript:UnusedVariable" />
+      <Rule active="false" key="php:S907" />
+      <Rule active="false" key="php:S905" />
+      <Rule active="false" key="php:S4524" />
+      <Rule active="false" key="php:S1134" />
+      <Rule active="false" key="php:S1135" />
+      <Rule active="false" key="Web:BoldAndItalicTagsCheck" />
+      <Rule active="false" key="ruby:S1134" />
+      <Rule active="false" key="ruby:S1135" />
+      <Rule active="false" key="javascript:WithStatement" />
+      <Rule active="false" key="typescript:S4124" />
+      <Rule active="false" key="typescript:S4123" />
+      <Rule active="false" key="typescript:S878" />
+      <Rule active="false" key="javascript:S108" />
+      <Rule active="false" key="python:S1134" />
+      <Rule active="false" key="typescript:S1656" />
+      <Rule active="false" key="javascript:S1871" />
+      <Rule active="false" key="php:S114" />
+      <Rule active="false" key="kotlin:S1110" />
+      <Rule active="false" key="php:S112" />
+      <Rule active="false" key="kotlin:S1479" />
+      <Rule active="false" key="kotlin:S3776" />
+      <Rule active="false" key="php:S115" />
+      <Rule active="false" key="typescript:S1533" />
+      <Rule active="false" key="javascript:S1516" />
+      <Rule active="false" key="php:S1142" />
+      <Rule active="false" key="javascript:S3812" />
+      <Rule active="false" key="javascript:S905" />
+      <Rule active="false" key="ruby:S1481" />
+      <Rule active="false" key="javascript:S1751" />
+      <Rule active="false" key="kotlin:S125" />
+      <Rule active="false" key="php:S2115" />
+      <Rule active="false" key="php:S1145" />
+      <Rule active="false" key="php:S1264" />
+      <Rule active="false" key="php:S1144" />
+      <Rule active="false" key="typescript:S2870" />
+      <Rule active="false" key="typescript:S2871" />
+      <Rule active="false" key="php:S121" />
+      <Rule active="false" key="php:S125" />
+      <Rule active="false" key="typescript:S2757" />
+      <Rule active="false" key="javascript:S3001" />
+      <Rule active="false" key="javascript:S3002" />
+      <Rule active="false" key="typescript:S1301" />
+      <Rule active="false" key="php:S127" />
+      <Rule active="false" key="php:S2681" />
+      <Rule active="false" key="javascript:S3923" />
+      <Rule active="false" key="python:S1700" />
+      <Rule active="false" key="Web:S4645" />
+      <Rule active="false" key="javascript:S1862" />
+      <Rule active="false" key="php:S1116" />
+      <Rule active="false" key="php:S1479" />
+      <Rule active="false" key="php:S1117" />
+      <Rule active="false" key="ruby:S4663" />
+      <Rule active="false" key="Web:S1134" />
+      <Rule active="false" key="typescript:S4140" />
+      <Rule active="false" key="Web:S1135" />
+      <Rule active="false" key="php:S1599" />
+      <Rule active="false" key="php:S3776" />
+      <Rule active="false" key="php:S2201" />
+      <Rule active="false" key="kotlin:S117" />
+      <Rule active="false" key="php:S1110" />
+      <Rule active="false" key="typescript:S3972" />
+      <Rule active="false" key="Web:S4084" />
+      <Rule active="false" key="php:S131" />
+      <Rule active="false" key="typescript:S4143" />
+      <Rule active="false" key="python:S4426" />
+      <Rule active="false" key="typescript:S3616" />
+      <Rule active="false" key="Web:S1827" />
+      <Rule active="false" key="php:S138" />
+      <Rule active="false" key="typescript:S3854" />
+      <Rule active="false" key="typescript:S4822" />
+      <Rule active="false" key="javascript:S2703" />
+      <Rule active="false" key="javascript:S1854" />
+      <Rule active="false" key="php:S1481" />
+      <Rule active="false" key="python:S4423" />
+      <Rule active="false" key="php:S1125" />
+      <Rule active="false" key="php:S1488" />
+      <Rule active="false" key="typescript:S4030" />
+      <Rule active="false" key="kotlin:S101" />
+      <Rule active="false" key="php:S1126" />
+      <Rule active="false" key="kotlin:S108" />
+      <Rule active="false" key="kotlin:S107" />
+      <Rule active="false" key="ruby:S1940" />
+      <Rule active="false" key="ruby:S1145" />
+      <Rule active="false" key="typescript:S3981" />
+      <Rule active="false" key="typescript:S4158" />
+      <Rule active="false" key="kotlin:S100" />
+      <Rule active="false" key="typescript:S4275" />
+      <Rule active="false" key="javascript:S2251" />
+      <Rule active="false" key="typescript:S3984" />
+      <Rule active="false" key="python:ExecStatementUsage" />
+      <Rule active="false" key="javascript:S2814" />
+      <Rule active="false" key="python:S1845" />
+      <Rule active="false" key="javascript:NonEmptyCaseWithoutBreak" />
+      <Rule active="false" key="javascript:S2259" />
+      <Rule active="false" key="javascript:S2137" />
+      <Rule active="false" key="php:S1697" />
+      <Rule active="false" key="Web:FieldsetWithoutLegendCheck" />
+      <Rule active="false" key="python:S1716" />
+      <Rule active="false" key="typescript:S4043" />
+      <Rule active="false" key="javascript:S2123" />
+      <Rule active="false" key="typescript:S3516" />
+      <Rule active="false" key="kotlin:S4663" />
+      <Rule active="false" key="Web:MetaRefreshCheck" />
+      <Rule active="false" key="Web:LinkToImageCheck" />
+      <Rule active="false" key="Web:FrameWithoutTitleCheck" />
+      <Rule active="false" key="javascript:S3579" />
+      <Rule active="false" key="python:S1854" />
+      <Rule active="false" key="javascript:S3699" />
+      <Rule active="false" key="python:S3358" />
+      <Rule active="false" key="Web:TableHeaderHasIdOrScopeCheck" />
+      <Rule active="false" key="javascript:OctalNumber" />
+      <Rule active="false" key="php:S1109" />
+      <Rule active="false" key="javascript:S3686" />
+      <Rule active="false" key="kotlin:S1144" />
+      <Rule active="false" key="kotlin:S1145" />
+      <Rule active="false" key="python:S1066" />
+      <Rule active="false" key="javascript:S1143" />
+      <Rule active="false" key="javascript:S1264" />
+      <Rule active="false" key="kotlin:S1940" />
+      <Rule active="false" key="python:S1186" />
+      <Rule active="false" key="php:S4144" />
+      <Rule active="false" key="python:S3923" />
+      <Rule active="false" key="Web:DoctypePresenceCheck" />
+      <Rule active="false" key="javascript:S1940" />
+      <Rule active="false" key="python:S2711" />
+      <Rule active="false" key="typescript:S4619" />
+      <Rule active="false" key="python:S1862" />
+      <Rule active="false" key="ruby:S1110" />
+      <Rule active="false" key="Web:S5257" />
+      <Rule active="false" key="Web:S5258" />
+      <Rule active="false" key="Web:S5255" />
+      <Rule active="false" key="php:S3973" />
+      <Rule active="false" key="Web:S5256" />
+      <Rule active="false" key="php:S3972" />
+      <Rule active="false" key="ruby:S3776" />
+      <Rule active="false" key="Web:S5254" />
+      <Rule active="false" key="typescript:S1110" />
+      <Rule active="false" key="ruby:S1479" />
+      <Rule active="false" key="typescript:S4621" />
+      <Rule active="false" key="typescript:S2201" />
+      <Rule active="false" key="typescript:S2681" />
+      <Rule active="false" key="javascript:S3796" />
+      <Rule active="false" key="python:S1871" />
+      <Rule active="false" key="typescript:S1117" />
+      <Rule active="false" key="kotlin:S1134" />
+      <Rule active="false" key="python:S1751" />
+      <Rule active="false" key="javascript:S2583" />
+      <Rule active="false" key="python:S5439" />
+      <Rule active="false" key="typescript:S4623" />
+      <Rule active="false" key="kotlin:S1135" />
+      <Rule active="false" key="typescript:S2688" />
+      <Rule active="false" key="python:InequalityUsage" />
+      <Rule active="false" key="typescript:S1116" />
+      <Rule active="false" key="typescript:S1479" />
+      <Rule active="false" key="javascript:S3317" />
+      <Rule active="false" key="javascript:S2589" />
+      <Rule active="false" key="javascript:S3799" />
+      <Rule active="false" key="javascript:S4524" />
+      <Rule active="false" key="Web:S5148" />
+      <Rule active="false" key="php:S3984" />
+      <Rule active="false" key="php:S4830" />
+      <Rule active="false" key="Web:S5264" />
+      <Rule active="false" key="php:S3981" />
+      <Rule active="false" key="python:S1192" />
+      <Rule active="false" key="Web:S5260" />
+      <Rule active="false" key="php:S1448" />
+      <Rule active="false" key="php:S3626" />
+    </rules>
   </component>
 </application>

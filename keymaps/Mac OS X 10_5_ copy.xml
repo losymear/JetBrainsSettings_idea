@@ -5,6 +5,14 @@
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="Git.Log.Branches.Change.Branch.Filter">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="ServiceView.GroupByContributor" />
+  <action id="UsageGrouping.UsageType" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>

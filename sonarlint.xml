@@ -8,14 +8,14 @@
         <option value="**/MavenWrapperDownloader.java" />
       </list>
     </option>
+    <option name="nodejsPath" value="" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="http://sonarqube.17qms.com/" />
-          <option name="name" value="17qms" />
+          <option name="hostUrl" value="http://localhost:9000/" />
+          <option name="name" value="localhost" />
           <option name="login" value="admin" />
-          <password>dfcedfcfdfc7dfc5</password>
-          <organizationKey>default-organization</organizationKey>
+          <password>dfdddfcbdfc4dfcddfd3dfc3dfc4</password>
         </SonarQubeServer>
       </list>
     </option>
@@ -23,28 +23,27 @@
       <Rule active="false" key="javascript:S3785" />
       <Rule active="false" key="javascript:S3782" />
       <Rule active="false" key="kotlin:S1764" />
-      <Rule active="false" key="javascript:S2692" />
       <Rule active="false" key="typescript:S905" />
+      <Rule active="false" key="javascript:S2692" />
       <Rule active="false" key="kotlin:S1763" />
       <Rule active="false" key="python:S3827" />
       <Rule active="false" key="ruby:S101" />
-      <Rule active="false" key="python:S2737" />
       <Rule active="false" key="ruby:S100" />
+      <Rule active="false" key="python:S2737" />
       <Rule active="false" key="javascript:S1128" />
-      <Rule active="false" key="Web:PageWithoutTitleCheck" />
       <Rule active="false" key="javascript:S1126" />
+      <Rule active="false" key="Web:PageWithoutTitleCheck" />
       <Rule active="false" key="python:S2734" />
-      <Rule active="false" key="python:S2733" />
       <Rule active="false" key="python:S5445" />
       <Rule active="false" key="python:S1763" />
       <Rule active="false" key="python:S1764" />
-      <Rule active="false" key="php:S1656" />
       <Rule active="false" key="ruby:S2068" />
+      <Rule active="false" key="php:S1656" />
       <Rule active="false" key="javascript:DuplicateFunctionArgument" />
       <Rule active="false" key="ruby:S1656" />
       <Rule active="false" key="php:S1536" />
-      <Rule active="false" key="javascript:S2201" />
       <Rule active="false" key="javascript:S3531" />
+      <Rule active="false" key="javascript:S2201" />
       <Rule active="false" key="kotlin:S1871" />
       <Rule active="false" key="javascript:S1472" />
       <Rule active="false" key="javascript:S1110" />
@@ -54,30 +53,29 @@
       <Rule active="false" key="typescript:S2589" />
       <Rule active="false" key="typescript:S3799" />
       <Rule active="false" key="javascript:BitwiseOperators" />
-      <Rule active="false" key="javascript:S1119" />
       <Rule active="false" key="kotlin:S1192" />
       <Rule active="false" key="javascript:S1117" />
       <Rule active="false" key="javascript:S2688" />
-      <Rule active="false" key="javascript:S1116" />
       <Rule active="false" key="javascript:S1479" />
       <Rule active="false" key="python:S1656" />
+      <Rule active="false" key="javascript:S1116" />
       <Rule active="false" key="Web:FlashUsesBothObjectAndEmbedCheck" />
-      <Rule active="false" key="php:S1788" />
       <Rule active="false" key="ruby:S108" />
-      <Rule active="false" key="php:S1301" />
+      <Rule active="false" key="php:S1788" />
       <Rule active="false" key="ruby:S107" />
+      <Rule active="false" key="php:S1301" />
       <Rule active="false" key="ruby:S1763" />
       <Rule active="false" key="ruby:S1764" />
-      <Rule active="false" key="typescript:S1143" />
       <Rule active="false" key="typescript:S1264" />
+      <Rule active="false" key="typescript:S1143" />
       <Rule active="false" key="kotlin:S3923" />
       <Rule active="false" key="Web:AvoidCommentedOutCodeCheck" />
       <Rule active="false" key="php:S2757" />
       <Rule active="false" key="typescript:S108" />
-      <Rule active="false" key="javascript:FunctionDefinitionInsideLoop" />
       <Rule active="false" key="javascript:S878" />
-      <Rule active="false" key="javascript:S2432" />
+      <Rule active="false" key="javascript:FunctionDefinitionInsideLoop" />
       <Rule active="false" key="python:S1542" />
+      <Rule active="false" key="javascript:S2432" />
       <Rule active="false" key="kotlin:S1186" />
       <Rule active="false" key="kotlin:S1066" />
       <Rule active="false" key="typescript:S1940" />
@@ -87,8 +85,8 @@
       <Rule active="false" key="python:S2757" />
       <Rule active="false" key="Web:ImgWithoutAltCheck" />
       <Rule active="false" key="Web:TableWithoutCaptionCheck" />
-      <Rule active="false" key="javascript:S3403" />
       <Rule active="false" key="php:S1192" />
+      <Rule active="false" key="javascript:S3403" />
       <Rule active="false" key="ruby:S4144" />
       <Rule active="false" key="php:S1871" />
       <Rule active="false" key="php:S1751" />
@@ -100,34 +98,33 @@
       <Rule active="false" key="typescript:S3699" />
       <Rule active="false" key="javascript:S4165" />
       <Rule active="false" key="javascript:S4043" />
-      <Rule active="false" key="javascript:S1219" />
       <Rule active="false" key="python:S4143" />
-      <Rule active="false" key="javascript:S3516" />
+      <Rule active="false" key="javascript:S1219" />
       <Rule active="false" key="python:S4144" />
+      <Rule active="false" key="javascript:S3516" />
       <Rule active="false" key="php:S2053" />
       <Rule active="false" key="kotlin:S1172" />
-      <Rule active="false" key="Web:UnsupportedTagsInHtml5Check" />
       <Rule active="false" key="php:S1763" />
+      <Rule active="false" key="Web:UnsupportedTagsInHtml5Check" />
       <Rule active="false" key="php:S1764" />
       <Rule active="false" key="ruby:S2757" />
       <Rule active="false" key="php:S2737" />
-      <Rule active="false" key="javascript:S1442" />
       <Rule active="false" key="javascript:S4158" />
+      <Rule active="false" key="python:S2772" />
       <Rule active="false" key="javascript:S3981" />
       <Rule active="false" key="python:S107" />
-      <Rule active="false" key="python:S2772" />
-      <Rule active="false" key="javascript:S930" />
       <Rule active="false" key="python:S3981" />
+      <Rule active="false" key="javascript:S930" />
       <Rule active="false" key="typescript:S2814" />
-      <Rule active="false" key="javascript:S4275" />
       <Rule active="false" key="python:S108" />
       <Rule active="false" key="ruby:ParsingError" />
+      <Rule active="false" key="javascript:S4275" />
       <Rule active="false" key="php:S1172" />
       <Rule active="false" key="python:S3626" />
       <Rule active="false" key="ruby:S1172" />
       <Rule active="false" key="Web:ServerSideImageMapsCheck" />
-      <Rule active="false" key="javascript:S3500" />
       <Rule active="false" key="javascript:S3984" />
+      <Rule active="false" key="javascript:S3500" />
       <Rule active="false" key="javascript:DuplicatePropertyName" />
       <Rule active="false" key="php:S1854" />
       <Rule active="false" key="php:S3358" />
@@ -163,39 +160,38 @@
       <Rule active="false" key="javascript:S2999" />
       <Rule active="false" key="python:PrintStatementUsage" />
       <Rule active="false" key="python:S1226" />
-      <Rule active="false" key="javascript:S2873" />
       <Rule active="false" key="ruby:S1192" />
       <Rule active="false" key="javascript:S1301" />
-      <Rule active="false" key="php:S4426" />
       <Rule active="false" key="squid:S4684" />
+      <Rule active="false" key="php:S4426" />
       <Rule active="false" key="php:S3699" />
       <Rule active="false" key="ruby:S117" />
-      <Rule active="false" key="php:S2004" />
       <Rule active="false" key="php:S4423" />
+      <Rule active="false" key="php:S2004" />
       <Rule active="false" key="ruby:S1871" />
       <Rule active="false" key="php:S2123" />
       <Rule active="false" key="javascript:S4140" />
       <Rule active="false" key="kotlin:S1656" />
       <Rule active="false" key="typescript:S1871" />
-      <Rule active="false" key="javascript:S2189" />
       <Rule active="false" key="kotlin:S2068" />
+      <Rule active="false" key="javascript:S2189" />
       <Rule active="false" key="python:S116" />
       <Rule active="false" key="python:S1110" />
-      <Rule active="false" key="python:S117" />
       <Rule active="false" key="typescript:S1516" />
+      <Rule active="false" key="python:S117" />
       <Rule active="false" key="typescript:S1751" />
       <Rule active="false" key="php:S2010" />
       <Rule active="false" key="javascript:S1656" />
+      <Rule active="false" key="ruby:S131" />
       <Rule active="false" key="javascript:S3834" />
       <Rule active="false" key="php:S2251" />
-      <Rule active="false" key="ruby:S131" />
       <Rule active="false" key="javascript:S1533" />
       <Rule active="false" key="python:S3776" />
       <Rule active="false" key="php:S1600" />
-      <Rule active="false" key="ruby:S1066" />
       <Rule active="false" key="ruby:S1186" />
-      <Rule active="false" key="php:S2014" />
+      <Rule active="false" key="ruby:S1066" />
       <Rule active="false" key="ruby:S1862" />
+      <Rule active="false" key="php:S2014" />
       <Rule active="false" key="javascript:FutureReservedWords" />
       <Rule active="false" key="php:S4433" />
       <Rule active="false" key="ruby:S3923" />
@@ -204,17 +200,15 @@
       <Rule active="false" key="python:S125" />
       <Rule active="false" key="php:S1603" />
       <Rule active="false" key="python:S5603" />
-      <Rule active="false" key="typescript:S1525" />
       <Rule active="false" key="php:S101" />
       <Rule active="false" key="typescript:S2737" />
       <Rule active="false" key="php:S107" />
-      <Rule active="false" key="javascript:UnreachableCode" />
       <Rule active="false" key="typescript:S1764" />
+      <Rule active="false" key="javascript:UnreachableCode" />
       <Rule active="false" key="kotlin:S1125" />
       <Rule active="false" key="python:S1481" />
       <Rule active="false" key="javascript:S2737" />
       <Rule active="false" key="php:S108" />
-      <Rule active="false" key="javascript:S1525" />
       <Rule active="false" key="javascript:S1764" />
       <Rule active="false" key="kotlin:S1481" />
       <Rule active="false" key="javascript:UnusedVariable" />
@@ -223,18 +217,18 @@
       <Rule active="false" key="php:S4524" />
       <Rule active="false" key="php:S1134" />
       <Rule active="false" key="php:S1135" />
-      <Rule active="false" key="Web:BoldAndItalicTagsCheck" />
       <Rule active="false" key="ruby:S1134" />
+      <Rule active="false" key="Web:BoldAndItalicTagsCheck" />
       <Rule active="false" key="ruby:S1135" />
       <Rule active="false" key="javascript:WithStatement" />
       <Rule active="false" key="typescript:S4124" />
       <Rule active="false" key="typescript:S4123" />
       <Rule active="false" key="typescript:S878" />
-      <Rule active="false" key="javascript:S108" />
-      <Rule active="false" key="python:S1134" />
       <Rule active="false" key="typescript:S1656" />
-      <Rule active="false" key="javascript:S1871" />
+      <Rule active="false" key="python:S1134" />
+      <Rule active="false" key="javascript:S108" />
       <Rule active="false" key="php:S114" />
+      <Rule active="false" key="javascript:S1871" />
       <Rule active="false" key="kotlin:S1110" />
       <Rule active="false" key="php:S112" />
       <Rule active="false" key="kotlin:S1479" />
@@ -255,10 +249,9 @@
       <Rule active="false" key="typescript:S2870" />
       <Rule active="false" key="typescript:S2871" />
       <Rule active="false" key="php:S121" />
-      <Rule active="false" key="php:S125" />
       <Rule active="false" key="typescript:S2757" />
+      <Rule active="false" key="php:S125" />
       <Rule active="false" key="javascript:S3001" />
-      <Rule active="false" key="javascript:S3002" />
       <Rule active="false" key="typescript:S1301" />
       <Rule active="false" key="php:S127" />
       <Rule active="false" key="php:S2681" />
@@ -268,13 +261,13 @@
       <Rule active="false" key="javascript:S1862" />
       <Rule active="false" key="php:S1116" />
       <Rule active="false" key="php:S1479" />
-      <Rule active="false" key="php:S1117" />
       <Rule active="false" key="ruby:S4663" />
+      <Rule active="false" key="php:S1117" />
       <Rule active="false" key="Web:S1134" />
       <Rule active="false" key="typescript:S4140" />
-      <Rule active="false" key="Web:S1135" />
-      <Rule active="false" key="php:S1599" />
       <Rule active="false" key="php:S3776" />
+      <Rule active="false" key="php:S1599" />
+      <Rule active="false" key="Web:S1135" />
       <Rule active="false" key="php:S2201" />
       <Rule active="false" key="kotlin:S117" />
       <Rule active="false" key="php:S1110" />
@@ -286,15 +279,15 @@
       <Rule active="false" key="typescript:S3616" />
       <Rule active="false" key="Web:S1827" />
       <Rule active="false" key="php:S138" />
-      <Rule active="false" key="typescript:S3854" />
       <Rule active="false" key="typescript:S4822" />
+      <Rule active="false" key="typescript:S3854" />
       <Rule active="false" key="javascript:S2703" />
       <Rule active="false" key="javascript:S1854" />
       <Rule active="false" key="php:S1481" />
       <Rule active="false" key="python:S4423" />
       <Rule active="false" key="php:S1125" />
-      <Rule active="false" key="php:S1488" />
       <Rule active="false" key="typescript:S4030" />
+      <Rule active="false" key="php:S1488" />
       <Rule active="false" key="kotlin:S101" />
       <Rule active="false" key="php:S1126" />
       <Rule active="false" key="kotlin:S108" />
@@ -310,8 +303,8 @@
       <Rule active="false" key="python:ExecStatementUsage" />
       <Rule active="false" key="javascript:S2814" />
       <Rule active="false" key="python:S1845" />
-      <Rule active="false" key="javascript:NonEmptyCaseWithoutBreak" />
       <Rule active="false" key="javascript:S2259" />
+      <Rule active="false" key="javascript:NonEmptyCaseWithoutBreak" />
       <Rule active="false" key="javascript:S2137" />
       <Rule active="false" key="php:S1697" />
       <Rule active="false" key="Web:FieldsetWithoutLegendCheck" />
@@ -340,35 +333,32 @@
       <Rule active="false" key="python:S1186" />
       <Rule active="false" key="php:S4144" />
       <Rule active="false" key="python:S3923" />
-      <Rule active="false" key="Web:DoctypePresenceCheck" />
       <Rule active="false" key="javascript:S1940" />
+      <Rule active="false" key="Web:DoctypePresenceCheck" />
       <Rule active="false" key="python:S2711" />
-      <Rule active="false" key="typescript:S4619" />
       <Rule active="false" key="python:S1862" />
       <Rule active="false" key="ruby:S1110" />
       <Rule active="false" key="Web:S5257" />
       <Rule active="false" key="Web:S5258" />
       <Rule active="false" key="Web:S5255" />
       <Rule active="false" key="php:S3973" />
-      <Rule active="false" key="Web:S5256" />
       <Rule active="false" key="php:S3972" />
       <Rule active="false" key="ruby:S3776" />
+      <Rule active="false" key="Web:S5256" />
       <Rule active="false" key="Web:S5254" />
       <Rule active="false" key="typescript:S1110" />
       <Rule active="false" key="ruby:S1479" />
       <Rule active="false" key="typescript:S4621" />
       <Rule active="false" key="typescript:S2201" />
       <Rule active="false" key="typescript:S2681" />
+      <Rule active="false" key="typescript:S1117" />
       <Rule active="false" key="javascript:S3796" />
       <Rule active="false" key="python:S1871" />
-      <Rule active="false" key="typescript:S1117" />
-      <Rule active="false" key="kotlin:S1134" />
       <Rule active="false" key="python:S1751" />
-      <Rule active="false" key="javascript:S2583" />
-      <Rule active="false" key="python:S5439" />
+      <Rule active="false" key="kotlin:S1134" />
       <Rule active="false" key="typescript:S4623" />
-      <Rule active="false" key="kotlin:S1135" />
       <Rule active="false" key="typescript:S2688" />
+      <Rule active="false" key="kotlin:S1135" />
       <Rule active="false" key="python:InequalityUsage" />
       <Rule active="false" key="typescript:S1116" />
       <Rule active="false" key="typescript:S1479" />

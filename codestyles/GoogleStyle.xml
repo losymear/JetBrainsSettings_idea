@@ -36,6 +36,9 @@
   <MSSQLCodeStyleSettings version="5">
     <option name="USE_GENERAL_STYLE" value="false" />
   </MSSQLCodeStyleSettings>
+  <MySQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+  </MySQLCodeStyleSettings>
   <Objective-C>
     <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
     <option name="INDENT_C_STRUCT_MEMBERS" value="2" />
@@ -81,6 +84,10 @@
   <Python>
     <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
   </Python>
+  <SqlCodeStyleSettings version="5">
+    <option name="VIEW_WRAP_AS" value="true" />
+    <option name="IMP_DECLARE_ALIGN_DEFAULT" value="true" />
+  </SqlCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="INDENT_CHAINED_CALLS" value="false" />
   </TypeScriptCodeStyleSettings>

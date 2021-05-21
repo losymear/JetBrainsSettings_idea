@@ -32,6 +32,7 @@
         <package name="" withSubpackages="true" static="false" />
       </value>
     </option>
+    <option name="JD_PRESERVE_LINE_FEEDS" value="true" />
   </JavaCodeStyleSettings>
   <MSSQLCodeStyleSettings version="5">
     <option name="USE_GENERAL_STYLE" value="false" />

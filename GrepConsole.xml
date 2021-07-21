@@ -1,12 +1,5 @@
 <application>
   <component name="GrepConsole">
-    <option name="donationNagger">
-      <DonationNagger>
-        <option name="actionsExecuted" value="9" />
-        <option name="firstUsage" value="0" />
-        <option name="firstUsedVersion" value="8.5.162.000.1" />
-      </DonationNagger>
-    </option>
     <option name="profiles">
       <list>
         <Profile>
@@ -125,11 +118,6 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="action" value="REMOVE" />
-                      <option name="enabled" value="false" />
-                      <option name="grepExpression" value=".*unwanted line.*" />
-                    </GrepExpressionItem>
-                    <GrepExpressionItem>
                       <option name="action" value="REMOVE_UNLESS_PREVIOUSLY_MATCHED" />
                       <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*unwanted line.*" />
@@ -139,6 +127,11 @@
                       <option name="caseInsensitive" value="true" />
                       <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*DEBUG.*" />
+                      <option name="inputFilter" value="true" />
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="action" value="REMOVE" />
+                      <option name="grepExpression" value=".*com.alibaba.dubbo.registry.nacos.NacosRegistry.*" />
                       <option name="inputFilter" value="true" />
                     </GrepExpressionItem>
                   </list>

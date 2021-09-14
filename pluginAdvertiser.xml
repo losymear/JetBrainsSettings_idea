@@ -956,6 +956,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.lcv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="leetcode-editor" />
+              <option name="myPluginName" value="LeetCode Editor" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.less">
           <value>
             <plugin>
@@ -1865,6 +1873,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".lcv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="leetcode-editor" />
+              <option name="myPluginName" value="LeetCode Editor" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".node-version">
           <value>
             <plugin>
@@ -2395,11 +2411,6 @@
                       <FeaturePluginData displayName="Play 2 App" pluginName="org.intellij.scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
-                  <entry key="Play2FrameworkRunConfigurations">
-                    <value>
-                      <FeaturePluginData displayName="Play 2 App" pluginName="org.intellij.scala" pluginId="org.intellij.scala" />
-                    </value>
-                  </entry>
                   <entry key="QuarkusRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Quarkus" pluginName="Quarkus" pluginId="com.intellij.quarkus" />
@@ -2458,6 +2469,11 @@
                   <entry key="TSqltConfigurationType">
                     <value>
                       <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                    </value>
+                  </entry>
+                  <entry key="TailRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Tail" pluginName="Grep Console" pluginId="GrepConsole" />
                     </value>
                   </entry>
                   <entry key="TestNG">

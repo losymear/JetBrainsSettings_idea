@@ -129,12 +129,6 @@
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="inputFilter" value="true" />
                     </GrepExpressionItem>
-                    <GrepExpressionItem>
-                      <option name="action" value="REMOVE" />
-                      <option name="enabled" value="false" />
-                      <option name="grepExpression" value=".*com.alibaba.dubbo.registry.nacos.NacosRegistry.*" />
-                      <option name="inputFilter" value="true" />
-                    </GrepExpressionItem>
                   </list>
                 </option>
                 <option name="name" value="default" />

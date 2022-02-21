@@ -18,10 +18,11 @@
     <mask>*Controller.java</mask>
     <mask>*Dubb*</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*Base*</mask>
     <mask>*DTO*</mask>
     <mask>*log*</mask>
     <mask>*Impl.java</mask>
+    <mask>.*hospital.*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

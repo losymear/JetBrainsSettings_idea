@@ -12,7 +12,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.html</mask>
-    <mask>*.yml</mask>
     <mask>*Controller.java</mask>
     <mask>*Dubb*</mask>
     <mask>*Base*</mask>
@@ -22,5 +21,6 @@
     <mask>.*hospital.*</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>

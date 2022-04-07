@@ -22,5 +22,6 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.yml</mask>
+    <mask>pom*</mask>
   </component>
 </application>

@@ -20,10 +20,10 @@
     <mask>*Impl.java</mask>
     <mask>.*hospital.*</mask>
     <mask>*.java</mask>
-    <mask>*.yml</mask>
     <mask>pom*</mask>
     <mask>*xml</mask>
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>

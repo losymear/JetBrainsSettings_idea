@@ -23,7 +23,6 @@
     <mask>.*hospital.*</mask>
     <mask>*.java</mask>
     <mask>pom*</mask>
-    <mask>*xml</mask>
     <mask>pom.xml</mask>
     <mask>*.yml</mask>
     <mask>*.sql</mask>
@@ -31,5 +30,6 @@
     <mask>*.xml</mask>
     <mask>*.puml</mask>
     <mask>*do.java</mask>
+    <mask>*xml</mask>
   </component>
 </application>

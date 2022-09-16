@@ -21,6 +21,7 @@
     <keyboard-shortcut first-keystroke="shift meta alt l" />
     <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
+  <action id="SonarLint.AnalyzeFiles" />
   <action id="UsageGrouping.UsageType" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />

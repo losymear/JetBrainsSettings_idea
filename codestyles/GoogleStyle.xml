@@ -7,6 +7,7 @@
     </value>
   </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="ENABLE_SECOND_REFORMAT" value="true" />
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
     <option name="LAYOUT_SETTINGS">
@@ -33,10 +34,10 @@
     </option>
     <option name="JD_PRESERVE_LINE_FEEDS" value="true" />
   </JavaCodeStyleSettings>
-  <MSSQLCodeStyleSettings version="5">
+  <MSSQLCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
   </MSSQLCodeStyleSettings>
-  <MySQLCodeStyleSettings version="5">
+  <MySQLCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
   </MySQLCodeStyleSettings>
   <Objective-C>
@@ -84,7 +85,7 @@
   <Python>
     <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
   </Python>
-  <SqlCodeStyleSettings version="5">
+  <SqlCodeStyleSettings version="6">
     <option name="VIEW_WRAP_AS" value="true" />
     <option name="IMP_DECLARE_ALIGN_DEFAULT" value="true" />
   </SqlCodeStyleSettings>
@@ -95,7 +96,6 @@
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
     <option name="XML_KEEP_WHITE_SPACES_INSIDE_CDATA" value="true" />
     <option name="XML_WHITE_SPACE_AROUND_CDATA" value="1" />
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="CSS">
     <indentOptions>
@@ -568,9 +568,7 @@
   <codeStyleSettings language="protobuf">
     <option name="RIGHT_MARGIN" value="80" />
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>

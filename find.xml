@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*xml" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -27,13 +28,13 @@
     <mask>*mapper*</mask>
     <mask>applica*</mask>
     <mask>*java</mask>
-    <mask>*yaml</mask>
     <mask>*yml</mask>
-    <mask>*xml</mask>
     <mask>*Contr*</mask>
     <mask>pom*</mask>
     <mask>enum*</mask>
     <mask>*Enum*</mask>
     <mask>*Java</mask>
+    <mask>*yaml</mask>
+    <mask>*xml</mask>
   </component>
 </application>

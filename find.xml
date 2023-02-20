@@ -26,7 +26,6 @@
     <mask>*mapper*</mask>
     <mask>applica*</mask>
     <mask>*java</mask>
-    <mask>*yml</mask>
     <mask>*Contr*</mask>
     <mask>pom*</mask>
     <mask>enum*</mask>
@@ -35,5 +34,6 @@
     <mask>*yaml</mask>
     <mask>*xml</mask>
     <mask>*sql</mask>
+    <mask>*yml</mask>
   </component>
 </application>

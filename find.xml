@@ -31,9 +31,9 @@
     <mask>*yaml</mask>
     <mask>*sql</mask>
     <mask>*yml</mask>
-    <mask>*xml</mask>
     <mask>*Controller.java</mask>
     <mask>*mapper.java</mask>
     <mask>*controller.java</mask>
+    <mask>*xml</mask>
   </component>
 </application>

@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*xml" />
     <mask>*Base*</mask>
     <mask>*DTO*</mask>
     <mask>*log*</mask>
@@ -29,11 +30,11 @@
     <mask>*Controller.java</mask>
     <mask>*mapper.java</mask>
     <mask>*controller.java</mask>
-    <mask>*xml</mask>
     <mask>*java</mask>
     <mask>*pom*</mask>
     <mask>*do</mask>
     <mask>*do.java</mask>
     <mask>*yaml</mask>
+    <mask>*xml</mask>
   </component>
 </application>

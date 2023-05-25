@@ -28,12 +28,12 @@
     <mask>*Controller.java</mask>
     <mask>*mapper.java</mask>
     <mask>*controller.java</mask>
-    <mask>*java</mask>
     <mask>*pom*</mask>
     <mask>*do</mask>
     <mask>*do.java</mask>
     <mask>*yaml</mask>
     <mask>*xml</mask>
     <mask>pom*</mask>
+    <mask>*java</mask>
   </component>
 </application>

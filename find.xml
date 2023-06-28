@@ -25,7 +25,6 @@
     <mask>*Controller.java</mask>
     <mask>*mapper.java</mask>
     <mask>*controller.java</mask>
-    <mask>*pom*</mask>
     <mask>*do</mask>
     <mask>*do.java</mask>
     <mask>*yaml</mask>
@@ -35,5 +34,6 @@
     <mask>*App*java</mask>
     <mask>*enum*</mask>
     <mask>*sky*</mask>
+    <mask>*pom*</mask>
   </component>
 </application>

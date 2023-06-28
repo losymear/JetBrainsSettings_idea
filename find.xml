@@ -5,7 +5,6 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Impl.java</mask>
     <mask>.*hospital.*</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
@@ -35,5 +34,6 @@
     <mask>*enum*</mask>
     <mask>*sky*</mask>
     <mask>*pom*</mask>
+    <mask>*Convert*</mask>
   </component>
 </application>

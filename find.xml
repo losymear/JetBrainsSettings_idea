@@ -26,7 +26,6 @@
     <mask>*Test.java</mask>
     <mask>*Enum*</mask>
     <mask>*Service*</mask>
-    <mask>*xml</mask>
     <mask>*contr*</mask>
     <mask>*Ylj*</mask>
     <mask>*sche*</mask>
@@ -35,5 +34,6 @@
     <mask>*Re*</mask>
     <mask>*sql</mask>
     <mask>*java</mask>
+    <mask>*xml</mask>
   </component>
 </application>

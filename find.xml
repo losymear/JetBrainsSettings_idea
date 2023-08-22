@@ -6,7 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>applica*</mask>
-    <mask>*Contr*</mask>
     <mask>enum*</mask>
     <mask>*yml</mask>
     <mask>*Controller.java</mask>
@@ -35,5 +34,6 @@
     <mask>*xml</mask>
     <mask>*DTO.java</mask>
     <mask>*mapper*</mask>
+    <mask>*Contr*</mask>
   </component>
 </application>

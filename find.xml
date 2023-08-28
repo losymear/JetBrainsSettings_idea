@@ -27,7 +27,6 @@
     <mask>*Java</mask>
     <mask>*Con*</mask>
     <mask>*Re*</mask>
-    <mask>*sql</mask>
     <mask>*java</mask>
     <mask>*DTO.java</mask>
     <mask>*mapper*</mask>
@@ -35,5 +34,6 @@
     <mask>*Contro*</mask>
     <mask>*xml</mask>
     <mask>*service.java</mask>
+    <mask>*sql</mask>
   </component>
 </application>

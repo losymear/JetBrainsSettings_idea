@@ -31,9 +31,9 @@
     <mask>*Service.java</mask>
     <mask>*mapper.ja</mask>
     <mask>*mapper.j</mask>
-    <mask>*controller*</mask>
     <mask>*do.java</mask>
     <mask>*xml</mask>
     <mask>*controller</mask>
+    <mask>*controller*</mask>
   </component>
 </application>

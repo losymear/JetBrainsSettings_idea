@@ -5,8 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Test.java</mask>
-    <mask>*Enum*</mask>
+    <option name="FILE_MASK" value="*xml" />
     <mask>*Service*</mask>
     <mask>*Ylj*</mask>
     <mask>*sche*</mask>
@@ -25,7 +24,6 @@
     <mask>*mapper.ja</mask>
     <mask>*mapper.j</mask>
     <mask>*do.java</mask>
-    <mask>*xml</mask>
     <mask>*controller</mask>
     <mask>*security*</mask>
     <mask>*controll*</mask>
@@ -35,5 +33,8 @@
     <mask>*xml*</mask>
     <mask>application-t*</mask>
     <mask>*controller*</mask>
+    <mask>*contro*</mask>
+    <mask>*mapper.java</mask>
+    <mask>*xml</mask>
   </component>
 </application>

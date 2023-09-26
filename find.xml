@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*xml" />
+    <option name="FILE_MASK" value="*contro*" />
     <mask>*Service*</mask>
     <mask>*Ylj*</mask>
     <mask>*sche*</mask>
@@ -33,8 +33,8 @@
     <mask>*xml*</mask>
     <mask>application-t*</mask>
     <mask>*controller*</mask>
-    <mask>*contro*</mask>
     <mask>*mapper.java</mask>
     <mask>*xml</mask>
+    <mask>*contro*</mask>
   </component>
 </application>

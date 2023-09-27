@@ -20,7 +20,6 @@
     <mask>*Service.java</mask>
     <mask>*mapper.ja</mask>
     <mask>*mapper.j</mask>
-    <mask>*do.java</mask>
     <mask>*controller</mask>
     <mask>*security*</mask>
     <mask>*controll*</mask>
@@ -35,5 +34,6 @@
     <mask>*contro*</mask>
     <mask>*pkg*</mask>
     <mask>*sche*</mask>
+    <mask>*do.java</mask>
   </component>
 </application>

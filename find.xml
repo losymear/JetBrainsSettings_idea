@@ -24,7 +24,6 @@
     <mask>*controll*</mask>
     <mask>*Ana*</mask>
     <mask>*yaml</mask>
-    <mask>*contr*</mask>
     <mask>*xml*</mask>
     <mask>application-t*</mask>
     <mask>*controller*</mask>
@@ -35,5 +34,6 @@
     <mask>*sche*</mask>
     <mask>*do.java</mask>
     <mask>*sql</mask>
+    <mask>*contr*</mask>
   </component>
 </application>

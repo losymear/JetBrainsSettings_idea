@@ -15,7 +15,6 @@
     <mask>*Contr*</mask>
     <mask>*Contro*</mask>
     <mask>*service.java</mask>
-    <mask>*sql</mask>
     <mask>*yml</mask>
     <mask>*Service.java</mask>
     <mask>*mapper.ja</mask>
@@ -35,5 +34,6 @@
     <mask>*pkg*</mask>
     <mask>*sche*</mask>
     <mask>*do.java</mask>
+    <mask>*sql</mask>
   </component>
 </application>

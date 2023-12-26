@@ -5,13 +5,13 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*xml" />
     <mask>*Re*</mask>
     <mask>*DTO.java</mask>
     <mask>*mapper*</mask>
     <mask>*Contr*</mask>
     <mask>*Contro*</mask>
     <mask>*service.java</mask>
-    <mask>*yml</mask>
     <mask>*Service.java</mask>
     <mask>*mapper.ja</mask>
     <mask>*mapper.j</mask>
@@ -19,7 +19,6 @@
     <mask>*security*</mask>
     <mask>*controll*</mask>
     <mask>*Ana*</mask>
-    <mask>*yaml</mask>
     <mask>*xml*</mask>
     <mask>application-t*</mask>
     <mask>*mapper.java</mask>
@@ -33,7 +32,9 @@
     <mask>*controller.java</mask>
     <mask>*java</mask>
     <mask>pom*</mask>
-    <mask>*xml</mask>
     <mask>*controller*</mask>
+    <mask>*yaml</mask>
+    <mask>*yml</mask>
+    <mask>*xml</mask>
   </component>
 </application>

@@ -1,11 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Re*</mask>
+    <option name="FILE_MASK" value="*Ret*" />
     <mask>*DTO.java</mask>
     <mask>*mapper*</mask>
     <mask>*Contr*</mask>
@@ -35,5 +37,6 @@
     <mask>*yaml</mask>
     <mask>*xml</mask>
     <mask>*yml</mask>
+    <mask>*Ret*</mask>
   </component>
 </application>

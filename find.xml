@@ -20,7 +20,6 @@
     <mask>*pkg*</mask>
     <mask>*sche*</mask>
     <mask>*do.java</mask>
-    <mask>*sql</mask>
     <mask>*contr*</mask>
     <mask>*do*</mask>
     <mask>*controller.java</mask>
@@ -35,5 +34,6 @@
     <mask>*Contr*</mask>
     <mask>*java</mask>
     <mask>*Exam*</mask>
+    <mask>*sql</mask>
   </component>
 </application>

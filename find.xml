@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*mapper.ja</mask>
+    <option name="FILE_MASK" value="*puml" />
     <mask>*mapper.j</mask>
     <mask>*controller</mask>
     <mask>*security*</mask>
@@ -35,5 +35,6 @@
     <mask>*de*</mask>
     <mask>*sql</mask>
     <mask>*Ma*</mask>
+    <mask>*puml</mask>
   </component>
 </application>

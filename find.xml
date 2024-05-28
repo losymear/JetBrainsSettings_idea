@@ -26,7 +26,6 @@
     <mask>*yml</mask>
     <mask>*Controller.java</mask>
     <mask>*pom*</mask>
-    <mask>*xml</mask>
     <mask>*Contr*</mask>
     <mask>*Exam*</mask>
     <mask>*de*</mask>
@@ -35,5 +34,6 @@
     <mask>*mapper*</mask>
     <mask>*sql</mask>
     <mask>*java</mask>
+    <mask>*xml</mask>
   </component>
 </application>

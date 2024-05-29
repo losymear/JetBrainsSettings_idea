@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Go/Invert if" />
+    <ignoreAction name="Groovy/Control flow/Merge else if" />
   </component>
 </application>
